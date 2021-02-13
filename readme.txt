@@ -1,0 +1,2 @@
+- 2/12/20 - Review Twelve Apostle
+	- Add pandoc config
