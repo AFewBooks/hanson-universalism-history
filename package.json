@@ -1,0 +1,22 @@
+{
+  "name": "hanson-universalism-history",
+  "version": "1.0.0",
+  "description": "- 2/12/20 - Review Twelve Apostle\r \t- Add pandoc config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AFewBooks/hanson-universalism-history.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AFewBooks/hanson-universalism-history/issues"
+  },
+  "homepage": "https://github.com/AFewBooks/hanson-universalism-history#readme",
+  "dependencies": {
+    "husky": "^7.0.4"
+  }
+}
