@@ -1,2 +1,3 @@
+- 10/23/22 - Review Apostle's Creed
 - 2/12/20 - Review Twelve Apostle
 	- Add pandoc config
