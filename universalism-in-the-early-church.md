@@ -2616,37 +2616,39 @@ who have kept his commandments, and have persevered in his love, some
 from the beginning, and others from their repentance, and may surround
 them with everlasting glory.\"
 
-The reader must not forget that the use of the phrase, aionion fire,
-does not give any color to the idea that lrenaeus taught endless
-punishment, for Origen, Clement, Gregory Nyssen, and other Universalists
-conveyed their ideas of punishment by the use of the same terms, and
-held that salvation is beyond, and even by means of the aionion fire and
-punishment.
+The reader must not forget that the use of the phrase, *aionion* fire,
+does not give any color to the idea that **Irenaeus** taught endless
+punishment, for **Origen**, **Clement**, **Gregory Nyssen**, and other
+Universalists conveyed their ideas of punishment by the use of the same
+terms, and held that salvation is beyond, and even by means of the
+*aionion* fire and punishment.
 
-Schaff admits that the opinions of Irenaeus are doubtful from his[^169]
-orthodox standpoint and says:[^170] \"In the fourth Pfaffian fragment
-ascribed to him (Stieren I, 889) he says that 'Christ will come at the
-end of time to destroy all evil ---[^171]--- and to reconcile all things
----[^172] from Col. 1:20 --- that there may be an end of all impurity.'
-This passage, like I Cor. 15:28, and Col. 1:20, looks toward universal
-restoration rather than annihilation,\" but good, orthodox Dr. Schaff
-admits that it, like the Pauline passages, allows an interpretation
-consistent with eternal punishment.[^173] Dr. Beecher writes that
-Irenaeus \"taught a final restitution of all things to unity and order
-by the annihilation of all the finally impenitent...The inference from
-this is plain. He did not understand *aionios* in the sense of eternal;
-but in the sense claimed by Prof. Lewis, that is, 'pertaining to the
-world to come,'\" not endless. Irenaeus thought \"that man should not
-last forever as a sinner and that the sin which was in him might not be
-immortal and infinite and incurable.\"
+**Schaff** admits that the opinions of **Irenaeus** are doubtful from
+his[^169] orthodox standpoint and says:[^170] \"In the fourth Pfaffian
+fragment ascribed to him (Stieren I, 889) he says that 'Christ will come
+at the end of time to destroy all evil ---[^171]--- and to reconcile all
+things ---[^172] from Col. 1:20 --- that there may be an end of all
+impurity.' This passage, like 1 Cor. 15:28, and Col. 1:20, looks toward
+universal restoration rather than annihilation,\" but good, orthodox Dr.
+**Schaff** admits that it, like the Pauline passages, allows an
+interpretation consistent with eternal punishment.[^173]
 
-Says Bunsen: "The eternal decree of redemption, is, to Irenaeus,
+Dr. **Beecher** writes that **Irenaeus** \"taught a final restitution of
+all things to unity and order by the annihilation of all the finally
+impenitent...The inference from this is plain. He did not understand
+*aionios* in the sense of eternal; but in the sense claimed by Prof.
+**Lewis**, that is, 'pertaining to the world to come,'\" not endless.
+**Irenaeus** thought \"that man should not last forever as a sinner and
+that the sin which was in him might not be immortal and infinite and
+incurable.\"
+
+Says **Bunsen**: "The eternal decree of redemption, is, to Irenaeus,
 throughout, an act of God\'s love. The atonement, is, according to him,
 a satisfaction paid, not to God, but to the Devil, under whose power the
 human mind and body were lying. But the Devil himself only serves God\'s
 purpose, for nothing can resist to the last, the Almighty power of
 divine love, which works not by constraint (the Devil\'s way), but by
-persuasion.\"[^174] The different statements of Irenaeus are hard to
+persuasion.\"[^174] The different statements of **Irenaeus** are hard to
 reconcile with each other, but a fair inference from his language seems
 to be that he hovered between the doctrines of annihilation and endless
 punishment, and yet leaned not a little hopefully to that of
@@ -2664,33 +2666,34 @@ endlessness were not used \"pedagogically,\" to deter sinners from sin.
 
 ## Quadratus.
 
-Quadratus, AD 131, addressed an Apology to the Emperor Adrian, a
+**Quadratus**, 131 AD, addressed an Apology to the Emperor Adrian, a
 fragment of which survives, but there is no word in it relating to the
 final condition of mankind.
 
 ## Pseudo-Clementine Homilies.
 
-The Clementine Homilies, once thought to have been written by Clement of
-Rome, but properly entitled by Baur \"Pseudo Clementine,\" the work of
-some Gnostic Christian --- teach the final triumph of good. One passage
-speaks of the destruction of the wicked by the punishment of fire,
-\"punished with aionion fire,\" but this is more than canceled by other
-passages in which it is clearly taught that the Devil is but a temporal
-evil, a servant of good, and agent of God, who, with all his evil works,
-are finally to be transformed into good. On the one hand, the Devil is
-not properly an evil, but a God-serving being; on the other, there is a
-final transformation of the Devil, of the evil into good. The sentiments
-of the Homilies seem, however, somewhat contradictory.
+The Clementine Homilies, once thought to have been written by **Clement
+of Rome**, but properly entitled by **Baur** \"Pseudo Clementine,\" the
+work of some Gnostic Christian --- teach the final triumph of good. One
+passage speaks of the destruction of the wicked by the punishment of
+fire, \"punished with *aionion* fire,\" but this is more than canceled
+by other passages in which it is clearly taught that the Devil is but a
+temporal evil, a servant of good, and agent of God, who, with all his
+evil works, are finally to be transformed into good. On the one hand,
+the Devil is not properly an evil, but a God-serving being; on the
+other, there is a final transformation of the Devil, of the evil into
+good. The sentiments of the Homilies seem, however, somewhat
+contradictory.
 
 It is an important consideration not always realized, when studying the
 opinions that prevailed in the primitive church, that the earliest
-copies of the Gospels were not in existence until AD 60; that the first
-Epistle written by Paul --- 1 Thessalonians --- was not written till AD
-52; that the New Testament canon was not completed until AD 170; that
+copies of the Gospels were not in existence until 60 AD; that the first
+Epistle written by Paul --- 1 Thessalonians --- was not written till 52
+AD; that the New Testament canon was not completed until 170 AD; that
 for a long time the only Christian Bible was the Old Testament;[^175]
-that the account of the judgment in Matt. 25 is never referred to in the
-writings of the apostolic fathers, who probably never saw or heard of it
-till towards the end of the Second Century; and, therefore, when
+that the account of the judgment in Matthew 25 is never referred to in
+the writings of the apostolic fathers, who probably never saw or heard
+of it till towards the end of the Second Century; and, therefore, when
 considering the opinions of the fathers for at least a century and a
 half, we must in all cases interpret them by the Old Testament, which
 scholars of all churches concede does not reveal the doctrine of endless
@@ -2699,24 +2702,25 @@ copy of the Gospels.
 
 ## Athenagoras.
 
-Athenagoras wrote an \"Apology,\" about AD 178, and a \"Treatise on the
-Resurrection.\" He was a scholar and a philosopher, and made great
+**Athenagoras** wrote an \"Apology,\" about 178 AD, and a \"Treatise on
+the Resurrection.\" He was a scholar and a philosopher, and made great
 efforts to convert the heathen to Christianity. He declared that there
 shall be a judgment, the award of which shall be distributed according
 to conduct; but he nowhere refers to the duration of punishment. He was,
 however, the head of the Catechetical school in Alexandria, before
-Pantaenus, and must have shared the Universalist views of Pantaenus,
-Clement and Origen, his successors.
+**Pantaenus**, and must have shared the Universalist views of
+**Pantaenus**, **Clement** and **Origen**, his successors.
 
 ## Theophilus.
 
-Theophilus (AD 180). This author has left a \"Treatise\" in behalf of
-Christianity, addressed to Autolycus, a learned heathen. He uses current
-language on the subject of punishment, but says: \"Just as a vessel,
-which, after it has been made, has some flaw, is remade or remodeled,
-that it may become new and right, so it comes to man by death. For, in
-some way or other he is broken up, that he may come forth in the
-resurrection whole, I mean spotless, and righteous, and immortal.\"
+**Theophilus** (180 AD). This author has left a \"Treatise\" on behalf
+of Christianity, addressed to Autolycus, a learned heathen. He uses
+current language on the subject of punishment, but says: \"Just as a
+vessel, which, after it has been made, has some flaw, is remade or
+remodeled, that it may become new and right, so it comes to man by
+death. For, in some way or other he is broken up, that he may come forth
+in the resurrection whole, I mean spotless, and righteous, and
+immortal.\"
 
 ## Conclusion.
 
@@ -2731,23 +2735,23 @@ distinctly on human destiny.
 # 7. Three Gnostic Sects. 
 
 Three Gnostic sects flourished nearly simultaneously in the Second
-Century, all which accepted universal salvation: the Basilidians, the
+Century, all of which accepted universal salvation: the Basilidians, the
 Valentinians, and the Carpocratians.
 
 ## Basilidians.
 
-The Basilidians were followers of Basilides, who lived about AD 117-138.
-He was a Gnostic Christian and an Egyptian philosopher. He wrote an
+The Basilidians were followers of **Basilides**, who lived about 117-138
+AD. He was a Gnostic Christian and an Egyptian philosopher. He wrote an
 alleged Gospel --- exegetical rather than historical --- no trace of
 which remains. As some of his theories did not agree with those
 generally advocated by Christians, he and his followers were regarded as
 heretics and their writings were destroyed, though no evidence exists to
 show that their view of human destiny was obnoxious. Greek philosophy
 and Christian faith are mingled in the eclecticism of the Basilidians.
-Basilides taught that man\'s universal redemption will result from the
-birth and death of Christ. According to the \"Dictionary of Christian
-Biography,\"[^176] Hippolytus gives an exposition of this mystic
-Christian sect. Basilides himself was a sincere Christian, and \"the
+**Basilides** taught that man\'s universal redemption will result from
+the birth and death of Christ. According to the *Dictionary of Christian
+Biography*,[^176] **Hippolytus** gives an exposition of this mystic
+Christian sect. **Basilides** himself was a sincere Christian, and \"the
 first Gnostic teacher who has left an individual, personal stamp upon
 the age.\"[^177] He accepted the entire Gospel narrative, and taught
 that the wicked will be condemned to migrate into the bodies of men or
@@ -2764,55 +2768,55 @@ and nature are represented as struggling upwards. \"The restoration of
 all things that in the beginning were established in the seed of the
 universe shall be restored in their own season.\"
 
-Irenaeus charges the Basilidians with immorality, but Clement, who knew
-them better, denies it, and defends them.[^178]
+**Irenaeus** charges the Basilidians with immorality, but **Clement**,
+who knew them better, denies it, and defends them.[^178]
 
 ## Carpocratians.
 
-The Carpocratians were followers of Carpocrates, a Platonic philosopher,
-who incorporated some of the elements of the Christian religion into his
-system of philosophy. The sect flourished in Egypt and vicinity early in
-the Second Century. Like the Basilidians they called themselves
-Gnostics, and inculcated a somewhat similar set of theories. Irenaeus
-says that the Carpocratians explained the text: \"Thou shalt not go out
-thence until thou hast paid the uttermost farthing,\" as teaching "that
-no one can escape from the power of those angels who made the world, but
-that he must pass from body to body until he has experience of every
-kind of action which can be practiced in this world, and when nothing is
-wanting longer to him, then his liberated soul should soar upwards to
-that God who is above the angels, the makers of the world. In this way
-all souls are saved,\" etc. But while Irenaeus calls the Carpocratians a
-heretical sect, and denounces some of their tenets, he had no hard words
-for their doctrine of man\'s final destiny.
+The Carpocratians were followers of **Carpocrates**, a Platonic
+philosopher, who incorporated some of the elements of the Christian
+religion into his system of philosophy. The sect flourished in Egypt and
+the vicinity early in the Second Century. Like the Basilidians they
+called themselves Gnostics and inculcated a somewhat similar set of
+theories. **Irenaeus** says that the Carpocratians explained the text:
+\"Thou shalt not go out thence until thou hast paid the uttermost
+farthing,\" as teaching "that no one can escape from the power of those
+angels who made the world, but that he must pass from body to body until
+he has experience of every kind of action which can be practiced in this
+world, and when nothing is wanting longer to him, then his liberated
+soul should soar upwards to that God who is above the angels, the makers
+of the world. In this way all souls are saved,\" etc. But while Irenaeus
+calls the Carpocratians a heretical sect, and denounces some of their
+tenets, he had no hard words for their doctrine of man\'s final destiny.
 
 ## Valentinians.
 
-The Valentinians (AD 130) taught that all souls will be finally admitted
+The Valentinians (130 AD) taught that all souls will be finally admitted
 to the realms of bliss. They denied the resurrection of the body. Their
-doctrines were widely dissemiated in Asia, Africa and Europe, after the
-death of their Egyptian founder, Valentine. They resembled the teachings
-of Basilides in efforts to solve the problem of human destiny
-philosophically. Valentine flourished in Rome from AD 129 to 132. A
-devout Christian, and a man of the highest genius, he was never accused
-of anything worse than heresy. He was \"a pioneer in Christian
-theology.\" His was an attempt to show, in dramatic form, how "the work
-of universal redemption is going on to the ever-increasing glory of the
-ineffable and unfathomable Father, and the ever-increasing blessedness
-of souls.\" There was a germ of truth in the hybrid Christian theogony
-and Hellenic philosophizing that made up Valentinianism. It was a
-struggle after the only view of human destiny that can satisfy the human
-heart.
+doctrines were widely disseminated in Asia, Africa and Europe, after the
+death of their Egyptian founder, **Valentine**. They resembled the
+teachings of **Basilides** in efforts to solve the problem of human
+destiny philosophically. **Valentine** flourished in Rome from 129 to
+132 AD. A devout Christian, and a man of the highest genius, he was
+never accused of anything worse than heresy. He was \"a pioneer in
+Christian theology.\" His was an attempt to show, in dramatic form, how
+"the work of universal redemption is going on to the ever-increasing
+glory of the ineffable and unfathomable Father, and the ever-increasing
+blessedness of souls.\" There was a germ of truth in the hybrid
+Christian theogony and Hellenic philosophizing that made up
+Valentinianism. It was a struggle after the only view of human destiny
+that can satisfy the human heart.
 
 ## Conclusions.
 
 These three sects were bitterly opposed by the "orthodox" fathers in
-some of their tenets, bnt their Universalism was never condemned.
+some of their tenets, but their Universalism was never condemned.
 
 It would be interesting to give an exposition of the Gnosticism that for
 some of the earlier centuries agitated the Christian Church; it will
 suffice for our purpose here to say that its manifold phases were
 attempts to reach satisfactory conclusions on the great subjects of
-man\'s relations to his Maker, to his fellow-men, to himself, and to the
+man\'s relations to his Maker, to his fellowmen, to himself, and to the
 universe --- to solve the problems of time and eternity. The Gnostic
 philosophies in the church show the results of blending the Oriental,
 the Jewish, and the Platonic philosophies with the new religion.
@@ -2821,54 +2825,58 @@ Gnosticism was an effort to explain the new revelation philosophically.
 But there were Gnostics and Gnostics. Some of the Christian Fathers used
 the term reproachfully, and others appropriated it as one of honor.
 Gnosis, knowledge, philosophy applied to religion, was deemed
-all-important by Clement, Origen, and the most prominent of the Fathers.
-Mere Gnostics were only Pagan philosophers, but Christian Gnostics were
-those who accepted Christ as the author of a new and divine revelation,
-and interpreted it by those principles that had long antedated the
-religion of Jesus.[^180] "The Gnostics were the first regular
-commentators on the New Testament...The Gnostics were also the first
-practitioners of the higher criticism...It (Gnosticism) may be regarded
-as a half-way house, through which many Pagans, like Ambrosius or St.
-Augustine, found their way into the church."[^181]The Valentinians,
-Basilidians, Carpocratians, Manichaeans, Marcionites and others were
-Christian Gnostics; but Clement, Origen and the great Alexandrians and
-their associates were Gnostic Christians. In fact, the Gnostic theories
-sought a solution of the problem of evil; to answer the question, \"Can
-the world as we know it have been made by God?\" \"Cease,\" says
-Basilides,[^182] \" from idle and curious variety, and let us rather
-discuss the opinions which even barbarians have held on the subject of
-good and evil...I will say anything rather than admit Providence is
-wicked.\" Valentinus declared, "I dare not affirm that God is the author
-of all this." Tertullian says that Marcion, like many men of our time,
-and especially the heretics, \"is bewildered by the question of evil.\"
-The generally accepted Gnostic view was that while the good would at
-death ascend to dwell with the Father, the wicked would pass through
-transformations until purified.
+all-important by **Clement**, **Origen**, and the most prominent of the
+Fathers. Mere Gnostics were only Pagan philosophers, but Christian
+Gnostics were those who accepted Christ as the author of a new and
+divine revelation, and interpreted it by those principles that had long
+antedated the religion of Jesus.[^180] "The Gnostics were the first
+regular commentators on the New Testament...The Gnostics were also the
+first practitioners of the higher criticism...It (Gnosticism) may be
+regarded as a half-way house, through which many Pagans, like Ambrosius
+or St. Augustine, found their way into the church."[^181] The
+Valentinians, Basilidians, Carpocratians, Manichaeans, Marcionites and
+others were Christian Gnostics; but **Clement**, **Origen** and the
+great Alexandrians and their associates were Gnostic Christians. In
+fact, the Gnostic theories sought a solution of the problem of evil; to
+answer the question, \"Can the world as we know it have been made by
+God?\" \"Cease,\" says **Basilides**,[^182] \" from idle and curious
+variety, and let us rather discuss the opinions which even barbarians
+have held on the subject of good and evil...I will say anything rather
+than admit Providence is wicked.\" **Valentinus** declared, "I dare not
+affirm that God is the author of all this." **Tertullian** says that
+**Marcion**, like many men of our time, and especially the heretics,
+\"is bewildered by the question of evil.\" The generally accepted
+Gnostic view was that while the good would at death ascend to dwell with
+the Father, the wicked would pass through transformations until
+purified.
 
-Says Prof. Allen: "Gnosticism is a genuine and legitimate outgrowth of
-the same general movement of thought that shaped the Christian dogma.
+Says Prof. **Allen**: "Gnosticism is a genuine and legitimate outgrowth
+of the same general movement of thought that shaped the Christian dogma.
 Quite evidently it regarded itself as the true interpreter of the
-Gospel." Baur quotes a German writer as giving a full exposition of one
-of the latest attempts "to bring back Gnosticism to a greater harmony
-with the spirit of Christianity." Briefly, sophia (wisdom), as the type
-of mankind, falls, rises, and is united to the eternal Good. Baur says
+Gospel."
+
+**Baur** quotes a German writer as giving a full exposition of one of
+the latest attempts "to bring back Gnosticism to a greater harmony with
+the spirit of Christianity." Briefly, *sophia* (wisdom), as the type of
+mankind, falls, rises, and is united to the eternal Good. **Baur** says
 that Gnosticism declares that \"either through conversion and amendment,
 or through utter annihilation, evil is to disappear, and the final goal
 of the whole world process is to be reached, viz., the purification of
-the universe from all that is unworthy and perverted.\" Harnack says
-that Gnosticism "aimed at the winning of a world-religion. The Gnostics
-were the theologians of the First Century; they were the first to
-transform Christianity into a system of doctrines (dogmas). They
-essayed...to conquer Christianity for Hellenic culture and Hellenic
-culture for Christianity."[^183]
+the universe from all that is unworthy and perverted.\"
+
+**Harnack** says that Gnosticism "aimed at the winning of a
+world-religion. The Gnostics were the theologians of the First Century;
+they were the first to transform Christianity into a system of doctrines
+(dogmas). They essayed...to conquer Christianity for Hellenic culture
+and Hellenic culture for Christianity."[^183]
 
 Differing from the so-called \"orthodox\" Christians on many points, the
 three great Gnostic sects of the Second Century were in full agreement
-with Clement and Origen and the Alexandrine school, and probably with
-the great majority of Christians, in their views of human destiny. They
-taught the ultimate holiness and happiness of the human family, and it
-is noteworthy that though the Gnostics advocated the final salvation of
-all souls, and though the orthodox fathers savagely attacked them on
+with **Clement** and **Origen** and the Alexandrine school, and probably
+with the great majority of Christians, in their views of human destiny.
+They taught the ultimate holiness and happiness of the human family, and
+it is noteworthy that though the Gnostics advocated the final salvation
+of all souls, and though the orthodox fathers savagely attacked them on
 many points, they never reckoned their Universalism as a fault. This
 doctrine was not obnoxious to either orthodox or heterodox in the early
 centuries.
