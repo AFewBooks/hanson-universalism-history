@@ -1911,90 +1911,110 @@ patristic writers who seem to teach endless punishment did not believe
 it. Others, we know, who accepted universal restoration employed, for
 the sake of deterring sinners, threats that are inconsistent, literally
 interpreted, with that doctrine. This disposition to conceal the truth
-has actuated many a modem theologian. In Sermon XXXV, on the eternity of
-hell torments Archbishop Tillotson, while he argues for the endless
+has actuated many a modem theologian. In Sermon 35, on the eternity of
+hell torments Archbishop **Tillotson**, while he argues for the endless
 duration of punishment, suggests that the Judge has the right to omit
 inflicting it if he shall see it inconsistent with righteousness or
-goodness to make sinners miserable forever, and Burnet urges: \"Whatever
-your opinion is within yourself, and in your breast, concerning these
-punishments, whether they are eternal or not, yet always with the
-people, and when you preach to the people, use the received doctrine and
-the received words in the sense in which the people receive them.\" It
-is certainly allowable to think that many an ancient timid teacher
-discovered the truth without daring to entrust it to the mass of
-mankind.
+goodness to make sinners miserable forever, and **Burnet** urges:
+\"Whatever your opinion is within yourself, and in your breast,
+concerning these punishments, whether they are eternal or not, yet
+always with the people, and when you preach to the people, use the
+received doctrine and the received words in the sense in which the
+people receive them.\" It is certainly allowable to think that many an
+ancient timid teacher discovered the truth without daring to entrust it
+to the mass of mankind.
 
-Theophilus of Alexandria proposed making Synesius of Cyrene, bishop. The
-latter said: \"The philosophic intelligence, in short, while it beholds
-the truth, admits the necessity of lying. Light corresponds to truth,
-but the eye is dull of vision; it cannot without injury gaze on the
-infinite light. As twilight is more comfortable for the eye, so, I hold,
-is falsehood for the common run of people. The truth can only be harmful
-for those who are unable to gaze on the reality. If the laws of the
-priesthood permit me to hold this position, then I can accept
+**Theophilus of Alexandria** proposed making **Synesius of Cyrene**,
+bishop. The latter said: \"The philosophic intelligence, in short, while
+it beholds the truth, admits the necessity of lying. Light corresponds
+to truth, but the eye is dull of vision; it cannot without injury gaze
+on the infinite light. As twilight is more comfortable for the eye, so,
+I hold, is falsehood for the common run of people. The truth can only be
+harmful for those who are unable to gaze on the reality. If the laws of
+the priesthood permit me to hold this position, then I can accept
 consecration, keeping my philosophy to myself at home, and preaching
 fables out of doors.\"[^139]
 
 # 5. Two Kindred Topics.
 
 The early Christian church almost, if not quite, universally believed
-that Christ made proclamation of the Gospel to the dead in Hades. Says
-Huidekoper; \"In the Second and Third Centuries every branch and
-division of Christians believed that Christ preached to the
-departed.\"[^140] Dietelmaier declares[^141] this doctrine was believed
-by all Christians. Of course, if souls were placed where their doom was
-irretrievable salvation would not be offered to them; whence it follows
-that the early Christians believed in post-mortem probation. Allin says
-that \"some writers teach that the apostles also preached in Hades. Some
-say that the Blessed Virgin did the same. Some even say that Simeon went
-before Christ to Hades.\" All these testimonies go to show that the
-earliest of the fathers did not regard the grave as the deadline which
-the love of God could not cross, but that the door of mercy is open
-hereafter as here. \"The Platonic doctrine of a separate state, where
-the spirits of the departed are purified, and on which the later
-doctrine of purgatory was founded, was approved by all the expositors of
-Christianity who were of the Alexandrian school, as was the custom of
-performing religious services at the tombs of the dead. Nor was there
-much difference between them and Tertullian in these particulars.\"
+that Christ made proclamation of the Gospel to the dead in Hades.
 
-In the early ages of the church great stress was laid on 1 Pet. 3:19:
+Says **Huidekoper**; \"In the Second and Third Centuries every branch
+and division of Christians believed that Christ preached to the
+departed.\"[^140]
+
+**Dietelmaier** declares[^141] this doctrine was believed by all
+Christians. Of course, if souls were placed where their doom was
+irretrievable salvation would not be offered to them; whence it follows
+that the early Christians believed in post-mortem probation.
+
+**Allin** says that \"some writers teach that the apostles also preached
+in Hades. Some say that the Blessed Virgin did the same. Some even say
+that Simeon went before Christ to Hades.\"
+
+All these testimonies go to show that the earliest of the fathers did
+not regard the grave as the deadline which the love of God could not
+cross, but that the door of mercy is open hereafter as here.
+
+\"The Platonic doctrine of a separate state, where the spirits of the
+departed are purified, and on which the later doctrine of purgatory was
+founded, was approved by all the expositors of Christianity who were of
+the Alexandrian school, as was the custom of performing religious
+services at the tombs of the dead. Nor was there much difference between
+them and Tertullian in these particulars.\"
+
+In the early ages of the church great stress was laid on 1 Peter 3:19:
 "He (Christ) went and preached unto the spirits in prison." That this
-doctrine was prevalent as late as Augustine\'s day is evident from the
-fact that the doctrine is anathematized in his list of heresies ---
+doctrine was prevalent as late as **Augustine**\'s day is evident from
+the fact that the doctrine is anathematized in his list of heresies ---
 number 79. And even as late as the Ninth Century it was condemned by
-Pope Boniface VI. It was believed that our Lord not only proclaimed his
-Gospel to all the dead but that he liberated them all. How could it be
-possible for a Christian to entertain the thought that all the wicked
+Pope **Boniface VI**. It was believed that our Lord not only proclaimed
+his Gospel to all the dead but that he liberated them all. How could it
+be possible for a Christian to entertain the thought that all the wicked
 who died before the advent of our Lord were released from bondage, and
-that any who died after his advent would suffer endless woe? Eusebius
-says: \"Christ, caring for the salvation of all \* \* \* opened a way of
-return to life for the dead bound in the chains of death.\" Athanasius:
-\"The devil \* \* \* cast out of Hades, sees all the fettered beings led
-forth by the courage of the Savior.\"[^142] Origen on I Kings, 28:32:
-\"Jesus descended into Hades, and the prophets before him, and they
-proclaim beforehand the coming of Christ.\" Didymus observes \"In the
-liberation of all no one remains a captive; at the time of the Lord\'s
-passion he alone (Satan) was injured, who lost all the captives he was
-keeping.\" Cyril of Alexandria "And wandering down even to Hades he has
-emptied the dark, secret, invisible treasuries." Gregory of
-Nazianzus:[^143] "Until Christ loosed by his blood all who groaned under
-Tartarian chains." Jerome on Jonah 2:6: \"Our Lord was shut up in
-aeonian bars in order that he might set free all who had been shut up.\"
+that any who died after his advent would suffer endless woe?
+
+**Eusebius** says: \"Christ, caring for the salvation of all...opened a
+way of return to life for the dead bound in the chains of death.\"
+
+**Athanasius**: \"The devil...cast out of Hades, sees all the fettered
+beings led forth by the courage of the Savior.\"[^142]
+
+**Origen** on 1st Kings 28:32: \"Jesus descended into Hades, and the
+prophets before him, and they proclaim beforehand the coming of
+Christ.\"
+
+**Didymus** observes \"In the liberation of all no one remains a
+captive; at the time of the Lord\'s passion he alone (Satan) was
+injured, who lost all the captives he was keeping.\"
+
+**Cyril of Alexandria**: "And wandering down even to Hades he has
+emptied the dark, secret, invisible treasuries."
+
+**Gregory of Nazianzus**:[^143] "Until Christ loosed by his blood all
+who groaned under Tartarian chains."
+
+**Jerome** on Jonah 2:6: \"Our Lord was shut up in *aeonian* bars in
+order that he might set free all who had been shut up.\"
 
 Such passages might be multiplied, demonstrating that the early church
 regarded the conquest by Christ of the departed as universal. He set
 free from bonds all the dead in Hades. If the primitive Christians
-believed that all the wicked of all the aeons preceding the death of
+believed that all the wicked of all the *aeons* preceding the death of
 Christ were released, how can we suppose them to have regarded the
 wicked subsequent to his death as destined to suffer interminable
-torments? Clement of Alexandria is explicit in declaring that the Gospel
-was preached to all, both Jews and Gentiles, in Hades; --- that \"the
-sole cause of the Lord\'s descent to the underworld was to preach the
-gospel.\"[^144] Origen says: \"Not only while Jesus was in the body did
-he win over not a few only, \* \* \* but when he became a soul, without
-the covering of the body, he dwelt among those souls (in Hades) which
-were without bodily covering, converting such of them as were fit for
-it.\"
+torments?
+
+**Clement of Alexandria** is explicit in declaring that the Gospel was
+preached to all, both Jews and Gentiles, in Hades; --- that \"the sole
+cause of the Lord\'s descent to the underworld was to preach the
+gospel.\"[^144]
+
+**Origen** says: \"Not only while Jesus was in the body did he win over
+not a few only...but when he became a soul, without the covering of the
+body, he dwelt among those souls (in Hades) which were without bodily
+covering, converting such of them as were fit for it.\"
 
 About a century after the death of John appeared the apocryphal *Gospel
 of Nicodemus*, valuable as setting forth current eschatology. It
@@ -2002,34 +2022,40 @@ describes the effect of Christ\'s preaching in Hades: \"When Jesus
 arrived in Hades, the gates burst open, and taking Adam by the hand
 Jesus said, 'Come all with me, as many as have died through the tree
 which he touched, for behold I raise you all up through the tree of the
-cross.'\" This book shows conclusively that the Christians of that date
-did not regard aeonian punishment as interminable, inasmuch as those who
-had been sentenced to that condition were released. \"If Christ preached
-to dead men who were once disobedient, then Scripture shows us that the
-moment of death does not necessarily involve a final and hopeless
-torment for every sinful soul. Of all the blunt weapons of ignorant
-controversy employed against those to whom has been revealed the
-possibility of a larger hope than is left to mankind by Augustine or by
-Calvin, the bluntest is the charge that such a hope renders null the
-necessity for the work of Christ. \* \* \* We thus rescue the work of
-redemption from the appearance of having failed to achieve its end for
-the vast majority of those for whom Christ died. \* \* \* In these
+cross.\" This book shows conclusively that the Christians of that date
+did not regard *aeonian* punishment as interminable, inasmuch as those
+who had been sentenced to that condition were released.
+
+\"If Christ preached to dead men who were once disobedient, then
+Scripture shows us that the moment of death does not necessarily involve
+a final and hopeless torment for every sinful soul. Of all the blunt
+weapons of ignorant controversy employed against those to whom has been
+revealed the possibility of a larger hope than is left to mankind by
+Augustine or by Calvin, the bluntest is the charge that such a hope
+renders null the necessity for the work of Christ....We thus rescue the
+work of redemption from the appearance of having failed to achieve its
+end for the vast majority of those for whom Christ died...In these
 passages, as has been truly said, \'we may see an expansive paraphrase
 and exuberant variation of the original Pauline theme of the
 universalism of the evangelic embassage of Christ, and of his
 sovereignty over the world;\' and especially of the passage in the
 Philippians (2:9-11) where all they that are in heaven and on the earth
 and under the earth, are enumerated as classes of the subjects of the
-exalted Redeemer.\"[^145] And Alford observes: \"The inference every
-intelligent reader will draw from the fact here announced: it is not
-purgatory; it is not universal restitution; but it is one which throws
-blessed light on one of the darkest enigmas of divine justice.\"
-Timotheus II, patriarch of the Nestorians, wrote that \"by the prayers
-of the saints the souls of sinners may pass from Gehenna to
-Paradise,\"[^146] Says Uhlhorn[^147]: \"For deceased persons their
-relatives brought gifts on the anniversary of their death, a beautiful
-custom which vividly exhibited the connection between the church above
-and the church below.\"
+exalted Redeemer.\"[^145]
+
+And **Alford** observes: \"The inference every intelligent reader will
+draw from the fact here announced: it is not purgatory; it is not
+universal restitution; but it is one which throws blessed light on one
+of the darkest enigmas of divine justice.\"
+
+**Timotheus II**, patriarch of the Nestorians, wrote that \"by the
+prayers of the saints the souls of sinners may pass from Gehenna to
+Paradise.\"[^146]
+
+Says **Uhlhorn**[^147]: \"For deceased persons their relatives brought
+gifts on the anniversary of their death, a beautiful custom which
+vividly exhibited the connection between the church above and the church
+below.\"
 
 \"One fact stands out very clearly from the pages of patristic
 literature, viz.: that all sects and divisions of the Christians in the
@@ -2045,7 +2071,7 @@ advent.\"[^148]
 ## Prayers for the Dead. 
 
 It need not here be claimed that the doctrine that Christ literally
-preached to the dead in Hades is true, or that such is the teaching of I
+preached to the dead in Hades is true, or that such is the teaching of 1
 Pet. 3:19 but it is perfectly apparent that if the primitive Christians
 held to the doctrine they could not have believed that the condition of
 the soul is fixed at death. That is comparatively a modern doctrine.
@@ -2053,141 +2079,166 @@ the soul is fixed at death. That is comparatively a modern doctrine.
 There can be no doubt that the Catholic doctrine of purgatory is a
 corruption of the Scriptural doctrine of the disciplinary character of
 all God\'s punishments. Purgatory was never heard of in the earlier
-centuries.[^149] It is first fully stated by Pope Gregory the First,
+centuries.[^149] It is first fully stated by Pope **Gregory the First**,
 \"its inventor,\" at the close of the Sixth Century. "For some light
 faults we must believe that there is before judgment a purgatorial
 fire." This theory is a perversion of the idea held anciently, that all
 God\'s punishments are purgative; what the Catholic regards as true of
 the errors of the good is just as true of the sins of the worst, ---
-indeed, of all. The word rendered punishment in Matt. 25:46, (*kolasin*)
-implies all this.
+indeed, of all. The word rendered punishment in Matthew 25:46,
+(*kolasin*) implies all this.
 
 That the condition of the dead was not regarded as inalterably fixed is
 evident from the fact that prayers for the dead were customary
 anciently, and that, too, before the doctrine of purgatory was
 formulated. The living believed --- and so should we believe --- that
 the dead have migrated to another country, where the good offices of
-survivors on earth avail. Perpetua begged for the help of her brother,
-child of a Pagan father, who had died unbaptized. In Tertullian the
-widow prays for the soul of her departed husband. Repentance by the dead
-is conceded by Clement, and the prayers of the good on earth help them.
+survivors on earth avail. **Perpetua** begged for the help of her
+brother, child of a Pagan father, who had died unbaptized. In
+**Tertullian** the widow prays for the soul of her departed husband.
+Repentance by the dead is conceded by **Clement**, and the prayers of
+the good on earth help them.
 
 The dogma of the purificatory character of future punishment did not
 degenerate into the doctrine of punishment for believers only, until the
 Fourth Century; nor did that error crystallize into the Catholic
-purgatory until later. Hagenbach says: \"Comparing Gregory\'s doctrine
-with the earlier, and more spiritual notions concerning the efficacy of
-the purifying fire of the intermediate state, we may adopt the statement
-of Schmidt that the belief in a lasting desire of perfection, which
-death itself cannot quench, degenerated into a belief in purgatory.\"
+purgatory until later.
 
-Plumptre[^150] has a valuable statement: \"In every form; from the
+**Hagenbach** says: \"Comparing Gregory\'s doctrine with the earlier,
+and more spiritual notions concerning the efficacy of the purifying fire
+of the intermediate state, we may adopt the statement of Schmidt that
+the belief in a lasting desire of perfection, which death itself cannot
+quench, degenerated into a belief in purgatory.\"
+
+**Plumptre**[^150] has a valuable statement: \"In every form; from the
 solemn liturgies which embodied the belief of her profoundest thinkers
 and truest worshipers, to the simple words of hope and love which were
 traced over the graves of the poor, her voice (the church of the first
 ages) went up without a doubt or misgiving, in prayers for the souls of
 the departed;\" showing that they could not have regarded their
-condition as unalterably fixed at death. Prof. Plumptre quotes from
-Lee\'s *Christian Doctrine of Prayer for the Departed*, to show the
-early Christians\' belief that intercessions for the dead would be of
-avail to them. Even Augustine accepted the doctrine. He prayed after his
-mother\'s death, that her sins might be forgiven, and that his father
-might also receive pardon.[^151]
+condition as unalterably fixed at death.
+
+Prof. **Plumptre** quotes from **Lee**\'s *Christian Doctrine of Prayer
+for the Departed*, to show the early Christians\' belief that
+intercessions for the dead would be of avail to them. Even **Augustine**
+accepted the doctrine. He prayed after his mother\'s death, that her
+sins might be forgiven, and that his father might also receive
+pardon.[^151]
 
 \"The Platonic doctrine of a separate state where the spirits of the
 departed are purified, and on which the later doctrine of purgatory was
 founded, was approved by all the expositors of Christianity who were of
 the Alexandrian school, as was the custom of performing religious
-services at the tombs of the dead.\" Uhlhorn gives similar testimony:
-\"For deceased persons their relatives brought gifts on the anniversary
-of their death, a beautiful custom, which vividly exhibited the
-connection between the church above and the church below.\" Origen\'s
-tenet of Catharsis or Purification was absorbed by the growing belief in
-purgatory.[^152]
+services at the tombs of the dead.\"
+
+**Uhlhorn** gives similar testimony: \"For deceased persons their
+relatives brought gifts on the anniversary of their death, a beautiful
+custom, which vividly exhibited the connection between the church above
+and the church below.\"
+
+**Origen\'s** tenet of Catharsis or Purification was absorbed by the
+growing belief in purgatory.[^152]
 
 ## Important Thoughts. 
 
-Let the reader reflect (1) that the Primitive Christians so distrusted
-the effect of the truth on the popular mind that they withheld it, and
-only cherished it esoterically, and held up terrors for effect, in which
-they had no faith; (2) that they prayed for the wicked dead that they
-might be released from suffering; (3) that they universally held that
-Christ preached the Gospel to sinners in Hades; (4) that the earliest
-creeds are entirely silent as to the idea that the wicked dead were in
-irretrievable and endless torment; (5) that the terms used by some who
-are accused of teaching endless torment were precisely those employed by
-those acknowledged to have been Universalists; (6) that the first
-Christians were the happiest of people and infused a wonderful
-cheerfulness into a world of sorrow and gloom; (7) that there is not a
-shade of darkness nor a note of despair in any one of the thousands of
-epitaphs in the Catacombs; (8) that the doctrine of universal redemption
-was first made prominent by those to whom Greek was their native tongue,
-and that they declared that they derived it from the Greek Scriptures,
-while endless punishment was first taught by Africans and Latins, who
-derived it from a foreign tongue of which the great teacher of it
-confessed he was ignorant (See \"Augustine\" later on). Let the reader
-give to these considerations their full and proper weight, and it will
-be impossible to believe that the fathers regarded the impenitent as
-consigned at death to hopeless and endless woe.
+Let the reader reflect
 
-Note.--- After giving the emphatic language of Clement and Origen and
-other ancient Christians declarative of universal holiness, Dr. Bigg, in
-his valuable book, *The Christian Platonists of Alexandria*, frequently
-quoted in these pages, remarks:[^153] \"Neither Clement nor Origen is,
-properly speaking, a Universalist. Nor is Universalism the logical
-result of their principles.\" The reasons he gives are two: (1) They
-believed in the freedom of the will; and (2) they did not deny the
-eternity of punishment, because the soul that has sinned beyond a
-certain point can never become what it might have been!
+\(1\) that the Primitive Christians so distrusted the effect of the
+truth on the popular mind that they withheld it, and only cherished it
+esoterically, and held up terrors for effect, in which they had no
+faith;
+
+\(2\) that they prayed for the wicked dead that they might be released
+from suffering;
+
+\(3\) that they universally held that Christ preached the Gospel to
+sinners in Hades;
+
+\(4\) that the earliest creeds are entirely silent as to the idea that
+the wicked dead were in irretrievable and endless torment;
+
+\(5\) that the terms used by some who are accused of teaching endless
+torment were precisely those employed by those acknowledged to have been
+Universalists;
+
+\(6\) that the first Christians were the happiest of people and infused
+a wonderful cheerfulness into a world of sorrow and gloom;
+
+\(7\) that there is not a shade of darkness nor a note of despair in any
+one of the thousands of epitaphs in the Catacombs;
+
+\(8\) that the doctrine of universal redemption was first made prominent
+by those to whom Greek was their native tongue, and that they declared
+that they derived it from the Greek Scriptures, while endless punishment
+was first taught by Africans and Latins, who derived it from a foreign
+tongue of which the great teacher of it confessed he was ignorant (See
+\"**Augustine**\" later on). Let the reader give to these considerations
+their full and proper weight, and it will be impossible to believe that
+the fathers regarded the impenitent as consigned at death to hopeless
+and endless woe.
+
+Note.--- After giving the emphatic language of **Clement** and
+**Origen** and other ancient Christians declarative of universal
+holiness, Dr. **Bigg**, in his valuable book, *The Christian Platonists
+of Alexandria*, frequently quoted in these pages, remarks:[^153]
+\"Neither Clement nor Origen is, properly speaking, a Universalist. Nor
+is Universalism the logical result of their principles.\" The reasons he
+gives are two: (1) They believed in the freedom of the will; and (2)
+they did not deny the eternity of punishment, because the soul that has
+sinned beyond a certain point can never become what it might have been!
 
 To which it is only necessary to say (1) that Universalists generally
 accept the freedom of the will, and (2) no soul that has sinned, as all
 have sinned, can ever become what it might have been, so that Dr.
-Bigg\'s premises would necessitate not Universalism, but universal
+**Bigg**\'s premises would necessitate not Universalism, but universal
 condemnation!
 
-And, as if to contradict his own words Dr. Bigg adds in the very next
-paragraph: \"The hope of a general restitution of all souls through
+And, as if to contradict his own words Dr. **Bigg** adds in the very
+next paragraph: \"The hope of a general restitution of all souls through
 suffering to purity and blessedness, lingered on in the East for some
 time;\" and the last words in his book are these: \"It is the teaching
 of St. Paul, --- Then Cometh the end, when he shall have delivered up
 the Kingdom to God, even the Father. Then shall the Son also himself be
 subject unto him that put all things under him that God may be all in
-all.\" And these are the last words of his last note: \"At the end all
-will be one because the Father\'s will is all in all and all in each.
-Each will fill the place which the mystery of the economy assigns to
-him.\"
+all.\"
 
-It would be interesting to learn what sort of a monstrosity Dr. Bigg has
-constructed, and labeled with the word which he declares could not be
-applied to Clement and Origen.
+And these are the last words of his last note: \"At the end all will be
+one because the Father\'s will is all in all and all in each. Each will
+fill the place which the mystery of the economy assigns to him.\"
+
+It would be interesting to learn what sort of a monstrosity Dr. **Bigg**
+has constructed and labeled with the word which he declares could not be
+applied to **Clement** and **Origen**.
 
 # 6. The Apostles' Immediate Successors. 
 
 As we read the writings of the immediate successors of the apostles, we
 discover that matters of eschatology do not occupy their thought. They
-dwell on the advent of our Lord, and dilate on its blessings to the
+dwell on the advent of our Lord and dilate on its blessings to the
 world; they give the proofs of his divinity, and appeal to men to accept
 his religion. Most of the surviving documents of the First Century are
-hortatory. It was an apologetic, not a polemic age. A very partisan
-author, anxious to show that the doctrine of endless punishment was
-bequeathed to their immediate successors by the apostles, concedes this.
-He says that the first Christians \"touched but lightly and incidentally
-on points of doctrine,\" but gave "the doctrines of Christianity in the
-very words of Scripture, giving us often no certain clew to their
-interpretations of the language.\"[^154] The first Christians were
-converted Jews, Greeks, Egyptians, Romans, differing in their
-theologies, and only agreeing in accepting Christ and Christianity;
-their ideas of our Lord\'s teaching concerning human destiny and on
-other subjects were tinctured by their antecedent predilections. Their
-doctrines on many points were colored by Jewish and Pagan errors, until
-their minds were clarified, when the more systematic teachers came, ---
-Clement, Origen and others, who eliminated the errors Christian converts
-had brought with them from former associations, and presented
-Christianity as Christ taught it. The measures of meal were more or less
-impure until the leaven of genuine Christianity transformed them. But it
-is conceded that there is little left of the apostolic age, out of the
-New Testament, to tell us what their ideas of human destiny were.
+hortatory. It was an apologetic, not a polemic age.
+
+A very partisan author, anxious to show that the doctrine of endless
+punishment was bequeathed to their immediate successors by the apostles,
+concedes this. He says that the first Christians \"touched but lightly
+and incidentally on points of doctrine,\" but gave "the doctrines of
+Christianity in the very words of Scripture, giving us often no certain
+clew to their interpretations of the language.\"[^154]
+
+The first Christians were converted Jews, Greeks, Egyptians, Romans,
+differing in their theologies, and only agreeing in accepting Christ and
+Christianity; their ideas of our Lord\'s teaching concerning human
+destiny and on other subjects were tinctured by their antecedent
+predilections. Their doctrines on many points were colored by Jewish and
+Pagan errors, until their minds were clarified, when the more systematic
+teachers came, --- **Clement**, **Origen** and others, who eliminated
+the errors Christian converts had brought with them from former
+associations and presented Christianity as Christ taught it. The
+measures of meal were more or less impure until the leaven of genuine
+Christianity transformed them. But it is conceded that there is little
+left of the apostolic age, out of the New Testament, to tell us what
+their ideas of human destiny were.
 
 It is probable, however, that the Pharisaic notion of a partial
 resurrection and the annihilation of the wicked was held by some, and
@@ -2206,83 +2257,86 @@ religion, and sifted out the wheat from the chaff.
 
 ## Clement of Rome.
 
-The first of the apostolic fathers was Clement of Rome, who was bishop
-AD 85. Eusebius and Origen thought he was Paul\'s fellow laborer. His
-famous (first) epistle of fifty-nine chapters is about the length of
-Mark\'s Gospel. He appeals to the destruction of the cities of Rome to
-illustrate the divine punishments, but gives no hint of the idea of
-endless woe, though he devotes three chapters to the resurrection. He
-has been thought to have held to a partial resurrection, for he asks:
-\"Do we then deem it any great and wonderful thing for the maker of all
-things to raise up again those who have proudly served him in the
-assurance of a good faith?\" But this does not prove he held to the
-annihilation of the wicked, for Theophilus and Origen use similar
-language. He says: \"Let us reflect how free from wrath he is towards
-all his creatures.\" God "does good to all, but most abundantly to us
-who have fled for refuge to his compassions," etc. God is "the
-all-merciful and beneficent Father." Neander affirms that he had the
-Pauline spirit, \"with love as the motive," and A. St. J. Chambre, D.
-D.,[^155] thinks \"he probably believed in the salvation of all men,\"
-and Allin[^156] refers to Rufinus and says, \"from which we may, I
-think, infer, that Clement, with other fathers, was a believer in the
-larger hope.\" It cannot be said that he has left anything positive in
-relation to the subject, though it is probable that Chambre and Allin
-have correctly characterized him. He wrote a Greek epistle to the
-Corinthians which was lost for centuries, but was often quoted by
-subsequent writers, and whose contents were therefore only known in
-fragments. It was probably written before John\'s Gospel. It was at
-length found complete, bound with the Alexandrian codex. It was read in
-church before and at the time of Eusebius, and even as late as the Fifth
-Century.
+The first of the apostolic fathers was **Clement of Rome**, who was
+bishop from 85 AD. **Eusebius** and **Origen** thought he was Paul\'s
+fellow laborer. His famous (first) epistle of fifty-nine chapters is
+about the length of Mark\'s Gospel. He appeals to the destruction of the
+cities of Rome to illustrate the divine punishments but gives no hint of
+the idea of endless woe, though he devotes three chapters to the
+resurrection. He has been thought to have held to a partial
+resurrection, for he asks: \"Do we then deem it any great and wonderful
+thing for the maker of all things to raise up again those who have
+proudly served him in the assurance of a good faith?\" But this does not
+prove he held to the annihilation of the wicked, for **Theophilus** and
+**Origen** use similar language. He says: \"Let us reflect how free from
+wrath he is towards all his creatures.\" God "does good to all, but most
+abundantly to us who have fled for refuge to his compassions," etc. God
+is "the all-merciful and beneficent Father." **Neander** affirms that he
+had the Pauline spirit, \"with love as the motive," and **A. St. J.
+Chambre**, D. D.,[^155] thinks \"he probably believed in the salvation
+of all men,\" and **Allin**[^156] refers to **Rufinus** and says, \"from
+which we may, I think, infer, that Clement, with other fathers, was a
+believer in the larger hope.\" It cannot be said that he has left
+anything positive in relation to the subject, though it is probable that
+**Chambre** and **Allin** have correctly characterized him.
+
+He wrote a Greek epistle to the Corinthians which was lost for
+centuries, but was often quoted by subsequent writers, and whose
+contents were therefore only known in fragments. It was probably written
+before John\'s Gospel. It was at length found complete, bound with the
+Alexandrian codex. It was read in church before and at the time of
+**Eusebius**, and even as late as the Fifth Century.
 
 ## Polycarp.
 
-Polycarp was bishop of the church in Smyrna, AD 108-117. He is thought
-to have been John\'s disciple. Irenaeus tells us that he and Ignatius
-were friends of Peter and John, and related what they had told them. His
-only surviving epistle contains this passage: To Christ "all things are
-made subject, both that are in heaven and that are on earth; whom every
-living creature shall worship; who shall come to judge the quick and
-dead; whose blood God shall require of them that believe not in him." He
-also says in the same chapter: \"He who raised up Christ from the dead,
-will also raise us up if we do his will,\" implying that the
-resurrection depended, as he thought, on conduct in this life. It seems
-probable that he was one of those who held to the Pharisaic doctrine of
-a partial resurrection. And yet this is only the most probable
-conjecture. There is nothing decisive in his language. When the
-proconsul Statius Quadratus wrote to Polycarp, threatening him with
+**Polycarp** was bishop of the church in Smyrna, 108-117 AD. He is
+thought to have been John\'s disciple. **Irenaeus** tells us that he and
+**Ignatius** were friends of Peter and John and related what they had
+told them. His only surviving epistle contains this passage: To Christ
+"all things are made subject, both that are in heaven and that are on
+earth; whom every living creature shall worship; who shall come to judge
+the quick and dead; whose blood God shall require of them that believe
+not in him." He also says in the same chapter: \"He who raised up Christ
+from the dead, will also raise us up if we do his will,\" implying that
+the resurrection depended, as he thought, on conduct in this life. It
+seems probable that he was one of those who held to the Pharisaic
+doctrine of a partial resurrection. And yet this is only the most
+probable conjecture. There is nothing decisive in his language. When the
+proconsul Statius Quadratus wrote to **Polycarp**, threatening him with
 burning, the saint replied "You threaten me with a fire that burns for
 an hour, and is presently extinct, but art ignorant, alas, of the fire
 of *aionian* condemnation, and the judgment to come, reserved for the
-wicked in the other world." After Polycarp there was no literature that
-has descended to us, for several years, except a few quotations in later
-writings, which, however, contain nothing bearing- on our theme, from
-Papias, Quadratus, Agrippa, Castor, etc.
+wicked in the other world."
+
+After **Polycarp** there was no literature that has descended to us, for
+several years, except a few quotations in later writings, which,
+however, contain nothing bearing on our theme, from Papias, Quadratus,
+Agrippa, Castor, etc.
 
 \"The Martyrdom of Polycarp\" purports to be a letter from the church of
 Smyrna reciting the particulars of his death. But though it is the
 earliest of the Martyria, it is supposed to have a much later date than
-it alleges, and much has been interpolated by its transcribers. Eusebius
-omits much of it. It speaks of the fire that is "*aionion* punishment,\"
-and it is probable that the writer gave these terms the same sense that
-is given them by the Scriptures, Origen, Gregory and other Universalist
-writings and authors.
+it alleges, and much has been interpolated by its transcribers.
+**Eusebius** omits much of it. It speaks of the fire that is "*aionion*
+punishment,\" and it is probable that the writer gave these terms the
+same sense that is given them by the Scriptures, **Origen**, **Gregory**
+and other Universalist writings and authors.
 
 ## Tatian.
 
-Tatian states the doctrine of endless punishment very strongly. He was a
-philosophical Platonist more than a Christian. He was a heathen convert
-and repeats the heathen doctrines in language unknown to the New
+**Tatian** states the doctrine of endless punishment very strongly. He
+was a philosophical Platonist more than a Christian. He was a heathen
+convert and repeats the heathen doctrines in language unknown to the New
 Testament though common enough in heathen works. He calls punishment
 \"death through punishment in immortality,\"[^157] terms used by
-Josephus and the Pagans, but never found in the New Testament. His
+**Josephus** and the Pagans, but never found in the New Testament. His
 *Diatessaron*, a collection of the Gospels, is of real value in
 determining the existence of the Gospels in the Second Century.
 
 ## Epistle of Barnabas.
 
 The Epistle of Barnabas was written by an Alexandrian Gnostic, probably
-about AD 70 to 120, not, as has been claimed, by Paul\'s companion, and
+about 70 to 120 AD, not, as has been claimed, by Paul\'s companion, and
 yet some of the best authorities think the author of the Epistle was the
 friend of Paul. Though often quoted by the ancients, the first four and
 a half chapters of the Epistle were only known in a Latin version until
@@ -2290,16 +2344,16 @@ the entire Greek was discovered and published in 1863. It is the only
 Christian composition written while the New Testament was being written,
 except the "Wisdom of Solomon." It is of small intrinsic value, and
 sheds but little light on eschatology. The first perfect manuscript was
-found with the Sinaitic manuscript of Tischendorf, a translation of
-which is given by Samuel Sharpe.[^158] It was the first document after
-the New Testament to apply *aionios* to punishment; but there is nothing
-in the connection to show that it was used in any other than its
-Scriptural sense, indefinite duration. It is quoted by Origen in *Contra
-Celsus*, and by Clement of Alexandria. It is chiefly remarkable for
-standing alone among writings contemporary with the New Testament. The
-phrase, *eis ton aiona*, \"to the age,\" mistranslated in the New
-Testament \"forever\" (though correctly rendered in the margin of the
-Revision), is employed by Barnabas and applied to the rewards of
+found with the Sinaitic manuscript of **Tischendorf**, a translation of
+which is given by **Samuel Sharpe**.[^158] It was the first document
+after the New Testament to apply *aionios* to punishment; but there is
+nothing in the connection to show that it was used in any other than its
+Scriptural sense, indefinite duration. It is quoted by **Origen** in
+*Contra Celsus*, and by **Clement of Alexandria**. It is chiefly
+remarkable for standing alone among writings contemporary with the New
+Testament. The phrase, *eis ton aiona*, \"to the age,\" mistranslated in
+the New Testament \"forever\" (though correctly rendered in the margin
+of the Revision), is employed by Barnabas and applied to the rewards of
 goodness and the evil consequences of ill doing. He says, \"The way of
 the Black one is an age-lasting way of death and punishment,\" but the
 description accompanying shows that the Way and its results are confined
@@ -2320,25 +2374,27 @@ limited, though he employs *timioria* (torment) instead of *kolasis*
 
 ## Shepherd of Hermas.
 
-In the middle of the Second Century, say AD 141 to 156, a book entitled
+In the middle of the Second Century, say 141 to 156 AD, a book entitled
 the \"Shepherd,\" or "Pastor of Hermas," was read in the churches, and
 was regarded as almost equal to the Scriptures. The author was
-commissioned to write it by Clemens Romanus. Irenaeus, Clement of
-Alexandria, Origen, Eusebius and Athanasius quote from it, and rank it
-among the sacred writings. Clement says it is \"divinely expressed,\"
-and Origen calls it \"divinely inspired.\" Irenaeus designates the book
-as \"The Scripture.\" According to Rothe, Hefele, and the editors of
-*Bib. Max. Patrum*, Hermas teaches the possibility of repentance after
-death, but seems to imply the annihilation of the wicked. Farrar says
-that the parable of the tower \"certainly taught a possible amelioration
-after death: for a possibility of repentance and so of being built into
-the tower is granted to some of the rejected stones.\" The \"Pastor\"
-does not avow Universalism, but he is much further from the eschatology
-of the church for the last fifteen centuries, than from universal
+commissioned to write it by **Clemens Romanus**. **Irenaeus**, **Clement
+of Alexandria**, **Origen**, **Eusebius** and **Athanasius** quote from
+it, and rank it among the sacred writings. **Clement** says it is
+\"divinely expressed,\" and **Origen** calls it \"divinely inspired.\"
+**Irenaeus** designates the book as \"The Scripture.\"
+
+According to **Rothe**, **Hefele**, and the editors of *Bib. Max.
+Patrum*, Hermas teaches the possibility of repentance after death, but
+seems to imply the annihilation of the wicked. **Farrar** says that the
+parable of the tower \"certainly taught a possible amelioration after
+death: for a possibility of repentance and so of being built into the
+tower is granted to some of the rejected stones.\" The \"Pastor\" does
+not avow Universalism, but he is much further from the eschatology of
+the church for the last fifteen centuries, than from universal
 restoration. Only fragments of this work were preserved for a long time,
 and they were in a Latin translation, until 1859, when one-fourth of the
 original Greek was discovered. This, with the fragments previously
-possessed, and the Ethiopia version, give us the full text of this
+possessed, and the Ethiopian version, give us the full text of this
 ancient document. The book is a sort of Ante-Nicene *Pilgrim\'s
 Progress*[^159] --- an incoherent imitation of Revelation.[^160] The
 theology of the \"Shepherd\" can be gauged from his language: \"Put on,
@@ -2351,49 +2407,52 @@ melancholy and despair.
 
 ## Ignatius.
 
-Of some fifteen epistles ascribed to Ignatius, it has been settled by
-modern scholarship that seven are genuine. There are passages in these
-that seem to indicate that he believed in the annihilation of the
+Of some fifteen epistles ascribed to **Ignatius**, it has been settled
+by modern scholarship that seven are genuine. There are passages in
+these that seem to indicate that he believed in the annihilation of the
 wicked. He was probably a convert from heathenism who had not gotten rid
 of his former opinions. He says: \"It would have been better for them to
 love that they might rise.\" If he believed in a partial resurrection he
 could not have used words that denote endless consequences to sin any
-more than did Origen, for if annihilation followed those consequences,
-they must be limited. When Ignatius and Barnabas speak of \"eternal\"
-punishment or death, we might perhaps suppose that they regarded the
-punishment of sin as endless, did we not find that Origen and other
-Universalists used the same terms, and did we not know that the
-Scriptures do the same. To find *aionion* attached to punishment proves
-nothing as to its duration. In his Epist. ad. Trail., he says that
-Christ descended into Hades and cleft the *aionion* barrier.
+more than did **Origen**, for if annihilation followed those
+consequences, they must be limited.
 
-It seems on the whole probable that while Ignatius did not dogmatize on
-human destiny, he regarded the resurrection as conditional. But here, as
-elsewhere, the student should remember that the pernicious doctrine of
-\"reserve\" or "economy" continually controlled the minds of the early
-Christian teachers, so that they not only withheld their real views of
-the future, lest ignorant people should take advantage of God\'s
-goodness, but threatened consequences of sin to sinners, in order to
-supply the inducements that they thought the masses of people required
-to deter them from sin. Dr. Ballou thinks that this father held that the
-wicked "will not be raised from the dead, but exist hereafter as
-incorporeal spirits." He was martyred AD 107.
+When **Ignatius** and **Barnabas** speak of \"eternal\" punishment or
+death, we might perhaps suppose that they regarded the punishment of sin
+as endless, did we not find that **Origen** and other Universalists used
+the same terms, and did we not know that the Scriptures do the same. To
+find *aionion* attached to punishment proves nothing as to its duration.
+In his *Epist. ad. Trail.*, he says that Christ descended into Hades and
+cleft the *aionion* barrier.
+
+It seems on the whole probable that while **Ignatius** did not dogmatize
+on human destiny, he regarded the resurrection as conditional. But here,
+as elsewhere, the student should remember that the pernicious doctrine
+of \"reserve\" or "economy" continually controlled the minds of the
+early Christian teachers, so that they not only withheld their real
+views of the future, lest ignorant people should take advantage of
+God\'s goodness, but threatened consequences of sin to sinners, in order
+to supply the inducements that they thought the masses of people
+required to deter them from sin. Dr. **Ballou** thinks that this father
+held that the wicked "will not be raised from the dead, but exist
+hereafter as incorporeal spirits." He was martyred in 107 AD.
 
 ## Justin Martyr.
 
-Justin Martyr, AD 89-166, is the first scholar produced by the Church,
+Justin Martyr, 89-166 AD, is the first scholar produced by the Church,
 and the first conspicuous father the authenticity of whose writings is
 not disputed. His surviving works are his two *Apologies*, and his
 *Dialogue with Trypho*. It is difficult to ascertain his exact views.
-Cave says: \"Justin Martyr maintains that the souls of good men are not
-received into heaven until the resurrection...that the souls of the
+
+**Cave** says: \"Justin Martyr maintains that the souls of good men are
+not received into heaven until the resurrection...that the souls of the
 wicked are thrust into a worse condition, where they expect the judgment
 of the great day.\"
 
 Justin himself says that "the punishment is age-long chastisement
 (*aionion kolasin*) and not for a thousand years as Plato says,\" (in
-Phoedra). "It is unlimited; men are chastised for an unlimited period,
-and the kingdom is aionion and the chastening fire (*kolasis puros*)
+*Phoedra*). "It is unlimited; men are chastised for an unlimited period,
+and the kingdom is *aionion* and the chastening fire (*kolasis puros*)
 *aionion*, too. "God delays the destruction of the world, which will
 cause wicked angels and demons and men to cease to exist, in order to
 their repentance...Some which appeared worthy of God never die, others
@@ -2402,38 +2461,39 @@ both die and are punished." He calls the fire of punishment unquenchable
 (*asbeston*). He sometimes seems to have taught a pseudo-Universalism,
 that is, the salvation of all who should be permitted to be immortal; at
 other times endless punishment. Again he favors universal salvation. He
-not only condemned those who forbade the reading of the Sibylline
-Oracles, but commended the book. His language is, \"We not only read
+not only condemned those who forbade the reading of the *Sibylline
+Oracles*, but commended the book. His language is, \"We not only read
 them without fear, but offer them for inspection, knowing that they will
-appear well-pleasing to all.\" As the Oracles distinctly advocate
+appear well-pleasing to all.\" As the *Oracles* distinctly advocate
 universal salvation, it is not easy to believe that Justin discarded
 their teachings. And yet he says: \"If the death of wicked men had ended
 in insensibility,\" it would have been a \"god-send\" to them. Instead,
-he says, death is followed by aionion punishment. If he used the word as
-Origen did, the two statements are reconcilable with each other. Justin
-taught a \"general and everlasting resurrection and judgment. Body and
-soul are to be raised and the wicked with the devil and his angels, and
-demons, sent to Gehenna[^161]\...Christ has declared that Satan and his
-host, together with those men who follow him, shall be sent into fire,
-and punished for an endless period.[^162]\" But it may be that he speaks
-rhetorically, and not literally. It is the general opinion, however,
-that he regarded punishment as limited, to be followed by annihilation.
-He himself says: \"The soul, therefore, partakes of life, because God
-wills it should live; and, accordingly, it will not partake of life
-whenever God shall will that it should not live.\" And yet he says that
-bodies are consumed in the fire, and at the same time remain immortal.
+he says, death is followed by *aionion* punishment. If he used the word
+as **Origen** did, the two statements are reconcilable with each other.
+Justin taught a \"general and everlasting resurrection and judgment.
+Body and soul are to be raised and the wicked with the devil and his
+angels, and demons, sent to Gehenna[^161]\...Christ has declared that
+Satan and his host, together with those men who follow him, shall be
+sent into fire, and punished for an endless period.[^162]\" But it may
+be that he speaks rhetorically, and not literally. It is the general
+opinion, however, that he regarded punishment as limited, to be followed
+by annihilation. He himself says: \"The soul, therefore, partakes of
+life, because God wills it should live; and, accordingly, it will not
+partake of life whenever God shall will that it should not live.\" And
+yet he says that bodies are consumed in the fire, and at the same time
+remain immortal.
 
 Justin was a heathen philosopher before his conversion, and his
 Christianity is of a mongrel type. He wore a pagan philosopher\'s robe,
 or pallium, after his conversion, calls himself a Platonist, and always
 seems half a heathen. His effort appears to be to fuse Christianity and
 Paganism, and it is not easy to harmonize his statements. His Pagan
-idiosyncrasies colored his Christianity. But, as Farrar says, the
+idiosyncrasies colored his Christianity. But, as **Farrar** says, the
 theology of the first one or two centuries had not been crystallized,
-the "language was fluid and un- technical, and great stress should not
-be laid on the expressions of the earliest fathers. He nowhere calls
-punishment endless, but aionion; and yet it cannot be proved that he was
-at all aware of the true philosophic meaning of *aionios* as a word
+the "language was fluid and un-technical, and great stress should not be
+laid on the expressions of the earliest fathers. He nowhere calls
+punishment endless, but *aionion*; and yet it cannot be proved that he
+was at all aware of the true philosophic meaning of *aionios* as a word
 expressive of quality, and exclusive of --- or rather the absolute
 antithesis to--- time. He says that demons and wicked men will be
 punished for a boundless age (*aperanto aiona*), but in some passages he
@@ -2445,15 +2505,16 @@ he uses the word *aionios*, and says the sinner must undergo punishment
 during that period, why not read literally \"for ages, and not as Plato
 said, for a thousand years only?\"
 
-When, therefore, these terms are found unexplained, as in Justin Martyr,
-they should be read in the bright light cast upon them by the
-interpretations of Clement and Origen, who employ them as forcibly as
-does Justin, but who explain them --- \"eternal fire\" and \"everlasting
-punishment\" --- as in perfect harmony with the great fact of universal
-restoration. Doctor Farrar regards Justin Martyr as holding \"views more
-or less analogous to Universalism.\"[^164]
+When, therefore, these terms are found unexplained, as in **Justin
+Martyr**, they should be read in the bright light cast upon them by the
+interpretations of **Clement** and **Origen**, who employ them as
+forcibly as does **Justin**, but who explain them --- \"eternal fire\"
+and \"everlasting punishment\" --- as in perfect harmony with the great
+fact of universal restoration. Doctor **Farrar** regards **Justin
+Martyr** as holding \"views more or less analogous to
+Universalism.\"[^164]
 
-We cannot do better here than to quote Hosea Ballou:[^165]
+We cannot do better here than to quote **Hosea Ballou**:[^165]
 
 \"The question turns on the construction of a single passage. Justin had
 argued that souls are not, in their own nature, immortal, since they
@@ -2472,87 +2533,88 @@ this reason, souls both die and are punished.\"[^166]
 
 ### The Epistle to Diognetus.
 
-This letter was long ascribed to Justin Martyr, but it is now generally
-regarded as anonymous. It was written not far from AD 100, perhaps by
-Marcion, possibly by Justin Martyr. It is a beautiful composition, full
-of the most apostolic spirit. It has very little belonging to our theme,
-except that at the close of Chapter X it speaks of "those who shall be
-condemned to the aionion fire which shall chastise those who are
-committed to it even unto an end,"[^167] (*mechri telous*). Even if
-*aionion* usually meant endless, it is limited here by the word \"unto\"
-which has the force of until, as does *aidios* in Jude 6, --- \"*aidios*
-chains under darkness, unto (or until) the judgment of the great day.\"
-Such a limited chastisement, it would seem, could only be believed in by
-one who regarded God as Diognetus\'s correspondent did, as one who
-"still is, was always, and ever will be kind and good, and free from
-wrath."
+This letter was long ascribed to **Justin Martyr**, but it is now
+generally regarded as anonymous. It was written not far from 100 AD,
+perhaps by **Marcion**, possibly by **Justin Martyr**. It is a beautiful
+composition, full of the most apostolic spirit. It has very little
+belonging to our theme, except that at the close of Chapter 10 it speaks
+of "those who shall be condemned to the *aionion* fire which shall
+chastise those who are committed to it even unto an end,"[^167] (*mechri
+telous*). Even if *aionion* usually meant endless, it is limited here by
+the word \"unto\" which has the force of until, as does *aidios* in Jude
+6, --- \"*aidios* chains under darkness, unto (or until) the judgment of
+the great day.\" Such a limited chastisement, it would seem, could only
+be believed in by one who regarded God as **Diognetus**\'s correspondent
+did, as one who "still is, was always, and ever will be kind and good,
+and free from wrath."
 
 This brief passage shows us that at the beginning of the Second Century
-Christians dwelt upon the severity of the penalties of sin, but
+Christians dwelt upon the severity of the penalties of sin but
 supplemented them by restoration wherever they had occasion to refer to
 the ultimate outcome. A few years later (as will appear further on) when
-Christianity was systematized by Clement and Origen, this was fully
-shown, and explains the obscurities, and sometimes the apparent
+Christianity was systematized by **Clement** and **Origen**, this was
+fully shown, and explains the obscurities, and sometimes the apparent
 incongruities of earlier writers. The lovely spirit and sublime ethics
 of this epistle foreshadow the Christian theology so soon to be fully
-developed by Clement and Origen. Bunsen thinks[^168] the letter
+developed by **Clement** and **Origen**. Bunsen thinks[^168] the letter
 \"indisputably, after Scripture, the finest monument we know of sound
 Christian feeling, noble courage, and manly eloquence.\"
 
 ## Irenaeus.
 
-Irenaeus (AD 120, died 202) was a friend of Ignatius, and says that in
-his youth he saw Polycarp, who was contemporary with John. He had known
-several who had personally listened to the apostles. His principal work,
-*Against Heresies*, was written AD 182 to 188. No complete copy of it
-exists in the original Greek: only a Latin translation is extant, though
-a part of the first book is found in Greek in the copious quotations
-from it in the writings of Hippolytus and Epiphanius. Its authority is
-weakened by the wretched Latin in which most of it stands. One fact,
-however, is incontrovertible: he did not regard Universalism as among
-the heresies of his times, for he nowhere condemns it, though the
-doctrine is contained in the *Sibylline Oracles*, then in general use,
-and though he mentions the doctrine without disapproval in his
-description of the theology of the Carpocratians.
+**Irenaeus** (120 AD, died 202) was a friend of **Ignatius**, and says
+that in his youth he saw **Polycarp**, who was contemporary with John.
+He had known several who had personally listened to the apostles. His
+principal work, *Against Heresies*, was written 182 to 188 AD. No
+complete copy of it exists in the original Greek: only a Latin
+translation is extant, though a part of the first book is found in Greek
+in the copious quotations from it in the writings of **Hippolytus** and
+**Epiphanius**. Its authority is weakened by the wretched Latin in which
+most of it stands. One fact, however, is incontrovertible: he did not
+regard Universalism as among the heresies of his times, for he nowhere
+condemns it, though the doctrine is contained in the *Sibylline
+Oracles*, then in general use, and though he mentions the doctrine
+without disapproval in his description of the theology of the
+Carpocratians.
 
-Irenaeus has been quoted as teaching that the Apostles' Creed was meant
-to inculcate endless punishment, because in a paraphrase of that
+**Irenaeus** has been quoted as teaching that the Apostles' Creed was
+meant to inculcate endless punishment, because in a paraphrase of that
 document he says that the Judge, at the final assize, will cast the
 wicked into \"eternal\" fire. But the terms he uses are "*ignum
 aeternum*" (*aionion pur*). As just stated, though he reprehends the
 Carpocratians for teaching the transmigration of souls, he declares
 without protest that they explain the text \"until thou pay the
 uttermost farthing,\" as inculcating the idea that \"all souls are
-saved.\" Irenaeus says: \"God drove Adam out of Paradise, and removed
-him far from the tree of life, in compassion for him, that he might not
-remain a transgressor always, and that the sin in which he was involved
-might not be immortal, nor be without end and incurable. He prevented
-further transgression by the interposition of death, and by causing sin
-to cease by the dissolution of the flesh...that man ceasing to live to
-sin, and dying to it, might begin to live to God.\"
+saved.\" **Irenaeus** says: \"God drove Adam out of Paradise, and
+removed him far from the tree of life, in compassion for him, that he
+might not remain a transgressor always, and that the sin in which he was
+involved might not be immortal, nor be without end and incurable. He
+prevented further transgression by the interposition of death, and by
+causing sin to cease by the dissolution of the flesh...that man ceasing
+to live to sin, and dying to it, might begin to live to God.\"
 
-Irenaeus states the creed of the church in his day, AD 160, as a belief
-in "one God, the Father Almighty. Maker of heaven and earth, and the
-sea, and all things that are in them; and in one Christ Jesus, the Son
-of God, who became incarnate for our salvation; and in the Holy Spirit
-who proclaimed through the prophets the dispensation of God, and the
-advents, and the birth from a virgin, and the passion, and the
+**Irenaeus** states the creed of the church in his day, 160 AD, as a
+belief in "one God, the Father Almighty. Maker of heaven and earth, and
+the sea, and all things that are in them; and in one Christ Jesus, the
+Son of God, who became incarnate for our salvation; and in the Holy
+Spirit who proclaimed through the prophets the dispensation of God, and
+the advents, and the birth from a virgin, and the passion, and the
 resurrection from the dead, and the ascension into heaven in the flesh
 of the beloved Christ Jesus our Lord, and his manifestation from heaven
-in the glory of the Father \'to gather all things in one,\' (Eph. 1:10)
-and to raise up anew all flesh of the whole human race, in order that to
-Christ Jesus, our Lord, and God, and Savior, and King, according to the
-will of the invisible Father, 'every knee should bow, of things in
-heaven, and things in earth, and things under the earth, and that every
-tongue should confess to him,' (Phil. 2:10, 11) and that he should
-execute just judgment towards all; that he may send \'spiritual
-wickedness,\' (Eph. 6: 12) and the angels who transgressed and became
-apostates, together with the ungodly and unrighteous, and wicked and
-profane among men, into *aionion* fire; and may in the exercise of his
-grace, confer immortality upon the righteous, and holy, and those who
-have kept his commandments, and have persevered in his love, some from
-the beginning, and others from their repentance, and may surround them
-with everlasting glory.\"
+in the glory of the Father \'to gather all things in one,\' (Ephesians
+1:10) and to raise up anew all flesh of the whole human race, in order
+that to Christ Jesus, our Lord, and God, and Savior, and King, according
+to the will of the invisible Father, 'every knee should bow, of things
+in heaven, and things in earth, and things under the earth, and that
+every tongue should confess to him,' (Philippians 2:10, 11) and that he
+should execute just judgment towards all; that he may send \'spiritual
+wickedness,\' (Ephesians 6:12) and the angels who transgressed and
+became apostates, together with the ungodly and unrighteous, and wicked
+and profane among men, into *aionion* fire; and may in the exercise of
+his grace, confer immortality upon the righteous, and holy, and those
+who have kept his commandments, and have persevered in his love, some
+from the beginning, and others from their repentance, and may surround
+them with everlasting glory.\"
 
 The reader must not forget that the use of the phrase, aionion fire,
 does not give any color to the idea that lrenaeus taught endless
