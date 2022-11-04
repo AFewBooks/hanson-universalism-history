@@ -5866,11 +5866,11 @@ endure punishment without amendment."[^311]
 
 # 16. Theodore of Mopsuestia and the Nestorians. 
 
-Theodore of Mopsuestia was born in Antioch, AD 350, and died 428 or 429.
+Theodore of Mopsuestia was born in Antioch, 350 AD, and died 428 or 429.
 He ranked next to Origen in the esteem of the ancient church. For nearly
 fifty years he maintained the cause of the church in controversy with
 various classes of assailants, and throughout his life his orthodoxy was
-regarded as unimpeachable. He was bishop for thirty-six years, and died
+regarded as unimpeachable. He was bishop for thirty-six years and died
 full of honors; but after he had been in his grave a hundred and
 twenty-five years, the church had become so corrupted by heathenism that
 it condemned him for heresy. He was anathematized for Nestorianism, but
@@ -5879,59 +5879,60 @@ must have caused his exalted views of God\'s character and man\'s
 destiny to prevail more extensively among the masses than appears in the
 surviving literature of his times.
 
-His own words are: \"The wicked who have committed evil the whole period
+His own words are: "The wicked who have committed evil the whole period
 of their lives shall be punished till they learn that, by continuing in
 sin, they only continue in misery. And when, by this means, they shall
 have been brought to fear God, and to regard him with good will, they
 shall obtain the enjoyment of his grace. For he never would have said,
-\'until thou hast paid the uttermost farthing,\' unless we can be
-released from suffering after having suffered adequately for sin; nor
-would he have said, \'he shall be beaten with many stripes,\' and again,
-'he shall be beaten with few stripes,' unless the punishment to be
-endured for sin will have an end.\"[^312]
+'until you have paid the uttermost farthing,' unless we can be released
+from suffering after having suffered adequately for sin; nor would he
+have said, 'he shall be beaten with many stripes,' and again, 'he shall
+be beaten with few stripes,' unless the punishment to be endured for sin
+will have an end."[^312]
 
-Professor E. H. Plumptre writes: \"Theodore of Mopsuestia teaches that
-in the world to come those who have done evil all their life long will
-be made worthy of the sweetness of the divine beauty.\" And in the
-course of a statement of Theodore\'s doctrine, Prof. Swete
-observes[^313] that Theodore teaches that \"the punishments of the
-condemned will indeed be in their nature eternal, being such as belong
-to eternity and not to time, but both reason and Scripture lead us to
-the conclusion that they will be remissible upon repentance. 'Where,' he
-asks, \'would be the benefit of a resurrection to such persons, if they
-were raised only to be punished without end?' Moreover, Theodore\'s
-fundamental conception of the mission and person of Christ tells him to
-believe that there will be a final restoration of all creation.\"[^314]
-Theodore writes on Rom. 6:6: \"All have the hope of rising with Christ,
+Professor E. H. Plumptre writes: "Theodore of Mopsuestia teaches that in
+the world to come those who have done evil all their life long will be
+made worthy of the sweetness of the divine beauty." And in the course of
+a statement of Theodore\'s doctrine, Prof. **Swete** observes[^313] that
+Theodore teaches that "the punishments of the condemned will indeed be
+in their nature eternal, being such as belong to eternity and not to
+time, but both reason and Scripture lead us to the conclusion that they
+will be remissible upon repentance. 'Where,' he asks, 'would be the
+benefit of a resurrection to such persons, if they were raised only to
+be punished without end?' Moreover, Theodore\'s fundamental conception
+of the mission and person of Christ tells him to believe that there will
+be a final restoration of all creation."[^314]
+
+Theodore writes on Romans 6:6: "All have the hope of rising with Christ,
 so that the body having obtained immortality, thenceforward the
 proclivity to evil should be removed. God recapitulated all things in
 Christ ... as though making a compendious renewal and restoration of the
 whole creation to him. Now this will take place in a future age, when
 all mankind, and all powers possessed of reason, look up to him as is
-right, and obtain mutual concord and firm peace.\"[^315]
+right, and obtain mutual concord and firm peace."[^315]
 
 Theodore is said to have introduced universal restoration into the
 liturgy of the Nestorians, of which sect he was one of the founders. His
-words were translated into the Syriac, and constituted the office of
+words were translated into the Syriac and constituted the office of
 devotion among that remarkable people for centuries. His works were
 circulated all through Eastern Asia, through which, says Neander, the
 Nestorians diffused Christianity. This great body of Christians exerted
 a mighty influence until they were nearly annihilated by the merciless
 Tamerlane. He is still venerated among the Nestorians as the
-\"Interpreter.\"
+"Interpreter."
 
 In Theodore\'s confession of faith he says, after stating that Adam
 began the first and mortal state, "But Christ the Lord began the second
 state. He in the future, revealed from heaven, will restore us all into
-communion with himself. For the apostle says: \'The first man was of the
-earth earthy, the second man is the Lord from heaven,\' that is, who is
+communion with himself. For the apostle says: 'The first man was of the
+earth earthy, the second man is the Lord from heaven,' that is, who is
 to appear hereafter thence, that he may restore all to the likeness of
 himself."[^316]
 
-The moderate and evangelical Dorner becomes eulogistic when referring to
-this eminent Universalist: "Theodore of Mopsuestia was the crown and
-climax of the school of Antioch. The compass of his learning, his
-acuteness, and as we must suppose also, the force of his personal
+The moderate and evangelical **Dorner** becomes eulogistic when
+referring to this eminent Universalist: "Theodore of Mopsuestia was the
+crown and climax of the school of Antioch. The compass of his learning,
+his acuteness, and as we must suppose also, the force of his personal
 character, conjoined with his labors through many years as a teacher
 both of churches and of young and talented disciples, and as a prolific
 writer, gained for him the title of Magister Orientis."[^317] He "was
@@ -5946,11 +5947,11 @@ For since God created man when he did not exist, and made him ruler of
 so extended a system, and offered so great blessings for his enjoyment,
 it was impossible that he should not have prevented the entrance of sin,
 if he had not known that it would be ultimately for his advantage." He
-also says that God has demonstrated that \"the same result (that is seen
-in the example of Christ) shall be effected in all his creatures.\" ...
-God has determined \"that there should be first a dispensation including
+also says that God has demonstrated that "the same result (that is seen
+in the example of Christ) shall be effected in all his creatures." ...
+God has determined "that there should be first a dispensation including
 evils, and that then they should be removed and universal good take
-their place.\" He taught that Christ is an illustration of universal
+their place." He taught that Christ is an illustration of universal
 humanity, which will ultimately achieve his status.
 
 It may be mentioned that though Origen and Theodore were Universalists,
@@ -5958,7 +5959,7 @@ they reached their conclusions by different processes. Origen exalted
 the freedom of the will, and taught that it could never be trammeled, so
 that reformation could never be excluded from any soul. He held to
 man\'s pre-existence, and that his native sinfulness resulted from
-misconduct in a previous state of being. He was also extremely mystical,
+misconduct in a previous state of being. He was also extremely mystical
 and allegorized and spiritualized the Scripture. Its literal meaning was
 in his eyes of secondary account. Theodore, on the other hand, developed
 the grammatical and historical meaning of the Word, and discarded
@@ -5966,80 +5967,81 @@ Origen\'s mysticism and allegorizing, and his doctrine of man\'s
 pre-existence, and instead of regarding man as absolutely free,
 considered him as part of a divine plan to be ultimately guided by God
 into holiness. Both were Universalists, but they pursued different
-routes to the same divine goal. It is interesting to note the emphasis
-the early Universalists placed upon different points. The Gnostics
-argued universal salvation from the disciplinary process of
-transmigration; the Sibylline Oracles from the prayers of the good who
-could not tolerate the sufferings of the damned; Clemens Alexandrinus
-proved it from the remedial influence of all God\'s punishments; Origen
-urged the foregoing, but added the freedom of the will, which would
-ultimately embrace the good; Diodorus put it on the ground that God\'s
-mercy exceeds all the desert of sin; Theodore of Mopsuestia, that sin is
-an incidental part of human education, etc.
+routes to the same divine goal.
+
+It is interesting to note the emphasis the early Universalists placed
+upon different points. The Gnostics argued universal salvation from the
+disciplinary process of transmigration; the *Sibylline Oracles* from the
+prayers of the good who could not tolerate the sufferings of the damned;
+Clemens Alexandrinus proved it from the remedial influence of all God\'s
+punishments; Origen urged the foregoing, but added the freedom of the
+will, which would ultimately embrace the good; Diodorus put it on the
+ground that God\'s mercy exceeds all the desert of sin; Theodore of
+Mopsuestia, that sin is an incidental part of human education, etc.
 
 After the condemnation of Origen, Theodore and Gregory, most of their
 works were destroyed by their bigoted enemies. The loss to the world by
 the destruction of their writings is irreparable. Some of Theodore\'s
 works are thought to exist in Syriac, in the Nestorian literature. The
 future may recover some of them, as the recent past has rescued the
-Sinaitic codex, the \"Book of Enoch,\" and other ancient manuscripts.
+Sinaitic codex, the *Book of Enoch*, and other ancient manuscripts.
 
 The liturgies of the Nestorians, largely composed by Theodore, breathe
 the spirit of the universal Gospel. In the sacramental liturgy he
-introduces Col. 1:19, 20, to sustain the idea of universal restoration:
-"For it pleased the Father that in him should all fullness dwell; and
-having made peace through the blood of his cross, by him to reconcile
-all things unto himself; by him, I say, whether they be things in earth,
-or things in heaven."[^318]
+introduces Colossians 1:19, 20, to sustain the idea of universal
+restoration: "For it pleased the Father that in him should all fullness
+dwell; and having made peace through the blood of his cross, by him to
+reconcile all things unto himself; by him, I say, whether they be things
+in earth, or things in heaven."[^318]
 
 ## The Nestorians. 
 
 The creed of the Nestorians never did, and does not in modern times,
-contain any recognition of endless punishment. Mosheim says: \"It is to
+contain any recognition of endless punishment. Mosheim says: "It is to
 the honor of this sect that, of all the Christian residents of the East,
 they have preserved themselves free from the numberless superstitions
-which have found their way into the Greek and Latin churches.\"
+which have found their way into the Greek and Latin churches."
 
-AD 431, Nestorius and his followers were excommunicated from the
+In 431 AD, Nestorius and his followers were excommunicated from the
 orthodox church for holding that Christ existed in two persons instead
 of two natures. They denied the accusation, but their enemies prevailed.
-Nestorius refused to call Mary \"The Mother of God,\" but was willing to
+Nestorius refused to call Mary "The Mother of God," but was willing to
 compromise between those who held her to be such, and those who regarded
-her as "Mother of man," by calling her \"Mother of Christ.\"[^319] The
+her as "Mother of man," by calling her "Mother of Christ."[^319] The
 wonderful preservation and Christian zeal of the Nestorians under the
 yoke of Islam is one of the marvels of history.
 
 The worse than heathen Athanasian creed is not contained in any
 Nestorian ritual. Nor is the so-called Apostles\' creed. But the Nicene
-is recognized. Among those immortalized in the \"Gezza\" are Gregory,
+is recognized. Among those immortalized in the "Gezza" are Gregory,
 Basil, Theodore of Mopsuestia, and Diodore, all Universalists. In the
 liturgy, said to be by Nestorius himself, but in which Theodore probably
-had a hand, occurs this language: \"All the dead have slept in the hope
-of Thee, that by thy glorious resurrection Thou wouldest raise them up
-in glory.\"[^320]
+had a hand, occurs this language: "All the dead have slept in the hope
+of You, that by your glorious resurrection You would raise them up in
+glory."[^320]
 
 Subsequent hands have corrupted the faith of Nestorius and Theodore. For
-example, the \"Jewel,\" written by Mar Abd Yeshua, AD 1298, says that
-the wicked \"shall remain on the earth\" after the resurrection of the
-righteous, and \"shall be consumed with the fire of remorse...this is
-the true Hell whose fire is not quenched and whose worm dieth not.\" But
-the earlier faith did not contain these ideas. The litany in the Khudra,
-for Easter eve, has these words: \"O Thou Living One who descendedst to
-the abode of the dead and preachedst a good hope to the souls which were
-detained in Sheol, we pray Thee, O Lord, to have mercy upon us.\"
-\"Blessed is the king who has descended into Sheol and has raised us up,
-and who, by his resurrection, has given the promise of regeneration to
-the human race.\"
+example, the *Jewel*, written by Mar Abd Yeshua, 1298 AD, says that the
+wicked "shall remain on the earth" after the resurrection of the
+righteous, and "shall be consumed with the fire of remorse...this is the
+true Hell whose fire is not quenched and whose worm dies not." But the
+earlier faith did not contain these ideas. The litany in the Khudra, for
+Easter eve, has these words: "O You Living One who descended to the
+abode of the dead and preached a good hope to the souls which were
+detained in Sheol, we pray You, O Lord, to have mercy upon us." "Blessed
+is the king who has descended into Sheol and has raised us up, and who,
+by his resurrection, has given the promise of regeneration to the human
+race."
 
 After giving numerous testimonials to the educational, missionary and
 Christian zeal of the Nestorians and other followers of Theodore,
-Beecher says that these advocates of ancient Restorationism were \"in
-all other respects Orthodox,\" and that their views did not prevent them
-\"from establishing wide-spread systems of education, from illuminating
+Beecher says that these advocates of ancient Restorationism were "in all
+other respects Orthodox," and that their views did not prevent them
+"from establishing wide-spread systems of education, from illuminating
 the Arabs, and through them the dark churches who had sunk into midnight
-gloom.\" The Universalism of Theodore was salutary in its effects on
-himself and his followers. It did not \"cut the nerve of missionary
-enterprise.\"
+gloom." The Universalism of Theodore was salutary in its effects on
+himself and his followers. It did not "cut the nerve of missionary
+enterprise."
 
 ## Instructive Facts. 
 
@@ -6062,7 +6064,7 @@ reared as heathen, and even confess to have lived corrupt and vicious
 lives in their youth, Origen, the Gregories, Basil the Great, Didymus,
 Theodore, Theodorus and others were not only the greatest among the
 saints in their maturity, but were reared from birth by Christian
-parents, and grew up \"in the nurture and admonition of the Lord?\"
+parents, and grew up "in the nurture and admonition of the Lord?"
 
 Dr. Beecher pays this remarkable testimony: "*I do not know an unworthy,
 low, or mean character in any prominent, open, and avowed Restorationist
@@ -6077,23 +6079,23 @@ restoration. It may be that their views of Christ and the Gospel, which
 were decidedly Orthodox, exerted the main power to produce these
 results. But one thing is true: the doctrine of universal restoration
 did not hinder them. If not, then the inquiry will arise, Why should it
-now?\" "In that famous age of the church\'s story, the period embracing
+now?" "In that famous age of the church\'s story, the period embracing
 the Fourth and the earlier years of the Fifth Century, Universalism
 seems to have been the creed of the majority of Christians in East and
 West alike; perhaps even of a large majority...and in the roll of its
-teachers...were...most of the greatest names of the greatest age of
+teachers... were... most of the greatest names of the greatest age of
 primitive Christianity.... And this teaching, be it noted, is strongest
-where the language of the New Testament was a living tongue; i. e., in
+where the language of the New Testament was a living tongue; i.e., in
 the great Greek fathers; it is strongest in the church\'s greatest era,
 and declines as knowledge and purity decline. On the other hand, endless
 penalty is most strongly taught precisely in those quarters where the
 New Testament was less read in the original, and also in the most
 corrupt ages of the church."[^321]
 
-Note. --- Olshausen declares that the opposition to the doctrine of
+Note. --- **Olshausen** declares that the opposition to the doctrine of
 endless punishment and the advocacy of universal restoration has always
-been found in the church, and that it has \"a deep root in noble
-minds.\" His language is (Com. I., on Matt. 12:32:)
+been found in the church, and that it has "a deep root in noble minds."
+His language is (Com. I., on Matthew 12:32):
 
 (See pg. 225 in original for German).
 
