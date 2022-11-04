@@ -6107,20 +6107,20 @@ Sebaste were members, deserves a volume rather than the few pages at our
 command. Three of the four were bishops at one time. Macrina, her father
 and mother, her grandmother Macrina, and three of her brothers were all
 canonized as saints in the ancient church. We are not surprised that
-Butler, in his "Lives of the Fathers," should say; \"We admire to see a
+Butler, in his *Lives of the Fathers*, should say; "We admire to see a
 whole family of saints. This prodigy of grace, under God, was owing to
 the example, prayers and exhortation of the elder St. Macrina, which had
-this wonderful influence and effect.\"[^322]
+this wonderful influence and effect."[^322]
 
 ## \"Macrina the Blessed.\" 
 
-Macrina was bom AD 327. By her intellectual ability, force of character,
-and earnest piety she became the real head of the family, and largely
-shaped the lives of her distinguished brothers. She early added the name
-Thecla to her baptismal name, after the proto-martyr among Christian
-women. She was educated with great care by her mother, under whose
-direction she committed to memory large portions of the Bible, including
-the whole of the Psalms.
+Macrina was born in 327 AD. By her intellectual ability, force of
+character, and earnest piety she became the real head of the family, and
+largely shaped the lives of her distinguished brothers. She early added
+the name Thecla to her baptismal name, after the proto-martyr among
+Christian women. She was educated with great care by her mother, under
+whose direction she committed to memory large portions of the Bible,
+including the whole of the Psalms.
 
 Her rare personal beauty, great accomplishments and large fortune
 attracted many suitors; Gregory says she surpassed in loveliness all of
@@ -6266,9 +6266,9 @@ Basil says: \"The Lord\'s peace is co-extensive with all time. For all
 things shall be subject to him, and all things shall acknowledge his
 empire; and when God shall be all in all, those who now excite discord
 by revolts having been quite pacified, shall praise God in peaceful
-concord.\" \* \* \* On the words in Isaiah, 1:24: \"My anger will not
-cease, I will burn them,\" he says, \*\*And why is this? In order that I
-may purify.\"
+concord.\" ... On the words in Isaiah, 1:24: \"My anger will not cease,
+I will burn them,\" he says,.. And why is this? In order that I may
+purify.\"
 
 Basil was \"the strenuous champion of orthodoxy in the East, the
 restorer of union to the divided Oriental church, and the promoter of
@@ -6338,7 +6338,7 @@ say that there is to be an end of punishment.\"
 
 ## Gregory Nyssen. 
 
-He was born about AD 335, and died 390. He was made bishop 372. From the
+He was born about 335 AD and died 390. He was made bishop 372. From the
 time he was thirty-five until his death, he, Didymus and Diodorus of
 Tarsus, were the unopposed advocates of universal redemption. Most
 unique and valuable of all his works was the biography of his sister,
@@ -6404,7 +6404,7 @@ the purification (Greek)[^338] and of those who have not at all needed
 purification, (Greek).[^339]
 
 \"I believe that punishment will be administered in proportion to each
-one\'s corruptness....Therefore to whom there is much corruption
+one\'s corruptness.... Therefore to whom there is much corruption
 attached, with him it is necessary that the purgatorial time which is to
 consume it should be great, and of long duration; but to him in whom the
 wicked disposition has been already in part subjected, a proportionate
@@ -6763,15 +6763,15 @@ Theodoret says, on \"Gathering all things in Christ:\" \"And the visible
 creation shall be liberated from corruption, and shall attain
 incorruption, and the inhabitants of the invisible worlds shall live in
 perpetual joy, for grief and sadness and groaning shall be done away.\"
-\* \* \* On the universal atonement: --- \"Teaching that he would free
-from the power of death not only his own body, but at the same time the
+... On the universal atonement: --- \"Teaching that he would free from
+the power of death not only his own body, but at the same time the
 entire nature of the human race, he presently adds: \'And I, if I be
 lifted from the earth will draw all men unto me;\' for I will not suffer
 what I have undertaken to raise the body only, but I will fully
-accomplish the resurrection to all men. \* \* \* He has paid the debt
-for us, and blotted out the handwriting that was against us, \* \* \*
-and having done these things, he quickened together with himself the
-entire nature of men.\"
+accomplish the resurrection to all men.... He has paid the debt for us,
+and blotted out the handwriting that was against us, ... and having done
+these things, he quickened together with himself the entire nature of
+men.\"
 
 He formed his Christian system on Theodore\'s, and on that of Diodore of
 Tarsus, both Universalists. Allin says, he "was perhaps the most famous,
@@ -6811,21 +6811,21 @@ Origenist. He wrote three books, the \"Saint\" or \"Gnostic,\" the
 
 ## Cyril of Alexandria.
 
-Cyril of Alexandria (AD 412) says: \"Traversing the lowest recesses of
+Cyril of Alexandria (AD 412) says: "Traversing the lowest recesses of
 the infernal regions, after that he (Christ) had preached to the spirits
-there, he led forth the captives in his strength.\"[^364] \"Now when sin
+there, he led forth the captives in his strength."[^364] "Now when sin
 has been destroyed, how should it be but that death too, should wholly
-perish?\" \* \* \* "Through Christ has been saved the holy multitude of
-the fathers, nay, the whole human race altogether, which was earlier in
-time (than Christ\'s death) for he died for all, and the death of all
-was done away in him."[^365]
+perish?\" ... "Through Christ has been saved the holy multitude of the
+fathers, nay, the whole human race altogether, which was earlier in time
+(than Christ\'s death) for he died for all, and the death of all was
+done away in him."[^365]
 
 ## Rufinus.
 
 Rufinus, AD 345-410, wrote an elaborate defense of Origen, and in the
-preface to \"De Principiis\" he declares that he excised from that work
-of Origen all that was \"discordant with our (the accepted Christian)
-belief.\" As the work still abounds in expressions of Universalism, not
+preface to *De Principiis* he declares that he excised from that work of
+Origen all that was "discordant with our (the accepted Christian)
+belief." As the work still abounds in expressions of Universalism, not
 only his sympathy with that belief, but also the fact that it was then
 the prevailing Christian belief cannot be questioned. Huetsays that he
 taught the temporary duration of punishment.[^366]
@@ -6840,50 +6840,52 @@ him.\"[^367]
 
 ## Diodore, Bishop of Tarsus.
 
-Diodore, Bishop of Tarsus, from AD 378 to 394, was of the Antiochan or
-Syrian school. He opposed Origen on some subjects, but agreed with his
-Universalism. He says: \"For the wicked there are punishments, not
+Diodore, Bishop of Tarsus, from 378 to 394 AD, was of the Antiochan or
+Syrian school. He opposed Origen on some subjects but agreed with his
+Universalism. He says: "For the wicked there are punishments, not
 perpetual, however, lest the immortality prepared for them should be a
 disadvantage, but they are to be punished for a brief period according
 to the amount of malice in their works. They shall therefore suffer
 punishment for a short space, but immortal blessedness having no end
-awaits them \* \* \* the penalties to be inflicted for their many and
-grave sins are very far surpassed by the magnitude of the mercy to be
-showed them. The resurrection, therefore, is regarded as a blessing not
-only to the good, but also to the evil.\"[^368] The same authority
-affirms that many Nestorian bishops taught the same doctrine. The
-"Dictionary of Christian Biography" observes: "Diodorus of Tarsus taught
-that the penalty of sin is not perpetual, but issues in the blessedness
-of immortality, and (he) was followed by Stephanus, Bishop of Edessa,
-and Salomo of Bassora, and Isaac of Nineveh.\" \"Even those who are
-tortured in Gehenna are under the discipline of the divine charity.\"
-\"And they were followed in their turn by Georgius of Arbela, and Ebed
-Jesu of Soba.\" Diodore contended that God\'s mercy would punish the
-wicked less than their sins deserved, inasmuch as his mercy gave the
-good more than they deserved. He denied that Deity would bestow
-immortality for the purpose of prolonging and perpetuating suffering.
-Diodore and Theodore, the first, Chrysostom\'s teacher, and the second
-his fellow-student, were really the pioneers in teaching Scripture by
-help of history, criticism and philology.[^369] They may be regarded as
-the forerunners of modern interpretation. Like so many others of the
-ancient writings Diodore\'s works have perished, and we have only a few
-quotations from them, contained in the works of others. But we have
-enough to qualify him to occupy an honorable place among the
-Universalists of the Fourth Century.
+awaits them ... the penalties to be inflicted for their many and grave
+sins are very far surpassed by the magnitude of the mercy to be shown
+them. The resurrection, therefore, is regarded as a blessing not only to
+the good, but also to the evil."[^368]
 
-Even Dr. Pusey is compelled to admit the Universalism of Diodore of
+The same authority affirms that many Nestorian bishops taught the same
+doctrine. The *Dictionary of Christian Biography* observes: "Diodorus of
+Tarsus taught that the penalty of sin is not perpetual, but issues in
+the blessedness of immortality, and (he) was followed by Stephanus,
+Bishop of Edessa, and Salomo of Bassora, and Isaac of Nineveh." "Even
+those who are tortured in Gehenna are under the discipline of the divine
+charity." "And they were followed in their turn by Georgius of Arbela,
+and Ebed Jesu of Soba."
+
+Diodore contended that God\'s mercy would punish the wicked less than
+their sins deserved, inasmuch as his mercy gave the good more than they
+deserved. He denied that Deity would bestow immortality for the purpose
+of prolonging and perpetuating suffering. Diodore and Theodore, the
+first, Chrysostom\'s teacher, and the second his fellow-student, were
+really the pioneers in teaching Scripture by help of history, criticism
+and philology.[^369] They may be regarded as the forerunners of modern
+interpretation. Like so many others of the ancient writings Diodore\'s
+works have perished, and we have only a few quotations from them,
+contained in the works of others. But we have enough to qualify him to
+occupy an honorable place among the Universalists of the Fourth Century.
+
+Even Dr. **Pusey** is compelled to admit the Universalism of Diodore of
 Tarsus, and Theodore of Mopsuestia. He says, quoting from Salomo of
-Bassora, 1222, some eight hundred years after their death: \"The two
+Bassora, 1222, some eight hundred years after their death: "The two
 writers use different arguments and have different theories. Theodorus
-rests his on Holy Scripture, \'until thou hast paid the uttermost
-farthing,\' and \'the many and few stripes,\' and attributes the
-amendment of those who have done ill all their lives to the discovery of
-their mistake. Diodorus says that punishment must not be perpetual, lest
-the immortality prepared for them be useless to them; he twice repeats
-that punishment, though varied according to their deserts, would be for
-a short time. His ground was his conviction that since God\'s rewards so
+rests his on Holy Scripture, 'until you have paid the uttermost
+farthing,' and 'the many and few stripes,' and attributes the amendment
+of those who have done ill all their lives to the discovery of their
+mistake. Diodorus says that punishment must not be perpetual, lest the
+immortality prepared for them be useless to them; he twice repeats that
+punishment, though varied according to their deserts, would be for a
+short time. His ground was his conviction that since God\'s rewards so
 far exceed the deserts of the good, the like mercy would be shown to the
-evil.\"[^370]
+evil."[^370]
 
 ## Later Additional Authorities.
 
@@ -6892,16 +6894,16 @@ three authors may be named.
 
 ### Macarius.
 
-Macarius is said by Evagrius to have been ejected from his see, AD 552,
+Macarius is said by Evagrius to have been ejected from his see in 552,
 for maintaining the opinions of Origen. Whether universal restitution
 was among them is uncertain.
 
 ### Peter Chrysologus.
 
-Peter Chrysologus, AD 433, Bishop of Ravenna, in a sermon on the Good
-Shepherd, says the lost sheep represents \"the whole human race lost in
-Adam,\"and that Christ \"followed the one, seeks the one, in order that
-in the one he may restore all.\"
+Peter Chrysologus, 433, Bishop of Ravenna, in a sermon on the Good
+Shepherd, says the lost sheep represents "the whole human race lost in
+Adam," and that Christ "followed the one, seeks the one, in order that
+in the one he may restore all."
 
 ### Stephan Bar-Sudaili.
 
@@ -6919,24 +6921,24 @@ Palestine cannot be known.
 
 Maximus, the Confessor. As late as the Seventh Century, in spite of the
 power of Roman tyranny and Pagan error, the truth survived. Maximus ---
-AD 580-662 --- was secretary of the Emperor Heraclius, and confidential
+580-662 --- was secretary of the Emperor Heraclius, and confidential
 friend of Pope Martin I. He opposed the Emperor Constans II, in his
 attempts to control the religious convictions of his subjects, and was
-banished, AD 653, and died of ill treatment. He was both scholar and
+banished in 653 AD, and died of ill treatment. He was both scholar and
 saint. Neander says:
 
 \"The fundamental ideas of Maximus seem to lead to the doctrine of a
 final universal restoration, which in fact is intimately connected also
 with the system of Gregory of Nyssa, to which he most closely adhered.
 Yet he was too much fettered by the church system of doctrine distinctly
-to express anything of the sort.\" Neander adds, that in his aphorisms
-\"the reunion of all rational essences with God is established as the
-final end.\" \"Him who wholly unites all things in the end of the ages,
-or in eternity.\" Ueberweg states that \"Maximus taught that God had
+to express anything of the sort." Neander adds, that in his aphorisms
+"the reunion of all rational essences with God is established as the
+final end." "Him who wholly unites all things in the end of the ages, or
+in eternity." **Ueberweg** states that "Maximus taught that God had
 revealed himself through nature and by his Word. The incarnation of God
 in Christ was the culmination of revelation, and would therefore have
 taken place even if man had not fallen. The Universe will end in the
-union of all things with God.\"
+union of all things with God."
 
 # 19. The Deterioration of Christian Thought.
 
