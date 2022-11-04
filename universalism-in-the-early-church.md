@@ -2172,17 +2172,17 @@ by those to whom Greek was their native tongue, and that they declared
 that they derived it from the Greek Scriptures, while endless punishment
 was first taught by Africans and Latins, who derived it from a foreign
 tongue of which the great teacher of it confessed he was ignorant (See
-\"**Augustine**\" later on). Let the reader give to these considerations
+\"Augustine\" later on). Let the reader give to these considerations
 their full and proper weight, and it will be impossible to believe that
 the fathers regarded the impenitent as consigned at death to hopeless
 and endless woe.
 
-Note.--- After giving the emphatic language of **Clement** and
-**Origen** and other ancient Christians declarative of universal
-holiness, Dr. **Bigg**, in his valuable book, *The Christian Platonists
-of Alexandria*, frequently quoted in these pages, remarks:[^153]
-\"Neither Clement nor Origen is, properly speaking, a Universalist. Nor
-is Universalism the logical result of their principles.\" The reasons he
+Note.--- After giving the emphatic language of Clement and Origen and
+other ancient Christians declarative of universal holiness, Dr.
+**Bigg**, in his valuable book, *The Christian Platonists of
+Alexandria*, frequently quoted in these pages, remarks:[^153] \"Neither
+Clement nor Origen is, properly speaking, a Universalist. Nor is
+Universalism the logical result of their principles.\" The reasons he
 gives are two: (1) They believed in the freedom of the will; and (2)
 they did not deny the eternity of punishment, because the soul that has
 sinned beyond a certain point can never become what it might have been!
@@ -2208,7 +2208,7 @@ fill the place which the mystery of the economy assigns to him.\"
 
 It would be interesting to learn what sort of a monstrosity Dr. **Bigg**
 has constructed and labeled with the word which he declares could not be
-applied to **Clement** and **Origen**.
+applied to Clement and Origen.
 
 # 6. The Apostles' Immediate Successors. 
 
@@ -2232,13 +2232,13 @@ Christianity; their ideas of our Lord\'s teaching concerning human
 destiny and on other subjects were tinctured by their antecedent
 predilections. Their doctrines on many points were colored by Jewish and
 Pagan errors, until their minds were clarified, when the more systematic
-teachers came, --- **Clement**, **Origen** and others, who eliminated
-the errors Christian converts had brought with them from former
-associations and presented Christianity as Christ taught it. The
-measures of meal were more or less impure until the leaven of genuine
-Christianity transformed them. But it is conceded that there is little
-left of the apostolic age, out of the New Testament, to tell us what
-their ideas of human destiny were.
+teachers came, --- Clement, Origen and others, who eliminated the errors
+Christian converts had brought with them from former associations and
+presented Christianity as Christ taught it. The measures of meal were
+more or less impure until the leaven of genuine Christianity transformed
+them. But it is conceded that there is little left of the apostolic age,
+out of the New Testament, to tell us what their ideas of human destiny
+were.
 
 It is probable, however, that the Pharisaic notion of a partial
 resurrection and the annihilation of the wicked was held by some, and
@@ -2257,27 +2257,27 @@ religion, and sifted out the wheat from the chaff.
 
 ## Clement of Rome.
 
-The first of the apostolic fathers was **Clement of Rome**, who was
-bishop from 85 AD. **Eusebius** and **Origen** thought he was Paul\'s
-fellow laborer. His famous (first) epistle of fifty-nine chapters is
-about the length of Mark\'s Gospel. He appeals to the destruction of the
-cities of Rome to illustrate the divine punishments but gives no hint of
-the idea of endless woe, though he devotes three chapters to the
-resurrection. He has been thought to have held to a partial
-resurrection, for he asks: \"Do we then deem it any great and wonderful
-thing for the maker of all things to raise up again those who have
-proudly served him in the assurance of a good faith?\" But this does not
-prove he held to the annihilation of the wicked, for **Theophilus** and
-**Origen** use similar language. He says: \"Let us reflect how free from
-wrath he is towards all his creatures.\" God "does good to all, but most
-abundantly to us who have fled for refuge to his compassions," etc. God
-is "the all-merciful and beneficent Father." **Neander** affirms that he
-had the Pauline spirit, \"with love as the motive," and **A. St. J.
-Chambre**, D. D.,[^155] thinks \"he probably believed in the salvation
-of all men,\" and **Allin**[^156] refers to **Rufinus** and says, \"from
-which we may, I think, infer, that Clement, with other fathers, was a
-believer in the larger hope.\" It cannot be said that he has left
-anything positive in relation to the subject, though it is probable that
+The first of the apostolic fathers was Clement of Rome, who was bishop
+from 85 AD. **Eusebius** and **Origen** thought he was Paul\'s fellow
+laborer. His famous (first) epistle of fifty-nine chapters is about the
+length of Mark\'s Gospel. He appeals to the destruction of the cities of
+Rome to illustrate the divine punishments but gives no hint of the idea
+of endless woe, though he devotes three chapters to the resurrection. He
+has been thought to have held to a partial resurrection, for he asks:
+\"Do we then deem it any great and wonderful thing for the maker of all
+things to raise up again those who have proudly served him in the
+assurance of a good faith?\" But this does not prove he held to the
+annihilation of the wicked, for **Theophilus** and **Origen** use
+similar language. He says: \"Let us reflect how free from wrath he is
+towards all his creatures.\" God "does good to all, but most abundantly
+to us who have fled for refuge to his compassions," etc. God is "the
+all-merciful and beneficent Father." **Neander** affirms that he had the
+Pauline spirit, \"with love as the motive," and **A. St. J. Chambre**,
+D. D.,[^155] thinks \"he probably believed in the salvation of all
+men,\" and **Allin**[^156] refers to **Rufinus** and says, \"from which
+we may, I think, infer, that Clement, with other fathers, was a believer
+in the larger hope.\" It cannot be said that he has left anything
+positive in relation to the subject, though it is probable that
 **Chambre** and **Allin** have correctly characterized him.
 
 He wrote a Greek epistle to the Corinthians which was lost for
@@ -2709,7 +2709,7 @@ shall be a judgment, the award of which shall be distributed according
 to conduct; but he nowhere refers to the duration of punishment. He was,
 however, the head of the Catechetical school in Alexandria, before
 **Pantaenus**, and must have shared the Universalist views of
-**Pantaenus**, **Clement** and **Origen**, his successors.
+**Pantaenus**, Clement and Origen, his successors.
 
 ## Theophilus.
 
@@ -4981,19 +4981,23 @@ not considered sufficiently heretical to entitle it to censure.[^269]
 This chief Universalist of the centuries immediately succeeding the
 apostles was, by general consent, the most erudite and saintly of all
 the Christian fathers. Historians, scholars, critics, men of all shades
-of thought and opinion emulate one another in exalting his name, and
+of thought and opinion emulate one another in exalting his name and
 praising his character. This volume could be filled with their
-eulogiums. Says one of the most judicious historians: \"If any man
-deserves to stand first in the catalogue of saints and martyrs, and to
-be annually held up as an example to Christians, this is the man, for
-except the apostles of Jesus Christ, and their companions, I know of no
-one among all those enrolled and honored as saints who excel him in
-virtue and holiness.\"[^270] A discriminating critic declares: \"His
-work upon the text of Scripture alone would entitle Origen to undying
-gratitude. There has been no truly great man in the church who did not
-love him a little.\"[^271] Bunsen remarks: \"Origen\'s death is the real
-end of free Christianity, and in particular, of free intellectual
-theology.\"[^272]
+eulogiums.
+
+Says one of the most judicious historians: \"If any man deserves to
+stand first in the catalogue of saints and martyrs, and to be annually
+held up as an example to Christians, this is the man, for except the
+apostles of Jesus Christ, and their companions, I know of no one among
+all those enrolled and honored as saints who excel him in virtue and
+holiness.\"[^270]
+
+A discriminating critic declares: \"His work upon the text of Scripture
+alone would entitle Origen to undying gratitude. There has been no truly
+great man in the church who did not love him a little.\"[^271]
+
+Bunsen remarks: \"Origen\'s death is the real end of free Christianity,
+and in particular, of free intellectual theology.\"[^272]
 
 The learned author of \"The Martyrs and Apologists\" truthfully
 observes: \"Origen never swerved from this Christian magnanimity, and he
@@ -5003,6 +5007,7 @@ convictions without faltering, and neither retracted nor rebelled. We
 may well say with the candid Tillemont that although such a man might
 hold heretical opinions he could not be a heretic, since he was utterly
 free from that spirit which constitutes the guilt of heresy.\"[^273]
+
 Canon Westcott writes: "He examines with a reverence, an insight, a
 grandeur of feeling never surpassed, the questions of the inspiration
 and the interpretation of the Bible. The intellectual value of the work
@@ -5011,21 +5016,24 @@ was quoted by Butler as containing the germ of his 'Analogy.' After
 sixteen hundred years we have not yet made good the positions which he
 marked out as belonging to the domain of Christian philosophy.... His
 whole life was \'one unbroken prayer\' to use his own language of what
-an ideal life should be.\"[^274] The sober historian Lardner records
-only a candid appreciation of the man when he says: \"He had the
-happiness of uniting different accomplishments, being at once the
-greatest preacher and the most learned and voluminous writer of the age;
-nor is it easy to say which is most admirable, his learning or his
-virtue.\"[^275] Plumptre vies with Origen\'s other eulogists, and Farrar
-in all his remarkable books can never say enough in his praise. A brief
-extract from him will suffice: \"The greatest of all the fathers, the
-most apostolic man since the days of the apostles, the father who on
-every branch of study rendered to the church the deepest and widest
-services --- the immortal Origen.... The first writer, the profoundest
-thinker, the greatest educator, the most laborious critic, the most
-honored preacher, the holiest confessor of his age. We know of no man in
-the whole Christian era, except St. Paul, who labored so incessantly,
-and rendered to the church such inestimable services. We know of no man,
+an ideal life should be.\"[^274]
+
+The sober historian Lardner records only a candid appreciation of the
+man when he says: \"He had the happiness of uniting different
+accomplishments, being at once the greatest preacher and the most
+learned and voluminous writer of the age; nor is it easy to say which is
+most admirable, his learning or his virtue.\"[^275]
+
+Plumptre vies with Origen\'s other eulogists, and Farrar in all his
+remarkable books can never say enough in his praise. A brief extract
+from him will suffice: \"The greatest of all the fathers, the most
+apostolic man since the days of the apostles, the father who on every
+branch of study rendered to the church the deepest and widest services
+--- the immortal Origen.... The first writer, the profoundest thinker,
+the greatest educator, the most laborious critic, the most honored
+preacher, the holiest confessor of his age. We know of no man in the
+whole Christian era, except St. Paul, who labored so incessantly, and
+rendered to the church such inestimable services. We know of no man,
 except St. Paul, who had to suffer from such black and bitter
 ingratitude. He, the converter of the heathen, the strengthener of the
 martyrs, the profoundest of Christian teachers, the greatest and most
@@ -5049,23 +5057,23 @@ reverence due to one of the greatest and one of the best of the saints
 of God.\"
 
 Even modern Catholics --- in spite of the ban of pope and council ---
-join the great army of Origen\'s eulogists. Says the \"Catholic World:\"
+join the great army of Origen\'s eulogists. Says the *Catholic World*:
 
-\"Alexandria, the cradle of Eastern genius at that time, became the
+"Alexandria, the cradle of Eastern genius at that time, became the
 Christian Thermopylae, and Origen the Christian Leonidas. It was he who
 headed the forces, and, by the splendor of his genius, prepared in his
 school illustrious men to lead on the van. He vindicated the truth from
 calumny, supported it by facts, disengaged it from the sophisms in which
 enemies had obscured it, and held it up to view in all its natural
-beauty and attraction. \* \* Heathens were delighted with his language,
-full of unction and charm, and the literati of the age, who had been
-lost in the intricacies of Aristotle, the obscurities of Plato, and the
+beauty and attraction...Heathens were delighted with his language, full
+of unction and charm, and the literati of the age, who had been lost in
+the intricacies of Aristotle, the obscurities of Plato, and the
 absurdities of Epicurus, wondered at the young Christian
 philosopher.\"[^276]
 
 Referring to the hard words that most advocates of universal redemption
 who are past middle life have received, Rev. Edward Beecher, D. D.,
-declares, in his \"History of the Doctrine of Future Retribution:\" \"An
+declares, in his *History of the Doctrine of Future Retribution*: \"An
 evil spirit was developed at that time in putting down Origen which has
 ever since poisoned the church of all denominations. It has been as a
 leprosy in all Christendom. Nor is this all: measures were then resorted
@@ -5092,7 +5100,7 @@ beside the finished work of a master.... By proclaiming the
 reconciliation of science with the Christian faith, of the highest
 culture with the Gospel, Origen did more than any other man to win the
 Old World to the Christian religion. But he entered into no diplomatic
-compromises ; it was his deepest and most solemn conviction that the
+compromises; it was his deepest and most solemn conviction that the
 sacred oracles of Christendom embraced all the ideals of antiquity. His
 character was as transparent as his life was blameless; there are few
 church fathers whose biography leaves so pure an impression on the
@@ -5104,7 +5112,7 @@ the confessions, ventured beyond the circle which the mind of Origen
 first measured out.\"
 
 We conclude these eulogies, which might be multiplied indefinitely, by
-giving the high authority of Max Muller: \"Origen was as honest as a
+giving the high authority of **Max Muller**: "Origen was as honest as a
 Christian as he was as a philosopher, and it was this honesty which made
 Christianity victorious in the Third Century, and will make it
 victorious again whenever it finds supporters who are determined not to
@@ -5114,8 +5122,8 @@ consider the time in which he lived, and study the testimony which his
 contemporaries bore of his character, we may well say of him, as of
 others who have been misjudged by posterity:
 
-> \'Denn wer den Besten seiner Zeit genug gelebt,\
-> Der hat genug gelebt fur alle Zeiten.\'\"[^277]
+> '*Denn wer den Besten seiner Zeit genug gelebt,\
+> Der hat genug gelebt fur alle Zeiten.*'"[^277]
 
 If any man since the death of Paul should rank as the patron saint of
 the Universalist church, it is the greatest and best of all the ancient
@@ -5128,95 +5136,100 @@ that souls may repent and be saved, and sin and fall forever. But this
 is not true, for Origen taught that at some period in the future, love
 and holiness will be so absorbed by all souls that, though,
 theoretically, they will be free, they will so will that lapse will be
-impossible. Jerome, Justinian, Dr. Pond, and others are explicitly
+impossible. Jerome, Justinian, Dr. **Pond**, and others are explicitly
 confuted by the great scholar and saint. In his comments on Romans 6:9,
 10, he says: \"The apostle decides, by an absolute decision, that now
 Christ dies no more, in order that those who live together with him may
 be secure of the endlessness of their life.... Free-will indeed remains,
 but the power of the cross suffices for all orders, and all ages, past
 and to come. And that free-will will not lead to sin, is plain, because
-love never faileth, and when God is loved with all the heart, and soul,
+love never fails, and when God is loved with all the heart, and soul,
 and mind, and strength, and our neighbor as ourselves, where is the
-place for sin?\" In his great work \"De Principiis,\" he declares: \"The
-nature of this body of ours will be changed into the glory of a
-spiritual body, in which state we are to believe that it will remain
-always and immutably by the will of the Creator,\" etc. Though Origen
-insisted that the human will must forever be free, he did not admit that
-the soul could abuse its freedom by continuing forever to lapse into
-sin.
+place for sin?\"
+
+In his great work *De Principiis*, he declares: \"The nature of this
+body of ours will be changed into the glory of a spiritual body, in
+which state we are to believe that it will remain always and immutably
+by the will of the Creator,\" etc. Though Origen insisted that the human
+will must forever be free, he did not admit that the soul could abuse
+its freedom by continuing forever to lapse into sin.
 
 # 13. A Third Century Group.
 
 While we mourn that so little of the literature of the early days of our
 religion remains, the wonder is that we have so much, rather than so
 little. The persecutions of Decius and Diocletian --- especially of the
-latter --- were most unrelenting towards Christian books.[^278] \"The
-volumes which escaped from the perils of those days were like brands
-snatched from the fire.\" \"A little dust --- precious, indeed, as gold
---- in a few sepulchral urns, is all that now remains.\" And later, the
-burning of the Alexandrine library by the Arabs, the destructive
-persecutions of heretics, the ban of council, and the curse of pope and
-priest, in the church\'s long eclipse, destroyed innumerable volumes, so
-that there is ample reason to believe that, could we inspect all that
-Clement, Origen and others wrote, in the original Greek, untampered
-with, we should have pages where we now have sentences avowing
-Universalism. Occasionally an ancient volume is yet found, accidentally
-buried, as was the Philosophumena of Hippolytus, formerly attributed to
-Origen, discovered by a learned Greek in a monastery on Mount Athos, in
-the year 1842. Of the ten books contained in the volume, the second, the
-third, and the beginning of the fourth are gone.
+latter --- were most unrelenting towards Christian books.[^278]
+
+"The volumes which escaped from the perils of those days were like
+brands snatched from the fire."
+
+"A little dust --- precious, indeed, as gold --- in a few sepulchral
+urns, is all that now remains."
+
+And later, the burning of the Alexandrine library by the Arabs, the
+destructive persecutions of heretics, the ban of council, and the curse
+of pope and priest, in the church\'s long eclipse, destroyed innumerable
+volumes, so that there is ample reason to believe that, could we inspect
+all that Clement, Origen and others wrote, in the original Greek,
+untampered with, we should have pages where we now have sentences
+avowing Universalism. Occasionally an ancient volume is yet found,
+accidentally buried, as was the Philosophumena of Hippolytus, formerly
+attributed to Origen, discovered by a learned Greek in a monastery on
+Mount Athos, in the year 1842. Of the ten books contained in the volume,
+the second, the third, and the beginning of the fourth are gone.
 
 ## Hippolytus.
 
-Hippolytus (about AD 220) enumerates and comments on thirty-two
-heresies, but universal restoration is not named among them.[^279]And
+Hippolytus (about 220 AD) enumerates and comments on thirty-two
+heresies, but universal restoration is not named among them.[^279] And
 yet, Clement of Alexandria, and Origen --- then living --- were
 everywhere regarded as the great teachers of the church, and their view
 of man\'s future destiny was generally prevalent, according to
 Augustine, Jerome and others. It could not then have been regarded as a
-\"heresy\" or Hippolytus would have named it. What a force there is in
-the fact that not one of those who wrote against the heresies of their
-times ever name universal salvation as one of them! Hippolytus mentions
-thirty-two. Epiphanius wrote his Panarion and epitomized it in his
-Anacephalaeosis or Recapitulation, but not one of the heresy-hunters
+"heresy" or Hippolytus would have named it. What a force there is in the
+fact that not one of those who wrote against the heresies of their times
+ever name universal salvation as one of them! Hippolytus mentions
+thirty-two. Epiphanius wrote his *Panarion* and epitomized it in his
+*Anacephalaeosis* or *Recapitulation*, but not one of the heresy-hunters
 includes our faith in his maledictions. Can there be stronger evidence
 than this fact that the doctrine was not then heretical?
 
-It is curious to notice how the mind of a theolo- gian can be
-prejudiced. Dean Wordsworth in his translation of Hippolytus gives the
-language of that contemporary of Origen, to show that the former had no
-sympathy with the broad faith of the latter. He quotes Hippolytus thus:
-\"The coming malediction of the judgment of fire, and the dark and
-rayless aspect of tartarus, not irradiated by the voice of the Word, and
-the surge of the ever-flowing lake, generating fire, and the eye of
+It is curious to notice how the mind of a theologian can be prejudiced.
+**Dean Wordsworth** in his translation of Hippolytus gives the language
+of that contemporary of Origen, to show that the former had no sympathy
+with the broad faith of the latter. He quotes Hippolytus thus: \"The
+coming malediction of the judgment of fire, and the dark and rayless
+aspect of tartarus, not irradiated by the voice of the Word, and the
+surge of the ever-flowing lake, generating fire, and the eye of
 tartarean avenging angels ever fixed in malediction,\" etc. The Dean
-unwarrantably, because inaccurately, translates *kolaston* \"avenging,\"
-a meaning it does not possess. It is rendered punish, chastise, correct,
+unwarrantably, because inaccurately, translates *kolaston* "avenging," a
+meaning it does not possess. It is rendered punish, chastise, correct,
 but never carries the sense of revenge. Furthermore, disregarding the
 fact that the acknowledged Universalist fathers denounce the sinner with
 words as intense as is the above language, which may be literally
-fulfilled and yet restoration ensue beyond it all, the Dean renders the
-very next paragraph thus: \"You will have your body immortal
-(greek)[^280] and incorruptible (greek), together with your soul\"
+fulfilled and yet restoration ensue beyond it all, the **Dean** renders
+the very next paragraph thus: "You will have your body immortal
+(greek)[^280] and incorruptible (greek), together with your soul"
 (greek, life). Now had Hippolytus intended to teach the absolutely
-interminable duration of the \"tartarean fire,\" would he not have used
+interminable duration of the "tartarean fire," would he not have used
 these stronger terms, *aphtharton* and *athanaton*, which are never
 employed in the New Testament to teach limited duration, and is not the
 fact that he used the weaker word to describe punishment, evidence that
-he did not in this passage in the \"Philosophumena\" intend to teach the
+he did not in this passage in the *Philosophumena* intend to teach the
 sinner\'s endless torment?
 
-Not less surprising is the language of Dean Wordsworth, and his
-misreading of the facts of his- tory, when he comments on the harsh and
+Not less surprising is the language of **Dean Wordsworth**, and his
+misreading of the facts of history, when he comments on the harsh and
 bitter tone of Hippolytus, in his treatment of heretics, in the
-\"Philosophumena.\" Contrasting the acrid temper of Hippolytus with the
-sweetness of Origen, Dean Wordsworth says:
+*Philosophumena*. Contrasting the acrid temper of Hippolytus with the
+sweetness of Origen, **Dean Wordsworth** says:
 
-\"The opinion of Origen with regard to future punishments is well known.
+"The opinion of Origen with regard to future punishments is well known.
 The same feelings which induced him to palliate the errors of heretics,
 beguiled him into exercising his ingenuity in tampering with the
 declarations of Scripture concerning the eternal duration of the future
-punishment of sin. Thus false charity betrayed him into heresy.\"[^281]
+punishment of sin. Thus false charity betrayed him into heresy."[^281]
 
 This is a sad reversal of cause and effect. Why not say that the sublime
 fact of God\'s goodness resulting in universal salvation, created in
@@ -5226,27 +5239,27 @@ imitation of the God he worshiped?
 
 ## Theophilus. 
 
-Theophilus of Antioch, who wrote about AD 180, and was bishop of
+Theophilus of Antioch, who wrote about 180 AD, and was bishop of
 Antioch, speaks of *aionian* torments, and *aionian* fire, but he must
 have used the terms as did Origen and the other ancient Universalists,
 for he says: \"For just as a vessel which, after it has been made, has
 some flaw, is remade or remolded, that it may become new and bright, so
-it comes to man by death For in some way or other he is broken up, that
+it comes to man by death. For in some way or other he is broken up, that
 he may come forth in the resurrection whole, I mean spotless, and
 righteous, and immortal.\"[^282]
 
 ## Tertullian. 
 
 Tertullian (Quintus Septimius Florens Tertullianus) was born in
-Carthage, Africa, about AD 160, and died AD 220. He had a fine Pagan
+Carthage, Africa, about 160 AD, and died 220 AD. He had a fine Pagan
 education in Roman law and rhetoric, but lived a heathen into mature
 manhood, and confesses that his life had been one of vice and
 licentiousness.[^283] Converted to Christianity he became in later years
 a presbyter. He lived a moral and religious life after his conversion,
 but the heathen doctrines he retained rendered his spirit harsh and
-bitter. About AD 202 he joined the Montanists, a schismatic, ascetic
+bitter. About 202 AD he joined the Montanists, a schismatic, ascetic
 sect. Those who sympathized with him were known as Tertullianists as
-late as the Fifth Century. His abilities were great, but, as Schaff
+late as the Fifth Century. His abilities were great, but, as **Schaff**
 says, he was the opposite of the equally genial, less vigorous, but more
 learned and comprehensive Origen.
 
@@ -5255,70 +5268,74 @@ public ear, and there is strong ground for supposing that since
 Tertullian quotes the sacred writings perpetually and copiously, the
 earliest of those many Latin versions noticed by Augustine and on which
 Jerome grounded his vulgate, were African.... "Africa, not Rome, gave
-birth to Latin Christianity." A learned writer states: \"His own
-authority is small, he was not a sound divine, became heterodox, and
-fell away into one of the heresies of his times.\"[^284] The fountain of
-Paganism in the heart of Tertullian discharged its noxious waters into
-the larger reservoir in the mighty brain of Augustine, and thence in the
-Sixth Century it submerged Christendom with a deluge that lasted for a
-thousand years, --- now happily subsiding, to give place to those primal
-Christian truths that were in the hearts of Clement and Origen.
-Tertullian and Origen were as unlike as the churches they represent, ---
-the Latin and the Greek. Narrow, Pagan, cruel, unchristian, the dark
-path of the Tertullian-Augustine type of Christianity through the
-centuries is strewn with the wrecks of ignorance and sorrow. He retained
-his heathen notions and gave them a Christian label. He makes the
-Underworld, like the heathen, divided by an impassable gulf into two
-parts. The abode of the righteous is *sinus Abrahoe*,[^285] that of the
-wicked *ignis* or *inferi*. Tertullian was probably the first of the
-fathers to assert that the torments of the lost will be of equal
-duration with the happiness of the saved. \"God will recompense his
-worshipers with life eternal; and cast the profane into a fire equally
-perpetual and unintermitted.\"[^286]
+birth to Latin Christianity."
 
-In Tertullian\'s Apology are fifty arguments for the Christian religion,
-but not once does he state that endless punishment was one of the
-doctrines of the church. He seems to have been half-inclined to the
+A learned writer states: \"His own authority is small, he was not a
+sound divine, became heterodox, and fell away into one of the heresies
+of his times.\"[^284]
+
+The fountain of Paganism in the heart of Tertullian discharged its
+noxious waters into the larger reservoir in the mighty brain of
+Augustine, and thence in the Sixth Century it submerged Christendom with
+a deluge that lasted for a thousand years, --- now happily subsiding, to
+give place to those primal Christian truths that were in the hearts of
+Clement and Origen. Tertullian and Origen were as unlike as the churches
+they represent, --- the Latin and the Greek. Narrow, Pagan, cruel,
+unchristian, the dark path of the Tertullian-Augustine type of
+Christianity through the centuries is strewn with the wrecks of
+ignorance and sorrow. He retained his heathen notions and gave them a
+Christian label. He makes the Underworld, like the heathen, divided by
+an impassable gulf into two parts. The abode of the righteous is *sinus
+Abrahoe*,[^285] that of the wicked *ignis* or *inferi*. Tertullian was
+probably the first of the fathers to assert that the torments of the
+lost will be of equal duration with the happiness of the saved. "God
+will recompense his worshipers with life eternal; and cast the profane
+into a fire equally perpetual and unintermitted."[^286]
+
+In Tertullian\'s *Apology* are fifty arguments for the Christian
+religion, but not once does he state that endless punishment was one of
+the doctrines of the church. He seems to have been half-inclined to the
 truth, for he speaks of the sinner as being able, after death, to pay
-\"the uttermost farthing.\"
+"the uttermost farthing."
 
 Tertullian illustrates the effect of the doctrine he advocated in his
 almost infernal exultations over the future torments of the enemies of
-the church. \"How I shall admire, how I shall laugh, how exult,\" he
-cries with fiendish glee, \"to see the torments of the wicked.\" ... \"I
-shall then have a better chance of hearing the tragedians call louder in
-their own distress; of seeing the actors more lively in the dissolving
-flame; of beholding the charioteer glowing in his fiery chariot; of
-seeing their wrestlers tossing on fiery waves instead of in their
-gymnasium,\" etc.[^287] Referring to the \"spectacles\" he anticipates,
-he says: \"Faith grants us to enjoy them even now, by lively
-anticipation; but what shall the reality be of those things which eye
-has not seen, nor ear heard, nor has it entered into the heart of man to
-conceive? They may well compensate, surely, the circus and both
-amphitheaters and all the spectacles the world can offer.\" No wonder
-DePressense says, \"This joy in the anticipation of the doom of the
-enemies of Christ is altogether alien to the spirit of the Gospel; that
-mocking laugh, ringing across the abyss which opens to swallow up the
-persecutors,\" etc. But why \"alien,\" if a God of love ordained, and
-the gentle Christ executes, the appalling doom? Was not Tertullian
-nearer the mood a Christian should cultivate than are those who are
-shocked by his description, if it is true? Max Muller calls attention to
-the fact that Tertullian and the Latin fathers were obliged to cripple
-the Greek Christian thought by being destitute of even words to express
-it. He has to use two words, verbum and ratio, to express Logos.\" Not
-having Greek tools to work with,\" he says, \"his verbal picture often
-becomes blurred.\"
+the church. "How I shall admire, how I shall laugh, how exult," he cries
+with fiendish glee, "to see the torments of the wicked." ... "I shall
+then have a better chance of hearing the tragedians call louder in their
+own distress; of seeing the actors more lively in the dissolving flame;
+of beholding the charioteer glowing in his fiery chariot; of seeing
+their wrestlers tossing on fiery waves instead of in their gymnasium,"
+etc.[^287] Referring to the "spectacles" he anticipates, he says: "Faith
+grants us to enjoy them even now, by lively anticipation; but what shall
+the reality be of those things which eye has not seen, nor ear heard,
+nor has it entered into the heart of man to conceive? They may well
+compensate, surely, the circus and both amphitheaters and all the
+spectacles the world can offer."
 
-Hase says that Tertullian was a \"gloomy, fiery character, who conquered
-for Christianity, out of the Punic Latin, a literature in which
-ingenious rhetoric, a wild imagination, a gross, sensuous perception of
-the ideal, profound feeling, and a juridical understanding struggled
-with each other.\"
+No wonder **De Pressense** says, "This joy in the anticipation of the
+doom of the enemies of Christ is altogether alien to the spirit of the
+Gospel; that mocking laugh, ringing across the abyss which opens to
+swallow up the persecutors," etc. But why "alien," if a God of love
+ordained, and the gentle Christ executes, the appalling doom? Was not
+Tertullian nearer the mood a Christian should cultivate than are those
+who are shocked by his description, if it is true? **Max Muller** calls
+attention to the fact that Tertullian and the Latin fathers were obliged
+to cripple the Greek Christian thought by being destitute of even words
+to express it. He has to use two words, *verbum* and *ratio*, to express
+Logos.\" Not having Greek tools to work with,\" he says, \"his verbal
+picture often becomes blurred.\"
+
+**Hase** says that Tertullian was a "gloomy, fiery character, who
+conquered for Christianity, out of the Punic Latin, a literature in
+which ingenious rhetoric, a wild imagination, a gross, sensuous
+perception of the ideal, profound feeling, and a juridical understanding
+struggled with each other."
 
 ## Ambrose of Alexandria. 
 
-Ambrose of Alexandria, AD180-250, was of a noble and wealthy family.
-Meeting Origen he ac- cepted Christianity as taught by the *magister
+Ambrose of Alexandria, 180-250 AD, was of a noble and wealthy family.
+Meeting Origen he accepted Christianity as taught by the *magister
 orientis*, and urged and stimulated his great teacher to write his many
 books, and used his fortune to further them. Thus we owe generally, it
 is said, nearly all the exegetical works of Origen to Ambrose\'s
@@ -5332,50 +5349,56 @@ own.[^288]
 ## The Manichaeans. 
 
 The Manichaeans, followers of Mani, were a considerable sect that had a
-following over a large part of Christendom from AD 277 to 500. Eusebius
-is very bitter in describing the sect and its founder. \"He was a
-madman,\" and his \"ism, patched up of many faults and impious heresies,
-long since extinct.\" Socrates calls it \"a kind of heathenish
-Christianity,\" and says it is composed of a union of Christianity with
-the doctrines of Empedocles and Pythagoras. Lardner quotes the evident
-misrepresentations of Eusebius and Socrates and exposes their
-inaccuracies. A large amount of literature was expended on some of their
-doctrines, but not on their denial of endless torment. In fact, Didymus
-the Blind, as well as Augustine, seems to have opposed their errors,
-though the \"merciful doctor\" gives them, as Lardner says, \"no hard
-names,\" while the father of Calvinism treats them with characteristic
-severity, ignoring what he himself acknowledges elsewhere, that for
-eight or nine years he accepted their tenets. Referring to the vile
-practices and doctrines with which they are charged, Lardner says: \"The
-thing is altogether incredible, especially when related of people who by
-profession were Christians; who believed that Jesus Christ was a perfect
-model of all virtues; who acknowledged the reasonableness and excellence
-of the precepts of the Gospel, and that the essence of religion lies in
-obeying them.\" The consensus of ancient authorities proves the
-Manichaeans to have been an unpopular but reputable Christian sect.
+following over a large part of Christendom from 277 to 500 AD.
+
+Eusebius is very bitter in describing the sect and its founder. "He was
+a madman," and his "ism, patched up of many faults and impious heresies,
+long since extinct."
+
+Socrates calls it "a kind of heathenish Christianity," and says it is
+composed of a union of Christianity with the doctrines of Empedocles and
+Pythagoras.
+
+Lardner quotes the evident misrepresentations of Eusebius and Socrates
+and exposes their inaccuracies. A large amount of literature was
+expended on some of their doctrines, but not on their denial of endless
+torment. In fact, Didymus the Blind, as well as Augustine, seems to have
+opposed their errors, though the "merciful doctor" gives them, as
+Lardner says, "no hard names," while the father of Calvinism treats them
+with characteristic severity, ignoring what he himself acknowledges
+elsewhere, that for eight or nine years he accepted their tenets.
+
+Referring to the vile practices and doctrines with which they are
+charged, Lardner says: "The thing is altogether incredible, especially
+when related of people who by profession were Christians; who believed
+that Jesus Christ was a perfect model of all virtues; who acknowledged
+the reasonableness and excellence of the precepts of the Gospel, and
+that the essence of religion lies in obeying them." The consensus of
+ancient authorities proves the Manichaeans to have been an unpopular but
+reputable Christian sect.
 
 Mani was a Persian, a scholar, and a Christian. Beginning his debate
-with Archelaus, he says: \"I, brethren, am a disciple and an apostle of
-Jesus Christ;\" and he and his followers everywhere claim to be
-disciples of our Lord. Among their dogmas, was one that denied endless
-existence to the devil, who was then considered to be almost the fourth
-person in the popular Godhead, --- they repudiated the resurrection of
-the body and clearly taught universal restoration. Lardner quotes Mani
-in his dispute with Archelaus, as saying: "All sorts of souls will be
-saved, and the lost sheep will be brought back to the fold." And after
-quoting their adversaries as stating that the Manichaeans taught the
-eternity of hell torments, Lardner says, quoting Beausobre: \"All which
-means no more than a privation of happiness, or a labor and task, rather
-than a punishment. Indeed it is reasonable to think the Manichaeans
-should allow but very few, if any, souls to be lost and perish forever.
-That could not be reckoned honorable to the Deity, considering how souls
-were sent into matter.\"[^289] Lardner is certainly within bounds when
-he says: \"But it is doubtful whether they believed the eternity of hell
-torments.\"
+with Archelaus, he says: "I, brethren, am a disciple and an apostle of
+Jesus Christ;" and he and his followers everywhere claim to be disciples
+of our Lord. Among their dogmas, was one that denied endless existence
+to the devil, who was then considered to be almost the fourth person in
+the popular Godhead, --- they repudiated the resurrection of the body
+and clearly taught universal restoration. Lardner quotes Mani in his
+dispute with Archelaus, as saying: "All sorts of souls will be saved,
+and the lost sheep will be brought back to the fold." And after quoting
+their adversaries as stating that the Manichaeans taught the eternity of
+hell torments, Lardner says, quoting Beausobre: "All which means no more
+than a privation of happiness, or a labor and task, rather than a
+punishment. Indeed it is reasonable to think the Manichaeans should
+allow but very few, if any, souls to be lost and perish forever. That
+could not be reckoned honorable to the Deity, considering how souls were
+sent into matter."[^289] Lardner is certainly within bounds when he
+says: "But it is doubtful whether they believed the eternity of hell
+torments."
 
-The astonishing way in which, as Wendell Phillips once said, \"what
-passes for history,\" is written, may be seen in Professor William G. T.
-Shedd\'s \"History of Christian Doctrine.\" He says: "The punishment
+The astonishing way in which, as **Wendell Phillips** once said, "what
+passes for history," is written, may be seen in Professor **William G.
+T. Shedd**\'s *History of Christian Doctrine*. He says: "The punishment
 inflicted upon the lost was regarded by the fathers of the ancient
 church, with very few exceptions, as endless.... The only exception to
 the belief in the eternity of future punishment in the ancient church
@@ -5392,35 +5415,39 @@ school. Faint traces of a belief in the remission of punishments in the
 future world are visible in the writings of Didymus of Alexandria, and
 in Gregory of Nyssa.... With these exceptions, the ancient church held
 that the everlasting destiny of the human soul is decided in this
-earthly state.\"[^290] The reader who will turn to the sketches of
-Didymus and Gregory will discover what Prof. Shedd denominates \"faint
-traces,\" and in the multitudes of quotations from others of the fathers
-who were not of the Alexandrine school, he will see how utterly
-inaccurate is this religious historian. Numerous quotations flatly
-contradict his assertion. The verbal resemblance of Dr. Shedd\'s
-language to that of Hagenbach, cannot be wholly due to accident.[^291]
-Prof. Shedd, however, contradicts what Schaff and Hagenbach declare to
-be the truth of history. He says that the Alexandrine school was the
-only exception to a universal belief in endless punishment, except the
-faint traces in Gregory of Nyssa; while Hagenbach insists that Gregory
-is more explicit, and Neander affirms that the school of Antioch as well
-as that of Alexandria, were Universalistic. Furthermore, Prof. Shedd
-does not seem to have remembered the words he had written with his own
-pen in his translation of Guerike\'s Church History:[^292] \"It is
-noticeable that the exegetico-grammatical school of Antioch, as well as
-the allegorizing Alexandrian, adopted and maintained the doctrine of
-restoration.\" Says Hagenbach, \"Some faint traces of a belief in the
-final remission of punishments in the world to come are to be found in
-those writings of Didymus of Alexandria, which are yet extant....
-Gregory of Nyssa speaks more distinctly upon this point, pointing out
-the corrective design of the punishments inflicted upon the wicked.\"
-Hagenbach expressly places Gregory and Didymus as differing, while Shedd
-makes them agree. But Neander declares: \"From two theological schools
-there went forth an opposition to the doctrine of everlasting
+earthly state.\"[^290]
+
+The reader who will turn to the sketches of Didymus and Gregory will
+discover what Prof. **Shedd** denominates "faint traces," and in the
+multitudes of quotations from others of the fathers who were not of the
+Alexandrine school, he will see how utterly inaccurate is this religious
+historian. Numerous quotations flatly contradict his assertion. The
+verbal resemblance of Dr. **Shedd**\'s language to that of
+**Hagenbach**, cannot be wholly due to accident.[^291] Prof. **Shedd**,
+however, contradicts what **Schaff** and **Hagenbach** declare to be the
+truth of history. He says that the Alexandrine school was the only
+exception to a universal belief in endless punishment, except the faint
+traces in Gregory of Nyssa; while **Hagenbach** insists that Gregory is
+more explicit, and **Neander** affirms that the school of Antioch as
+well as that of Alexandria, were Universalistic. Furthermore, Prof.
+**Shedd** does not seem to have remembered the words he had written with
+his own pen in his translation of Guerike\'s *Church History*:[^292]
+\"It is noticeable that the exegetico-grammatical school of Antioch, as
+well as the allegorizing Alexandrian, adopted and maintained the
+doctrine of restoration.\"
+
+Says **Hagenbach**, \"Some faint traces of a belief in the final
+remission of punishments in the world to come are to be found in those
+writings of Didymus of Alexandria, which are yet extant.... Gregory of
+Nyssa speaks more distinctly upon this point, pointing out the
+corrective design of the punishments inflicted upon the wicked.\"
+**Hagenbach** expressly places Gregory and Didymus as differing, while
+Shedd makes them agree. But Neander declares: "From two theological
+schools there went forth an opposition to the doctrine of everlasting
 punishment, which had its ground in a deeper Christian interest;
 inasmuch as the doctrine of a universal restoration was closely
 connected with the entire dogmatic systems of both these schools,
-namely, that of Origen, and the school of Antioch.\"[^293]
+namely, that of Origen, and the school of Antioch."[^293]
 
 # 14. Minor Authorities.
 
@@ -5433,74 +5460,84 @@ in the school at Alexandria, and bishop of Alexandria; Firmilian, a
 scholar of Origen\'s, and bishop of Caesarea; and Palladius, bishop in
 Asia Minor.
 
+## Firmilian.
+
 Firmilian, though he wrote little, and is therefore not much known, was
 certainly very conspicuous in his day. His theology may be gauged from
-the fact that \"he held Origen in such high honor that he sometimes
+the fact that "he held Origen in such high honor that he sometimes
 invited him into his own district for the benefit of the churches, and
 even journeyed to Judea to visit him, spending long periods of time with
-him in order to improve in his knowledge of theology.\"[^294] He was a
+him in order to improve in his knowledge of theology."[^294] He was a
 warm friend of Dionysius, Cyprian, and Gregory Thaumaturgus, and was
 chosen president of the Council of Antioch.
 
-Dionysius --- styled by Eusebius \"the great bishop of Alexandria,\"
-born AD 195 --- died 265 --- became the head of the Catechetical school
-in Alexandria AD 231, and succeeded Heraclas as bishop of Alexandria, AD
-248. He was a constant friend of Origen, and after the opposition to him
-had begun, Dionysius addressed him "On Persecution," --- AD 259 --- and
-wrote a letter in his praise after his death, to Theotecnus, bishop of
-Caesarea, AD 265. Neale says: \"The loss of the writings of Dionysius is
-one of the greatest that had been suffered by ecclesiastical
-history.\"[^295]
+## Dionysius.
+
+Dionysius --- styled by Eusebius "the great bishop of Alexandria," born
+195 AD --- died 265 --- became the head of the Catechetical school in
+Alexandria in 231 AD, and succeeded Heraclas as bishop of Alexandria in
+248 AD. He was a constant friend of Origen, and after the opposition to
+him had begun, Dionysius addressed him "On Persecution," --- 259 AD ---
+and wrote a letter in his praise after his death, to Theotecnus, bishop
+of Caesarea, 265 AD. Neale says: "The loss of the writings of Dionysius
+is one of the greatest that had been suffered by ecclesiastical
+history."[^295]
+
+## Theognostus and Pierius.
 
 Theognostus and Pierius were Alexandrine catechists after the death of
 Dionysius. The fact that Photius reprobates the doctrine, while he
 praises the eloquence, of Theognostus, as does Athanasius, indicates
 that these eminent scholars were of the faith of their master. Pierius,
-in fact, must have been, for he was called the \"Second Origen,\"
-(Origenes Junior).
+in fact, must have been, for he was called the "Second Origen,"
+(*Origenes Junior*).
 
-Gregory Thaumaturgus --- AD 210-270 --- in his panegyric on Origen,
+## Gregory Thaumaturgus.
+
+Gregory Thaumaturgus --- 210-270 AD --- in his panegyric on Origen,
 ascribes his own intellectual and religious birth and life to his
 master, and gives the best description extant of the methods and ability
 of that most eminent of all the Christian teachers and fathers. Their
 mutual regard is shown by surviving letters from both. If nothing were
-in existence from Gregory, expressive of his Universalian sentiments,
+in existence from Gregory, expressive of his Universalist sentiments,
 the fact that he was Origen\'s pupil for five years, and delivered his
 famous encomium on his teacher, would go far to establish his acceptance
-of the doctrine. He says: \"My guardian angel, on our arrival at
+of the doctrine. He says: "My guardian angel, on our arrival at
 Caesarea, handed us over to the care and tuition of Origen, that leader
 of all, who speaks in undertones to God\'s dear prophets, and suggests
 to them all their prophecy and their mystic and divine word, has so
 honored this man Origen as a friend, as to appoint him to be their
-interpreter.\" As Origen spoke, Gregory tells us he kindled a love \"in
-my heart I had not known before. This love induced me to give up country
+interpreter." As Origen spoke, Gregory tells us he kindled a love "in my
+heart I had not known before. This love induced me to give up country
 and friends, the aims which I had proposed to myself, the study of law
 of which I was proud. I had but one passion, one philosophy, and the
-god-like man who directed me in the pursuit of it.\" He became bishop of
-Caesarea, and was regarded as the incarnation of the orthodoxy of his
+god-like man who directed me in the pursuit of it." He became bishop of
+Caesarea and was regarded as the incarnation of the orthodoxy of his
 times. Almost nothing of his writings has survived, but Rufinus, the
-apologist and defender of Origen, gives a passage, says Allin, showing
-that he taught the divine truth he learned from his master.
+apologist and defender of Origen, gives a passage, says **Allin**,
+showing that he taught the divine truth he learned from his master.
 
-Pamphilus, AD 250-309, was one of the greatest scholars of his times. He
+## Pamphilus.
+
+Pamphilus, 250-309 AD, was one of the greatest scholars of his times. He
 founded the famous library of Caesarea, which contained some of the most
-ancient codices of the New Testament, and also Origen\'s books in their
-original Greek. Pamphilus wrote an \"Apology\" and defense of Origen,
-with whom he was in full sympathy. Eusebius wrote the biography of
-Pamphilus in three books. Unfortunately it has been lost, so that
-nothing survives of the works of this eminent Christian writer and
-scholar. The esteem in which he was held by Eusebius may be gauged from
-the fact that after his death Eusebius, \"the father of ecclesiastical
-history,\" changed his own name to \"Pamphilus\'s Eusebius.\" The
-\"Apology\" contained \'\'very many testimonies of fathers earlier than
-Origen in favor of restitution.\"[^296] How lamentable that these
-\"testimonies\" are lost! What light they would shed on early opinion on
-the great theme of this book. As Origen was born about ninety years
-after St. John\'s death, these very numerous \"testimonies\" would carry
-back these doctrines very close, or altogether to the apostolic age.
+ancient codices of the New Testament and also Origen\'s books in their
+original Greek. Pamphilus wrote an *Apology* and defense of Origen, with
+whom he was in full sympathy. Eusebius wrote the biography of Pamphilus
+in three books. Unfortunately it has been lost, so that nothing survives
+of the works of this eminent Christian writer and scholar. The esteem in
+which he was held by Eusebius may be gauged from the fact that after his
+death Eusebius, "the father of ecclesiastical history," changed his own
+name to "Pamphilus\'s Eusebius." The *Apology* contained "very many
+testimonies of fathers earlier than Origen in favor of
+restitution."[^296] How lamentable that these "testimonies" are lost!
+What light they would shed on early opinion on the great theme of this
+book. As Origen was born about ninety years after St. John\'s death,
+these very numerous "testimonies" would carry back these doctrines very
+close, or altogether to the apostolic age.
 
-\"With Pamphilus, the era of free Christian theology of the Eastern
-church ends.\" Pamphilus, according to Eusebius was "a man who excelled
+"With Pamphilus, the era of free Christian theology of the Eastern
+church ends." Pamphilus, according to Eusebius was "a man who excelled
 in every virtue through his whole life, whether by a renunciation and
 contempt of the world, by distributing his substance among the needy, or
 by a disregard of worldly expectations, and by a philosophical
@@ -5511,32 +5548,36 @@ great kindness and alacrity to serve all his relatives, and all that
 approached him." He copied, for the great library in Caesarea, most of
 Origen\'s manuscripts, with his own hands.
 
+## Eusebius. 
+
 Eusebius was probably born in Caesarea. He was a friend of Origen, and
 fellow-teacher with him in the Caesarean school, and published with
 Pamphilus a glowing defense of Origen in six books, of which five are
-lost. He also copied and edited many of his works. Dr. Beecher, in his
-\"History of Future Retribution,\" asserts the Universalism of Eusebius,
-though Dr. Ballou, in his \"Ancient History\" does not quote him.
+lost. He also copied and edited many of his works. Dr. **Beecher**, in
+his *History of Future Retribution*, asserts the Universalism of
+Eusebius, though Dr. **Ballou**, in his *Ancient History* does not quote
+him.
 
-On I Cor. 15:28, Eusebius says: "If the subjection of the Son to the
-Father means union with him, then the subjection of all to the Son means
-union with him.... Christ is to subject all things to himself. We ought
-to conceive of this as such a salutary subjection as that by which the
-Son will be subject to him who subjects all to him."[^297] Again on
-Psalm 2: \"The Son breaking in pieces his enemies for the sake of
+On 1 Corinthians 15:28, Eusebius says: "If the subjection of the Son to
+the Father means union with him, then the subjection of all to the Son
+means union with him.... Christ is to subject all things to himself. We
+ought to conceive of this as such a salutary subjection as that by which
+the Son will be subject to him who subjects all to him."[^297] Again on
+Psalm 2: "The Son breaking in pieces his enemies for the sake of
 remolding them as a potter his own work, as Jer. 18:6, is to restore
-them once more to their former state.\" Jerome distinctly says of
-Eusebius: \"He, in the most evident manner, acquiesced in Origen\'s
-tenets.\" His understanding of terms is seen where he twice calls the
+them once more to their former state." Jerome distinctly says of
+Eusebius: "He, in the most evident manner, acquiesced in Origen\'s
+tenets." His understanding of terms is seen where he twice calls the
 fire that consumed two martyrs \"unquenchable\" (*asbesto puri*).
+
 Eusebius is as severe in describing the sinner\'s woes as Augustine
-himself. He says: \"Who those were (whose worm dieth not) he showed in
-the beginning of the prophecy, 'I have nourished and brought up children
-and they have set me at nought.' He spoke darkly then of those of the
-Jews who set at nought the saving grace. Which end of the ungodly our
-Savior himself also appoints in the Gospel, saying to those who shall
-stand on the left hand, 'Go ye into the *aionian* fire, prepared for the
-devil and his angels.' As then the fire is said to be *aionian*, so here
+himself. He says: "Who those were (whose worm dies not) he showed in the
+beginning of the prophecy, 'I have nourished and brought up children and
+they have set me at nought.' He spoke darkly then of those of the Jews
+who set at nought the saving grace. Which end of the ungodly our Savior
+himself also appoints in the Gospel, saying to those who shall stand on
+the left hand, 'Go you into the *aionian* fire, prepared for the devil
+and his angels.' As then the fire is said to be *aionian*, so here
 \'unquenchable,\' one and the same substance encircling them according
 to the Scriptures.\"
 
@@ -5548,72 +5589,79 @@ personal aggrandizement. He was so kind toward the Arians, with whom he
 did not agree, that he was accused of Arianism by such as could not see
 how one could differ from another without hating him. Most of his
 writings have perished. Of course his name is chiefly immortalized by
-his \"Ecclesiastical History.\"
+his *Ecclesiastical History*.
 
-Athanasius (AD 296-373). This great man was a student of Origen and
+## Athanasius.
+
+Athanasius (296-373 AD). This great man was a student of Origen and
 speaks of him with favor, defends him as orthodox, and quotes him as
 authority. He argues for the possibility of repentance and pardon for
-even the sin against the Holy Ghost. He says: \"Christ captured over
+even the sin against the Holy Ghost. He says: "Christ captured over
 again the souls captured by the devil, for that he promised in saying,
-\'I, if I be lifted up, will draw all men unto me.\'\" On Ps. 68:18:
-\"When, then, the whole creation shall meet the Son in the clouds, and
-shall be subject to him, then, too, shall the Son himself be subject to
-the Father, as being a faithful Apostle, and High Priest of all
-creation, that God may be all in all.\"[^298] Athanasius nominated
-Didymus the Blind as president of the Catechetical school of Alexandria,
-where he presided sixty years, an acknowledged Universalist, which is
-certainly evidence of the sympathies, if not of the real views of
-Athanasius. He called Origen a \"wonderful and most laborious man,\" and
-offers no condemnation of his eschatology.
+'I, if I be lifted up, will draw all men unto me.'"
 
-Didymus, \"the illustrious,\" the Blind, was born, it is supposed, in
-Alexandria, AD 309. He became entirely blind when four years of age, and
+On Psalm 68:18: "When, then, the whole creation shall meet the Son in
+the clouds, and shall be subject to him, then, too, shall the Son
+himself be subject to the Father, as being a faithful Apostle, and High
+Priest of all creation, that God may be all in all."[^298]
+
+Athanasius nominated Didymus the Blind as president of the Catechetical
+school of Alexandria, where he presided sixty years, an acknowledged
+Universalist, which is certainly evidence of the sympathies, if not of
+the real views of Athanasius. He called Origen a "wonderful and most
+laborious man," and offers no condemnation of his eschatology.
+
+## Didymus.
+
+Didymus, "the illustrious," the Blind, was born, it is supposed, in
+Alexandria, 309 AD. He became entirely blind when four years of age and
 learned to write by using tablets of wood. He knew the Scriptures by
-heart, through hearing them read. He died, universally esteemed, AD 395.
-He was held to be strictly orthodox, though known to cherish the views
-of Origen on universal restoration. After his death, in the councils of
-AD 553, 680, and 787, he was anathematized for advocating Origen\'s
-\"abominable doctrine of the transmigration of souls,\" but nothing is
-said in condemnation of his pronounced Universalism.
+heart, through hearing them read. He died, universally esteemed, in 395
+AD. He was held to be strictly orthodox, though known to cherish the
+views of Origen on universal restoration. After his death, in the
+councils of 553, 680, and 787 AD, he was anathematized for advocating
+Origen\'s "abominable doctrine of the transmigration of souls," but
+nothing is said in condemnation of his pronounced Universalism.
 
 Of the Descent of Christ into Hades, he says, --- as translated by
-Ambrose: \"In the liberation of all no one remains a captive; at the
-time of the Lord\'s passion, he alone (the devil) was injured, who lost
-all the captives he was keeping.\"[^299] Didymus argues the final
-remission of punishment, and universal salvation, in comments on I
-Timothy and I Peter. He was condemned by name in the council of
-Constantinople and his works ordered destroyed. Were they in existence
-no doubt many extracts might be given. Jerome and Rufinus state that he
-was an advocate of universal restoration. Yet he was honored by the best
-Christians of his times. Schaff says: \"Even men like Jerome, Rufinus,
-Palladius, and Isadore sat at his feet with admiration.\" After Jerome
-turned against Origen[^300] he declares that Didymus defended Origen\'s
-words as pious and Catholic, words that \"all churches con- demn.\" And
-he adds: \"In Didymus we extol his great power of memory, and his purity
-of faith in the Trinity, but on other points, as to which he unduly
-trusted Origen, we draw back from him.\" Schaff declares him to have
-been a faithful follower of Origen. Socrates calls him \"the great
-bulwark of the true faith,\" and quotes Antony as saying: \"Didymus, let
-not the loss of your bodily eyes distress you; for although you are
-deprived of such organs as confer a faculty of perception common to
-gnats and flies, you should rather rejoice that you have eyes such as
-angels see with, by which the Deity himself is discerned, and his light
-comprehended.\" According to the great Jerome, he \"surpassed all of his
-day in knowledge of the Scriptures.\" He wrote voluminously, but very
-little remains.
+Ambrose: "In the liberation of all no one remains a captive; at the time
+of the Lord\'s passion, he alone (the devil) was injured, who lost all
+the captives he was keeping."[^299] Didymus argues the final remission
+of punishment, and universal salvation, in comments on 1 Timothy and 1
+Peter. He was condemned by name in the council of Constantinople and his
+works ordered destroyed. Were they in existence no doubt many extracts
+might be given. Jerome and Rufinus state that he was an advocate of
+universal restoration. Yet he was honored by the best Christians of his
+times. Schaff says: "Even men like Jerome, Rufinus, Palladius, and
+Isadore sat at his feet with admiration." After Jerome turned against
+Origen[^300] he declares that Didymus defended Origen\'s words as pious
+and Catholic, words that "all churches condemn." And he adds: "In
+Didymus we extol his great power of memory, and his purity of faith in
+the Trinity, but on other points, as to which he unduly trusted Origen,
+we draw back from him." Schaff declares him to have been a faithful
+follower of Origen.
 
-He says: \"For although the Judge at times inflicts tortures and anguish
+Socrates calls him "the great bulwark of the true faith," and quotes
+Antony as saying: "Didymus, let not the loss of your bodily eyes
+distress you; for although you are deprived of such organs as confer a
+faculty of perception common to gnats and flies, you should rather
+rejoice that you have eyes such as angels see with, by which the Deity
+himself is discerned, and his light comprehended." According to the
+great Jerome, he "surpassed all of his day in knowledge of the
+Scriptures." He wrote voluminously, but very little remains.
+
+He says: "For although the Judge at times inflicts tortures and anguish
 on those who merit them, yet he who more deeply scans the reasons of
 things, perceiving the purpose of his goodness, who desires to amend the
-sinner, confesses him to be good.\"
+sinner, confesses him to be good."
 
-Again he says: \'\'As men, by giving up their sins, are made subject to
-him (Christ), so too, the higher intelligences, freed by correction from
+Again he says: "As men, by giving up their sins, are made subject to him
+(Christ), so too, the higher intelligences, freed by correction from
 their willful sins, are made subject to him, on the completion of the
 dispensation ordered for the salvation of all. God desires to destroy
 evil, therefore evil is (one) of those things liable to destruction. Now
-that which is of those things liable to destruction will be destroyed.\"
-He is said by Basnage to have held to universal salvation.
+that which is of those things liable to destruction will be destroyed."
+He is said by **Basnage** to have held to universal salvation.
 
 These are samples of a large number of extracts that might be made from
 the most celebrated of the Alexandrine school, representing the type of
@@ -5632,59 +5680,66 @@ as is known. The last teacher in the Alexandrine school was Didymus.
 After his day it was removed to Sida in Pamphylia, and soon after it
 ceased to exist.[^301]
 
-The historian Gieseler records that \"the belief in the inalienable
+The historian Gieseler records that "the belief in the inalienable
 capability of improvement in all rational beings, and the limited
 duration of future punishment, was so general, even in the West, and
 among the opponents of Origen that, whatever may be said of its not
 having risen without the influence of Origen\'s school, it had become
-entirely independent of his system.\" So that the doctrine may be said
-to have prevailed all over Christendom, East and West, among "orthodox"
-and heterodox alike.
+entirely independent of his system." So that the doctrine may be said to
+have prevailed all over Christendom, East and West, among "orthodox" and
+heterodox alike.
 
 ## Epiphanius. 
 
 Epiphanius, a narrow-minded, credulous, violent-tempered, but sincere
-man, AD 310-404, was bishop of Constantia in Cyprus, AD 367. He bitterly
+man, 310-404 AD, was bishop of Constantia in Cyprus, 367 AD. He bitterly
 opposed Origen, and denounced him for a multitude of errors, but he does
 not hint that his views of restoration were objectionable to himself, or
-to the church, at the time he wrote. He \"began those miserable
+to the church, at the time he wrote. He "began those miserable
 Origenistic controversies in which monkish fanaticism combined with
 personal hatreds and jealousies to brand with heresy the greatest
-theologian of the primitive church.\"[^302] To his personal hatred and
+theologian of the primitive church."[^302] To his personal hatred and
 bitterness is due much, if not most, of the opposition to Origenism that
 began in the latter part of the Fourth Century. In an indictment of
-eighteen counts, published AD 380, we find what possibly may have been
-the first intended censure of Universalism on record, though it will be
-observed that its animus is not against the salvation of all mankind,
-but against the salvability of evil spirits. Epiphanius says: "That
-which he strove to establish I know not whether to laugh at or grieve.
-Origen, the renowned doctor, dared to teach that the devil is again to
-become what he originally was --- to return to his former dignity. Oh,
-wickedness! Who is so mad and stupid as to believe that holy John
-Baptist, and Peter, and John the Apostle and Evangelist, and that Isaiah
-also and Jeremiah, and the rest of the prophets, are to become
-fellow-heirs with the devil in the kingdom of Heaven!"[^303] The reader
-can here see the possible origin of the familiar argument of recent
-times.
+eighteen counts, published in 380 AD, we find what possibly may have
+been the first intended censure of Universalism on record, though it
+will be observed that its animus is not against the salvation of all
+mankind, but against the salvability of evil spirits. Epiphanius says:
+"That which he strove to establish I know not whether to laugh at or
+grieve. Origen, the renowned doctor, dared to teach that the devil is
+again to become what he originally was --- to return to his former
+dignity. Oh, wickedness! Who is so mad and stupid as to believe that
+holy John Baptist, and Peter, and John the Apostle and Evangelist, and
+that Isaiah also and Jeremiah, and the rest of the prophets, are to
+become fellow-heirs with the devil in the kingdom of Heaven!"[^303] The
+reader can here see the possible origin of the familiar argument of
+recent times.
 
-In his book against heresies, \"The Panarion,\" this \"hammer of
-heretics\" names eighty; but universal salvation is not among them. The
-sixty-fourth is \"Origenism,\" but, as is seen elsewhere in this volume,
+In his book against heresies, *The Panarion*, this "hammer of heretics"
+names eighty; but universal salvation is not among them. The
+sixty-fourth is "Origenism," but, as is seen elsewhere in this volume,
 that stood for other dogmas of Origen and not for his Universalism.
 
-Methodius, bishop of Tyre (AD 293). His writings, like so many of the
+## Methodius
+
+Methodius, bishop of Tyre (293 AD). His writings, like so many of the
 works of the early fathers, have been lost, but Epiphanius and Photius
-have preserved extracts from his work on the resurrection. He says:
-"God, for this cause, pronounced him (man) mortal, and clothed him with
-mortality, that man might not be an undying evil, in order that by the
-dissolution of the body, sin might be destroyed root and branch from
-beneath, that there might not be left even the smallest particle of
-root, from which new shoots of sin might break forth." Again, \"Christ
-was crucified that he might be adored by all created things equally, for
-\'unto him every knee shall bow,\'\" etc. Again: \"The Scriptures
-usually call 'destruction' the turning to the better at some future
-time.\" Again: "The world shall be set on fire in order to purification
-and renewal."[^304]
+have preserved extracts from his work on the resurrection.
+
+He says: "God, for this cause, pronounced him (man) mortal, and clothed
+him with mortality, that man might not be an undying evil, in order that
+by the dissolution of the body, sin might be destroyed root and branch
+from beneath, that there might not be left even the smallest particle of
+root, from which new shoots of sin might break forth."
+
+Again, "Christ was crucified that he might be adored by all created
+things equally, for 'unto him every knee shall bow,'" etc.
+
+Again: "The Scriptures usually call 'destruction' the turning to the
+better at some future time."
+
+Again: "The world shall be set on fire in order to purification and
+renewal."[^304]
 
 The general drift, as well as the definite statements of the minor
 authorities cited in this chapter, show the dominant sentiment of the
@@ -9163,7 +9218,7 @@ work. For Hanson's references see Appendix C above.
 
 [^236]: De Prin. I, vi: 1, 2.
 
-[^237]: Jeremiah Hom. Xviii: 6, Ag. Cels. IV. Xxii.
+[^237]: Jeremiah Hom. Xviii: 6, Against Celsus. IV. Xxii.
 
 [^238]: Selecta in Exodum: see pg. 148 for Greek original. Also, De
     Prin. I, vi:3.
@@ -9182,15 +9237,15 @@ work. For Hanson's references see Appendix C above.
     7:9; Ezek. 16:53, 55; Jer. 25:15, 16; Matt. 18:30; John 10:16; Rom.
     11:25, 26; Rom. 11:32; I Pet. 3:18-21, etc.
 
-[^243]: Ag. Cels. V. xv.
+[^243]: Against Celsus. V. xv.
 
-[^244]: De Prin. II, x: 3, 4. I, i. Ag. Cels. Iv. 13.
+[^244]: De Prin. II, x: 3, 4. I, i. Against Celsus. Iv. 13.
 
-[^245]: Ag. Cels. VIII. Lxii.
+[^245]: JW: Against Celsus, VIII. Lxii.
 
 [^246]: Need to clarify whether here Hanson is quoting Origen or Isaiah.
 
-[^247]: Ag. Cels. VI. Xxvi.
+[^247]: JW: Against Celsus, VI. Xxvi.
 
 [^248]: JW: Against Celsus. V. xv, xvi.
 
@@ -9207,7 +9262,7 @@ work. For Hanson's references see Appendix C above.
 
 [^254]: Ante-Nicene Library, Edinburgh, 1872.
 
-[^255]: Ag. Cels. IV. Xiii; xciv.
+[^255]: Against Celsus. IV. Xiii; xciv.
 
 [^256]: De Prin. III, v.
 
