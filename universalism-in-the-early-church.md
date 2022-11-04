@@ -6955,51 +6955,51 @@ debasing influence, and the Christianity of the Catacombs and of Origen
 became the church of the popes, of the Inquisition, and of the Middle
 Ages.
 
-\"The writers of the Fourth Century generally contradict those of the
+"The writers of the Fourth Century generally contradict those of the
 Second, who were in part witnesses, or reported credible evidence and
 plausible traditions, whereas those later fathers were only critics, and
 most of them very indifferent and biased ones. For they often proceed
 from systems, historical and doctrinal, which strongly impair their
-qualifications for being judges.\" There seems an entire change in the
-church after the Nicene Council. \"The Anti-Nicene age was the World
+qualifications for being judges." There seems an entire change in the
+church after the Nicene Council. "The Anti-Nicene age was the World
 against the Church; the Post-Nicene age is the history of the World in
 the Church. As an antagonist the World was powerless; as an ally it
-became dangerous and its influence disastrous.\"[^372]
+became dangerous and its influence disastrous."[^372]
 
-\"From the time of Constantine,\" says Schaff, \"church discipline
+"From the time of Constantine," says Schaff, "church discipline
 declines; the whole Roman world having become nominally Christian, and
-the host of hypocritical professors multiplying beyond all control.\" It
+the host of hypocritical professors multiplying beyond all control." It
 was during Constantine\'s reign that, among other foreign corruptions,
 monasticism came into Christianity, from the Hindu religions and other
 sources, and gave rise to those ascetic organizations so foreign to the
 spirit of the author of our religion, and so productive of error and
 evil. Perhaps the deterioration of Christian doctrine and life may be
-dated from the edict of Milan (AD 313), when \"unhappily, the church
-also entered on an altogether new career--- that of patronage and state
+dated from the edict of Milan (313), when "unhappily, the church also
+entered on an altogether new career--- that of patronage and state
 protection. That which it was about to gain in material power it would
-lose in moral force and independence.\" It is probable that the
-beginning of the conventual life of women from which grew the nunneries
-and convents that covered Christendom in the succeeding centuries, was
-with Helen, the mother of the Emperor Constantine, who AD 331 closed a
-pious life at the age of eighty years. She was accustomed to gather the
+lose in moral force and independence." It is probable that the beginning
+of the conventual life of women from which grew the nunneries and
+convents that covered Christendom in the succeeding centuries, was with
+Helen, the mother of the Emperor Constantine, who in 331 closed a pious
+life at the age of eighty years. She was accustomed to gather the
 virgins of the church to repasts, serving them with her own hands at
 table and praying in their company.
 
-Robertson says: \"Theophilus succeeded Timothy at Alexandria AD 385, and
+Robertson says: "Theophilus succeeded Timothy at Alexandria in 385, and
 held the see till 412. He was able, bold, crafty, unscrupulous, corrupt,
 rapacious, domineering. In the first controversy between Jerome and
 Rufinus he had acted the creditable part of a mediator. His own
 inclinations were undoubtedly in favor of Origen; he had even deposed a
 bishop named Paul for his hostility to that teacher, but he now found it
-expedient to adopt a different line of conduct.\" Jerome and Theophilus
+expedient to adopt a different line of conduct." Jerome and Theophilus
 subsequently joined hands and united in a bitter and relentless warfare
 against the great Alexandrian. There seems to have been very little
 principle in the course they pursued.
 
 ## Jerome.
 
-Jerome --- AD 331-420 --- was one of the ablest of the fathers of the
-century in which he lived --- \"the most learned except Origen,\" up to
+Jerome --- 331-420 --- was one of the ablest of the fathers of the
+century in which he lived --- "the most learned except Origen," up to
 his time. He wrote in Latin, and was contemporary with Augustine, but
 did not accept all the Paganism of the great corruptor of Christianity.
 He stood in line with his Oriental predecessors. At first he was an
@@ -7007,26 +7007,26 @@ enthusiastic partisan of Origen, but later, when opposition to the great
 Alexandrian set in, he became an equally violent opponent. Schaff says
 he was a great trimmer and time server, and at length seemed to
 acquiesce in the growing influence of Augustinianism. Jerome had
-\'\'originally belonged, like the friend of his youth, Rufinus, and
-John, Bishop of Jerusalem, to the warmest admirers of the great
-Alexandrian father.[^373] But attacked as he now was, with remonstrances
-from different sides, he began out of anxiety for his own reputation for
+\'"originally belonged, like the friend of his youth, Rufinus, and John,
+Bishop of Jerusalem, to the warmest admirers of the great Alexandrian
+father.[^373] But attacked as he now was, with remonstrances from
+different sides, he began out of anxiety for his own reputation for
 orthodoxy, to separate himself with the utmost care from the heresies
-with which he was charged.\" One of Origen\'s works, in the handwriting
+with which he was charged." One of Origen\'s works, in the handwriting
 of Pamphilus, came into Jerome\'s possession, who says, owning it, he
-\"owns the wealth of Croesus; it is signed, as it were, with the very
-blood of the martyr.\"
+"owns the wealth of Croesus; it is signed, as it were, with the very
+blood of the martyr."
 
 Jerome translated fourteen homilies of Origen on Jeremiah, and fourteen
 on Ezekiel, and quotes Didymus as saying that Origen was the greatest
 teacher of the church since St. Paul. During his residence in Rome
 Jerome highly praised Origen, but soon after, when he found himself
 accused of heresy for so doing, he declared that he had only read him as
-he had read other heretics. In a letter to Vigiliantius he says: \"I
+he had read other heretics. In a letter to Vigiliantius he says: "I
 praise him as an interpreter, not as a dogmatic teacher; for his genius,
-not for his faith; as a philosopher, not as an apostle. \* \* \* If you
+not for his faith; as a philosopher, not as an apostle.... If you
 believe me, I never was an Origenist; if you do not believe me, I have
-now ceased to be one.\"[^374] But when in Caesarea he borrowed the
+now ceased to be one."[^374] But when in Caesarea he borrowed the
 manuscript of Origen\'s Hexapla and collated it, and in Alexandria he
 passed a month with the great Universalist, the blind Didymus.
 
@@ -7039,119 +7039,126 @@ divested of pre-existence, universal equality, the salvability of evil
 spirits, etc., does not seem to have been much objected to in the days
 of Jerome, even by those who did not accept it.
 
-Jerome\'s later language is: \"And though Origen declares that no
+Jerome\'s later language is: "And though Origen declares that no
 rational being will be lost, and gives penitence to the evil one, what
 is that to us who believe that the evil one and his satellites, and all
 the wicked will perish eternally, and that Christians, *if they have
-been cut off in sin, shall after punishment be saved.*\'\' This,
-however, was after the cautious and politic churchman had begun to hedge
-in order to conciliate the growing influence of Augustinianism. And the
-words italicized above show that his endless punishment was very
-elastic.
+been cut off in sin, shall after punishment be saved.*" This, however,
+was after the cautious and politic churchman had begun to hedge in order
+to conciliate the growing influence of Augustinianism. And the words
+italicized above show that his endless punishment was very elastic.
 
 Jerome uses the word rendered eternal in the Bible (*aionios*) in the
 sense of limited duration, as that Jerusalem was burnt with *aionian*
 fire by Hadrian; that Israel experienced *aionian* woe, etc. In his
 commentary on Isaiah his language is:
 
-\"Those who think that the punishment of the wicked will one day, after
+"Those who think that the punishment of the wicked will one day, after
 many ages, have an end, rely on these testimonies: Rom. 11:25; Gal.
-3:22; Mic. 7:9; Isa. 12:1; Ps. 30:20,\" which he quotes, and adds: \"And
+3:22; Mic. 7:9; Isa. 12:1; Ps. 30:20," which he quotes, and adds: "And
 this we ought to leave to the knowledge of God alone, whose torments, no
 less than his compassion, are in due measure, and who knows how and how
 long to punish. This only let us say as suiting our human frailty,
-'Lord, rebuke me not in thy fury, nor chasten me in thine
-anger.'\"[^375]
+'Lord, rebuke me not in your fury, nor chasten me in your anger.'"[^375]
 
-Commenting on Isaiah 24, he says: \"This seems to favor those friends of
+Commenting on Isaiah 24, he says: "This seems to favor those friends of
 mine who grant the grace of repentance to the devil and to demons after
-many- ages, that they too shall be visited after a time. \* \* \* Human
-frailty cannot know the judgment of God, nor venture to form an opinion
-of the greatness and the measure of his punishment.\" Jerome frequently
-exposes his sympathy with the doctrine of restoration, as when he says:
-\"Israel and all heretics, because they had the works of Sodom and
-Gomorrah, are overthrown like Sodom and Gomorrah, that they may be set
-free like a brand snatched from the burning. And this is the meaning of
-the prophet\'s words, 'Sodom shall be restored as of old,' that he who
-by his vice is as an inhabitant of Sodom, after the works of Sodom have
-been burnt in him, may be restored to his ancient state.\"[^376]
+many ages, that they too shall be visited after a time.... Human frailty
+cannot know the judgment of God, nor venture to form an opinion of the
+greatness and the measure of his punishment."
+
+Jerome frequently exposes his sympathy with the doctrine of restoration,
+as when he says: "Israel and all heretics, because they had the works of
+Sodom and Gomorrah, are overthrown like Sodom and Gomorrah, that they
+may be set free like a brand snatched from the burning. And this is the
+meaning of the prophet\'s words, 'Sodom shall be restored as of old,'
+that he who by his vice is as an inhabitant of Sodom, after the works of
+Sodom have been burnt in him, may be restored to his ancient
+state."[^376]
 
 In quoting from this father, Allin says, in *Universalism Asserted*:
-\"Nor are these isolated instances; I have found nearly one hundred
+"Nor are these isolated instances; I have found nearly one hundred
 passages in his works (and there are doubtless others) indicating
 Jerome\'s sympathy with Universalism. Further, we should note that when
 towards the year 400 AD, Jerome took part with Epiphanius and the
 disreputable Theophilus against Origen (whom he had hitherto
 extravagantly praised), he, as Huet points out, kept a significant
-silence on the question of hu-man restoration. \'Though you adduce,\'
-says Huet, 'six hundred testimonies, you thereby only prove that he
-changed his opinion.' But did he ever change his opinion? And if so, how
-far? Thus in his \'Epis. ad Avit.,\' where he goes at length into
-Origen\'s errors, he says nothing of the larger hope; and when charged
-with Origenism he refers time over to his commentaries on Ephesians,
-which teach the most outspoken Universalism. As a specimen of his praise
-of Origen, he says, in a letter to Paula that Origen was blamed, \'not
-on account of the novelty of his doctrines, not on account of heresy, as
-now mad dogs pretend, but from jealousy,\' so that to call Origen a
+silence on the question of human restoration. 'Though you adduce,' says
+Huet, 'six hundred testimonies, you thereby only prove that he changed
+his opinion.' But did he ever change his opinion? And if so, how far?
+Thus in his *Epis. ad Avit*., where he goes at length into Origen\'s
+errors, he says nothing of the larger hope; and when charged with
+Origenism he refers time over to his commentaries on Ephesians, which
+teach the most outspoken Universalism. As a specimen of his praise of
+Origen, he says, in a letter to Paula that Origen was blamed, 'not on
+account of the novelty of his doctrines, not on account of heresy, as
+now mad dogs pretend, but from jealousy,' so that to call Origen a
 heretic is the part of a mad dog! Note this, from the most orthodox
-Jerome.\"
+Jerome."
 
-Translating Origen\'s \"Homilies,\" which affirm Universalism
-continually, he said in his preface, that Origen was only inferior to
-the Apostles.[^377]The manner in which he retracted these sentiments,
-and became the detractor and enemy of the man to whom he had admitted
-his indebtedness is disgraceful to his memory. Farrar accurately calls
-the record of his behavior \"a miserable story.\" Jerome\'s morbid dread
-of being held to be heretical, led him, it is feared, to deny some of
-his real opinions, and to violently attack those who held them, in order
-to divert attention from himself.[^378]
+Translating Origen\'s *Homilies*, which affirm Universalism continually,
+he said in his preface, that Origen was only inferior to the
+Apostles.[^377] The manner in which he retracted these sentiments and
+became the detractor and enemy of the man to whom he had admitted his
+indebtedness is disgraceful to his memory. Farrar accurately calls the
+record of his behavior "a miserable story." Jerome\'s morbid dread of
+being held to be heretical, led him, it is feared, to deny some of his
+real opinions, and to violently attack those who held them, in order to
+divert attention from himself.[^378]
 
 A few of his expressions are here given out of the many quotable. On
-Eph. 4:6: \"In the end of things, the whole body which had been
+Ephesians 4:6: "In the end of things, the whole body which had been
 dissipated and torn into divers parts shall be restored. Let us
 understand the whole number of rational creatures under the figure of a
 single rational animal. Let us imagine this animal to be torn so that no
-bone adheres to bone, nor nerve to nerve. \* \* \* in the restitution of
-all things when Christ the true physician shall have come to heal the
-body of the universal church \* \* \* every one \* \* \* shall receive
-his proper place. \* \* \* What I mean is, the fallen angel will begin
-to be that which he was created, and man who has been expelled from
-Paradise will be once more restored to the tilling of Paradise. \* \* \*
-These things then will take place universally.\" \* \* \* On Mic. 5:8:
-\"Death shall come as a visitor to the impious; it will not be perpetual
-it will not annihilate them; but will prolong its visit till the impiety
-which is in them shall be consumed.\" \* \* \* On Eph. 4:13, he says:
-\"The question should arise who those are of whom he says that they all
-shall come into the unity of the faith? Does he mean all men, or all the
-saints, or all rational beings? He appears to me to be speaking of all
-men.\" On John 17:21: \"In the end and consummation of the Universe all
-are to be restored into their original harmonious state, and we all
-shall be made one body and be united once more into a perfect man, and
-the prayer of our Savior shall be fulfilled that all may be one.\" In
-his homily on Jonah he says: \"Most persons (*plerique*, very many),
+bone adheres to bone, nor nerve to nerve.... in the restitution of all
+things when Christ the true physician shall have come to heal the body
+of the universal church ... every one ... shall receive his proper
+place.... What I mean is, the fallen angel will begin to be that which
+he was created, and man who has been expelled from Paradise will be once
+more restored to the tilling of Paradise.... These things then will take
+place universally."
+
+On Micah 5:8: "Death shall come as a visitor to the impious; it will not
+be perpetual it will not annihilate them; but will prolong its visit
+till the impiety which is in them shall be consumed."
+
+On Ephesians 4:13, he says: "The question should arise who those are of
+whom he says that they all shall come into the unity of the faith? Does
+he mean all men, or all the saints, or all rational beings? He appears
+to me to be speaking of all men."
+
+On John 17:21: "In the end and consummation of the Universe all are to
+be restored into their original harmonious state, and we all shall be
+made one body and be united once more into a perfect man, and the prayer
+of our Savior shall be fulfilled that all may be one."
+
+In his homily on Jonah he says: "Most persons (*plerique*, very many),
 regard the story of Jonah as teaching the ultimate forgiveness of all
-rational creatures, even the devil.\" This shows us the prevalence of
-the doctrine in the Fourth Century. His words are: \"The apostate
-angels, and the prince of this world, and Lucifer, the morning star,
-though now ungovernable, licentiously wandering about, and plunging
-themselves into the depths of sin shall in the end, embrace the happy
-dominion of Christ and his saints.\" Gieseler quotes the following
-sentence from Jerome\'s comments on Gal. 5:22: \"No rational creature
-before God will perish forever,\" and from this language the historian
-not only classes Jerome as a Universalist, but considers it proof that
-the doctrine was then prevalent in the West. \"The learned, the famous
-Jerome (AD 380-390), was at this time a Universalist of Origen\'s
-school. He was, indeed, a Latin writer; but it may be more proper to
-introduce him with the Greek fathers, since he completed his theological
-education in the East, and there spent the larger part of his manhood
-and old age. A follower of Origen, from whose works he borrowed without
-reserve, he nevertheless modified his scheme of universal salvation with
-little amendment. \* \* At a later period he was led, by a theological
-and personal quarrel, to take sides against this doctrine.\"[^379]
+rational creatures, even the devil." This shows us the prevalence of the
+doctrine in the Fourth Century. His words are: "The apostate angels, and
+the prince of this world, and Lucifer, the morning star, though now
+ungovernable, licentiously wandering about, and plunging themselves into
+the depths of sin shall in the end, embrace the happy dominion of Christ
+and his saints."
+
+Gieseler quotes the following sentence from Jerome\'s comments on
+Galatians 5:22: "No rational creature before God will perish forever,"
+and from this language the historian not only classes Jerome as a
+Universalist, but considers it proof that the doctrine was then
+prevalent in the West. "The learned, the famous Jerome (AD 380-390), was
+at this time a Universalist of Origen\'s school. He was, indeed, a Latin
+writer; but it may be more proper to introduce him with the Greek
+fathers, since he completed his theological education in the East, and
+there spent the larger part of his manhood and old age. A follower of
+Origen, from whose works he borrowed without reserve, he nevertheless
+modified his scheme of universal salvation with little amendment... At a
+later period he was led, by a theological and personal quarrel, to take
+sides against this doctrine."[^379]
 
 ## John Chrysostom.
 
-John Chrysostom, AD 347-407, was born of Christian parentage in Antioch,
+John Chrysostom, 347-407, was born of Christian parentage in Antioch,
 and became the golden-mouthed orator and one of the most celebrated of
 the fathers. He was the intimate friend of Theodore of Mopsuestia, and
 Diodore of Tarsus, and a pupil of the latter for six years. He was no
@@ -7161,53 +7168,54 @@ predispose us to regard him as cherishing their view of human destiny,
 notwithstanding his lurid descriptions of the horrors of future
 torments.
 
-In answer to the question, \"Whether hell fire have any end,\"
-Chrysostom says, \"Christ declares that it has no end. Well,\" he adds,
-"I know that a chill comes over you on hearing these things, but what am
-I to do? For this is God\'s own command, \* \* \* that it has no end
-Christ has declared. Paul also saith, in pointing out the eternity of
-punishment, that the sinner shall pay the penalty of destruction, and
-that forever.\"[^380] The reasonableness of the apparently
-disproportioned penalty he feebly argues. A specimen of the utter
-inadequacy of his argument is seen where he comments on the language,
-\"If any man\'s work be burned he shall suffer loss, but he himself
-shall be saved, yet so as by fire.\" He says it means "that while the
-sinner\'s works shall perish, he shall be preserved in fire for the
-purpose of torment." And he gives the very details: "A river of fire,
-and a poisonous worm, and darkness interminable, and undying
-tortures."[^381] And yet he asks with a significant emphasis that seems
-to preclude the thought of the sinner\'s irremediably suffering: "Tell
-me on what account do you mourn for him that is departed? Is it because
-he was wicked? But for that very reason you ought to give thanks,
-because his evil works are put a stop to." "God is equally to be praised
-when he chastises, and when he frees from chastisement. For both spring
-from goodness. \* \* \* It is right, then, to praise him equally both
-for placing Adam in Paradise, and for expelling him; and to give thanks
-not alone for the kingdom, but for Gehenna as well. \* \* \* Christ went
-to the utterly black and joyless portion of Hades, and turned it into
-heaven, transferring all its wealth, the race of man, into his royal
-treasury."[^382]
+In answer to the question, "Whether hell fire have any end," Chrysostom
+says, "Christ declares that it has no end. Well," he adds, "I know that
+a chill comes over you on hearing these things, but what am I to do? For
+this is God\'s own command, ... that it has no end Christ has declared.
+Paul also says, in pointing out the eternity of punishment, that the
+sinner shall pay the penalty of destruction, and that forever."[^380]
+The reasonableness of the apparently disproportioned penalty he feebly
+argues. A specimen of the utter inadequacy of his argument is seen where
+he comments on the language, "If any man\'s work be burned he shall
+suffer loss, but he himself shall be saved, yet so as by fire." He says
+it means "that while the sinner\'s works shall perish, he shall be
+preserved in fire for the purpose of torment." And he gives the very
+details: "A river of fire, and a poisonous worm, and darkness
+interminable, and undying tortures."[^381] And yet he asks with a
+significant emphasis that seems to preclude the thought of the sinner\'s
+irremediably suffering: "Tell me on what account do you mourn for him
+that is departed? Is it because he was wicked? But for that very reason
+you ought to give thanks, because his evil works are put a stop to."
+"God is equally to be praised when he chastises, and when he frees from
+chastisement. For both spring from goodness.... It is right, then, to
+praise him equally both for placing Adam in Paradise, and for expelling
+him; and to give thanks not alone for the kingdom, but for Gehenna as
+well.... Christ went to the utterly black and joyless portion of Hades,
+and turned it into heaven, transferring all its wealth, the race of man,
+into his royal treasury."[^382]
 
-Dr. Schaff informs us that \"Nitzsch includes Gregory Nazianzen and
+Dr. Schaff informs us that "Nitzsch includes Gregory Nazianzen and
 possibly Chrysostom among Universalists, and says that Chrysostom
-praised Origen and Diodorus, and this comments on I Cor. 15:28, looked
-toward an *apokalastasis*.\"
+praised Origen and Diodorus, and this comments on 1 Cor. 15:28, looked
+toward an *apokalastasis*."
 
-Dr. Beecher ranks him among the \"esoteric believers.\" Neander thinks
-he believed in Universalism, but felt that the opposite doctrine was
-necessary to alarm the multitude. On the words, \"At the name of Jesus
-every knee shall bow,\" Chrysostom says: \"What does this mean of
-\'things in heaven, on earth, and under the earth?\' It means the whole
-world, and angels, and men, and demons. Or, it signifies both the holy
-and sinners.\" A pupil of Diodore, of Tarsus, for six years, and a
-fellow-student with Theodore of Mopsuestia, both Universalists, he
-cannot be regarded as otherwise than in sympathy with them on this theme
-of themes. He must have been one of those esoteric believers else- where
-described, for he says according to Neander, that he had found the
-doctrine of endless punishment necessary to the welfare of sinners, and
-on that account had preached it. The influence of the Alexandrians was
-waning, and the heathen environment was leavening Christianity, which
-soon assumed a phase wholly foreign to its primal purity.
+Dr. Beecher ranks him among the "esoteric believers." Neander thinks he
+believed in Universalism but felt that the opposite doctrine was
+necessary to alarm the multitude. On the words, "At the name of Jesus
+every knee shall bow," Chrysostom says: "What does this mean of 'things
+in heaven, on earth, and under the earth?' It means the whole world, and
+angels, and men, and demons. Or, it signifies both the holy and
+sinners."
+
+A pupil of Diodore, of Tarsus, for six years, and a fellow-student with
+Theodore of Mopsuestia, both Universalists, he cannot be regarded as
+otherwise than in sympathy with them on this theme of themes. He must
+have been one of those esoteric believers elsewhere described, for he
+says according to Neander, that he had found the doctrine of endless
+punishment necessary to the welfare of sinners, and on that account had
+preached it. The influence of the Alexandrians was waning, and the
+heathen environment was leavening Christianity, which soon assumed a
+phase wholly foreign to its primal purity.
 
 # 20. Augustine (Deterioration Continues). 
 
