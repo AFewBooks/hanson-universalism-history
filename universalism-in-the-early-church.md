@@ -7554,6 +7554,8 @@ would be answered; and in the other a stony-hearted indifference to the
 misery of mankind, which he called "one damned batch and mass of
 perdition."[^393]
 
+## Augustine's Acknowledgment.
+
 Augustine brought his theology with him from Manichaeism when he became
 a Christian, only he added perpetuity to the dualism that Mani made
 temporal. "The doctrine of endless punishment assumed in the writings of
@@ -7575,6 +7577,8 @@ the virus of Roman Paganism was extending, the truth of the Gospel was
 yet largely held. And it was the immense power Augustine came to wield
 that so dominated the church that it afterwards stamped out the doctrine
 of universal salvation.
+
+## Augustine's Criticisms and Mistakes.
 
 Augustine assumed and insisted that the words defining the duration of
 punishment, in the New Testament, teach its endlessness, and the claim
@@ -7608,9 +7612,12 @@ translation of Origen\'s *Principiis* had circulated with good effect,
 and that Augustine, to counteract the influence of Origen\'s book, wrote
 in 415, a small work, *Against the Priscillianists and Origenists*. From
 about this time began the efforts of Augustine and his followers that
-subsequently entirely changed the character of Christian theology. Says
-Milman: "The Augustinian theology coincided with the tendencies of the
-age towards the growth of the strong sacerdotal system; and the
+subsequently entirely changed the character of Christian theology.
+
+## Milman on Augustinianism.
+
+Says Milman: "The Augustinian theology coincided with the tendencies of
+the age towards the growth of the strong sacerdotal system; and the
 sacerdotal system reconciled Christendom with the Augustinian theology."
 And it was in the age of Augustine, at the maturity of his powers, that
 the Latin church developed its theological system, "differing at every
@@ -7629,6 +7636,8 @@ illustrate God\'s mercy. The majority "are predestinated to eternal fire
 with the devil." He held, however, that all punishments beyond the grave
 are not endless.[^401]
 
+## Augustine Less Severe Than Modern Orthodoxy.
+
 Augustine, however, held the penalties of sin in a much milder form than
 do his degenerate theological descendants in modern times. He teaches
 that the lost still retain goodness, --- too valuable to be destroyed,
@@ -7644,10 +7653,10 @@ so on the whole a blessing. In a *limbus infantum* they would only
 receive a *mitissima damnatio*. He also taught that death did not
 necessarily end probation, as is quite fully shown under \"Christ\'s
 Descent into Hades.\" Augustine\'s idea was reduced to rhyme in the
-sixteenth century by the Rev. **Michael Wigglesworth**, of Maiden,
-Mass., who was the Puritan pastor of the church in that place. A curious
-fact in the history of the parish is this, --- that the church in which
-these ridiculous sentiments were uttered became, in 1828, by vote of the
+sixteenth century by the Rev. Michael Wigglesworth, of Maiden, Mass.,
+who was the Puritan pastor of the church in that place. A curious fact
+in the history of the parish is this, --- that the church in which these
+ridiculous sentiments were uttered became, in 1828, by vote of the
 parish, Universalist, and is now the Universalist church in Maiden. The
 poem represents God as saying to non-elect infants:
 
@@ -7686,6 +7695,8 @@ church "detested" it, he kindly added: "They who believe this, and yet
 are Catholics, seem to me to be deceived by a certain human tenderness,"
 and he urged Jerome to continue to translate Origen for the benefit of
 the African church!
+
+## Decadence and Deterioration.
 
 Under such malign influences, however, the broad and generous theology
 of the East soon passed away; the language in which it was expressed ---
@@ -7726,6 +7737,8 @@ obliterated, and the Augustinian inventions of original and inherited
 depravity, predestination, and endless hell torments, became the
 theology of Christendom.
 
+## Christianity Plagiarized.
+
 Thus, says Schaff, "the Roman state, with its laws, institutions, and
 usages, was still deeply rooted in heathenism. The Christianizing of the
 state amounted therefore to a paganizing and secularizing of the church.
@@ -7748,6 +7761,8 @@ Greek --- a labor from which he confesses that he had shrunk --- the
 whole stream of Christian theology might have been purer and more
 sweet."
 
+## Augustinianism Cruel.
+
 In no other respect did Augustine differ more widely from Origen and the
 Alexandrians than in his intolerant spirit. Even Tertullian conceded to
 all the right of opinion. Gregory of Nazianzus, Ambrose, Athanasius and
@@ -7769,8 +7784,8 @@ Netherland\'s butcheries, St. Bartholomew massacres, the accursed
 infamies of the Inquisition, the vile espionage, the hideous bale fires
 of Seville and Smithfield, the racks, the gibbets, the thumbscrews, the
 subterranean torture-chambers used by churchly torturers."[^405] And
-**George Sand** well says that the Roman church committed suicide the
-day she invented an implacable God and eternal damnation.[^406]
+George Sand well says that the Roman church committed suicide the day
+she invented an implacable God and eternal damnation.[^406]
 
 # 21. Unsuccessful Attempts to Suppress Universalism.
 
@@ -10047,43 +10062,43 @@ found below.
 
 [^390]: JW: Sermon xxxiv; on Psalm 148; Sermon xxx.
 
-[^391]: Confessions, III, Chap. i-iii.
+[^391]: JW: Confessions, III, Chap. i-iii.
 
-[^392]: Robert Burns' Address to the De'il.
+[^392]: JW: Robert Burns' Address to the De'il.
 
-[^393]: Conspersio damnata, massa perditionis.
+[^393]: JW: Conspersio damnata, massa perditionis.
 
-[^394]: Allen, Cont. Christ. Thought.
+[^394]: JW: Allen, Cont. Christ. Thought.
 
-[^395]: Enchiridion cxii: "Frustra itaque nonulli, imo quam plurimi,
+[^395]: JW: Enchiridion cxii: "Frustra itaque nonulli, imo quam plurimi,
     aeternam damnatorum poenam et cruciatus sine intermission perpetous
     humano miserantur affect, atque ita futurum esse non credunt."
 
-[^396]: Misercordibus nostris. De Civ., Dei., xxi:17.
+[^396]: JW: Misercordibus nostris. De Civ., Dei., xxi:17.
 
-[^397]: Graecae autem linguae non sit nobis tantus habitus, ut talium
-    rerum libris legendis et intelligendis ullo modo reperiamur idonei,
-    (De Trin. lib III); and, et ego quidem graecae linguae preparum
-    assecutus sum, et prope nihil. (Contra litteras Petiliani, lib II,
-    xxxviii, 91. Migne, Vol. XLIII.) Quid autem erat causae cur graecas
-    litteras oderam quibus puerulus imbuebar ne nunc quidem mihi satis
-    exploratum est: "But what was the cause of my dislike of Greek
+[^397]: JW: Graecae autem linguae non sit nobis tantus habitus, ut
+    talium rerum libris legendis et intelligendis ullo modo reperiamur
+    idonei, (De Trin. lib III); and, et ego quidem graecae linguae
+    preparum assecutus sum, et prope nihil. (Contra litteras Petiliani,
+    lib II, xxxviii, 91. Migne, Vol. XLIII.) Quid autem erat causae cur
+    graecas litteras oderam quibus puerulus imbuebar ne nunc quidem mihi
+    satis exploratum est: "But what was the cause of my dislike of Greek
     literature, which I studed from my boyhood, I cannot even
     understand." Conf. I:13. This ignorance of the original Scriptures
     was a poor outfit with which to furnish orthodox critics for a
     thousand years. See Rosenmuller, Hist. Interp., iii, 40.
 
-[^398]: See Preface to Confessions.
+[^398]: See Preface to *Confessions*.
 
-[^399]: Latin Christ. I.
+[^399]: JW: Latin Christ. I.
 
-[^400]: Allen, Cont. Christ. Thought, pg. 156.
+[^400]: JW: Allen, Cont. Christ. Thought, pg. 156.
 
-[^401]: He says, \"Non autem omnes veniunt in sempiternas poenas, quae
-    post illud judicium sunt futurae, qui post mortem sustinent
+[^401]: JW: He says, \"Non autem omnes veniunt in sempiternas poenas,
+    quae post illud judicium sunt futurae, qui post mortem sustinent
     temporalis.\" (De Civ. Dei).
 
-[^402]: De Civ. Del. "non redarguo, quia forsitan verum est."
+[^402]: JW: De Civ. Del. "non redarguo, quia forsitan verum est."
 
 [^403]: DM: It is hard not to notice here the repeated emphasis Hanson
     puts on the, in his opinion, less desirable Latin Christianity
@@ -10092,13 +10107,13 @@ found below.
     nature of racism in the northern states see Patricia C. Click's
     *Time Full of Trial*.
 
-[^404]: Latin Christianity, I, 127.
+[^404]: JW: Latin Christianity, I, 127.
 
-[^405]: Farrar's Lives of the Fathers.
+[^405]: JW: Farrar's Lives of the Fathers.
 
-[^406]: "L' Eglise Romain s'est porte le dernier coup: elle a consommé
-    son suicide le jour on elle a fait Dieu implacable et la damnation
-    eternelle." Spiridion.
+[^406]: JW: "L' Eglise Romain s'est porte le dernier coup: elle a
+    consommé son suicide le jour on elle a fait Dieu implacable et la
+    damnation eternelle." Spiridion.
 
 [^407]: Nicephorus, Eccle. Hist., xvii: 27. Hefele, iv: 220.
 
