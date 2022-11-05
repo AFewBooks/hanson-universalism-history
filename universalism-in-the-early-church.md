@@ -68,9 +68,9 @@ Version: 0.4.0 11/5/2022
 [4. Doctrines of "Mitigation" and of "Reserve."
 [42](#doctrines-of-mitigation-and-of-reserve.)](#doctrines-of-mitigation-and-of-reserve.)
 
-[Mitigation [42](#mitigation)](#mitigation)
+[Mitigation [42](#mitigation-explained.)](#mitigation-explained.)
 
-[Reserve [43](#reserve)](#reserve)
+[Reserve [43](#the-doctrine-of-reserve.)](#the-doctrine-of-reserve.)
 
 [5. Two Kindred Topics.
 [46](#two-kindred-topics.)](#two-kindred-topics.)
@@ -1869,16 +1869,16 @@ and the work of Christ in man\'s behalf were dwelt upon, accompanied by
 the announcement of the fearful consequences of sin; but when those
 consequences, through Pagan influences, came to be regarded as endless
 in duration, then the antidotal truth of universal salvation assumed
-prominence through **Clement**, **Origen**, and other Alexandrine
-fathers. Even when some of the early Christians had so far been overcome
-by heathen error as to accept the dogma of endless torment for the
-wicked, they had no hard words for those who believed in universal
-restoration and did not even controvert their views. The doctrines of
-Prayer for the Dead, and of Christ Preaching to those in Hades, and of
-Mitigation, were humane teachings of the primitive Christians that were
-subsequently discarded.
+prominence through Clement, Origen, and other Alexandrine fathers. Even
+when some of the early Christians had so far been overcome by heathen
+error as to accept the dogma of endless torment for the wicked, they had
+no hard words for those who believed in universal restoration and did
+not even controvert their views. The doctrines of Prayer for the Dead,
+and of Christ Preaching to those in Hades, and of Mitigation, were
+humane teachings of the primitive Christians that were subsequently
+discarded.
 
-## Mitigation
+## Mitigation Explained.
 
 The doctrine of Mitigation was, that for some good deed on earth, the
 damned in hell would occasionally be let out on a respite or
@@ -1914,29 +1914,29 @@ Catholicism had added to the bequest of heathenism to Christianity, and
 to give the world the unmitigated horror that Protestantism taught from
 the Sixteenth to the Nineteenth Century.
 
-## Reserve
+## The Doctrine of Reserve.
 
 We cannot read the patristic literature understandingly unless we
 constantly bear in mind the early fathers\' doctrine of \"Economy,\" or
-\"Reserve.\"[^137] **Plato** distinctly taught it,[^138] and says that
-error may be used as a medicine. He justifies the use of the "medicinal
-lie.\" The resort of the early fathers to the esoteric is no doubt
-derived from Plato. **Origen** almost quotes him when he says that
-sometimes fictitious threats are necessary to secure obedience, as when
-**Solon** had purposely given imperfect laws. Many, in and out of the
-church, held that the wise possessor of truth might hold it in secret,
-when its impartation to the ignorant would seem to be fraught with
-danger, and that error might be properly substituted. The object was to
-save "Christians of the simpler sort" from waters too deep for them. It
-is possible to defend the practice if it be taken to represent the
-method of a skillful teacher, who will not confuse the learner with
-principles beyond his comprehension.[^139]
+\"Reserve.\"[^137] Plato distinctly taught it,[^138] and says that error
+may be used as a medicine. He justifies the use of the "medicinal lie.\"
+The resort of the early fathers to the esoteric is no doubt derived from
+Plato. Origen almost quotes him when he says that sometimes fictitious
+threats are necessary to secure obedience, as when Solon had purposely
+given imperfect laws. Many, in and out of the church, held that the wise
+possessor of truth might hold it in secret, when its impartation to the
+ignorant would seem to be fraught with danger, and that error might be
+properly substituted. The object was to save "Christians of the simpler
+sort" from waters too deep for them. It is possible to defend the
+practice if it be taken to represent the method of a skillful teacher,
+who will not confuse the learner with principles beyond his
+comprehension.[^139]
 
-**Gieseler** remarks that "the Alexandrians regarded a certain
-accommodation as necessary, which ventures to make use even of falsehood
-for the attainment of a good end; nay, which was even obliged to do so."
+Gieseler remarks that "the Alexandrians regarded a certain accommodation
+as necessary, which ventures to make use even of falsehood for the
+attainment of a good end; nay, which was even obliged to do so."
 
-**Neander** declares that \"the Orientals, according to their theory of
+Neander declares that \"the Orientals, according to their theory of
 economy, allowed themselves many liberties not to be reconciled with the
 strict laws of veracity.\"[^140]
 
@@ -1947,24 +1947,24 @@ few, --- withheld from the multitude, who would not appreciate it, and
 even that the opposite error would, with some sinners, be more
 beneficial than the truth.
 
-**Clement of Alexandria** admits that he does not write or speak certain
+Clement of Alexandria admits that he does not write or speak certain
 truths.
 
-**Origen** claims that there are doctrines not to be communicated to the
+Origen claims that there are doctrines not to be communicated to the
 ignorant.
 
-**Clement** says: \"They are not in reality liars who use
+Clement says: \"They are not in reality liars who use
 circumlocution[^141] because of the economy of salvation.\"
 
-**Origen** refers to truths that must not be written.[^142]
+Origen refers to truths that must not be written.[^142]
 
-**Gieseler** declares that the Alexandrians taught that falsehood could
-be used to accomplish the good of men.
+Gieseler declares that the Alexandrians taught that falsehood could be
+used to accomplish the good of men.
 
-**Origen** said that \"all that might be said on this theme is not
-expedient to explain now, or to all. For the mass need no further
-teaching on account of those who hardly through the fear of *aeonian*
-punishment restrain their recklessness.\"
+Origen said that \"all that might be said on this theme is not expedient
+to explain now, or to all. For the mass need no further teaching on
+account of those who hardly through the fear of *aeonian* punishment
+restrain their recklessness.\"
 
 The reader of the patristic literature sees this opinion frequently, and
 unquestionably it caused many to hold out threats to the multitude in
@@ -1972,30 +1972,32 @@ order to restrain them; threats that they did not themselves believe
 would be executed.[^143]
 
 The gross and carnal interpretation given to parts of the Gospel,
-causing some, as **Origen** said, to \"believe of God what would not be
+causing some, as Origen said, to \"believe of God what would not be
 believed of the crudest of mankind,\" caused him to dwell upon the duty
 of reserve, which he does in many of his homilies. He says that he
 cannot fully express himself on the mystery of eternal punishment in an
 exoteric statement.[^144]
 
-The reserve advocated and practiced by **Origen** and the Alexandrians
-was, says **Bigg**, \"the screen of an esoteric belief.\"
+The reserve advocated and practiced by Origen and the Alexandrians was,
+says Bigg, \"the screen of an esoteric belief.\"
 
-**Beecher** reminds his readers that while it was common with Pagan
+Beecher reminds his readers that while it was common with Pagan
 philosophers to teach false doctrines to the masses with the mistaken
 idea that they were needful, "the fathers of the Christian church did
 not escape the infection of this leprosy of pious fraud;" and he quotes
-**Neander** to show that **Chrysostom** was guilty of it, and also
-**Gregory Nazianzen**, **Athanasius**, and **Basil the Great**.
+Neander to show that Chrysostom was guilty of it, and also Gregory
+Nazianzen, Athanasius, and Basil the Great.
 
 The prevalence of this *fraus pia* in the early centuries is well known
 to scholars. After saying that the *Sibylline Oracles* were probably
-forged by a gnostic, **Mosheim** says: \"I cannot yet take upon me to
-acquit the most strictly orthodox from all participation in this species
-of criminality; for it appears from evidence superior to all exception
-that a pernicious maxim was current...namely, that those who made it
-their business to deceive with a view of promoting the cause of truth,
-were deserving rather of commendation than censure.\"
+forged by a gnostic, Mosheim says: \"I cannot yet take upon me to acquit
+the most strictly orthodox from all participation in this species of
+criminality; for it appears from evidence superior to all exception that
+a pernicious maxim was current...namely, that those who made it their
+business to deceive with a view of promoting the cause of truth, were
+deserving rather of commendation than censure.\"
+
+## What Was Held as to Doctrine.
 
 It seems to have been held that "faith, the foundation of Christian
 knowledge, was fitted only for the rude mass, the animal men, who were
@@ -2003,23 +2005,22 @@ incapable of higher things. Far above these were the privileged natures,
 the men of intellect, or spiritual men, whose vocation was not to
 believe but to know.\"[^145]
 
-The ecclesiastical historians class as esoteric believers,
-**Chrysostom** and **Gregory Nazianzen**; and **Beecher** names
-**Athanasius** and **Basil the Great** as in the same category; and
-remarks: \"We cannot fully understand such a proclamation of future
-endless punishment as has been described, while it was not believed,
-until we consider the influence of Plato on the age...Socrates is
-introduced as saying in Grote\'s Plato: \'It is indispensable that this
-fiction should be circulated and accredited as the fundamental,
-consecrated, unquestioned creed of the whole city, from which the
-feeling of harmony and brotherhood among the citizens springs.\' Such
-principles, as a leprosy, had corrupted the whole community, and
-especially the leaders. In the Roman Empire pagan magistrates and
-priests appealed to retribution in Tartarus, of which they had no
-belief, to affect the masses. This does not excuse, but it explains the
-preaching of eternal punishment by men who did not believe it. They
-dared not entrust the truth to the masses, and so held it in reserve ---
-to deter men from sin.\"
+The ecclesiastical historians class as esoteric believers, Chrysostom
+and Gregory Nazianzen; and Beecher names Athanasius and Basil the Great
+as in the same category; and remarks: \"We cannot fully understand such
+a proclamation of future endless punishment as has been described, while
+it was not believed, until we consider the influence of Plato on the
+age...Socrates is introduced as saying in Grote\'s Plato: \'It is
+indispensable that this fiction should be circulated and accredited as
+the fundamental, consecrated, unquestioned creed of the whole city, from
+which the feeling of harmony and brotherhood among the citizens
+springs.\' Such principles, as a leprosy, had corrupted the whole
+community, and especially the leaders. In the Roman Empire pagan
+magistrates and priests appealed to retribution in Tartarus, of which
+they had no belief, to affect the masses. This does not excuse, but it
+explains the preaching of eternal punishment by men who did not believe
+it. They dared not entrust the truth to the masses, and so held it in
+reserve --- to deter men from sin.\"
 
 General as was the confession of a belief in universal salvation in the
 church\'s first and best three centuries, there is ample reason to
@@ -2030,6 +2031,8 @@ fathers during the first four hundred years of our era, that Christ
 would achieve a universal triumph, and that God would ultimately reign
 in all hearts.
 
+## Modern Theologians Equivocal.
+
 There can be no doubt that many of the fathers threatened severer
 penalties than they believed would be visited on sinners, impelled to
 utter them because they considered them to be more salutary with the
@@ -2039,26 +2042,28 @@ it. Others, we know, who accepted universal restoration employed, for
 the sake of deterring sinners, threats that are inconsistent, literally
 interpreted, with that doctrine. This disposition to conceal the truth
 has actuated many a modem theologian. In Sermon 35, on the eternity of
-hell torments Archbishop **Tillotson**, while he argues for the endless
+hell torments Archbishop Tillotson, while he argues for the endless
 duration of punishment, suggests that the Judge has the right to omit
 inflicting it if he shall see it inconsistent with righteousness or
-goodness to make sinners miserable forever, and **Burnet** urges:
-\"Whatever your opinion is within yourself, and in your breast,
-concerning these punishments, whether they are eternal or not, yet
-always with the people, and when you preach to the people, use the
-received doctrine and the received words in the sense in which the
-people receive them.\" It is certainly allowable to think that many an
-ancient timid teacher discovered the truth without daring to entrust it
-to the mass of mankind.
+goodness to make sinners miserable forever, and Burnet urges: \"Whatever
+your opinion is within yourself, and in your breast, concerning these
+punishments, whether they are eternal or not, yet always with the
+people, and when you preach to the people, use the received doctrine and
+the received words in the sense in which the people receive them.\" It
+is certainly allowable to think that many an ancient timid teacher
+discovered the truth without daring to entrust it to the mass of
+mankind.
 
-**Theophilus of Alexandria** proposed making **Synesius of Cyrene**,
-bishop. The latter said: \"The philosophic intelligence, in short, while
-it beholds the truth, admits the necessity of lying. Light corresponds
-to truth, but the eye is dull of vision; it cannot without injury gaze
-on the infinite light. As twilight is more comfortable for the eye, so,
-I hold, is falsehood for the common run of people. The truth can only be
-harmful for those who are unable to gaze on the reality. If the laws of
-the priesthood permit me to hold this position, then I can accept
+## Even Lying Defended.
+
+Theophilus of Alexandria proposed making Synesius of Cyrene, bishop. The
+latter said: \"The philosophic intelligence, in short, while it beholds
+the truth, admits the necessity of lying. Light corresponds to truth,
+but the eye is dull of vision; it cannot without injury gaze on the
+infinite light. As twilight is more comfortable for the eye, so, I hold,
+is falsehood for the common run of people. The truth can only be harmful
+for those who are unable to gaze on the reality. If the laws of the
+priesthood permit me to hold this position, then I can accept
 consecration, keeping my philosophy to myself at home, and preaching
 fables out of doors.\"[^146]
 
@@ -9216,29 +9221,31 @@ found below.
 
 [^135]: DM: Universalist Quarterly, January, 1883.
 
-[^136]: Christian History in Three Great Periods, pp. 257, 58.
+[^136]: JW: Christian History in Three Great Periods, pp. 257, 58.
 
-[^137]: Bigg's Platonists of Alexandria, pg. 58.
+[^137]: JW: Bigg's Platonists of Alexandria, pg. 58.
 
-[^138]: Grote's Plato, Vol. III, xxxiii, pp. 56, 57.
+[^138]: JW: Grote's Plato, Vol. III, xxxiii, pp. 56, 57.
 
-[^139]: J.H. Newman, Arians; Apologia Pro Vita Sua.
+[^139]: JW: J.H. Newman, Arians; Apologia Pro Vita Sua.
 
-[^140]: Allin, Univ. Asserted, shows at length the prevalence of the
+[^140]: JW: Allin, Univ. Asserted, shows at length the prevalence of the
     doctrine of "reserve" among the early Christians.
 
-[^141]: See original pg. 56 for Greek. Stromata.
+[^141]: JW: From the *Stromata*, Greek: συμπεριϕερόμενοι.
 
-[^142]: Against Celsus I, vii; and on Romans 2.
+[^142]: JW: Against Celsus I, vii; and on Romans 2.
 
-[^143]: See pg. 56 for original note which includes Greek.
+[^143]: JW: "St. Basil distinguishes in Christianity between κηρύγματα
+    what is openly proclaimed and δόγματα which are kept secret." Max
+    Muller, Theosophy or Psychology, Lecture 14.
 
-[^144]: Against Celsius; De Prin.
+[^144]: JW: Against Celsius; De Prin.
 
-[^145]: Dean Mansell's Gnostic Heresies of the First and Second
+[^145]: JW: Dean Mansell's Gnostic Heresies of the First and Second
     Centuries. Introduction, p. 10.
 
-[^146]: C. Bigg, D.D. Neoplatonism. London: 1895, p. 339.
+[^146]: C. Bigg, D.D. *Neoplatonism*. London: 1895, p. 339.
 
 [^147]: An excellent resume of the opinions of the fathers on Christ's
     descent into Hades, and preaching the gospel to the dead, is
