@@ -7843,31 +7843,30 @@ Augustinian Christo-paganism, after having been the prevailing theology
 of Christendom for centuries, is one of the strange phenomena in the
 history of religious thought. This volume explains, in part, this
 obscure phenomenon. History testifies that at the close of what
-Hagenbach calls the second period, from AD 254 to AD 730, the opinion in
-favor of endless punishment had become \"more general.\" Only a few
-belonging to the \"Origenist humanity \* \* \* still dared to express a
-glimmer of hope in favor of the damned \* \* \* the doctrine of the
-restitution of all things shared the fate of Origenism, and made its
-appearance in after ages only in connection with other heretical
-notions.\"
+Hagenbach calls the second period, from 254 to 730, the opinion in favor
+of endless punishment had become "more general." Only a few belonging to
+the "Origenist humanity ... still dared to express a glimmer of hope in
+favor of the damned ... the doctrine of the restitution of all things
+shared the fate of Origenism, and made its appearance in after ages only
+in connection with other heretical notions."
 
-Kingsley attributes the decadence and deterioration of the Alexandrine
-School and its doctrines and methods, to the abandonment of its intense
-activity, to the relinquishment of the grand enthusiasm for humanity
-that characterized Clement, Origen and their co-workers. He says:
-\"Having no more Heathens to fight, they began fighting each other; \*
-\* \* they became dogmatists \* \* \* they lost the knowledge of God, of
+**Kingsley** attributes the decadence and deterioration of the
+Alexandrine School and its doctrines and methods, to the abandonment of
+its intense activity, to the relinquishment of the grand enthusiasm for
+humanity that characterized Clement, Origen and their co-workers. He
+says: "Having no more Heathens to fight, they began fighting each other;
+... they became dogmatists ... they lost the knowledge of God, of
 righteousness, and love, and peace. That Divine Logos, and theology as a
 whole receded farther and farther aloft into abysmal heights, as it
 became a mere dreary system of dead scientific terms, having no
-practical bearing on their hearts and lives.\" In a word, their
+practical bearing on their hearts and lives." In a word, their
 abandonment of the principles of Clement and his school, left the field
 open to the more practical, direct and methodical, though degraded and
 corrupt theories of Augustine and his associates. This process continued
 till toward the middle of the Seventh Century, when, as Kingsley
-observes: \"In the year 640, the Alexandrians who were tearing each
-other in pieces about some Jacobite and Melchite controversy, to me
-incomprehensible \* \* \* in the midst of these Jacobite and Melchite
+observes: "In the year 640, the Alexandrians who were tearing each other
+in pieces about some Jacobite and Melchite controversy, to me
+incomprehensible \... in the midst of these Jacobite and Melchite
 controversies and riots, appeared before the city the armies of certain
 wild and unlettered Arab tribes. A short and fruitless struggle
 followed; and strange to say, a few months swept away from the face of
@@ -7881,8 +7880,8 @@ that of the Mussulman invaders. The Christian remnant became
 tributaries, and Alexandria dwindled from that time forth into a petty
 seaport town.\"[^413]
 
-The \"Universalist Quarterly,\" January, 1878, attributes the decline
-and disappearance of Universalism to an entire absence of polemic on the
+The *Universalist Quarterly*, January, 1878, attributes the decline and
+disappearance of Universalism to an entire absence of polemic on the
 part of its advocates; and to regarding the doctrine as esoteric,
 instead of for all; in other words, the undemocratic methods of those
 who accepted it. These factors, no doubt, contributed, but they are not
@@ -7901,45 +7900,46 @@ church, of the character of God and of man, of time and of eternity, of
 heaven and of hell. Perhaps the darkest hour of the night of ages was
 just before the dawn of the Reformation. The prevalent Christian thought
 was represented in literature and art, and its best exponents of the
-sentiment of a thousand years are the works of the great artist, Michael
-Angelo, and of the equally great poet, Dante. They agree in spirit, and
-black and white, darkness and light, truth and falsehood are not more
-antipodal than is the theology of Dante and Angelo contrasted with the
-cheerful simplicity, the divine purity of the primitive Christian faith.
-"That was a dark night that fell upon Christianity when its thought
-became Latinized. When Christianity came to be interpreted by the
-prosaic, unspiritual legal mind of Rome, the Gospel went into a fearful
-eclipse. When the Greek thought of Christ gave way to the Latin a night
-came upon the Christian world that has extended to the present day. Then
-were born all those half-views, distorted views, and false views of
-Christian doctrine and Christian life that have perverted the Gospel,
-puzzled the human intellect and grieved the human heart through all the
-long centuries from that day to this."[^415]
+sentiment of a thousand years are the works of the great artist,
+**Michael Angelo**, and of the equally great poet, **Dante**. They agree
+in spirit, and black and white, darkness and light, truth and falsehood
+are not more antipodal than is the theology of Dante and Angelo
+contrasted with the cheerful simplicity, the divine purity of the
+primitive Christian faith. "That was a dark night that fell upon
+Christianity when its thought became Latinized. When Christianity came
+to be interpreted by the prosaic, unspiritual legal mind of Rome, the
+Gospel went into a fearful eclipse. When the Greek thought of Christ
+gave way to the Latin a night came upon the Christian world that has
+extended to the present day. Then were born all those half-views,
+distorted views, and false views of Christian doctrine and Christian
+life that have perverted the Gospel, puzzled the human intellect and
+grieved the human heart through all the long centuries from that day to
+this."[^415]
 
 Two great men of genius of the first order, the marvelous artist,
 Michael Angelo, and the equally great poet, Dante, on canvas and in
 verse, gathered at its culmination the nightmare of unbelief that had
-darkened the preceding centuries. In Dante are \"Christian heroes
+darkened the preceding centuries. In Dante are "Christian heroes
 appearing in heathenish aspect, and heathenish poets and thinkers
-half-warmed by the light of Christianity,\" a happy characterization of
+half-warmed by the light of Christianity," a happy characterization of
 the hybrid product of truth and error that Dante describes, and that
 passed for Christianity during the Sixteenth Century, and with
-modifications, has since prevailed. The \"Last Judgment\" of Michael
+modifications, has since prevailed. The *Last Judgment* of Michael
 Angelo harmonizes with the thought of the great poet. It is a Pagan
 reminiscence --- a hideous heathen dream. The meek and lowly Man of
 Nazareth who would not break the bruised reed wad travestied by a
-monstrous caricature. \"An unclothed, broad-shouldered hero, with arms
+monstrous caricature. "An unclothed, broad-shouldered hero, with arms
 upraised that could strike down a Hercules, distributing blessings and
 curses, his hair fluttering like flames which the storm blows back, and
 his angry countenance looking down on the condemned with frightful eyes,
 as if he wished to hasten forward the destruction in which his word has
-plunged them \* \* \* the whole figure recalls the words of Dante, in
-which he calls Christ *\'Sommo Giove*,\' --- the most-high Jupiter. This
-he is here; not the suffering Son of Man, gentle as the moon, silent
-rather than speaking, with the foreboding of his fate written in his sad
-eyes. Yet, if a Last Judgment were to be painted, with everlasting
+plunged them ... the whole figure recalls the words of Dante, in which
+he calls Christ *'Sommo Giove*,' --- the most-high Jupiter. This he is
+here; not the suffering Son of Man, gentle as the moon, silent rather
+than speaking, with the foreboding of his fate written in his sad eyes.
+Yet, if a Last Judgment were to be painted, with everlasting
 condemnation, and Christ as the judge who pronounces it, how could he
-appear otherwise than in such terribleness? \* \* \* Such is Michael
+appear otherwise than in such terribleness? ... Such is Michael
 Angelo\'s Last Judgment. While we cherish a feeling that at that day,
 whenever it occurs, the love of God will remit all sins as earthly
 error, the Roman sees alone anger and revenge, as proceeding from the
@@ -7948,40 +7948,41 @@ For the sinner is forever from henceforth to be condemned. It is an echo
 of the old idea, often enough recurring in the Old Testament, that the
 Divine Being is an angry and fearful power, which must be appeased,
 instead of the Source of good alone, abolishing at last all evil as an
-influence that has beguiled mankind. \* \* \* As we look, however, at
-the Last Judgment on the wall of the Sistine Chapel, it is no longer a
-similitude to us, but a monument of the imaginative spirit of a past age
-and of a strange people, whose ideas are no longer ours. Dante created a
-new world for the Romanic nations by remodeling the forms of heathen
-antiquity for his Christian mythology.\"[^416] Materialistic, gross, was
-the Christianity that ruled and oppressed mankind for nearly a thousand
-years, and it is reflected in the pages of Dante, and on the canvas of
-Angelo, and it reverberates with ever decreasing echoes --- thank God!
---- in the subsequent creeds of Christendom. Almost the only gleam of
-light that relieved while it intensified the blackness of the darkness
-of Christendom during those dreadful centuries was the worship of Mary.
-The resurrection of Universalism after an eclipse of a millennium of
-years is as remarkable as was its strange disappearance. No better
-illustration can be found than the history of our faith gives, of the
-tenacity of life, the immortality, of truth. It calls to mind the
-language of the German sage, Schopenhauer: \"Doubtless error can play
-its part, like owls in the night. But we should sooner expect the owls
-to cause the terrified sun to retire to the East, than to see the truth,
-once proclaimed, to be so repressed as that ancient error might recover
-its lost ground, and re-establish itself there in peace.\" To truth
-belong \"God\'s eternal years,\" and her emergence after so long a
-disappearance is an illustration of her immortal vitality. "Crushed to
-earth" she has \"risen again,\" and is fast being accepted by a
-regenerated Christendom.
+influence that has beguiled mankind.... As we look, however, at the Last
+Judgment on the wall of the Sistine Chapel, it is no longer a similitude
+to us, but a monument of the imaginative spirit of a past age and of a
+strange people, whose ideas are no longer ours. Dante created a new
+world for the Romanic nations by remodeling the forms of heathen
+antiquity for his Christian mythology."[^416]
+
+Materialistic, gross, was the Christianity that ruled and oppressed
+mankind for nearly a thousand years, and it is reflected in the pages of
+Dante, and on the canvas of Angelo, and it reverberates with ever
+decreasing echoes --- thank God! --- in the subsequent creeds of
+Christendom. Almost the only gleam of light that relieved while it
+intensified the blackness of the darkness of Christendom during those
+dreadful centuries was the worship of Mary. The resurrection of
+Universalism after an eclipse of a millennium of years is as remarkable
+as was its strange disappearance. No better illustration can be found
+than the history of our faith gives, of the tenacity of life, the
+immortality, of truth. It calls to mind the language of the German sage,
+Schopenhauer: "Doubtless error can play its part, like owls in the
+night. But we should sooner expect the owls to cause the terrified sun
+to retire to the East, than to see the truth, once proclaimed, to be so
+repressed as that ancient error might recover its lost ground, and
+re-establish itself there in peace." To truth belong "God\'s eternal
+years," and her emergence after so long a disappearance is an
+illustration of her immortal vitality. "Crushed to earth" she has "risen
+again," and is fast being accepted by a regenerated Christendom.
 
 With the invention of printing, the dawn of light in the
 Reformation,[^417] and the increase of intelligence, our distinctive
 form of faith has not only grown and extended, but its leavening power
 has modified the creeds of Christendom, softening all harsh theories,
-and unfolding a \"rose of dawn\" in all Christian lands. Though, like
-its author and revealer, it seemed to die, it was, like him, to come
-forth to a new and glorious resurrection, for the views held by the
-great saints and scholars in the first centuries of Christianity were
+and unfolding a "rose of dawn" in all Christian lands. Though, like its
+author and revealer, it seemed to die, it was, like him, to come forth
+to a new and glorious resurrection, for the views held by the great
+saints and scholars in the first centuries of Christianity were
 substantially those that are taught by the Universalist Church for the
 current century, so far as they include the character of God, the nature
 and final destiny of mankind, the resurrection, the judgment, the
@@ -7992,9 +7993,9 @@ end of the present century is witnessing, is not, as many think, towards
 something new, but is towards the position of the early Christians
 seventeen hundred years ago. It is a rebirth, a restoration of
 Christianity to its primitive purity. As Max Muller has recently
-written: \"If we want to be true and honest Christians, we must go back
+written: "If we want to be true and honest Christians, we must go back
 to those earliest ante-Nicene authorities, the true fathers of the
-church.\"[^418] This is being done by Christians in all branches of the
+church."[^418] This is being done by Christians in all branches of the
 church. The Bible, which the hands of ignorance has overwritten into a
 hideous palimpsest, is being read with something of its divine meaning,
 and as increasing light pours upon the sacred page, more and more men
