@@ -2069,21 +2069,23 @@ fables out of doors.\"[^146]
 
 # 5. Two Kindred Topics.
 
+## Gospel Preached to the Dead.
+
 The early Christian church almost, if not quite, universally believed
 that Christ made proclamation of the Gospel to the dead in Hades.
 
-Says **Huidekoper**; \"In the Second and Third Centuries every branch
-and division of Christians believed that Christ preached to the
+Says Huidekoper; \"In the Second and Third Centuries every branch and
+division of Christians believed that Christ preached to the
 departed.\"[^147]
 
-**Dietelmaier** declares[^148] this doctrine was believed by all
-Christians. Of course, if souls were placed where their doom was
-irretrievable salvation would not be offered to them; whence it follows
-that the early Christians believed in post-mortem probation.
+Dietelmaier declares[^148] this doctrine was believed by all Christians.
+Of course, if souls were placed where their doom was irretrievable
+salvation would not be offered to them; whence it follows that the early
+Christians believed in post-mortem probation.
 
-**Allin** says that \"some writers teach that the apostles also preached
-in Hades. Some say that the Blessed Virgin did the same. Some even say
-that Simeon went before Christ to Hades.\"
+Allin says that \"some writers teach that the apostles also preached in
+Hades. Some say that the Blessed Virgin did the same. Some even say that
+Simeon went before Christ to Hades.\"
 
 All these testimonies go to show that the earliest of the fathers did
 not regard the grave as the deadline which the love of God could not
@@ -2098,37 +2100,36 @@ them and Tertullian in these particulars.\"
 
 In the early ages of the church great stress was laid on 1 Peter 3:19:
 "He (Christ) went and preached unto the spirits in prison." That this
-doctrine was prevalent as late as **Augustine**\'s day is evident from
-the fact that the doctrine is anathematized in his list of heresies ---
+doctrine was prevalent as late as Augustine\'s day is evident from the
+fact that the doctrine is anathematized in his list of heresies ---
 number 79. And even as late as the Ninth Century it was condemned by
-Pope **Boniface VI**. It was believed that our Lord not only proclaimed
-his Gospel to all the dead but that he liberated them all. How could it
-be possible for a Christian to entertain the thought that all the wicked
+Pope Boniface VI. It was believed that our Lord not only proclaimed his
+Gospel to all the dead but that he liberated them all. How could it be
+possible for a Christian to entertain the thought that all the wicked
 who died before the advent of our Lord were released from bondage, and
 that any who died after his advent would suffer endless woe?
 
-**Eusebius** says: \"Christ, caring for the salvation of all...opened a
-way of return to life for the dead bound in the chains of death.\"
+Eusebius says: \"Christ, caring for the salvation of all...opened a way
+of return to life for the dead bound in the chains of death.\"
 
-**Athanasius**: \"The devil...cast out of Hades, sees all the fettered
+Athanasius: \"The devil...cast out of Hades, sees all the fettered
 beings led forth by the courage of the Savior.\"[^149]
 
-**Origen** on 1st Kings 28:32: \"Jesus descended into Hades, and the
-prophets before him, and they proclaim beforehand the coming of
-Christ.\"
+Origen on 1 Kings 28:32: \"Jesus descended into Hades, and the prophets
+before him, and they proclaim beforehand the coming of Christ.\"
 
-**Didymus** observes \"In the liberation of all no one remains a
-captive; at the time of the Lord\'s passion he alone (Satan) was
-injured, who lost all the captives he was keeping.\"
+Didymus observes \"In the liberation of all no one remains a captive; at
+the time of the Lord\'s passion he alone (Satan) was injured, who lost
+all the captives he was keeping.\"
 
-**Cyril of Alexandria**: "And wandering down even to Hades he has
-emptied the dark, secret, invisible treasuries."
+Cyril of Alexandria: "And wandering down even to Hades he has emptied
+the dark, secret, invisible treasuries."
 
-**Gregory of Nazianzus**:[^150] "Until Christ loosed by his blood all
-who groaned under Tartarian chains."
+Gregory of Nazianzus:[^150] "Until Christ loosed by his blood all who
+groaned under Tartarian chains."
 
-**Jerome** on Jonah 2:6: \"Our Lord was shut up in *aeonian* bars in
-order that he might set free all who had been shut up.\"
+Jerome on Jonah 2:6: \"Our Lord was shut up in *aeonian* bars in order
+that he might set free all who had been shut up.\"
 
 Such passages might be multiplied, demonstrating that the early church
 regarded the conquest by Christ of the departed as universal. He set
@@ -2138,15 +2139,17 @@ Christ were released, how can we suppose them to have regarded the
 wicked subsequent to his death as destined to suffer interminable
 torments?
 
-**Clement of Alexandria** is explicit in declaring that the Gospel was
+Clement of Alexandria is explicit in declaring that the Gospel was
 preached to all, both Jews and Gentiles, in Hades; --- that \"the sole
 cause of the Lord\'s descent to the underworld was to preach the
 gospel.\"[^151]
 
-**Origen** says: \"Not only while Jesus was in the body did he win over
-not a few only...but when he became a soul, without the covering of the
+Origen says: \"Not only while Jesus was in the body did he win over not
+a few only...but when he became a soul, without the covering of the
 body, he dwelt among those souls (in Hades) which were without bodily
 covering, converting such of them as were fit for it.\"
+
+## The Gospel of Nicodemus.
 
 About a century after the death of John appeared the apocryphal *Gospel
 of Nicodemus*, valuable as setting forth current eschatology. It
@@ -2175,18 +2178,18 @@ Philippians (2:9-11) where all they that are in heaven and on the earth
 and under the earth, are enumerated as classes of the subjects of the
 exalted Redeemer.\"[^152]
 
-And **Alford** observes: \"The inference every intelligent reader will
-draw from the fact here announced: it is not purgatory; it is not
-universal restitution; but it is one which throws blessed light on one
-of the darkest enigmas of divine justice.\"
+And Alford observes: \"The inference every intelligent reader will draw
+from the fact here announced: it is not purgatory; it is not universal
+restitution; but it is one which throws blessed light on one of the
+darkest enigmas of divine justice.\"
 
-**Timotheus II**, patriarch of the Nestorians, wrote that \"by the
-prayers of the saints the souls of sinners may pass from Gehenna to
+Timotheus II, patriarch of the Nestorians, wrote that \"by the prayers
+of the saints the souls of sinners may pass from Gehenna to
 Paradise.\"[^153]
 
-Says **Uhlhorn**[^154]: \"For deceased persons their relatives brought
-gifts on the anniversary of their death, a beautiful custom which
-vividly exhibited the connection between the church above and the church
+Says Uhlhorn[^154]: \"For deceased persons their relatives brought gifts
+on the anniversary of their death, a beautiful custom which vividly
+exhibited the connection between the church above and the church
 below.\"
 
 \"One fact stands out very clearly from the pages of patristic
@@ -2220,29 +2223,30 @@ the errors of the good is just as true of the sins of the worst, ---
 indeed, of all. The word rendered punishment in Matthew 25:46,
 (*kolasin*) implies all this.
 
+## Condition of the Dead not Final.
+
 That the condition of the dead was not regarded as inalterably fixed is
 evident from the fact that prayers for the dead were customary
 anciently, and that, too, before the doctrine of purgatory was
 formulated. The living believed --- and so should we believe --- that
 the dead have migrated to another country, where the good offices of
-survivors on earth avail. **Perpetua** begged for the help of her
-brother, child of a Pagan father, who had died unbaptized. In
-**Tertullian** the widow prays for the soul of her departed husband.
-Repentance by the dead is conceded by **Clement**, and the prayers of
-the good on earth help them.
+survivors on earth avail. Perpetua begged for the help of her brother,
+child of a Pagan father, who had died unbaptized. In Tertullian the
+widow prays for the soul of her departed husband. Repentance by the dead
+is conceded by Clement, and the prayers of the good on earth help them.
 
 The dogma of the purificatory character of future punishment did not
 degenerate into the doctrine of punishment for believers only, until the
 Fourth Century; nor did that error crystallize into the Catholic
 purgatory until later.
 
-**Hagenbach** says: \"Comparing Gregory\'s doctrine with the earlier,
-and more spiritual notions concerning the efficacy of the purifying fire
-of the intermediate state, we may adopt the statement of Schmidt that
-the belief in a lasting desire of perfection, which death itself cannot
+Hagenbach says: \"Comparing Gregory\'s doctrine with the earlier, and
+more spiritual notions concerning the efficacy of the purifying fire of
+the intermediate state, we may adopt the statement of Schmidt that the
+belief in a lasting desire of perfection, which death itself cannot
 quench, degenerated into a belief in purgatory.\"
 
-**Plumptre**[^157] has a valuable statement: \"In every form; from the
+Plumptre[^157] has a valuable statement: \"In every form; from the
 solemn liturgies which embodied the belief of her profoundest thinkers
 and truest worshipers, to the simple words of hope and love which were
 traced over the graves of the poor, her voice (the church of the first
@@ -2250,12 +2254,11 @@ ages) went up without a doubt or misgiving, in prayers for the souls of
 the departed;\" showing that they could not have regarded their
 condition as unalterably fixed at death.
 
-Prof. **Plumptre** quotes from **Lee**\'s *Christian Doctrine of Prayer
-for the Departed*, to show the early Christians\' belief that
-intercessions for the dead would be of avail to them. Even **Augustine**
-accepted the doctrine. He prayed after his mother\'s death, that her
-sins might be forgiven, and that his father might also receive
-pardon.[^158]
+Prof. Plumptre quotes from Lee\'s *Christian Doctrine of Prayer for the
+Departed*, to show the early Christians\' belief that intercessions for
+the dead would be of avail to them. Even Augustine accepted the
+doctrine. He prayed after his mother\'s death, that her sins might be
+forgiven, and that his father might also receive pardon.[^158]
 
 \"The Platonic doctrine of a separate state where the spirits of the
 departed are purified, and on which the later doctrine of purgatory was
@@ -2263,13 +2266,13 @@ founded, was approved by all the expositors of Christianity who were of
 the Alexandrian school, as was the custom of performing religious
 services at the tombs of the dead.\"
 
-**Uhlhorn** gives similar testimony: \"For deceased persons their
-relatives brought gifts on the anniversary of their death, a beautiful
-custom, which vividly exhibited the connection between the church above
-and the church below.\"
+Uhlhorn gives similar testimony: \"For deceased persons their relatives
+brought gifts on the anniversary of their death, a beautiful custom,
+which vividly exhibited the connection between the church above and the
+church below.\"
 
-**Origen\'s** tenet of Catharsis or Purification was absorbed by the
-growing belief in purgatory.[^159]
+Origen\'s tenet of Catharsis or Purification was absorbed by the growing
+belief in purgatory.[^159]
 
 ## Important Thoughts. 
 
@@ -2309,24 +2312,26 @@ their full and proper weight, and it will be impossible to believe that
 the fathers regarded the impenitent as consigned at death to hopeless
 and endless woe.
 
-Note.--- After giving the emphatic language of Clement and Origen and
-other ancient Christians declarative of universal holiness, Dr.
-**Bigg**, in his valuable book, *The Christian Platonists of
-Alexandria*, frequently quoted in these pages, remarks:[^160] \"Neither
-Clement nor Origen is, properly speaking, a Universalist. Nor is
-Universalism the logical result of their principles.\" The reasons he
-gives are two: (1) They believed in the freedom of the will; and (2)
-they did not deny the eternity of punishment, because the soul that has
-sinned beyond a certain point can never become what it might have been!
+## Note.
+
+After giving the emphatic language of Clement and Origen and other
+ancient Christians declarative of universal holiness, Dr. Bigg, in his
+valuable book, *The Christian Platonists of Alexandria*, frequently
+quoted in these pages, remarks:[^160] \"Neither Clement nor Origen is,
+properly speaking, a Universalist. Nor is Universalism the logical
+result of their principles.\" The reasons he gives are two: (1) They
+believed in the freedom of the will; and (2) they did not deny the
+eternity of punishment, because the soul that has sinned beyond a
+certain point can never become what it might have been!
 
 To which it is only necessary to say (1) that Universalists generally
 accept the freedom of the will, and (2) no soul that has sinned, as all
 have sinned, can ever become what it might have been, so that Dr.
-**Bigg**\'s premises would necessitate not Universalism, but universal
+Bigg\'s premises would necessitate not Universalism, but universal
 condemnation!
 
-And, as if to contradict his own words Dr. **Bigg** adds in the very
-next paragraph: \"The hope of a general restitution of all souls through
+And, as if to contradict his own words Dr. Bigg adds in the very next
+paragraph: \"The hope of a general restitution of all souls through
 suffering to purity and blessedness, lingered on in the East for some
 time;\" and the last words in his book are these: \"It is the teaching
 of St. Paul, --- Then Cometh the end, when he shall have delivered up
@@ -2338,8 +2343,8 @@ And these are the last words of his last note: \"At the end all will be
 one because the Father\'s will is all in all and all in each. Each will
 fill the place which the mystery of the economy assigns to him.\"
 
-It would be interesting to learn what sort of a monstrosity Dr. **Bigg**
-has constructed and labeled with the word which he declares could not be
+It would be interesting to learn what sort of a monstrosity Dr. Bigg has
+constructed and labeled with the word which he declares could not be
 applied to Clement and Origen.
 
 # 6. The Apostles' Immediate Successors. 
@@ -9247,41 +9252,42 @@ found below.
 
 [^146]: C. Bigg, D.D. *Neoplatonism*. London: 1895, p. 339.
 
-[^147]: An excellent resume of the opinions of the fathers on Christ's
-    descent into Hades, and preaching the gospel to the dead, is
-    Huidekoper's "The Belief of the First Three Centuries Concerning
+[^147]: JW: An excellent resume of the opinions of the fathers on
+    Christ's descent into Hades, and preaching the gospel to the dead,
+    is Huidekoper's "The Belief of the First Three Centuries Concerning
     Christ's Mission to the Underworld;" also Huidekoper's "Indirect
     Testimony to the Gospels;" also Dean Plumptre's "Spirits in Prison."
     London: 1884.
 
-[^148]: Historia Dogmatica de Descensu Christi ad Inferos. J.A.
+[^148]: JW: Historia Dogmatica de Descensu Christi ad Inferos. J.A.
     Dietelmaier.
 
-[^149]: De Passione et Cruce Domini. Migne, XXVIII, 186-240.
+[^149]: JW: De Passione et Cruce Domini. Migne, XXVIII, 186-240.
 
-[^150]: Carm. XXXV, v. 9.
+[^150]: JW: Carm. XXXV, v. 9.
 
-[^151]: Strom. VI.
+[^151]: JW: Strom. VI.
 
-[^152]: Farrar's "Early Days of Christianity," ch. 7.
+[^152]: JW: Farrar's "Early Days of Christianity," ch. 7.
 
-[^153]: Asseman, IV, p. 344. See Prof. Plumptre's "Spirits in Prison,"
-    p. 141; Dict. Christ. Biog. Art. Eschatology, etc.
+[^153]: JW: Asseman, IV, p. 344. See Prof. Plumptre's "Spirits in
+    Prison," p. 141; Dict. Christ. Biog. Art. Eschatology, etc.
 
-[^154]: Book I, ch. 3.
+[^154]: JW: Book I, ch. 3.
 
-[^155]: Universalist Quarterly.
+[^155]: JW: Universalist Quarterly.
 
-[^156]: Archs. Usher and Wake, quoted by Farrar, "Mercy and Judgment."
+[^156]: JW: Archs. Usher and Wake, quoted by Farrar, "Mercy and
+    Judgment."
 
-[^157]: Spirits in Prison, London, p. 25.
+[^157]: JW: Spirits in Prison, London, p. 25.
 
-[^158]: *Confessions*, ix, 13. That these ideas were general in the
+[^158]: JW: *Confessions*, ix, 13. That these ideas were general in the
     primitive church, see Nitzsch, "Christian Doctrine," Sec. III;
     Dorner, "System of Christian Doctrine," Vol. IV, (Eschatology). Also
     Vaughan's "Causes of the Corruption of Christianity," p. 319.
 
-[^159]: "Neoplatonism," by C. Bigg, p. 334.
+[^159]: JW: "Neoplatonism," by C. Bigg, p. 334.
 
 [^160]: pp. 292-293.
 
