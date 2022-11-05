@@ -134,10 +134,11 @@ Version: 0.4.0 11/5/2022
 [9. Pantaenus and Clement.
 [69](#pantaenus-and-clement.)](#pantaenus-and-clement.)
 
-[Pantaenus. [69](#pantaenus.)](#pantaenus.)
+[Pantaenus.
+[69](#pantaenus-the-sicilian-bee.)](#pantaenus-the-sicilian-bee.)
 
 [The Alexandrine School.
-[69](#the-alexandrine-school.)](#the-alexandrine-school.)
+[69](#the-famous-alexandrine-school.)](#the-famous-alexandrine-school.)
 
 [Clement of Alexandria.
 [72](#clement-of-alexandria.)](#clement-of-alexandria.)
@@ -3224,48 +3225,46 @@ yet declare that it shall end in the restoration of the lost.
 
 # 9. Pantaenus and Clement. 
 
-## Pantaenus.
+## Pantaenus, the "Sicilian Bee."
 
-There is nothing known to exist from the pen of **Pantaenus**, but we
-learn from **Eusebius** that this distinguished scholar and teacher was
-at the head of the Catechetical school in Alexandria as early as 179 AD,
-having succeeded **Anaxagoras**. This celebrated institution had been in
-existence since 100-120 AD. Tradition asserts that it was founded by the
-apostles.[^199] **Jerome** says, \"*a Marco Evangelista semper
-ecclesiastici fuere doctores*.\" It had been up to the time of
-**Pantaenus** a school for proselytes, but he made it a theological
-seminary, and so was the real founder of the Catechetical
-institution.[^200]
+There is nothing known to exist from the pen of Pantaenus, but we learn
+from Eusebius that this distinguished scholar and teacher was at the
+head of the Catechetical school in Alexandria as early as 179 AD, having
+succeeded Anaxagoras. This celebrated institution had been in existence
+since 100-120 AD. Tradition asserts that it was founded by the
+apostles.[^199] Jerome says, \"*a Marco Evangelista semper ecclesiastici
+fuere doctores*.\" It had been up to the time of Pantaenus a school for
+proselytes, but he made it a theological seminary, and so was the real
+founder of the Catechetical institution.[^200]
 
-**Pantaenus** was a convert from Stoicism, and is described by
-**Clement**, **Jerome**, and others as a man of superior learning and
-abilities. **Clement** calls him \"that Sicilian bee gathering the spoil
-of the flowers of the prophetic and apostolic meadow;\" \"the deepest
-Gnostic,\" by which he means \"the deepest philosophical Christian, the
-man who best understood and practiced Scripture.\" It could not be
-otherwise than that the teacher of **Clement** cherished the religious
-views with which his great disciple was graduated, for of **Pantaenus**,
-**Clement** says: \"I know what is the weakness of these reflections, if
-I compare them with the gifted and gracious teaching I was privileged to
-hear.\" Some of his writings are alluded to, but though nothing remains,
-yet in **Clement**, who was inspired by him, he gave to the church a
-priceless legacy.
+Pantaenus was a convert from Stoicism, and is described by Clement,
+Jerome, and others as a man of superior learning and abilities. Clement
+calls him \"that Sicilian bee gathering the spoil of the flowers of the
+prophetic and apostolic meadow;\" \"the deepest Gnostic,\" by which he
+means \"the deepest philosophical Christian, the man who best understood
+and practiced Scripture.\" It could not be otherwise than that the
+teacher of Clement cherished the religious views with which his great
+disciple was graduated, for of Pantaenus, Clement says: \"I know what is
+the weakness of these reflections, if I compare them with the gifted and
+gracious teaching I was privileged to hear.\" Some of his writings are
+alluded to, but though nothing remains, yet in Clement, who was inspired
+by him, he gave to the church a priceless legacy.
 
-In 189 AD **Pantaenus** went on a missionary tour to India, and
-**Eusebius** says that while there he found the seeds of the Christian
-faith that had been sown by previous missionaries, and that he brought
-home with him the Gospel of Matthew, in Hebrew, that had been carried to
-India by Bartholomew. May it not be that some of the precepts of
-Buddhism resembling those of Christ, which the best Oriental scholars
-admit are of later origin than Buddha, were caught from the teachings of
-early Christian missionaries? **Pantaenus** was martyred 216 AD.
+In 189 AD Pantaenus went on a missionary tour to India, and Eusebius
+says that while there he found the seeds of the Christian faith that had
+been sown by previous missionaries, and that he brought home with him
+the Gospel of Matthew, in Hebrew, that had been carried to India by
+Bartholomew. May it not be that some of the precepts of Buddhism
+resembling those of Christ, which the best Oriental scholars admit are
+of later origin than Buddha, were caught from the teachings of early
+Christian missionaries? Pantaenus was martyred 216 AD.
 
-## The Alexandrine School. 
+The Universalism of Clement, Origen and their successors must, beyond
+question, have been taught by their great predecessor, Pantaenus, and
+there is every reason to believe that the Alexandrine school had never
+known any contrary teaching, from its foundation.
 
-The Universalism of **Clement**, **Origen** and their successors must,
-beyond question, have been taught by their great predecessor,
-**Pantaenus**, and there is every reason to believe that the Alexandrine
-school had never known any contrary teaching, from its foundation.
+## The Famous Alexandrine School. 
 
 At this time Alexandria was the second city in the world, with a
 population of 600,000; its great library contained from 400,000 to
@@ -3301,11 +3300,11 @@ it resumed its old prosperity, which continued until internal
 dissensions weakened it, and in 640 AD, after a siege of fourteen
 months, it was taken by the Arabs under Amru, and among other disasters
 the great library was destroyed. This library contained the precious
-manuscripts of **Origen** and multitudes of others that might shed great
-light on our theme. **Abulpharagius** relates that **John the
-Grammarian**, a famous peripatetic philosopher, begged Amru to give him
-the library. Amru forwarded the request to Omar, who replied that if the
-books contained the same doctrines as the Koran they were not needed; if
+manuscripts of Origen and multitudes of others that might shed great
+light on our theme. Abulpharagius relates that John the Grammarian, a
+famous peripatetic philosopher, begged Amru to give him the library.
+Amru forwarded the request to Omar, who replied that if the books
+contained the same doctrines as the Koran they were not needed; if
 contrary to it they ought not to be preserved, and they were therefore
 ordered to be burnt. Accordingly they were distributed among the 4,000
 public baths of the city, where they furnished the fuel for six months!
@@ -3320,9 +3319,9 @@ From the time of Ptolemy Soter (306-285 BC), the books, scholars and
 learning of the world were centered in this great city. The religions
 and philosophies of the world met here and created an intense life of
 thought. Jews, Christians, Pagans were gathered and met in intellectual
-conflict as nowhere else. It was here that **Clement**, **Origen**, and
-their followers exerted their best influence, and that Christianity
-preserved its purity for centuries.
+conflict as nowhere else. It was here that Clement, Origen, and their
+followers exerted their best influence, and that Christianity preserved
+its purity for centuries.
 
 \"The north of Africa was then crowded with rich and populous cities,
 and formed with Egypt the granary of the world...In no part of the
@@ -3336,6 +3335,8 @@ world, and the second greatest patriarchate of the church, the church of
 Clement, Origen, Athanasius and Cyril. It gives us a kind of mental
 shock when we recall that the land of Tertullian, Cyprian and Augustine
 is the modem Tunis and Algiers.\"
+
+## Alexandria the Christian Metropolis.
 
 \"The seat and center of Christianity during the first three centuries
 was Alexandria. West of Alexandria the influence of the Latins,
@@ -3396,6 +3397,8 @@ unlettered and simple. The Universalist Church has never sufficiently
 recalled and celebrated the great labors and marvelous successes of
 their progenitors in the primitive years of Christianity.
 
+## The Alexandrine Teachers.
+
 \"Those who are truly called the fathers and founders of the Christian
 church were not the simple-minded fishermen of Galilee, but men who had
 received the highest education which could be obtained at the time, that
@@ -3408,14 +3411,16 @@ Alexandria...What Clement had most at heart was not the letter but the
 spirit, not the historical events, but their deeper meaning in universal
 history.\"[^205]
 
-**Muller** points out the fact that the Alexandrine "current of
-Christian thought was never entirely lost, but rose to the surface again
-and again at the most critical periods in the history of the Christian
-religion. Unchecked by the Council of Nicaea, AD 325, that ancient
-stream of philosophical and religious thought flows on, and we can hear
-the distant echoes of Alexandria in the writings of St. Basil (AD
-329-379), Gregory of Nyssa (AD 332-395), Gregory of Nazianzus (AD
-328-389), as well as in the works of St. Augustine (AD 364-430)."
+## Max Muller's Words.
+
+Muller points out the fact that the Alexandrine "current of Christian
+thought was never entirely lost, but rose to the surface again and again
+at the most critical periods in the history of the Christian religion.
+Unchecked by the Council of Nicaea, AD 325, that ancient stream of
+philosophical and religious thought flows on, and we can hear the
+distant echoes of Alexandria in the writings of St. Basil (AD 329-379),
+Gregory of Nyssa (AD 332-395), Gregory of Nazianzus (AD 328-389), as
+well as in the works of St. Augustine (AD 364-430)."
 
 The reader of the history of those times cannot help deploring the
 subsequent substitution of Latin Augustinianism and its long train of
@@ -3427,16 +3432,16 @@ the Christendom of today!
 
 ## Clement of Alexandria. 
 
-**Titus Flavius Clemens**, **Clemens Alexandrinus**, or **Clement of
-Alexandria** --- born 150 AD, died AD 220 --- was reared in heathenism.
-Before his conversion to Christianity he had been thoroughly educated in
-Hellenic literature and philosophy. It is uncertain whether he was born
-in Athens or Alexandria. He became a Christian early in his adult years;
-was presbyter in the church in Alexandria, and in 189 he succeeded
-**Pantaenus** as president of the celebrated Catechetical school in
-Alexandria. During the persecution by Septimius Severus in 202 he fled
-and was in Jerusalem in 211. He never returned to Alexandria but died
-about 220. This is all that is known of his life.
+Titus Flavius Clemens, Clemens Alexandrinus, or Clement of Alexandria
+--- born 150 AD, died AD 220 --- was reared in heathenism. Before his
+conversion to Christianity he had been thoroughly educated in Hellenic
+literature and philosophy. It is uncertain whether he was born in Athens
+or Alexandria. He became a Christian early in his adult years; was
+presbyter in the church in Alexandria, and in 189 he succeeded Pantaenus
+as president of the celebrated Catechetical school in Alexandria. During
+the persecution by Septimius Severus in 202 he fled and was in Jerusalem
+in 211. He never returned to Alexandria but died about 220. This is all
+that is known of his life.
 
 He was the father of the Alexandrine Christian Philosophy, or ancient
 Philosophical Christianity. Many of his works have perished; the
@@ -3444,26 +3449,28 @@ principal ones that survive are his *Exhortation to the Heathen*, the
 *Teacher*, or *Pedagogue*, and *Stromata*, or *Miscellanies*, literally
 *Tapestries*, or freely translated *Carpet Bag*.[^206]
 
-It is the verdict of scholars that **Clement**\'s *Stromata* is the
-greatest of all the Christian apologies except **Origen**\'s. It starts
-\"from the essential affinity between man and God, (and) goes on to show
-how, in Christianity, we have the complete restoration of the normal
-relation between the creature and the Creator.\"
+It is the verdict of scholars that Clement\'s *Stromata* is the greatest
+of all the Christian apologies except Origen\'s. It starts \"from the
+essential affinity between man and God, (and) goes on to show how, in
+Christianity, we have the complete restoration of the normal relation
+between the creature and the Creator.\"
 
 The influence of the Greek philosophers, and especially of Plato, on the
-Alexandrine fathers, is conceded.[^207] **Clement** held that the true
+Alexandrine fathers, is conceded.[^207] Clement held that the true
 Gnostic was the perfect Christian. The Alexandrine fathers had no
 hostility to the word Gnostic, properly understood; to them it signified
 the Christian who brings reason and philosophy to bear on his faith, in
-contradistinction from the ignorant believer. **Irenaeus** had declared
+contradistinction from the ignorant believer. Irenaeus had declared
 \"genuine gnosis,\" or Gnosticism, to be \"the doctrine of the
 apostles,\" insisting on \"the plenary use of Scripture, admitting
 neither addition nor curtailment, and the reading of Scripture, and
 legitimate and diligent preaching, according to the word of God.\" And
-**Justin** had bequeathed to the Alexandrine school the central truth
-that the Divine Word is in the germ in every human being. This great
-fact was never lost sight of but was more and more developed by the
-three great teachers --- **Pantaenus**, **Clement** and **Origen**.
+Justin had bequeathed to the Alexandrine school the central truth that
+the Divine Word is in the germ in every human being. This great fact was
+never lost sight of but was more and more developed by the three great
+teachers --- Pantaenus, Clement and Origen.
+
+### Clement's Philosophy.
 
 The materialistic philosophy of Epicureanism, that happiness is the
 highest good and can best be procured in a well-regulated enjoyment of
@@ -3475,10 +3482,10 @@ possessing a spark of the divinity that would ultimately purify him and
 elevate him to a higher life; and that virtue would accelerate and sin
 retard his upward progress --- these different systems all had their
 votaries, but the noblest of all, the Platonic, was most influential
-with the Alexandrine fathers, though, like **Clement**, they exercised a
+with the Alexandrine fathers, though, like Clement, they exercised a
 wise and rational eclecticism, in adopting the best features of each
-system. This **Clement** claimed to do. He says: \"And by philosophy I
-mean not the Stoic, nor the Platonic, nor the Epicurean, nor that of
+system. This Clement claimed to do. He says: \"And by philosophy I mean
+not the Stoic, nor the Platonic, nor the Epicurean, nor that of
 Aristotle; but whatever any of these sects had said that was fit and
 just, that taught righteousness with a divine and religious knowledge,
 this I call eclectic philosophy.\"[^208]
@@ -3490,41 +3497,41 @@ religion of Christ. He says; \"We wait for no human testimony, but bring
 proof of what we assert from the Word of the Lord, which is the most
 trustworthy, or, rather, the only evidence.\"
 
-The thoroughly Greek mind of **Clement**, with his great imagination,
-vast learning and research, splendid ability, and divine spirit, could
+The thoroughly Greek mind of Clement, with his great imagination, vast
+learning and research, splendid ability, and divine spirit, could
 scarcely misinterpret or misunderstand the New Testament Scriptures,
 written as they were in his mother tongue, and it is not difficult to
-believe with **Bunsen**, that in this seat and center of Christian
-culture and Christian learning, he became "the first Christian
-philosopher of the history of mankind. He believed in a universal plan
-of a divine education of the human race....This is the grand position
-occupied by Clemens, the Alexandrian, in the history of the church and
-of mankind and the key to his doctrine about God and his word, Christ
-and his spirit, God and man....A profound respect for the piety and
-holiness of Clemens is as universal in the ancient church as for his
-learning and eloquence. I rejoice to find that Reinkins, a Roman
-Catholic, expresses his regret, not to say indignation, that this holy
-man and writer, the object of the unmixed admiration of the ancient
-Christian, should have been struck out of the catalogue of saints by
-Benedict XIV.\"[^209]
+believe with Bunsen, that in this seat and center of Christian culture
+and Christian learning, he became "the first Christian philosopher of
+the history of mankind. He believed in a universal plan of a divine
+education of the human race....This is the grand position occupied by
+Clemens, the Alexandrian, in the history of the church and of mankind
+and the key to his doctrine about God and his word, Christ and his
+spirit, God and man....A profound respect for the piety and holiness of
+Clemens is as universal in the ancient church as for his learning and
+eloquence. I rejoice to find that Reinkins, a Roman Catholic, expresses
+his regret, not to say indignation, that this holy man and writer, the
+object of the unmixed admiration of the ancient Christian, should have
+been struck out of the catalogue of saints by Benedict XIV.\"[^209]
 
-When **Clement**, wrote Christian doctrine was passing from oral
-tradition to written definition, and he avers when setting forth the
-Christian religion, that he is \"reproducing an original unwritten
-tradition,\" which he learned from a disciple of the apostles. This had
-been communicated by the Lord to the apostles, Peter and James and John
-and Paul, and handed down from father to son till, at length,
-**Clement** set forth accurately in writing, what had been before
-delivered orally. We can, therefore, scarcely hope to find unadulterated
-Christianity anywhere out of the New Testament, if not in the writings
-of **Clement**.
+### A Transition Period.
 
-**Max Muller**[^210] declares that **Clement**, having been born in the
-middle of the Second Century, may possibly have known **Papias**, or
-some of his friends who knew the apostles, and therefore he was most
-competent to represent the teachings of Christ.
+When Clement, wrote Christian doctrine was passing from oral tradition
+to written definition, and he avers when setting forth the Christian
+religion, that he is \"reproducing an original unwritten tradition,\"
+which he learned from a disciple of the apostles. This had been
+communicated by the Lord to the apostles, Peter and James and John and
+Paul, and handed down from father to son till, at length, Clement set
+forth accurately in writing, what had been before delivered orally. We
+can, therefore, scarcely hope to find unadulterated Christianity
+anywhere out of the New Testament, if not in the writings of Clement.
 
-**Farrar** writes: \"There can be no doubt that after the date of the
+Max Muller[^210] declares that Clement, having been born in the middle
+of the Second Century, may possibly have known Papias, or some of his
+friends who knew the apostles, and therefore he was most competent to
+represent the teachings of Christ.
+
+Farrar writes: \"There can be no doubt that after the date of the
 Clementine Recognitions, and unceasingly during the close of the third
 and during the fourth and following centuries, the abstract idea of
 endlessness was deliberately faced, and from imperfect acquaintance with
@@ -3533,17 +3540,19 @@ writers as though it were identical in meaning with *aidios* or
 endless.\" Which is to say that ignorance of the real meaning of the
 word on the part of those who were not familiar with Greek, subverted
 the current belief in universal restoration, cherished, as we shall
-directly show, by **Clement** and the Alexandrine Christians.
+directly show, by Clement and the Alexandrine Christians.
+
+### Clement's Language.
 
 Passages from the works of Clement, only a few of which we quote, will
 sufficiently establish the fact that he taught universal restoration.
 
 "For all things are ordered both universally and in particular by the
-Lord of the universe, with a view to the salvation of the
-universe....But needful corrections, by the goodness of the great,
-overseeing judge, through the attendant angels, through various prior
-judgments, through the final judgment, compel even those who have become
-more callous to repent."
+Lord of the universe, with a view to the salvation of the universe....
+But needful corrections, by the goodness of the great, overseeing judge,
+through the attendant angels, through various prior judgments, through
+the final judgment, compel even those who have become more callous to
+repent."
 
 "So he saves all; but some he converts by penalties, others who follow
 him of their own will, and in accordance with the worthiness of his
@@ -3563,17 +3572,17 @@ This important passage is very instructive in the light it sheds on the
 usage of Greek words. The word from which \"corrections\" is rendered is
 the same as that in Hebrews 12:9, \"correction\" \"chastening\"
 (*paideia*); \"chastisement\" is from *kolasis*, translated punishment
-in Matthew 25:46, and \"punishment\" is *timoria*, with which
-**Josephus** defines punishment, but a word our Lord never employs, and
-which **Clement** declares that God never inflicts. This agrees with the
-uniform contention of Universalist scholars.
+in Matthew 25:46, and \"punishment\" is *timoria*, with which Josephus
+defines punishment, but a word our Lord never employs, and which Clement
+declares that God never inflicts. This agrees with the uniform
+contention of Universalist scholars.
 
 \"The divine nature is not angry but is at the farthest from it, for it
-is an excellent artifice to frighten in order that we may not
-sin....Nothing is hated by God.\'\'[^212] So that even if *aionios*
-meant endless duration, **Clement** would argue that it was used
-pedagogically --- to restrain the sinner. It should be said, however,
-that **Clement** rarely uses *aionion* in connection with suffering.
+is an excellent artifice to frighten in order that we may not sin....
+Nothing is hated by God.\'\'[^212] So that even if *aionios* meant
+endless duration, Clement would argue that it was used pedagogically ---
+to restrain the sinner. It should be said, however, that Clement rarely
+uses *aionion* in connection with suffering.
 
 **Clement** insists that punishment in Hades is remedial and
 restorative, and that punished souls are cleansed by fire. The fire is
@@ -3642,17 +3651,19 @@ deliverance from the ills of this state of being. Before the final state
 of perfection the purifying fire which makes wise will separate errors
 from the soul; the purgating punishment will heal and cure.
 
-**Alexander**, Bishop of Jerusalem, wrote to **Origen** on the death of
-**Clement**, says **Eusebius**, \"for we know these blessed fathers who
-have gone before us and with whom we shall shortly be, I mean Pantaenus,
-truly blessed and my master; and the sacred Clement, who was my master
-and profitable to me.\"
+Alexander, Bishop of Jerusalem, wrote to Origen on the death of Clement,
+says Eusebius, \"for we know these blessed fathers who have gone before
+us and with whom we shall shortly be, I mean Pantaenus, truly blessed
+and my master; and the sacred Clement, who was my master and profitable
+to me.\"
 
 This passage would indicate the fraternity of feeling between these
 three and seems to show that there was no suspicion of the heresy of the
-others on the part of **Alexander**.
+others on the part of Alexander.
 
-**Clement** distinctly shows that the perversion of the truth so long
+### Further Words of Clement.
+
+Clement distinctly shows that the perversion of the truth so long
 taught, that the coming of Christ placated the Father, had no place in
 primitive Christianity. He says: "God is good on his own account, and
 just also on ours, and he is just because he is good...for before he
@@ -3687,22 +3698,24 @@ That the foregoing passages from Clement distinctly state the sublime
 sentiments we have supposed them to express, will fully appear from
 those who have made the most careful study of his opinions, and whose
 interpretations are unprejudiced and just. Says one of the most
-thoughtful of modern writers, the candid **Hagenbach**:
+thoughtful of modern writers, the candid Hagenbach:
 
 \"The works of Clement, in particular, abound with passages referring to
 the love and mercy of God. He loves men because they are kindred with
 God. God\'s love follows men, seeks them out, as the bird the young that
 has fallen from its nest.\"[^220]
 
-**Clement**, like **Tertullian**, denied original depravity, and held
-that "man now stands in the same relation to the tempter in which Adam
-stood before the Fall." **Clement**\'s doctrine of the Resurrection was
-like that of Paul; it is not a mere rising from death, but a standing up
-higher, in a greater fullness of life, and a better life, as the word
+Clement, like Tertullian, denied original depravity, and held that "man
+now stands in the same relation to the tempter in which Adam stood
+before the Fall." Clement\'s doctrine of the Resurrection was like that
+of Paul; it is not a mere rising from death, but a standing up higher,
+in a greater fullness of life, and a better life, as the word
 *anastasis* properly signifies.
 
-**Allen** in his valuable work, *Continuity of Christian Thought*,
-epitomizes the teachings of **Clement** in language that describes the
+### Allen's Statement.
+
+Allen in his valuable work, *Continuity of Christian Thought*,
+epitomizes the teachings of Clement in language that describes the
 Universalistic contention. "The judgment is not conceived as the final
 assize of the universe in some remote future, but as a present,
 continuous element in the process of human education. The purpose of the
@@ -3729,24 +3742,26 @@ continue forever to resist the force of redeeming love. Somehow and
 somewhere in the long run of ages, that love must prove weightier than
 sin and death, and vindicate its power in one universal triumph.\"
 
+### Bigg on Clement.
+
 One of the best modern statements of the views of the Alexandrine
-fathers is given by **Bigg**[^221]: **Clement** regarded the object of
-*kolasis* as \"threefold; amendment, example, and protection of the
-weak. Strom. 1:26, 168; 4:24, 154; 6:12, 99. The distinction between
-*kolasis* and *timoria*, Strom. 4:14, 153; Paed. 1:8, 70, the latter is
-the rendering of evil for evil and this is not the desire of God. Both
-*kolasis* and *timoria* are spoken of in Strom. 5:14, 90, but this is
-not to be pressed, for in Strom. 6:14, 109, the distinction between the
-words is dropped and both signify purgatorial chastisement....Fear he
-has handled in the truly Christian spirit. It is not the fear of the
-slave who hates his master; it is the reverence of a child for its
-father, of a citizen for the good magistrate. Tertullian, an African and
-a lawyer, dwells with fierce satisfaction on terrible visions of
-torment. The cultivated Greek shrinks not only from the gross
-materialism of such a picture, but from the idea of retribution which it
-implies. He is never tired of repeating that justice is but another name
-for mercy. Chastisement is not to be dreaded but to be embraced.\"...
-Here or hereafter God\'s desire is not vengeance but correction. Though
+fathers is given by Bigg[^221]: Clement regarded the object of *kolasis*
+as \"threefold; amendment, example, and protection of the weak. Strom.
+1:26, 168; 4:24, 154; 6:12, 99. The distinction between *kolasis* and
+*timoria*, Strom. 4:14, 153; Paed. 1:8, 70, the latter is the rendering
+of evil for evil and this is not the desire of God. Both *kolasis* and
+*timoria* are spoken of in Strom. 5:14, 90, but this is not to be
+pressed, for in Strom. 6:14, 109, the distinction between the words is
+dropped and both signify purgatorial chastisement.... Fear he has
+handled in the truly Christian spirit. It is not the fear of the slave
+who hates his master; it is the reverence of a child for its father, of
+a citizen for the good magistrate. Tertullian, an African and a lawyer,
+dwells with fierce satisfaction on terrible visions of torment. The
+cultivated Greek shrinks not only from the gross materialism of such a
+picture, but from the idea of retribution which it implies. He is never
+tired of repeating that justice is but another name for mercy.
+Chastisement is not to be dreaded but to be embraced.\"... Here or
+hereafter God\'s desire is not vengeance but correction. Though
 Clement\'s view of man\'s destiny is called restorationism
 (*apokatastasis*) it was "not as the restitution of that which was lost
 at the Fall, but as the crown and consummation of the destiny of man
@@ -3756,27 +3771,28 @@ ways the most valuable monument of the early church; the more precious
 to all intelligent students because he lived, not like Origen, in the
 full stream of events, but in a quiet backwater where primitive thoughts
 and habits lingered longer than elsewhere." "Clement had no enemies in
-life or in death." The great effort of **Clement** and **Origen** seems
-to have been to reconcile the revelation of God in Christ with the older
+life or in death." The great effort of Clement and Origen seems to have
+been to reconcile the revelation of God in Christ with the older
 revelation of God in nature.
 
-Says **De Pressense**: \"That which strikes us in Clement is his
-serenity. We feel that he himself enjoys that deep and abiding peace
-which he urges the Corinthians to seek. It is impressed on every page he
-writes, while his thoughts flow on like a broad and quiet stream, never
-swelling into a full impetuous tide.... We feel that this man has a
-great love for Jesus Christ.\" Compare, contrast rather, his serenity
-and peacefulness with the stormy tempestuousness of **Tertullian**, his
-\"narrow and passionate realism,\" and we see a demonstration of the
-power and beauty of the Restorationist faith.
+Says De Pressense: \"That which strikes us in Clement is his serenity.
+We feel that he himself enjoys that deep and abiding peace which he
+urges the Corinthians to seek. It is impressed on every page he writes,
+while his thoughts flow on like a broad and quiet stream, never swelling
+into a full impetuous tide.... We feel that this man has a great love
+for Jesus Christ.\" Compare, contrast rather, his serenity and
+peacefulness with the stormy tempestuousness of Tertullian, his \"narrow
+and passionate realism,\" and we see a demonstration of the power and
+beauty of the Restorationist faith.
 
-**Frederick Denison Maurice** declares:[^222] \"I do not know where we
-shall look for a purer or a truer man than this Clemens of
-Alexandria.... He seems to me that one, of the old fathers whom we
-should all have reverenced most as a teacher, and loved best as a
-friend.\"
+### Frederick Denison Maurice's Eulogy.
 
-**Baur** remarks: "Alexandria, the birthplace of Gnosticism, is also the
+Frederick Denison Maurice declares:[^222] \"I do not know where we shall
+look for a purer or a truer man than this Clemens of Alexandria.... He
+seems to me that one, of the old fathers whom we should all have
+reverenced most as a teacher, and loved best as a friend.\"
+
+Baur remarks: "Alexandria, the birthplace of Gnosticism, is also the
 birthplace of Christian theology, which in fact in its earliest forms,
 aimed at being nothing but a Christian Gnosticism. Among the fathers,
 Clement of Alexandria and Origen stand nearest to the Gnostics. They
@@ -3808,9 +3824,9 @@ teaches that all the punishments of those in hell are purgatorial, that
 they are not endless, but will at length cease when the damned are
 sufficiently purified by the fire."[^225]
 
-**Farrar** gives **Clement**\'s views, and shows that the great
-Alexandrian really anticipated substantially the thought for which our
-church has contended for a century:
+Farrar gives Clement\'s views, and shows that the great Alexandrian
+really anticipated substantially the thought for which our church has
+contended for a century:
 
 \"There are very few of the Christian fathers whose fundamental
 conceptions are better suited to correct the narrowness, the rigidity
@@ -3827,34 +3843,33 @@ God\'s eternal mercy.... That judgment is a continuous process, not a
 single sentence; that God works all things up to what is better; that
 souls may be purified beyond the grave.\"
 
-**Lamson** says that **Clement** declares: \"Punishment, as Plato
-taught, is remedial, and souls are benefited by it by being amended. Far
-from being incompatible with God\'s goodness it is a striking proof of
-it. For punishment is for the good and benefit of him who is punished.
-It is the bringing back to rectitude of that which has swerved from
-it.\"[^226]
+Lamson says that Clement declares: \"Punishment, as Plato taught, is
+remedial, and souls are benefited by it by being amended. Far from being
+incompatible with God\'s goodness it is a striking proof of it. For
+punishment is for the good and benefit of him who is punished. It is the
+bringing back to rectitude of that which has swerved from it.\"[^226]
 
 It may be stated that neither original sin, depravity, infant guilt and
 damnation, election, vicarious atonement, and endless punishment as the
 penalty of human sin, in fact, \"none of the individual doctrines or
 tenets which have so long been the object of dislike and animadversion
 to the modern theological mind formed any constituent part in Greek
-theology.\"[^227] They were abhorrent to **Clement**, **Origen**, and
-their associates.
+theology.\"[^227] They were abhorrent to Clement, Origen, and their
+associates.
 
-The views held by **Clement** and taught by his predecessor,
-**Pantaenus**, and, as seems apparent, by **Anathegoras** and his
-predecessors back to the apostles themselves, and by their successor
-**Origen**, and, as will appear on subsequent pages by others down to
-**Didymus**, (395 AD), the last president of the greatest theological
-school of the Second and Third Centuries, were substantially those
-taught by the Universalist church of today, so far as they included the
-character of God, the nature and final destiny of mankind, the effect of
-the resurrection, the judgment, the nature and end of punishment, and
-other cognate themes. In fact, **Clement** stands on the subject of
-God\'s purpose and plan, and man\'s ultimate destiny, as substantially a
-representative of the Universalist church of the Nineteenth Century, as
-well as a type of ancient scholarship.
+The views held by Clement and taught by his predecessor, Pantaenus, and,
+as seems apparent, by Anathegoras and his predecessors back to the
+apostles themselves, and by their successor Origen, and, as will appear
+on subsequent pages by others down to Didymus, (395 AD), the last
+president of the greatest theological school of the Second and Third
+Centuries, were substantially those taught by the Universalist church of
+today, so far as they included the character of God, the nature and
+final destiny of mankind, the effect of the resurrection, the judgment,
+the nature and end of punishment, and other cognate themes. In fact,
+Clement stands on the subject of God\'s purpose and plan, and man\'s
+ultimate destiny, as substantially a representative of the Universalist
+church of the Nineteenth Century, as well as a type of ancient
+scholarship.
 
 # 10. Origen. 
 
@@ -9422,13 +9437,14 @@ found below.
 [^205]: JW: Max Muller, Theosophy or Psychological Religion, Lecture
     XIII.
 
-[^206]: The edition of Clemens used in preparing this work is
-    Bibliotheca Sacra Patrum Ecclesiae Graecorum, Pars. III. Titi Flaui
-    Clementis Alexandrini Opera Omnia Tom. I, IV. Recognouit Reinholdus
+[^206]: JW: The edition of Clemens used in preparing this work is
+    *Bibliotheca Sacra Patrum Ecclesiae Graecorum, Pars. III. Titi Flaui
+    Clementis Alexandrini Opera Omnia Tom*. I, IV. Recognouit Reinholdus
     Klotz. Lipsiae, Sumptibus, E. B. Schwickerti, I, 182. Also Migne's
     Patrologiae.
 
-[^207]: Norton's Statement of Reasons, pp. 94-95; Cudworth; Brucker.\
+[^207]: JW: Norton's Statement of Reasons, pp. 94-95; Cudworth;
+    Brucker.\
     The extent to which early Christians appealed to the Pagan
     philosophers may be gauged from the fact that in Origen thirty-five
     allusions are made to the Stoics, six to the Epicureans, fifteen to
@@ -9436,55 +9452,55 @@ found below.
     the Stoics and five to the Epicureans; in Clement of Alexandria,
     repeatedly. Huidekoper's Indirect Testimony to the Gospels.
 
-[^208]: Strom. I; 7.
+[^208]: JW: Strom. I; 7.
 
-[^209]: Hipp. and His Age, I.
+[^209]: JW: Hipp. and His Age, I.
 
-[^210]: Theosophy or Psychological Religion, Preface, p. xiv.
+[^210]: JW: Theosophy or Psychological Religion, Preface, p. xiv.
 
-[^211]: Strom, VII, ii; Pedag. I, 8; on I John ii, 2; Comments on sed
-    etiam pro tote mundo, etc. ("Proinde universos quidem salvat, sed
-    alios per supplica convertens, ailos autem spontanea, assequentes,
-    voluntate; et cum honoris dignitate (Phil. 2:10) ut omne genu
-    flectatur ei, caelestium, terrestium et infernorum; hoc est angeli,
-    homines, et animae quae ante adventum ejus de hac vita migravere
-    temporali.") Strom. VII, 16.
+[^211]: JW: Strom, VII, ii; Pedag. I, 8; on I John ii, 2; Comments on
+    sed etiam pro tote mundo, etc. ("Proinde universos quidem salvat,
+    sed alios per supplica convertens, ailos autem spontanea,
+    assequentes, voluntate; et cum honoris dignitate (Phil. 2:10) ut
+    omne genu flectatur ei, caelestium, terrestium et infernorum; hoc
+    est angeli, homines, et animae quae ante adventum ejus de hac vita
+    migravere temporali.") Strom. VII, 16.
 
-[^212]: Paed I, viii.
+[^212]: JW: Paed I, viii.
 
-[^213]: See pg. 117 for Greek. Strom. VII, vi.
+[^213]: JW: Greek: Πυρ φρονιμον. Strom. VII, vi.
 
-[^214]: VI, vi; VII, xvi; VI, xiv; VII, ii.
+[^214]: JW: VI, vi; VII, xvi; VI, xiv; VII, ii.
 
-[^215]: Poedag. I, viii.
+[^215]: JW: Poedag. I, viii.
 
-[^216]: Strom. IV, xxiv.
+[^216]: JW: Strom. IV, xxiv.
 
-[^217]: Quoted by Neander.
+[^217]: JW: Quoted by Neander.
 
-[^218]: Paed. I, 10. Strom. I, 27.
+[^218]: JW: Paed. I, 10. Strom. I, 27.
 
-[^219]: See pg. 120 in original for Greek.
+[^219]: JW: Greek: διὰ πὺρος κάθαρσιν τῶν κακῶς.
 
-[^220]: Christian Doct., Period I, Sec. 89.
+[^220]: JW: Christian Doct., Period I, Sec. 89.
 
-[^221]: Christian Platonists, pp. 75, 89, 112.
+[^221]: JW: Christian Platonists, pp. 75, 89, 112.
 
-[^222]: Lecutres on the Ecc. Hist. of the First and Second Cenrturies,
-    pp. 230-239.
+[^222]: JW: Lectures on the Ecc. Hist. of the First and Second
+    Cenrturies, pp. 230-239.
 
-[^223]: Church Hist. First Three Centuries.
+[^223]: JW: Church Hist. First Three Centuries.
 
-[^224]: Hist. Christ. Church, Second and Third Centuries, Jeremie, p.
-    88.
+[^224]: JW: Hist. Christ. Church, Second and Third Centuries, Jeremie,
+    p. 88.
 
-[^225]: Hom. VI., 4, in Exod. Qui salvus fit per ignem salvus fit, ut,
-    si quid forte de specie plumbi habuerit admixtum, id ignis decoquat
-    et resolvat, ut efficiantur omnes aurum purum.
+[^225]: JW: Hom. VI., 4, in Exod. Qui salvus fit per ignem salvus fit,
+    ut, si quid forte de specie plumbi habuerit admixtum, id ignis
+    decoquat et resolvat, ut efficiantur omnes aurum purum.
 
-[^226]: Church of the First Three Centuries, p. 158.
+[^226]: JW: Church of the First Three Centuries, p. 158.
 
-[^227]: Continuity of Christian Thought, p. 19.
+[^227]: JW: Continuity of Christian Thought, p. 19.
 
 [^228]: Eusebius Eccl. Hist. VI. Butler's Lives of the Saints, Vol. IV,
     pp. 224-231, contains quite a full sketch of Origen's life, though
