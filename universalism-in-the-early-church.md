@@ -8182,12 +8182,14 @@ favor of the damned ... the doctrine of the restitution of all things
 shared the fate of Origenism, and made its appearance in after ages only
 in connection with other heretical notions."
 
-**Kingsley** attributes the decadence and deterioration of the
-Alexandrine School and its doctrines and methods, to the abandonment of
-its intense activity, to the relinquishment of the grand enthusiasm for
-humanity that characterized Clement, Origen and their co-workers. He
-says: "Having no more Heathens to fight, they began fighting each other;
-... they became dogmatists ... they lost the knowledge of God, of
+## Disappearance of the Truth.
+
+Kingsley attributes the decadence and deterioration of the Alexandrine
+School and its doctrines and methods, to the abandonment of its intense
+activity, to the relinquishment of the grand enthusiasm for humanity
+that characterized Clement, Origen and their co-workers. He says:
+"Having no more Heathens to fight, they began fighting each other; ...
+they became dogmatists ... they lost the knowledge of God, of
 righteousness, and love, and peace. That Divine Logos, and theology as a
 whole receded farther and farther aloft into abysmal heights, as it
 became a mere dreary system of dead scientific terms, having no
@@ -8219,6 +8221,8 @@ instead of for all; in other words, the undemocratic methods of those
 who accepted it. These factors, no doubt, contributed, but they are not
 alone sufficient to account for its disappearance.[^422]
 
+## Christianity's Eclipse.
+
 It is not a part of the plan of this work to follow its fate after its
 almost entire disappearance for centuries. The combined efforts of
 Augustine and his coadjutors and successors, of popes and emperors, of
@@ -8247,6 +8251,8 @@ distorted views, and false views of Christian doctrine and Christian
 life that have perverted the Gospel, puzzled the human intellect and
 grieved the human heart through all the long centuries from that day to
 this."[^423]
+
+## The Caricatures of Dante and Angelo.
 
 Two great men of genius of the first order, the marvelous artist,
 Michael Angelo, and the equally great poet, Dante, on canvas and in
@@ -8293,19 +8299,25 @@ Dante, and on the canvas of Angelo, and it reverberates with ever
 decreasing echoes --- thank God! --- in the subsequent creeds of
 Christendom. Almost the only gleam of light that relieved while it
 intensified the blackness of the darkness of Christendom during those
-dreadful centuries was the worship of Mary. The resurrection of
-Universalism after an eclipse of a millennium of years is as remarkable
-as was its strange disappearance. No better illustration can be found
-than the history of our faith gives, of the tenacity of life, the
-immortality, of truth. It calls to mind the language of the German sage,
-Schopenhauer: "Doubtless error can play its part, like owls in the
-night. But we should sooner expect the owls to cause the terrified sun
-to retire to the East, than to see the truth, once proclaimed, to be so
-repressed as that ancient error might recover its lost ground, and
-re-establish itself there in peace." To truth belong "God\'s eternal
-years," and her emergence after so long a disappearance is an
-illustration of her immortal vitality. "Crushed to earth" she has "risen
-again," and is fast being accepted by a regenerated Christendom.
+dreadful centuries was the worship of Mary.
+
+## Re-birth of Universalism.
+
+The resurrection of Universalism after an eclipse of a millennium of
+years is as remarkable as was its strange disappearance. No better
+illustration can be found than the history of our faith gives, of the
+tenacity of life, the immortality, of truth. It calls to mind the
+language of the German sage, Schopenhauer: "Doubtless error can play its
+part, like owls in the night. But we should sooner expect the owls to
+cause the terrified sun to retire to the East, than to see the truth,
+once proclaimed, to be so repressed as that ancient error might recover
+its lost ground, and re-establish itself there in peace." To truth
+belong "God\'s eternal years," and her emergence after so long a
+disappearance is an illustration of her immortal vitality. "Crushed to
+earth" she has "risen again," and is fast being accepted by a
+regenerated Christendom.
+
+## The Dawn of Truth.
 
 With the invention of printing, the dawn of light in the
 Reformation,[^425] and the increase of intelligence, our distinctive
@@ -10166,20 +10178,20 @@ found below.
 [^420]: DM: Alfred Tennyson, "In Memoriam A.H.H.," epilogue, lines
     143-144.
 
-[^421]: Alexandria and her Schools.
+[^421]: JW: Alexandria and her Schools.
 
-[^422]: Rev. S. S. Hebberd.
+[^422]: JW: Rev. S. S. Hebberd.
 
-[^423]: Rev. S. Crane, D.D., in The Universalist.
+[^423]: JW: Rev. S. Crane, D.D., in The Universalist.
 
-[^424]: Grimm's Michael Angelo.
+[^424]: JW: Grimm's Michael Angelo.
 
-[^425]: "In Germany alone, in six years from the promulgation of the
+[^425]: JW: "In Germany alone, in six years from the promulgation of the
     ninety-five theses at Wittenberg, the number of annual publications
     increased twelvefold." Rev. W. W. Ramsay, Methodism and Literature,
     pg. 232.
 
-[^426]: Paper read at the World's Parliament of Religions, Chicago,
+[^426]: JW: Paper read at the World's Parliament of Religions, Chicago,
     September, 1893.
 
 [^427]: DM: Original: "in ward."
