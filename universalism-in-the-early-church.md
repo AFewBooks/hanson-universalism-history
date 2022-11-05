@@ -7233,6 +7233,8 @@ union of all things with God."
 
 # 19. The Deterioration of Christian Thought.
 
+## Transition of Christianity.
+
 The great transition from the Christianity of the Apostles to the
 pseudo-Christianity of the patriarchs and emperors --- the
 transformation of Christianity to Churchianity --- may be said to have
@@ -7330,6 +7332,8 @@ divested of pre-existence, universal equality, the salvability of evil
 spirits, etc., does not seem to have been much objected to in the days
 of Jerome, even by those who did not accept it.
 
+### Jerome's Politic Course.
+
 Jerome\'s later language is: "And though Origen declares that no
 rational being will be lost, and gives penitence to the evil one, what
 is that to us who believe that the evil one and his satellites, and all
@@ -7386,6 +7390,8 @@ account of the novelty of his doctrines, not on account of heresy, as
 now mad dogs pretend, but from jealousy,' so that to call Origen a
 heretic is the part of a mad dog! Note this, from the most orthodox
 Jerome."
+
+### A Miserable Story.
 
 Translating Origen\'s *Homilies*, which affirm Universalism continually,
 he said in his preface, that Origen was only inferior to the
@@ -7459,6 +7465,8 @@ predispose us to regard him as cherishing their view of human destiny,
 notwithstanding his lurid descriptions of the horrors of future
 torments.
 
+### Chrysostom's Views.
+
 In answer to the question, "Whether hell fire have any end," Chrysostom
 says, "Christ declares that it has no end. Well," he adds, "I know that
 a chill comes over you on hearing these things, but what am I to do? For
@@ -7484,6 +7492,8 @@ him; and to give thanks not alone for the kingdom, but for Gehenna as
 well.... Christ went to the utterly black and joyless portion of Hades,
 and turned it into heaven, transferring all its wealth, the race of man,
 into his royal treasury."[^390]
+
+### Neander and Schaff.
 
 Dr. Schaff informs us that "Nitzsch includes Gregory Nazianzen and
 possibly Chrysostom among Universalists, and says that Chrysostom
@@ -10013,29 +10023,29 @@ found below.
 
 [^379]: JW: Assemani Bibl. Orient., II, pg. 291.
 
-[^380]: Hipp. and His Age.
+[^380]: JW: Hipp. and His Age.
 
-[^381]: Canon Freemantle in Dictionary of Christian Biography Vol. III,
-    1 Art. Hieronymus.
+[^381]: JW: Canon Freemantle in Dictionary of Christian Biography Vol.
+    III, 1 Art. Hieronymus.
 
-[^382]: Epist. xxxiii. Migne Vol. XXII.
+[^382]: JW: Epist. xxxiii. Migne Vol. XXII.
 
-[^383]: Plumptre, Dictionary of Christian Biography, II, Art.
+[^383]: JW: Plumptre, Dictionary of Christian Biography, II, Art.
     "Eschatology."
 
-[^384]: Commentary on Amos.
+[^384]: JW: Commentary on Amos.
 
-[^385]: "alterum post apostolum ecclesarium magistrum."
+[^385]: JW: Latin: "alterum post apostolum ecclesarium magistrum."
 
-[^386]: He calls Origen "that immortal intellect."
+[^386]: JW: He calls Origen "that immortal intellect."
 
-[^387]: Universalist Quarterly, May, 1838.
+[^387]: JW: Universalist Quarterly, May, 1838.
 
-[^388]: Homily IX on I Cor. 3:12-18.
+[^388]: JW: Homily IX on I Cor. 3:12-18.
 
-[^389]: Homily XI on I Cor. 4:3.
+[^389]: JW: Homily XI on I Cor. 4:3.
 
-[^390]: Sermon xxxiv; on Psalm 148; Sermon xxx.
+[^390]: JW: Sermon xxxiv; on Psalm 148; Sermon xxx.
 
 [^391]: Confessions, III, Chap. i-iii.
 
