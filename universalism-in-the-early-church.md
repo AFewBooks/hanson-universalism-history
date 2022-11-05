@@ -890,6 +890,8 @@ one of the early creeds embodied it."[^46]
 
 # 2. Early Christianity a Cheerful Religion.
 
+## Darkness at the Advent.
+
 When our Lord announced his religion this world was in a condition of
 unutterable corruption, wretchedness and gloom. Slavery, poverty, vice
 that the pen is unwilling to name, almost universally prevailed, and
@@ -941,6 +943,8 @@ William Cave states: "The noblest portion of church history...the most
 considerable age of the church, the years from Eusebius to Basil the
 Great."[^61]
 
+## "Sweetness and Light"
+
 Christianity was everywhere at first, a religion of "sweetness and
 light."[^62] The Greek fathers exemplified all these qualities, and
 Clement and Origen were ideals of its perfect spirit. But from Augustine
@@ -963,6 +967,8 @@ sway immeasurably. With the prevalence of the Latin language the East
 and the West grew apart, and the latter, more and more discarding
 reason, and controlled, by the iron inflexibility of a semi-pagan
 secular government, gave Roman Catholicism its opportunity.
+
+## Oriental Asceticism.
 
 The influence of the ascetic religions of the Asiatic countries,
 especially Buddhism, contaminated Christianity, resulting later in
@@ -992,6 +998,8 @@ thought, \"more thoroughly Greek than Athens in its days of renown,\"
 the theological atmosphere was more nearly akin to that of the
 Universalist church of the present day than to that of any other branch
 of the Christian church during the last fifteen centuries.[^68]
+
+## Wonderful Progress of Christianity at First.
 
 The wonderful progress made during the first three centuries by the
 simple, pure and cheerful faith of early Christianity shows us what its
@@ -1043,6 +1051,8 @@ tribune, the decory, the palace, the senate, the forum."[^74]
 Chrysostom testifies that "the isles of Britain in the heart of the
 ocean had been converted."[^75]
 
+## God's Fatherhood.
+
 The talismanic word of the Alexandrian fathers, as of the New Testament,
 was father. This word, as now, unlocked all mysteries, God\'s solved all
 problems, and all the enigmas of time and eternity. Holding God as
@@ -1071,6 +1081,8 @@ their enemies; and, in short, he will see the divine and holy precepts
 of the Christian religion drawn down into action, and the most excellent
 genius and spirit of the Gospel breathing in the hearts and lives of
 these good old Christians."
+
+## Christianity a Greek Religion.
 
 "Christianity,\" says Milman, "was almost from the first a Greek
 religion. Its primal records were all written in the Greek language; it
@@ -1213,6 +1225,8 @@ Matthew Arnold has preserved this truth in his immortal verse:[^85]
 The picture is a \"distinct protest\" against the unchristian sentiment
 then already creeping into the church from Paganism.
 
+## Early Funeral Emblems.
+
 Everywhere in the Catacombs is the anchor, emblem of that hope which
 separated Christianity from Paganism. Another symbol is the fish, which
 plays a prominent part in Christian symbolism. It is curious and
@@ -1301,6 +1315,8 @@ them had they entertained the views that prevailed from the Sixth to the
 Eighteenth Century, among the majority of Christians; and their remains
 all testify to the cheerfulness of early Christianity.
 
+## Cheerful Faith of the First Christians.
+
 "The fathers of the church live in their voluminous works; the lower
 orders are only represented by these simple records, from which, with
 scarcely an exception, sorrow and complaint are banished; the boast of
@@ -1351,6 +1367,8 @@ crucifixes of the twelfth, nor the torches and martyrdoms of the
 seventeenth, nor the skeletons of the fifteenth, nor the cypresses and
 death\'s heads of the eighteenth. Instead of these the symbols of
 beauty, hope and peace."[^100]
+
+## Dean Stanley's Testimony.
 
 From 70 AD, the date of the fall of Jerusalem, to about 150 AD, there is
 very little Christian literature. It is only with Justin Martyr, who was
@@ -8935,30 +8953,31 @@ found below.
     access a copy of this paper at
     <https://www.researchgate.net/publication/351577986_What_Is_Antinatalism_Definition_History_and_Categories>
 
-[^50]: JW: See Gerhard Uhlhorn's Conflict of Christianity and Paganism.
+[^50]: JW: See Gerhard Uhlhorn's *Conflict of Christianity and
+    Paganism*.
 
 [^51]: DM: This turn of phrase may be inspired by John Milton's use of
     the phrase in his poem Comus, "In double night of darkness and of
     shades;"
 
-[^52]: Matthew 11:28.
+[^52]: DM: Matthew 11:28.
 
-[^53]: Philippians 4:4.
+[^53]: DM: Philippians 4:4.
 
-[^54]: 1 Peter 1:8.
+[^54]: DM: 1 Peter 1:8.
 
-[^55]: Luke 7:33-34.
+[^55]: DM: Luke 7:33-34.
 
 [^56]: DM: See Matthew 6:26, 28 and Luke 12:24, 27.
 
 [^57]: DM: Matthew Arnold. *Literature & Dogma*. 1873, pg. 98.
 
-[^58]: DM: Hugh Reginald Haweis.
+[^58]: DM: Hugh R. Haweis.
 
-[^59]: JW: Hugh Reginald Haweis. The Conquering Cross: The Church.
+[^59]: JW: Hugh R. Haweis. *The Conquering Cross: The Church*.
     Forewords. 1887, pg. VI.
 
-[^60]: JW: Hugh Reginald Haweis. Early Years of the Christian Church.
+[^60]: JW: Hugh R. Haweis. *Early Years of the Christian Church*.
 
 [^61]: JW: Henry Cave. Lives of the Most Eminent Fathers of the
     Church\... Vol. 2. 1840.
@@ -8967,7 +8986,7 @@ found below.
     *Cornhill Magazine* (Vol XVI, 1867) this was the last lecture given
     by Arnold as Poetry Chair at Oxford.
 
-[^63]: JW: Alexander V.G. Allen. The Continuity of Christian Thought.
+[^63]: JW: Alexander V.G. Allen. *The Continuity of Christian Thought*.
     1886.
 
 [^64]: JW: Henry Hart Milman. History of Latin Christianity. 1880.
@@ -8979,10 +8998,10 @@ found below.
     ardent opponent of universalism and authored a book on the subject
     in 1885, *The Doctrine of Endless Punishment.*
 
-[^67]: Allen, *Christian Thought*.
+[^67]: JW: Allen, *Christian Thought*.
 
-[^68]: The early Christians never transferred the rigidity of the Jewish
-    Sabbath to Sunday. Both Saturday and Sunday were observed
+[^68]: JW: The early Christians never transferred the rigidity of the
+    Jewish Sabbath to Sunday. Both Saturday and Sunday were observed
     religiously till towards the end of the second century---then Sunday
     alone was kept. Fasting and even kneeling in prayer was forbidden on
     Sunday with the early Christians. Ancient writers always mean
@@ -8997,8 +9016,8 @@ found below.
 [^71]: DM: Henry Hart Milman. *The History of Christianity*... 1867, pg.
     209.
 
-[^72]: The Emperor Maximin in one of his edicts says that "Almost all
-    had abandoned the worship of their ancestors for the new faith."
+[^72]: JW: The Emperor Maximin in one of his edicts says that "Almost
+    all had abandoned the worship of their ancestors for the new faith."
 
 [^73]: DM: Not a direct quote, but appears to be from Justin Martyr's
     *Dialogue with Trypho the Jew*. See Henry Brown's book of the same
@@ -9032,7 +9051,7 @@ found below.
 [^79]: DM: This is likely from the aforementioned *History of Latin
     Christianity*.
 
-[^80]: Milman's Latin Christianity. "The breath of the best Greek
+[^80]: JW: Milman's *Latin Christianity*. "The breath of the best Greek
     Fathers, such as Origen, or Clement of Alexandria, is a thousand
     times superior to the dry, harsh narrowness of the Latins." Athanase
     Coquerel the Younger, First Hist. Trans. of Christianity, p. 215.
@@ -9043,7 +9062,7 @@ found below.
 
 [^83]: JW: See DeRossi, Northcote, Withrow, etc., on the Catacombs.
 
-[^84]: See footnote 34.
+[^84]: JW: See DeRossi, Northcote, Withrow, etc., on the Catacombs.
 
 [^85]: A suggestive thought in this connection is, that our Lord (Matt.
     25:33), calls those on his left hand "kidlings," "little kids," a
@@ -9057,37 +9076,37 @@ found below.
 
 [^88]: DM: Northcote, *A Visit to the Roman Catacombs*, 1877, pg. 113.
 
-[^89]: *Pax tecum, Urania.*
+[^89]: JW: "*Pax tecum, Urania."*
 
-[^90]: *Sempter in D. vivas, dulcis anima.*
+[^90]: JW: "*Sempter in D. vivas, dulcis anima."*
 
-[^91]: *Victorina dormit.*
+[^91]: JW: "*Victorina dormit."*
 
-[^92]: *Zoticus hic ad dormiendum.*
+[^92]: JW: "*Zoticus hic ad dormiendum."*
 
-[^93]: *Raptus eterne domus.*
+[^93]: JW: "*Raptus eterne domus."*
 
-[^94]: Mariott, pg. 186.
+[^94]: JW: Mariott, pg. 186.
 
-[^95]: Schaff, Hist. Christ. Church, Vol 1, p. 342.
+[^95]: JW: Schaff, Hist. Christ. Church, Vol 1, p. 342.
 
-[^96]: Maitland.
+[^96]: JW: Maitland's *Church and the Catacombs*.
 
 [^97]: DM: Likely extracted from William Smith and Henry Wace's *A
     Dictionary of Christian Biography, Literature, Sects and* Doctrines,
     1877, pg. 798. Smith and Wace note it's origin as *Hom. De Coem. Et
     Cruc*, op. tom. ii. 398, ed Ben.
 
-[^98]: Maitland.
+[^98]: JW: Maitland.
 
-[^99]: Bible of Amiens.
+[^99]: JW: Bible of Amiens.
 
-[^100]: Lives of the Fathers.
+[^100]: JW: Lives of the Fathers.
 
-[^101]: Christian Institutions.
+[^101]: JW: Christian Institutions.
 
-[^102]: Martineau's Hours of Thought, pg. 155, "In the cycle of the
-    Christian emblems the death of Christ holds no place; it was not
+[^102]: JW: Martineau's *Hours of Thought*, pg. 155, "In the cycle of
+    the Christian emblems the death of Christ holds no place; it was not
     till six centuries after his death that artists began to venture
     upon the representation of Christ crucified. The crucifix dates only
     from the end of the Seventh Century." -- Athanase Coquerel.
