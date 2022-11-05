@@ -7818,6 +7818,8 @@ men are temporal, so that they will at length come to an end, or whoever
 holds to a restoration either of the demons or of the impious, let him
 be anathema."
 
+## Justinian's Views.
+
 It is conceded that the half-heathen emperor held to the idea of endless
 misery, for he proceeds not only to defend, but to define the
 doctrine.[^408] He does not merely say, "We believe in *aionion
@@ -7836,10 +7838,10 @@ duration.
 Justinian need only to have consulted his contemporary, Olympiodorus,
 who wrote on this very subject, to vindicate his language. In his
 commentary on the *Meteorologica of Aristotle*,[^409] he says: "Do not
-suppose that the soul is punished for endless ages (Greek)[^410] in
-Tartarus. Very properly the soul is not punished to gratify the revenge
-of the divinity, but for the sake of healing. But we say that the soul
-is punished for an *aeonian* period, calling its life, and its allotted
+suppose that the soul is punished for endless ages[^410] in Tartarus.
+Very properly the soul is not punished to gratify the revenge of the
+divinity, but for the sake of healing. But we say that the soul is
+punished for an *aeonian* period, calling its life, and its allotted
 period of punishment, its *aeon*." It will be noticed that he not only
 denies endless punishment and denies that the doctrine can be expressed
 by *aionios* but declares that punishment is temporary and results in
@@ -7854,6 +7856,8 @@ appears in the canons enacted by the synodical council.
 
 The synod voted fifteen canons, not one of which condemns universal
 restoration.
+
+## Home Synod Canons.
 
 The first canon reads thus: "If anyone asserts the fabulous
 pre-existence of souls, and the monstrous restitution which follows from
@@ -7879,10 +7883,12 @@ favored. The theory here condemned is not that of universal salvation,
 but the "fabulous pre-existence of souls, and the monstrous restitution
 that results from it."
 
-The bishops, says **Landon**, declared that they adhered to the
-doctrines of Athanasius, Basil and the Gregories. The doctrine of
-Theodore on the Sonship of Christ was condemned, also the teachings of
-Theodoret. "Origen was not condemned."[^411]
+The bishops, says Landon, declared that they adhered to the doctrines of
+Athanasius, Basil and the Gregories. The doctrine of Theodore on the
+Sonship of Christ was condemned, also the teachings of Theodoret.
+"Origen was not condemned."[^411]
+
+## The Council Refused to Condemn Universalism.
 
 Even the influence of Justinian and his obsequious bishop, and his
 disreputable queen, failed to force the measure through. The action of
@@ -7923,8 +7929,10 @@ the conviction that the council was controlled by those who held, or at
 least did not repudiate Universalism.
 
 Great confusion exists among the authorities on this subject. The local
-council has been confounded with the general. **Hefele** has
-disentangled the perplexities.
+council has been confounded with the general. Hefele has disentangled
+the perplexities.
+
+## Universalism Not Condemned for Five Centuries.
 
 It was not even at that late day --- three centuries after his death ---
 the Universalism of Origen that caused the hatred of his opponents, but
@@ -7953,23 +7961,23 @@ established by thorough argument, but by imperial authority." But the
 fact is that they were not even then matured and established.
 
 The learned Professor Plumptre says in the *Dictionary of Christian
-Biography*: "We have no evidence that the belief in the (Greek),[^415]
-which prevailed in the fourth and fifth centuries was ever definitely
-condemned by any council of the Church, and so far as Origen was named
-as coming under the church\'s censure it was rather as if involved in
-the general sentence passed upon the leaders of Nestorianism, than
-singled out for special and characteristic errors. So the council of
-Constantinople, the so-called Fifth General Council, in 553, condemns
-Arius, Eunomius, Macedonius, Apollinarius, Nestorius, Eutyches and
-Origen in a lump, but does not specify the errors of the last-named, as
-though they differed in kind from theirs, and it is not till in the
-council of Constantinople, known as in Trullo (696) that we find an
-anathema which specifies somewhat cloudily the guilt of Theodore of
-Mopsuestia, and Origen, and Didymus, and Evagrius, as consists in their
-'inventing a mythology after the manner of the Greeks, and inventing
-changes and migrations for our souls and bodies, and impiously uttering
-drunken ravings as to the future life of the dead.' It deserves to be
-noted that this ambiguous anathema pronounced by a council of no
+Biography*: "We have no evidence that the belief in the
+*apokatastasis*,[^415] which prevailed in the fourth and fifth centuries
+was ever definitely condemned by any council of the Church, and so far
+as Origen was named as coming under the church\'s censure it was rather
+as if involved in the general sentence passed upon the leaders of
+Nestorianism, than singled out for special and characteristic errors. So
+the council of Constantinople, the so-called Fifth General Council, in
+553, condemns Arius, Eunomius, Macedonius, Apollinarius, Nestorius,
+Eutyches and Origen in a lump, but does not specify the errors of the
+last-named, as though they differed in kind from theirs, and it is not
+till in the council of Constantinople, known as in Trullo (696) that we
+find an anathema which specifies somewhat cloudily the guilt of Theodore
+of Mopsuestia, and Origen, and Didymus, and Evagrius, as consists in
+their 'inventing a mythology after the manner of the Greeks, and
+inventing changes and migrations for our souls and bodies, and impiously
+uttering drunken ravings as to the future life of the dead.' It deserves
+to be noted that this ambiguous anathema pronounced by a council of no
 authority, under the weak and vicious Emperor Justinian II, is the only
 approach to a condemnation of the eschatology of Origen which the annals
 of the church councils present."[^416]
@@ -8012,6 +8020,8 @@ condemnation of Origen\'s Universalism. With the exception of Augustine,
 the doctrine which had been constantly advocated, often by the most
 eminent, did not evoke a frown of opposition from any eminent scholar or
 saint.
+
+## The Ancient Councils.
 
 The character of these ancient synods and councils is well described by
 Gregory Nazianzen (382) in a letter to Procopius: "I am determined to
@@ -8074,6 +8084,8 @@ tyrannical Emperor, who expressly demanded its condemnation.
     Origen what Gregory of Nyssa advocated, and anathematized the one,
     and glorified the other.
 
+## Justinian's Suppression of the Truth.
+
 Justinian not only commanded the council to suppress Universalism, but
 he arbitrarily closed the schools in Athens, Alexandria and Antioch, and
 drove out of the great church centers that theological science that had
@@ -8097,6 +8109,8 @@ Bishop Theophilus, the vile Eudoxia and the equally disreputable, though
 beautiful, crafty and unscrupulous Theodora, exercised a malign
 influence on Justinian, the Emperor, and, thus was dictated the action
 of the council described above.
+
+## Justinian and His Age.
 
 Milman declares: "The Emperor Justinian unites in himself the most
 opposite vices, --- insatiable rapacity and lavish prodigality, intense
@@ -8129,6 +8143,8 @@ task. On this point the language of Farrar in *Mercy and Judgment* is
 accurate: "Every fresh study of the original authorities only leaves on
 my mind a deeper impression that even in the Fifth Century Universalism
 as regards mankind was regarded as a perfectly tenable opinion."
+
+## The Divine Light Eclipsed.
 
 Thus the record of the times shows, and the testimony of the scholars
 who have made the subject a careful study concedes, that though there
@@ -10115,38 +10131,40 @@ found below.
     consommé son suicide le jour on elle a fait Dieu implacable et la
     damnation eternelle." Spiridion.
 
-[^407]: Nicephorus, Eccle. Hist., xvii: 27. Hefele, iv: 220.
+[^407]: JW: Nicephorus, Eccle. Hist., xvii: 27. Hefele, iv: 220.
 
-[^408]: Murdock's Mosheim I, pp. 410-411; Gieseler, Hist. vi, p. 478.
-    Also Hagenbach and Neander. Cave's Historia Literaria.
+[^408]: JW: Murdock's Mosheim I, pp. 410-411; Gieseler, Hist. vi, p.
+    478. Also Hagenbach and Neander. Cave's Historia Literaria.
 
-[^409]: Vol. I, pg. 282. Ideler's edition.
+[^409]: JW: Vol. I, pg. 282. Ideler's edition.
 
-[^410]: See pg. 284 in original.
+[^410]: JW: Greek: ἀπείρους ἀιῶνας.
 
-[^411]: Landon, pp. 177-8.
+[^411]: JW: Landon, pp. 177-8.
 
-[^412]: Landon, Manual of Councils, London, 1846, pg. 174.
+[^412]: JW: Landon, Manual of Councils, London, 1846, pg. 174.
 
-[^413]: The canon reads: "Si quis non anathematizat Arium, Eunomium,
+[^413]: JW: The canon reads: "Si quis non anathematizat Arium, Eunomium,
     Macedonium, Apollinarium, Nestorium, Eutychen, Orgenem cum impiis
     eorum conscriptis, et alios omnes haereticos, qui condemnati et
     anathematizati sunt a Catholic et Apostolica Ecclesia," etc.
 
-[^414]: Dietelmaier declares that many of the church doctors agreed with
-    Origen in advocating the salvability of the devil.
+[^414]: JW: Dietelmaier declares that many of the church doctors agreed
+    with Origen in advocating the salvability of the devil.
 
-[^415]: See pg. 288 in original.
+[^415]: JW: Greek: ἀποκατάστασις.
 
-[^416]: Article Eschatology on pg. 194; also Spirits in Prison, pg. 41.
+[^416]: JW: Article Eschatology on pg. 194; also Spirits in Prison, pg.
+    41.
 
-[^417]: Latin Christ. I, pg. 227.
+[^417]: JW: Latin Christ. I, pg. 227.
 
-[^418]: Outlines Hist. Dog., pp. 204, 208, 320, 323.
+[^418]: JW: Outlines Hist. Dog., pp. 204, 208, 320, 323.
 
-[^419]: Sozomen, Eccl. Hist.; Gibbon, Decline and Fall.
+[^419]: JW: Sozomen, Eccl. Hist.; Gibbon, Decline and Fall.
 
-[^420]: Alfred Tennyson, "In Memoriam A.H.H.," epilogue, lines 143-144.
+[^420]: DM: Alfred Tennyson, "In Memoriam A.H.H.," epilogue, lines
+    143-144.
 
 [^421]: Alexandria and her Schools.
 
