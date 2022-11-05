@@ -7221,7 +7221,7 @@ phase wholly foreign to its primal purity.
 
 Aurelius Augustinus was bom in Tagaste, Numidia, November 13, 354, and
 died in 420. He was the great fountain of error destined to adulterate
-Christianity, and change its character for long ages. In disposition and
+Christianity and change its character for long ages. In disposition and
 spirit he was wholly unlike the amiable and learned fathers who
 proclaimed an earlier and purer faith. He fully developed that change in
 opinion which was destined to influence Christianity for many centuries.
@@ -7232,7 +7232,7 @@ sainted mother, Monica, urged him to do. It is an interesting indication
 of the Latin type of piety to know that his mother allowed him to live
 at home during his shameless life, but that when he adopted the
 Manichaean heresy she forbade him her house. And afterward, when he
-became \"orthodox,\" though still living immorally, she received him in
+became "orthodox," though still living immorally, she received him in
 her home. His life was destitute of the claims of that paternal relation
 on which society rests, and which our Lord makes the fundamental fact of
 his religion, Fatherhood. He transferred to God the characteristics of
@@ -7248,86 +7248,85 @@ And the effect on the believer was in the one case a pitying love and
 charity that gave the melting heart that could not bear to think of even
 the devil unsaved, and that antedated the poet\'s prayer, ---
 
-\"Oh, wad ye tak a thought and mend,\"[^384] and that believed the
-prayer would be answered; and in the other a stony-hearted indifference
-to the misery of mankind, which he called \"one damned batch and mass of
-perdition.\"[^385]
+"Oh, wad ye tak a thought and mend,"[^384] and that believed the prayer
+would be answered; and in the other a stony-hearted indifference to the
+misery of mankind, which he called "one damned batch and mass of
+perdition."[^385]
 
 Augustine brought his theology with him from Manichaeism when he became
 a Christian, only he added perpetuity to the dualism that Mani made
-temporal. \"The doctrine of endless punishment assumed in the writings
-of Augustine a prominence and rigidity which had no parallel in the
-earlier history of theology \* \* \* and which savors of the teaching of
-Mohammed more than of Christ.[^386] Hitherto, even in the West, it had
-been an open question whether the punishment hereafter of sin unrepented
-of and not forsaken was to be endless. Augustine has left on record the
-fact that some, indeed very many, still fell back upon the mercy and
-love of God as a ground of hope for the ultimate restoration of
-humanity[^387] \* \* \* he is the first writer to undertake a long and
-elaborate defense of the doctrine of endless punishment, and to wage a
-polemic against its impugners. \* \* \* He rallies the \'tender-hearted
-Christians,\' as he calls them, who cannot accept it.\" About 420 he
-speaks of his \"merciful brethren,\"[^388] or party of pity, among the
-orthodox Christians, who advocate the salvation of all, and he
-challenges them, like Origen, to advocate also the redemption of the
-devil and his angels. Thus though the virus of Roman Paganism was
-extending, the truth of the Gospel was yet largely held. And it was the
-immense power Augustine came to wield that so dominated the church that
-it afterwards stamped out the doctrine of universal salvation.
+temporal. "The doctrine of endless punishment assumed in the writings of
+Augustine a prominence and rigidity which had no parallel in the earlier
+history of theology ... and which savors of the teaching of Mohammed
+more than of Christ.[^386] Hitherto, even in the West, it had been an
+open question whether the punishment hereafter of sin unrepented of and
+not forsaken was to be endless. Augustine has left on record the fact
+that some, indeed very many, still fell back upon the mercy and love of
+God as a ground of hope for the ultimate restoration of humanity[^387]
+... he is the first writer to undertake a long and elaborate defense of
+the doctrine of endless punishment, and to wage a polemic against its
+impugners.... He rallies the 'tender-hearted Christians,' as he calls
+them, who cannot accept it.\" About 420 he speaks of his "merciful
+brethren,"[^388] or party of pity, among the orthodox Christians, who
+advocate the salvation of all, and he challenges them, like Origen, to
+advocate also the redemption of the devil and his angels. Thus though
+the virus of Roman Paganism was extending, the truth of the Gospel was
+yet largely held. And it was the immense power Augustine came to wield
+that so dominated the church that it afterwards stamped out the doctrine
+of universal salvation.
 
 Augustine assumed and insisted that the words defining the duration of
 punishment, in the New Testament, teach its endlessness, and the claim
-set up by Augustine is the one still held by the advocates of \"the
-dying belief,\" that *aeternus* in the Latin, and *aionios* in the
-original Greek, mean interminable duration. It seems that a Spanish
-presbyter, Orosius, visited Augustine in the year 413, and besought him
-for arguments to meet the position that punishment is not to be without
-end, because *aionios* does not denote eternal, but limited duration.
+set up by Augustine is the one still held by the advocates of "the dying
+belief," that *aeternus* in the Latin, and *aionios* in the original
+Greek, mean interminable duration. It seems that a Spanish presbyter,
+Orosius, visited Augustine in the year 413, and besought him for
+arguments to meet the position that punishment is not to be without end,
+because *aionios* does not denote eternal, but limited duration.
 Augustine replied that though *aion* signifies limited as well as
 endless duration, the Greeks only used *aionios* for endless; and he
 originated the argument so much resorted to even yet, based on the fact
-that in Matt,. 25:46, the same word is applied to \"life,\" and to
-\"punishment.\" The student of Greek need not be told that Augustine\'s
+that in Matthew 25:46, the same word is applied to "life," and to
+"punishment." The student of Greek need not be told that Augustine\'s
 argument is incorrect, and he scarcely needs to be assured that
-Augustine did not know Greek. This he confesses. He says he \"hates
-Greek,\" and the \"grammar learning of the Greeks.\"[^389] It is
-anomalous in the history of criticism that generations of scholars
-should take their cue in a matter of Greek definition from one who
-admits that he had \"learned almost nothing of Greek,\" and was \"not
-competent to read and understand\" the language, and reject the
-positions held by those who were born Greeks! That such a man should
-contradict and subvert the teachings of such men as Clement, Origen, the
-Gregories and others whose mother-tongue was Greek, is passing strange.
-But his powerful influence, aided by the civil arm, established his
-doctrine till it came to rule the centuries. Augustine always quotes the
-New Testament from the old Latin version, the Itala, from which the
-Vulgate was formed, instead of the original Greek.[^390] It seems that
-the doctrine of Origen prevailed in Northeastern Spain at this time, and
-that Jerome\'s translation of Origen\'s "Principiis" had circulated with
-good effect, and that Augustine, to counteract the influence of
-Origen\'s book, wrote in 415, a small work, \"Against the
-Priscillianists and Origenists.\" From about this time began the efforts
-of Augustine and his followers that subsequently entirely changed the
-character of Christian theology. Says Milman: \"The Augustinian theology
-coincided with the tendencies of the age towards the growth of the
-strong sacerdotal system; and the sacerdotal system reconciled
-Christendom with the Augustinian theoloy.\" And it was in the age of
-Augustine, at the maturity of his powers, that the Latin church
-developed its theological system, "differing at every point from the
-earlier Greek theology, starting from different premises, and actuated
-throughout by another motive,"[^391] and from that time, for nearly
-fifteen centuries it held sway, and for more than a thousand years the
-sentiment of Christendom was little more or less than the echo of the
-voice of Augustine. "When Augustine appeared the Greek tongue was dying
-out, the Greek spirit was waning, the Paganism of Rome and its civil
-genius were combined, and a Roman emperor usurped the throne of the God
-of love."[^392]
+Augustine did not know Greek. This he confesses. He says he hates
+Greek," and the "grammar learning of the Greeks."[^389] It is anomalous
+in the history of criticism that generations of scholars should take
+their cue in a matter of Greek definition from one who admits that he
+had "learned almost nothing of Greek," and was "not competent to read
+and understand" the language, and reject the positions held by those who
+were born Greeks! That such a man should contradict and subvert the
+teachings of such men as Clement, Origen, the Gregories and others whose
+mother-tongue was Greek, is passing strange. But his powerful influence,
+aided by the civil arm, established his doctrine till it came to rule
+the centuries. Augustine always quotes the New Testament from the old
+Latin version, the *Itala*, from which the Vulgate was formed, instead
+of the original Greek.[^390] It seems that the doctrine of Origen
+prevailed in Northeastern Spain at this time, and that Jerome\'s
+translation of Origen\'s *Principiis* had circulated with good effect,
+and that Augustine, to counteract the influence of Origen\'s book, wrote
+in 415, a small work, *Against the Priscillianists and Origenists*. From
+about this time began the efforts of Augustine and his followers that
+subsequently entirely changed the character of Christian theology. Says
+Milman: "The Augustinian theology coincided with the tendencies of the
+age towards the growth of the strong sacerdotal system; and the
+sacerdotal system reconciled Christendom with the Augustinian theology."
+And it was in the age of Augustine, at the maturity of his powers, that
+the Latin church developed its theological system, "differing at every
+point from the earlier Greek theology, starting from different premises,
+and actuated throughout by another motive,"[^391] and from that time,
+for nearly fifteen centuries it held sway, and for more than a thousand
+years the sentiment of Christendom was little more or less than the echo
+of the voice of Augustine. "When Augustine appeared the Greek tongue was
+dying out, the Greek spirit was waning, the Paganism of Rome and its
+civil genius were combined, and a Roman emperor usurped the throne of
+the God of love."[^392]
 
 Augustine declared that God had no kind purpose in punishing; that it
 would not be unjust to torment all souls forever; a few are saved to
-illustrate God\'s mercy. The majority \"are predestinated to eternal
-fire with the devil.\" He held, however, that all punishments beyond the
-grave are not endless.[^393]
+illustrate God\'s mercy. The majority "are predestinated to eternal fire
+with the devil." He held, however, that all punishments beyond the grave
+are not endless.[^393]
 
 Augustine, however, held the penalties of sin in a much milder form than
 do his degenerate theological descendants in modern times. He teaches
@@ -7344,14 +7343,14 @@ so on the whole a blessing. In a *limbus infantum* they would only
 receive a *mitissima damnatio*. He also taught that death did not
 necessarily end probation, as is quite fully shown under \"Christ\'s
 Descent into Hades.\" Augustine\'s idea was reduced to rhyme in the
-sixteenth century by the Rev. Michael Wigglesworth, of Maiden, Mass.,
-who was the Puritan pastor of the church in that place. A curious fact
-in the history of the parish is this, --- that the church in which these
-ridiculous sentiments were uttered became, in 1828, by vote of the
+sixteenth century by the Rev. **Michael Wigglesworth**, of Maiden,
+Mass., who was the Puritan pastor of the church in that place. A curious
+fact in the history of the parish is this, --- that the church in which
+these ridiculous sentiments were uttered became, in 1828, by vote of the
 parish, Universalist, and is now the Universalist church in Maiden. The
 poem represents God as saying to non-elect infants:
 
-> \"You sinners are, and such a share
+> "You sinners are, and such a share
 >
 > As sinners may expect,
 
@@ -7373,37 +7372,37 @@ A crime it is, therefore in bliss
 
 But unto you I shall allow
 
-> The easiest room in hell!\"
+> The easiest room in hell!"
 
 Augustine thought that the cleansing fire might burn away venial sins
-between death and the resurrection. He says: \"I do not refute it,
-because, perhaps, it is true;\"[^394] and that the sins of the good may
+between death and the resurrection. He says: "I do not refute it,
+because, perhaps, it is true;"[^394] and that the sins of the good may
 be eradicated by a similar process.
 
 He was certainly an example that might advantageously have been copied
 by opponents of Universalism in very recent years. Though he said the
-church \"detested\" it, he kindly added: \"They who believe this, and
-yet are Catholics, seem to me to be deceived by a certain human
-tenderness,\" and he urged Jerome to continue to translate Origen for
-the benefit of the African church!\"
+church "detested" it, he kindly added: "They who believe this, and yet
+are Catholics, seem to me to be deceived by a certain human tenderness,"
+and he urged Jerome to continue to translate Origen for the benefit of
+the African church!
 
 Under such malign influences, however, the broad and generous theology
 of the East soon passed away; the language in which it was expressed ---
 the language of Clement, Origen, Basil, the Gregories, became unknown
 among the Christians of the West; the cruel doctrines of Augustine
 harmonized with the cruelty of the barbarians and of Roman Paganism
-amalgamated, and thus Africa smothered the milder spirit of Christendom,
-and Augustine riveted the fetters that were to manacle the church for
-more than ten long centuries. \"The triumph of Latin theology was the
-death of rational exegesis.\"
+amalgamated, and thus Africa[^395] smothered the milder spirit of
+Christendom, and Augustine riveted the fetters that were to manacle the
+church for more than ten long centuries. "The triumph of Latin theology
+was the death of rational exegesis."
 
 But before this evil influence prevailed, some of the great Latin
 fathers rivaled the immortal leaders in the Oriental church. Among these
-was Ambrose, of whom Jerome says, \"nearly all his books are full of
-Origenism,\" which Huet repeats, while the \"Dictionary of Christian
-Biography\" tells us that he teaches that \"even to the wicked death is
-a gain.\" Thus the genial thought of Origen was still potent, even in
-the West, though a harder theology was overcoming it.
+was Ambrose, of whom Jerome says, "nearly all his books are full of
+Origenism," which Huet repeats, while the *Dictionary of Christian
+Biography* tells us that he teaches that "even to the wicked death is a
+gain." Thus the genial thought of Origen was still potent, even in the
+West, though a harder theology was overcoming it.
 
 Says Hagenbach: "In proportion to the development of ecclesiastical
 orthodoxy into fixed and systematic shape was the loss of individual
@@ -7414,15 +7413,17 @@ length condemned. But, notwithstanding this external condemnation, the
 spirit of Origen continued to animate the chief theologians of the East,
 though it was kept within narrower limits. The works of this great
 teacher were also made known in the West by Jerome and Rufinus, and
-exerted an influence even upon his opponents.\" After Justinian the
-Greek empire and influence contracted, and the Latin and Roman power
-expanded. Latin became the language of Christianity, and Augustine\'s
-system and followers used it as the instrument of molding Christianity
-into an Africo-Romano heathenism. The Apostles\' and Nicene creeds were
-disregarded, and Arianism, Origenism, Pelagianism, Manichaeism and other
-so-called heresies were nearly or quite obliterated, and the Augustinian
-inventions of original and inherited depravity, predestination, and
-endless hell torments, became the theology of Christendom.
+exerted an influence even upon his opponents.\"
+
+After Justinian the Greek empire and influence contracted, and the Latin
+and Roman power expanded. Latin became the language of Christianity, and
+Augustine\'s system and followers used it as the instrument of molding
+Christianity into an Africo-Romano heathenism. The Apostles\' and Nicene
+creeds were disregarded, and Arianism, Origenism, Pelagianism,
+Manichaeism and other so-called heresies were nearly or quite
+obliterated, and the Augustinian inventions of original and inherited
+depravity, predestination, and endless hell torments, became the
+theology of Christendom.
 
 Thus, says Schaff, "the Roman state, with its laws, institutions, and
 usages, was still deeply rooted in heathenism. The Christianizing of the
@@ -7433,39 +7434,42 @@ spiritual loss. The mass of the Roman Empire was baptized only with
 water, not with the spirit and fire of the Gospel, and it smuggled
 heathen practices and manners into the sanctuary under a new name." The
 broad faith of the primitive Christians paled and faded before the lurid
-terrors of Augustinianism. It vanished in the Sixth Century, \"crushed
-out,\" says Bigg, \"by tyranny and the leaden ignorance of the age. It
-remained in the East a while, was \"widely diffused among the
-monasteries of Egypt and Palestine,\" and only ceased when
-Augustinianism and Catholicism and the power of Rome ushered in and
-fostered the darkness of the Dark Ages. Says an accurate writer: "If
-Augustine had not been born an African, and trained as a Manichee, nay,
-if he had only faced the labor of learning Greek --- a labor from which
-he confesses that he had shrunk --- the whole stream of Christian
-theology might have been purer and more sweet."
+terrors of Augustinianism. It vanished in the Sixth Century, "crushed
+out," says Bigg, "by tyranny and the leaden ignorance of the age. It
+remained in the East a while, was "widely diffused among the monasteries
+of Egypt and Palestine," and only ceased when Augustinianism and
+Catholicism and the power of Rome ushered in and fostered the darkness
+of the Dark Ages.
+
+Says an accurate writer: "If Augustine had not been born an African, and
+trained as a Manichee, nay, if he had only faced the labor of learning
+Greek --- a labor from which he confesses that he had shrunk --- the
+whole stream of Christian theology might have been purer and more
+sweet."
 
 In no other respect did Augustine differ more widely from Origen and the
 Alexandrians than in his intolerant spirit. Even Tertullian conceded to
 all the right of opinion. Gregory of Nazianzus, Ambrose, Athanasius and
 Augustine himself in his earlier days, recorded the tolerance that
 Christianity demands. But he afterwards came to advocate and defend the
-persecution of religious opponents. Milman observes: \"With shame and
-horror we hear from Augustine himself that fatal axiom which impiously
-arrayed cruelty in the garb of Christian charity.\"[^395] He was the
-first in the long line of Christian persecutors, and illustrates the
-character of the theology that swayed him in the wicked spirit that
-impelled him to advocate the right to persecute Christians who differ
-from those in power. The dark pages that bear the record of subsequent
-centuries are a damning witness to the cruel spirit that actuated
-Christians, and the cruel theology that impelled it. Augustine \"was the
-first and ablest asserter of the principle which led to Albigensian
-crusades, Spanish armadas, Netherland\'s butcheries, St. Bartholomew
-massacres, the accursed infamies of the Inquisition, the vile espionage,
-the hideous bale fires of Seville and Smithfield, the racks, the
-gibbets, the thumbscrews, the subterranean torture-chambers used by
-churchly torturers.\"[^396] And George Sand well says that the Roman
-church committed suicide the day she invented an implacable God and
-eternal damnation.[^397]
+persecution of religious opponents.
+
+Milman observes: \"With shame and horror we hear from Augustine himself
+that fatal axiom which impiously arrayed cruelty in the garb of
+Christian charity.\"[^396] He was the first in the long line of
+Christian persecutors and illustrates the character of the theology that
+swayed him in the wicked spirit that impelled him to advocate the right
+to persecute Christians who differ from those in power. The dark pages
+that bear the record of subsequent centuries are a damning witness to
+the cruel spirit that actuated Christians, and the cruel theology that
+impelled it. Augustine "was the first and ablest asserter of the
+principle which led to Albigensian crusades, Spanish armadas,
+Netherland\'s butcheries, St. Bartholomew massacres, the accursed
+infamies of the Inquisition, the vile espionage, the hideous bale fires
+of Seville and Smithfield, the racks, the gibbets, the thumbscrews, the
+subterranean torture-chambers used by churchly torturers."[^397] And
+**George Sand** well says that the Roman church committed suicide the
+day she invented an implacable God and eternal damnation.[^398]
 
 # 21. Unsuccessful Attempts to Suppress Universalism.
 
@@ -7490,7 +7494,7 @@ to assemble the bishops resident, or casually present there, to condemn
 the doctrine of universal restoration. Fulminating ten anathemas, he
 especially urged Mennas to anathematize the doctrine "that wicked men
 and devils will at length be discharged from their torments, and
-re-established in their original state."[^398] He wrote to Mennas
+re-established in their original state."[^399] He wrote to Mennas
 requiring him to frame a canon in these words:
 
 \'\'Whoever says or thinks that the torments of the demons and of
@@ -7500,7 +7504,7 @@ let him be anathema.\"
 
 It is conceded that the half-heathen emperor held to the idea of endless
 misery, for he proceeds not only to defend, but to define the
-doctrine.[^399] He does not merely say, "We believe in *aionion
+doctrine.[^400] He does not merely say, "We believe in *aionion
 kolasin*;" for that was just what Origen himself taught. Nor does he say
 \"the word *aionion* has been misunderstood; it denotes endless
 duration,\" as he would have said, had there been such a disagreement.
@@ -7515,8 +7519,8 @@ duration.
 
 Justinian need only to have consulted his contemporary, Olympiodorus,
 who wrote on this very- subject, to vindicate his language. In his
-commentary on the Meteorologica of Aristotle,[^400] he says: \"Do not
-suppose that the soul is punished for endless ages (Greek)[^401] in
+commentary on the Meteorologica of Aristotle,[^401] he says: \"Do not
+suppose that the soul is punished for endless ages (Greek)[^402] in
 Tartarus. Very properly the soul is not punished to gratify the revenge
 of the divinity, but for the sake of healing. But we say that the soul
 is punished for an *aeonian* period, calling its life, and its allotted
@@ -7563,7 +7567,7 @@ that results from it."
 The bishops, says Landon, declared that they adhered to the doctrines of
 Athanasius, Basil and the Gregories. The doctrine of Theodore on the
 Sonship of Christ was condemned, also the teachings of Theodoret.
-\"Origen was not condemned.\"[^402]
+\"Origen was not condemned.\"[^403]
 
 Even the influence of Justinian and his obsequious bishop, and his
 disreputable queen, failed to force the measure through. The action of
@@ -7583,7 +7587,7 @@ to no decision. Justinian had just arbitrarily condemned the writings of
 Theodore of Mopsuestia, and Theodoret, and a terrible controversy and
 division ensued, and Theodorus, of Cesaraea, declared that both himself
 and Pelagius, who had sought the condemnation of Origen, ought to be
-burnt alive for their conduct.[^403]
+burnt alive for their conduct.[^404]
 
 In the Fifth General Council of 553 the name of Origen appears with
 others in the eleventh canon, but the best scholars think that the
@@ -7593,7 +7597,7 @@ Whether so or not, there is not a word referring to his views of human
 destiny. His name only appears among the names of the heretics, such as
 \" Arius, Eunomius, Macedonius, Apollinaris, Eutyches, Origen and other
 impious men, and all other heretics who are condemned and anathematized
-by the Catholic and Apostolical Church, etc.\"[^404] The Fifth
+by the Catholic and Apostolical Church, etc.\"[^405] The Fifth
 Ecumenical Council, which was held nine years later than the local,
 neither condemned Origen by name, nor anathematized his Universalism.
 The object of this council was to condemn certain Nestorian doctrines;
@@ -7611,7 +7615,7 @@ It was not even at that late day --- three centuries after his death ---
 the Universalism of Origen that caused the hatred of his opponents, but
 his opposition to the Episcopizing policy of the church, his insisting
 on the triple sense of the Word, etc., and the peculiar form of a
-misstated doctrine of the restoration.[^405]
+misstated doctrine of the restoration.[^406]
 
 Now, let the reader remember that for more than five hundred years,
 during which Universalism had prevailed, not a single treatise against
@@ -7634,7 +7638,7 @@ were not established by thorough argument, but by imperial authority.\"
 But the fact is that they were not even then matured and established.
 
 The learned Professor Plumptre says in the \"Dictionary of Christian
-Biography\": \"We have no evidence that the belief in the (Greek),[^406]
+Biography\": \"We have no evidence that the belief in the (Greek),[^407]
 which prevailed in the fourth and fifth centuries was ever definitely
 condemned by any council of the Church, and so far as Origen was named
 as coming under the church\'s censure it was rather as if involved in
@@ -7653,7 +7657,7 @@ drunken ravings as to the future life of the dead.' It deserves to be
 noted that this ambiguous anathema pronounced by a council of no
 authority, under the weak and vicious Emperor Justinian II, is the only
 approach to a condemnation of the eschatology of Origen which the annals
-of the church councils present.\"[^407]
+of the church councils present.\"[^408]
 
 ## Significant Facts and Conclusions. 
 
@@ -7702,7 +7706,7 @@ sober enquiry, detract from the reverence, and impugn the judgments, at
 least of the later councils. The close is almost invariably a terrible
 anathema, in which it is impossible not to discern the tones of human
 hatred, of arrogant triumph, of rejoicing at the damnation imprecated
-against the humiliated adversary.\"[^408] Scenes of strife and even
+against the humiliated adversary.\"[^409] Scenes of strife and even
 murder in connection with ancient ecclesiastical councils were not
 uncommon.
 
@@ -7753,14 +7757,14 @@ himself with disgrace, and jeopardized his position in the Occident.\"
 But he succeeded in inaugurating measures that extinguished the broad
 faith of the greatest fathers of the church. \"Henceforth,\" says
 Harnack, \"there was no longer a theological science going back to first
-principles.\"[^409]
+principles.\"[^410]
 
 The historians inform us that Justinian the great opponent of
 Universalism was positive, irritable, apt to change his views, and
 accessible to the flatteries and influences of those who surrounded him,
 yet withal, very opinionated in insisting upon any view he happened at
 the time to hold, and prepared to enforce compliance by the free
-employment of his despotic power,\" a \"temporal pope.\"[^410] The
+employment of his despotic power,\" a \"temporal pope.\"[^411] The
 corrupt Bishop Theophilus, the vile Eudoxia and the equally
 disreputable, though beautiful, crafty and unscrupulous Theodora,
 exercised a malign influence on Justinian, the Emperor, and, thus was
@@ -7807,7 +7811,7 @@ of a single council upon it; even to the middle of the Sixth Century. So
 far as history shows the sublime fact which the great Alexandrians made
 prominent--- the
 
-> \"One divine event to which the whole creation moves,\"[^411]
+> \"One divine event to which the whole creation moves,\"[^412]
 
 had never been stigmatized by any considerable portion of the Christian
 church for at least its first half a millennium of years.
@@ -7864,14 +7868,14 @@ all appearance, nine hundred years of human toil. The people, having no
 real hold on their hereditary creed, accepted, by tens of thousands,
 that of the Mussulman invaders. The Christian remnant became
 tributaries, and Alexandria dwindled from that time forth into a petty
-seaport town.\"[^412]
+seaport town.\"[^413]
 
 The \"Universalist Quarterly,\" January, 1878, attributes the decline
 and disappearance of Universalism to an entire absence of polemic on the
 part of its advocates; and to regarding the doctrine as esoteric,
 instead of for all; in other words, the undemocratic methods of those
 who accepted it. These factors, no doubt, contributed, but they are not
-alone sufficient to account for its disappearance.[^413]
+alone sufficient to account for its disappearance.[^414]
 
 It is not a part of the plan of this work to follow its fate after its
 almost entire disappearance for centuries. The combined efforts of
@@ -7899,7 +7903,7 @@ came upon the Christian world that has extended to the present day. Then
 were born all those half-views, distorted views, and false views of
 Christian doctrine and Christian life that have perverted the Gospel,
 puzzled the human intellect and grieved the human heart through all the
-long centuries from that day to this."[^414]
+long centuries from that day to this."[^415]
 
 Two great men of genius of the first order, the marvelous artist,
 Michael Angelo, and the equally great poet, Dante, on canvas and in
@@ -7938,7 +7942,7 @@ the Last Judgment on the wall of the Sistine Chapel, it is no longer a
 similitude to us, but a monument of the imaginative spirit of a past age
 and of a strange people, whose ideas are no longer ours. Dante created a
 new world for the Romanic nations by remodeling the forms of heathen
-antiquity for his Christian mythology.\"[^415] Materialistic, gross, was
+antiquity for his Christian mythology.\"[^416] Materialistic, gross, was
 the Christianity that ruled and oppressed mankind for nearly a thousand
 years, and it is reflected in the pages of Dante, and on the canvas of
 Angelo, and it reverberates with ever decreasing echoes --- thank God!
@@ -7960,7 +7964,7 @@ earth" she has \"risen again,\" and is fast being accepted by a
 regenerated Christendom.
 
 With the invention of printing, the dawn of light in the
-Reformation,[^416] and the increase of intelligence, our distinctive
+Reformation,[^417] and the increase of intelligence, our distinctive
 form of faith has not only grown and extended, but its leavening power
 has modified the creeds of Christendom, softening all harsh theories,
 and unfolding a \"rose of dawn\" in all Christian lands. Though, like
@@ -7979,7 +7983,7 @@ seventeen hundred years ago. It is a rebirth, a restoration of
 Christianity to its primitive purity. As Max Muller has recently
 written: \"If we want to be true and honest Christians, we must go back
 to those earliest ante-Nicene authorities, the true fathers of the
-church.\"[^417] This is being done by Christians in all branches of the
+church.\"[^418] This is being done by Christians in all branches of the
 church. The Bible, which the hands of ignorance has overwritten into a
 hideous palimpsest, is being read with something of its divine meaning,
 and as increasing light pours upon the sacred page, more and more men
@@ -8025,7 +8029,7 @@ discipline, chastisement, of indefinite, limited duration.
 
 \(5\) The early Christians taught that Christ preached the Gospel to the
 dead, and for that purpose descended into Hades. Many held that he
-released all who were held there.[^418] This shows that repentance
+released all who were held there.[^419] This shows that repentance
 beyond the grave, perpetual probation, was then accepted, which
 precludes the modern error that the soul\'s destiny is decided at death.
 
@@ -8103,7 +8107,7 @@ the Latins?
 restoration in an age of darkness, sin, and corruption. There was
 nothing to suggest it to them in the world\'s literature or religion. It
 was wholly contrary to everything around them. Where else could they
-have found it, but where they say they did, in the Gospel?[^419]
+have found it, but where they say they did, in the Gospel?[^420]
 
 \(23\) All ecclesiastical historians and the best Biblical critics and
 scholars agree to the prevalence of Universalism in the earlier
@@ -9633,65 +9637,72 @@ work. For Hanson's references see Appendix C above.
 
 [^394]: De Civ. Del. "non redarguo, quia forsitan verum est."
 
-[^395]: Latin Christianity, I, 127.
+[^395]: DM: It is hard not to notice here the repeated emphasis Hanson
+    puts on the, in his opinion, less desirable Latin Christianity
+    arising from Africa. This, unfortunately, may indicate a streak of
+    racism in Hanson's thought. For some fascinating insights into the
+    nature of racism in the northern states see Patricia C. Click's
+    *Time Full of Trial*.
 
-[^396]: Farrar's Lives of the Fathers.
+[^396]: Latin Christianity, I, 127.
 
-[^397]: "L' Eglise Romain s'est porte le dernier coup: elle a consommé
+[^397]: Farrar's Lives of the Fathers.
+
+[^398]: "L' Eglise Romain s'est porte le dernier coup: elle a consommé
     son suicide le jour on elle a fait Dieu implacable et la damnation
     eternelle." Spiridion.
 
-[^398]: Nicephorus, Eccle. Hist., xvii: 27. Hefele, iv: 220.
+[^399]: Nicephorus, Eccle. Hist., xvii: 27. Hefele, iv: 220.
 
-[^399]: Murdock's Mosheim I, pp. 410-411; Gieseler, Hist. vi, p. 478.
+[^400]: Murdock's Mosheim I, pp. 410-411; Gieseler, Hist. vi, p. 478.
     Also Hagenbach and Neander. Cave's Historia Literaria.
 
-[^400]: Vol. I, pg. 282. Ideler's edition.
+[^401]: Vol. I, pg. 282. Ideler's edition.
 
-[^401]: See pg. 284 in original.
+[^402]: See pg. 284 in original.
 
-[^402]: Landon, pp. 177-8.
+[^403]: Landon, pp. 177-8.
 
-[^403]: Landon, Manual of Councils, London, 1846, pg. 174.
+[^404]: Landon, Manual of Councils, London, 1846, pg. 174.
 
-[^404]: The canon reads: "Si quis non anathematizat Arium, Eunomium,
+[^405]: The canon reads: "Si quis non anathematizat Arium, Eunomium,
     Macedonium, Apollinarium, Nestorium, Eutychen, Orgenem cum impiis
     eorum conscriptis, et alios omnes haereticos, qui condemnati et
     anathematizati sunt a Catholic et Apostolica Ecclesia," etc.
 
-[^405]: Dietelmaier declares that many of the church doctors agreed with
+[^406]: Dietelmaier declares that many of the church doctors agreed with
     Origen in advocating the salvability of the devil.
 
-[^406]: See pg. 288 in original.
+[^407]: See pg. 288 in original.
 
-[^407]: Article Eschatology on pg. 194; also Spirits in Prison, pg. 41.
+[^408]: Article Eschatology on pg. 194; also Spirits in Prison, pg. 41.
 
-[^408]: Latin Christ. I, pg. 227.
+[^409]: Latin Christ. I, pg. 227.
 
-[^409]: Outlines Hist. Dog., pp. 204, 208, 320, 323.
+[^410]: Outlines Hist. Dog., pp. 204, 208, 320, 323.
 
-[^410]: Sozomen, Eccl. Hist.; Gibbon, Decline and Fall.
+[^411]: Sozomen, Eccl. Hist.; Gibbon, Decline and Fall.
 
-[^411]: Alfred Tennyson, "In Memoriam A.H.H.," epilogue, lines 143-144.
+[^412]: Alfred Tennyson, "In Memoriam A.H.H.," epilogue, lines 143-144.
 
-[^412]: Alexandria and her Schools.
+[^413]: Alexandria and her Schools.
 
-[^413]: Rev. S. S. Hebberd.
+[^414]: Rev. S. S. Hebberd.
 
-[^414]: Rev. S. Crane, D.D., in The Universalist.
+[^415]: Rev. S. Crane, D.D., in The Universalist.
 
-[^415]: Grimm's Michael Angelo.
+[^416]: Grimm's Michael Angelo.
 
-[^416]: "In Germany alone, in six years from the promulgation of the
+[^417]: "In Germany alone, in six years from the promulgation of the
     ninety-five theses at Wittenberg, the number of annual publications
     increased twelvefold." Rev. W. W. Ramsay, Methodism and Literature,
     pg. 232.
 
-[^417]: Paper read at the World's Parliament of Religions, Chicago,
+[^418]: Paper read at the World's Parliament of Religions, Chicago,
     September, 1893.
 
-[^418]: DM: Original: "in ward."
+[^419]: DM: Original: "in ward."
 
-[^419]: DM: At some juncture Hanson seemed to imply that perhaps Greek
+[^420]: DM: At some juncture Hanson seemed to imply that perhaps Greek
     philosophy also taught universal reconciliation...need to look into
     this further.
