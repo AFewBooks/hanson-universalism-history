@@ -120,11 +120,11 @@ Version: 0.4.0 11/5/2022
 [7. Three Gnostic Sects.
 [62](#three-gnostic-sects.)](#three-gnostic-sects.)
 
-[Basilidians. [62](#basilidians.)](#basilidians.)
+[Basilidians. [62](#the-basilidians.)](#the-basilidians.)
 
-[Carpocratians. [62](#carpocratians.)](#carpocratians.)
+[Carpocratians. [62](#the-carpocratians.)](#the-carpocratians.)
 
-[Valentinians. [63](#valentinians.)](#valentinians.)
+[Valentinians. [63](#the-valentinians.)](#the-valentinians.)
 
 [Conclusions. [63](#conclusions.)](#conclusions.)
 
@@ -2887,20 +2887,20 @@ Three Gnostic sects flourished nearly simultaneously in the Second
 Century, all of which accepted universal salvation: the Basilidians, the
 Valentinians, and the Carpocratians.
 
-## Basilidians.
+## The Basilidians.
 
-The Basilidians were followers of **Basilides**, who lived about 117-138
-AD. He was a Gnostic Christian and an Egyptian philosopher. He wrote an
+The Basilidians were followers of Basilides, who lived about 117-138 AD.
+He was a Gnostic Christian and an Egyptian philosopher. He wrote an
 alleged Gospel --- exegetical rather than historical --- no trace of
 which remains. As some of his theories did not agree with those
 generally advocated by Christians, he and his followers were regarded as
 heretics and their writings were destroyed, though no evidence exists to
 show that their view of human destiny was obnoxious. Greek philosophy
 and Christian faith are mingled in the eclecticism of the Basilidians.
-**Basilides** taught that man\'s universal redemption will result from
-the birth and death of Christ. According to the *Dictionary of Christian
-Biography*,[^183] **Hippolytus** gives an exposition of this mystic
-Christian sect. **Basilides** himself was a sincere Christian, and \"the
+Basilides taught that man\'s universal redemption will result from the
+birth and death of Christ. According to the *Dictionary of Christian
+Biography*,[^183] Hippolytus gives an exposition of this mystic
+Christian sect. Basilides himself was a sincere Christian, and \"the
 first Gnostic teacher who has left an individual, personal stamp upon
 the age.\"[^184] He accepted the entire Gospel narrative, and taught
 that the wicked will be condemned to migrate into the bodies of men or
@@ -2917,49 +2917,51 @@ and nature are represented as struggling upwards. \"The restoration of
 all things that in the beginning were established in the seed of the
 universe shall be restored in their own season.\"
 
-**Irenaeus** charges the Basilidians with immorality, but **Clement**,
-who knew them better, denies it, and defends them.[^185]
+Irenaeus charges the Basilidians with immorality, but Clement, who knew
+them better, denies it, and defends them.[^185]
 
-## Carpocratians.
+## The Carpocratians.
 
-The Carpocratians were followers of **Carpocrates**, a Platonic
-philosopher, who incorporated some of the elements of the Christian
-religion into his system of philosophy. The sect flourished in Egypt and
-the vicinity early in the Second Century. Like the Basilidians they
-called themselves Gnostics and inculcated a somewhat similar set of
-theories. **Irenaeus** says that the Carpocratians explained the text:
-\"Thou shalt not go out thence until thou hast paid the uttermost
-farthing,\" as teaching "that no one can escape from the power of those
-angels who made the world, but that he must pass from body to body until
-he has experience of every kind of action which can be practiced in this
-world, and when nothing is wanting longer to him, then his liberated
-soul should soar upwards to that God who is above the angels, the makers
-of the world. In this way all souls are saved,\" etc. But while Irenaeus
-calls the Carpocratians a heretical sect, and denounces some of their
-tenets, he had no hard words for their doctrine of man\'s final destiny.
+The Carpocratians were followers of Carpocrates, a Platonic philosopher,
+who incorporated some of the elements of the Christian religion into his
+system of philosophy. The sect flourished in Egypt and the vicinity
+early in the Second Century. Like the Basilidians they called themselves
+Gnostics and inculcated a somewhat similar set of theories. Irenaeus
+says that the Carpocratians explained the text: \"Thou shalt not go out
+thence until thou hast paid the uttermost farthing,\" as teaching "that
+no one can escape from the power of those angels who made the world, but
+that he must pass from body to body until he has experience of every
+kind of action which can be practiced in this world, and when nothing is
+wanting longer to him, then his liberated soul should soar upwards to
+that God who is above the angels, the makers of the world. In this way
+all souls are saved,\" etc. But while Irenaeus calls the Carpocratians a
+heretical sect, and denounces some of their tenets, he had no hard words
+for their doctrine of man\'s final destiny.
 
-## Valentinians.
+## The Valentinians.
 
 The Valentinians (130 AD) taught that all souls will be finally admitted
 to the realms of bliss. They denied the resurrection of the body. Their
 doctrines were widely disseminated in Asia, Africa and Europe, after the
-death of their Egyptian founder, **Valentine**. They resembled the
-teachings of **Basilides** in efforts to solve the problem of human
-destiny philosophically. **Valentine** flourished in Rome from 129 to
-132 AD. A devout Christian, and a man of the highest genius, he was
-never accused of anything worse than heresy. He was \"a pioneer in
-Christian theology.\" His was an attempt to show, in dramatic form, how
-"the work of universal redemption is going on to the ever-increasing
-glory of the ineffable and unfathomable Father, and the ever-increasing
-blessedness of souls.\" There was a germ of truth in the hybrid
-Christian theogony and Hellenic philosophizing that made up
-Valentinianism. It was a struggle after the only view of human destiny
-that can satisfy the human heart.
+death of their Egyptian founder, Valentine. They resembled the teachings
+of Basilides in efforts to solve the problem of human destiny
+philosophically. Valentine flourished in Rome from 129 to 132 AD. A
+devout Christian, and a man of the highest genius, he was never accused
+of anything worse than heresy. He was \"a pioneer in Christian
+theology.\" His was an attempt to show, in dramatic form, how "the work
+of universal redemption is going on to the ever-increasing glory of the
+ineffable and unfathomable Father, and the ever-increasing blessedness
+of souls.\" There was a germ of truth in the hybrid Christian theogony
+and Hellenic philosophizing that made up Valentinianism. It was a
+struggle after the only view of human destiny that can satisfy the human
+heart.
 
 ## Conclusions.
 
 These three sects were bitterly opposed by the "orthodox" fathers in
 some of their tenets, but their Universalism was never condemned.
+
+## Phases of Gnosticism.
 
 It would be interesting to give an exposition of the Gnosticism that for
 some of the earlier centuries agitated the Christian Church; it will
@@ -2974,58 +2976,59 @@ Gnosticism was an effort to explain the new revelation philosophically.
 But there were Gnostics and Gnostics. Some of the Christian Fathers used
 the term reproachfully, and others appropriated it as one of honor.
 Gnosis, knowledge, philosophy applied to religion, was deemed
-all-important by **Clement**, **Origen**, and the most prominent of the
-Fathers. Mere Gnostics were only Pagan philosophers, but Christian
-Gnostics were those who accepted Christ as the author of a new and
-divine revelation, and interpreted it by those principles that had long
-antedated the religion of Jesus.[^187] "The Gnostics were the first
-regular commentators on the New Testament...The Gnostics were also the
-first practitioners of the higher criticism...It (Gnosticism) may be
-regarded as a half-way house, through which many Pagans, like Ambrosius
-or St. Augustine, found their way into the church."[^188] The
-Valentinians, Basilidians, Carpocratians, Manichaeans, Marcionites and
-others were Christian Gnostics; but **Clement**, **Origen** and the
-great Alexandrians and their associates were Gnostic Christians. In
-fact, the Gnostic theories sought a solution of the problem of evil; to
-answer the question, \"Can the world as we know it have been made by
-God?\" \"Cease,\" says **Basilides**,[^189] \" from idle and curious
-variety, and let us rather discuss the opinions which even barbarians
-have held on the subject of good and evil...I will say anything rather
-than admit Providence is wicked.\" **Valentinus** declared, "I dare not
-affirm that God is the author of all this." **Tertullian** says that
-**Marcion**, like many men of our time, and especially the heretics,
-\"is bewildered by the question of evil.\" The generally accepted
-Gnostic view was that while the good would at death ascend to dwell with
-the Father, the wicked would pass through transformations until
-purified.
+all-important by Clement, Origen, and the most prominent of the Fathers.
+Mere Gnostics were only Pagan philosophers, but Christian Gnostics were
+those who accepted Christ as the author of a new and divine revelation,
+and interpreted it by those principles that had long antedated the
+religion of Jesus.[^187] "The Gnostics were the first regular
+commentators on the New Testament...The Gnostics were also the first
+practitioners of the higher criticism...It (Gnosticism) may be regarded
+as a half-way house, through which many Pagans, like Ambrosius or St.
+Augustine, found their way into the church."[^188] The Valentinians,
+Basilidians, Carpocratians, Manichaeans, Marcionites and others were
+Christian Gnostics; but Clement, Origen and the great Alexandrians and
+their associates were Gnostic Christians. In fact, the Gnostic theories
+sought a solution of the problem of evil; to answer the question, \"Can
+the world as we know it have been made by God?\" \"Cease,\" says
+Basilides,[^189] \" from idle and curious variety, and let us rather
+discuss the opinions which even barbarians have held on the subject of
+good and evil...I will say anything rather than admit Providence is
+wicked.\" Valentinus declared, "I dare not affirm that God is the author
+of all this." Tertullian says that Marcion, like many men of our time,
+and especially the heretics, \"is bewildered by the question of evil.\"
+The generally accepted Gnostic view was that while the good would at
+death ascend to dwell with the Father, the wicked would pass through
+transformations until purified.
 
-Says Prof. **Allen**: "Gnosticism is a genuine and legitimate outgrowth
-of the same general movement of thought that shaped the Christian dogma.
+Says Prof. Allen: "Gnosticism is a genuine and legitimate outgrowth of
+the same general movement of thought that shaped the Christian dogma.
 Quite evidently it regarded itself as the true interpreter of the
 Gospel."
 
-**Baur** quotes a German writer as giving a full exposition of one of
-the latest attempts "to bring back Gnosticism to a greater harmony with
-the spirit of Christianity." Briefly, *sophia* (wisdom), as the type of
-mankind, falls, rises, and is united to the eternal Good. **Baur** says
-that Gnosticism declares that \"either through conversion and amendment,
-or through utter annihilation, evil is to disappear, and the final goal
-of the whole world process is to be reached, viz., the purification of
-the universe from all that is unworthy and perverted.\"
+Baur quotes a German writer as giving a full exposition of one of the
+latest attempts "to bring back Gnosticism to a greater harmony with the
+spirit of Christianity." Briefly, *sophia* (wisdom), as the type of
+mankind, falls, rises, and is united to the eternal Good. Baur says that
+Gnosticism declares that \"either through conversion and amendment, or
+through utter annihilation, evil is to disappear, and the final goal of
+the whole world process is to be reached, viz., the purification of the
+universe from all that is unworthy and perverted.\"
 
-**Harnack** says that Gnosticism "aimed at the winning of a
-world-religion. The Gnostics were the theologians of the First Century;
-they were the first to transform Christianity into a system of doctrines
-(dogmas). They essayed...to conquer Christianity for Hellenic culture
-and Hellenic culture for Christianity."[^190]
+Harnack says that Gnosticism "aimed at the winning of a world-religion.
+The Gnostics were the theologians of the First Century; they were the
+first to transform Christianity into a system of doctrines (dogmas).
+They essayed...to conquer Christianity for Hellenic culture and Hellenic
+culture for Christianity."[^190]
+
+## Noteworthy Facts.
 
 Differing from the so-called \"orthodox\" Christians on many points, the
 three great Gnostic sects of the Second Century were in full agreement
-with **Clement** and **Origen** and the Alexandrine school, and probably
-with the great majority of Christians, in their views of human destiny.
-They taught the ultimate holiness and happiness of the human family, and
-it is noteworthy that though the Gnostics advocated the final salvation
-of all souls, and though the orthodox fathers savagely attacked them on
+with Clement and Origen and the Alexandrine school, and probably with
+the great majority of Christians, in their views of human destiny. They
+taught the ultimate holiness and happiness of the human family, and it
+is noteworthy that though the Gnostics advocated the final salvation of
+all souls, and though the orthodox fathers savagely attacked them on
 many points, they never reckoned their Universalism as a fault. This
 doctrine was not obnoxious to either orthodox or heterodox in the early
 centuries.
@@ -9354,23 +9357,23 @@ found below.
 
 [^182]: Westcott, Introduction to the Gospels, pg. 181.
 
-[^183]: Vol. I, pp. 271-2.
+[^183]: JW: Vol. I, pp. 271-2.
 
-[^184]: Bunsen's Hipp. and His Age, Vol. 1, pg. 107.
+[^184]: JW: Bunsen's Hipp. and His Age, Vol. 1, pg. 107.
 
-[^185]: The standard authorities on Gnosticism are Neander, Baur,
+[^185]: JW: The standard authorities on Gnosticism are Neander, Baur,
     Matter, Bigg, Mansel (Gnostic Heresies).
 
-[^186]: Baur, Ch. Hist. First Three Centuries, 1, pp. 184-200. Baring
-    Gould's Lost and Hostile Gospels, pg. 278.
+[^186]: JW: Baur, Ch. Hist. First Three Centuries, 1, pp. 184-200.
+    Baring Gould's Lost and Hostile Gospels, pg. 278.
 
-[^187]: Mansel, Baur, etc.
+[^187]: JW: Mansel, Baur, etc.
 
-[^188]: "Neoplatonism" by Rev. Dr. Charles Bigg.
+[^188]: JW: "Neoplatonism" by Rev. Dr. Charles Bigg.
 
-[^189]: Stieren's Irenaeus V, 901-903. Clem. Strom. IV, 12.
+[^189]: JW: Stieren's Irenaeus V, 901-903. Clem. Strom. IV, 12.
 
-[^190]: Outlines of the History of Dogma, pp. 68-69.
+[^190]: JW: Outlines of the History of Dogma, pp. 68-69.
 
 [^191]: See pg. 96 in original for Greek.
 
