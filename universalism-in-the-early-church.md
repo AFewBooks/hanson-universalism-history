@@ -3043,6 +3043,8 @@ salvation was written by an Alexandrine Christian, about 80 AD, and the
 *Oracles* were in general circulation from 100 AD onward, and are
 referred to with great consideration for many centuries subsequently.
 
+## The Righteous Pray for the Wicked.
+
 After describing the destruction of the world, which the Sibyl
 prophesies, and the consignment of the wicked to *aionion* torment, such
 as our Lord teaches in Matthew 25:46, the blessed inhabitants of heaven
@@ -3063,7 +3065,7 @@ possible terms; they are "eternal," (*aionion*), "immortal"
 (*athanaton*), and yet it is declared that at the request of the
 righteous, God will deliver them from those torments.
 
-The Sibyl anticipates the poet **Whittier**:
+The Sibyl anticipates the poet Whittier:
 
 > \"Still thy love, O Christ arisen,\
 > Yearns to reach those souls in prison;\
@@ -3074,7 +3076,7 @@ The Sibyl anticipates the poet **Whittier**:
 > Deep below as high above\
 > Sweeps the circle of God\'s love.\"
 
-**Holmes** expresses the same sentiment:
+Holmes expresses the same sentiment:
 
 > \"What if (a) spirit redeemed, amid the host\
 > Of chanting angels, in some transient lull\
@@ -3101,32 +3103,34 @@ Judgment, he said:
 
 The best scholars concede the Universalism of the \"Oracles.\"
 
-Says **Musardus**,[^193] the \"Oracles\" teach \"that the damned shall
-be liberated after they shall have endured infernal punishments for many
+Says Musardus,[^193] the \"Oracles\" teach \"that the damned shall be
+liberated after they shall have endured infernal punishments for many
 ages...which was an error of Origen.\"
 
-And **Opsopoeus** adds[^194] "that the 'Oracles' teach that the wicked
+And Opsopoeus adds[^194] "that the 'Oracles' teach that the wicked
 suffering in hell (Gehenna) after a certain period, and through
 expiations of griefs, would be released from punishments, which was the
 opinion of Origen," etc.
 
 Hades, and all things and persons are cast into unquenchable fire for
 purification; that is, the fire is unquenchable until it has
-accomplished its purpose of purification. Gehenna itself, as **Origen**
+accomplished its purpose of purification. Gehenna itself, as Origen
 afterwards insisted, purifies and surrenders its prisoners. The wicked
 are to suffer \"immortal\" agonies and then be saved.
 
-Dr. **Westcott** remarks of the *Oracles*: "They stand alone as an
-attempt to embrace all history, even in its details, in one great,
-theocratic view, and to regard the kingdoms of the world as destined to
-form provinces in a future Kingdom of God."
+## The Oracles are Early Christian Classics.
+
+Dr. Westcott remarks of the *Oracles*: "They stand alone as an attempt
+to embrace all history, even in its details, in one great, theocratic
+view, and to regard the kingdoms of the world as destined to form
+provinces in a future Kingdom of God."
 
 While the views of retribution are not elevated and represent the
 punishment of the wicked as in literal fire, and not a moral discipline,
-such as **Origen** taught, they clearly teach universal salvation beyond
-all *aeonian*, even *athanaton* suffering. A noted writer[^195]
-declares: \"The doctrine of Universalism is brought forward in more than
-one passage of this piece;\" though elsewhere Dr. **Deane** misstates,
+such as Origen taught, they clearly teach universal salvation beyond all
+*aeonian*, even *athanaton* suffering. A noted writer[^195] declares:
+\"The doctrine of Universalism is brought forward in more than one
+passage of this piece;\" though elsewhere Dr. Deane misstates,
 inconsistently enough, the language of the Sibyl, thus: \"God,
 hearkening to the prayers of the saints, shall save some from the pains
 of hell.\" He mistranslates *anthropois* into \"some\" instead of
@@ -3135,28 +3139,30 @@ of hell.\" He mistranslates *anthropois* into \"some\" instead of
 forced to add: "This notion of the salvation of any is opposed to the
 sentiment elsewhere expressed...where in picturing the torments of hell
 the writer asserts that there is no place for repentance or any mercy or
-hope." But Dr. **Deane** forgets that the acknowledged Universalists of
-the early church employed equally strong terms concerning the duration
-of punishment. The use of the terms signifying endless torment employed
-by the Sibyl, as by **Origen** and others, did not preclude the idea of
-the ultimate salvation of those thus punished. **Origen** taught that
-the most stubborn sins will be \"extinguished\" by the \"eternal fire,\"
-just as the Sibyl says the wicked perish in \"immortal\" fire and are
+hope." But Dr. Deane forgets that the acknowledged Universalists of the
+early church employed equally strong terms concerning the duration of
+punishment. The use of the terms signifying endless torment employed by
+the Sibyl, as by Origen and others, did not preclude the idea of the
+ultimate salvation of those thus punished. Origen taught that the most
+stubborn sins will be \"extinguished\" by the \"eternal fire,\" just as
+the Sibyl says the wicked perish in \"immortal\" fire and are
 subsequently saved.
 
-In line with **Deane**\'s strange contradictions may be mentioned
-another of the many curiosities of criticism. An English prose version
-of the Sibyl\'s Homeric hexameters was made in 1713 by Sir **John
-Floyer**.[^196] He denies that the \"Oracles\" teach universal salvation
-at all, but in order to sustain his position he omits to translate one
-word and mistranslates another! He renders the entire passage thus:
-\"The Almighty and incorruptible God shall grant this also to the
-righteous when they shall pray to him; that he will preserve them
-(literally save mankind, *anthropois sosai*) from the pernicious fire
-and everlasting gnashing of teeth; and this will he do when he gathers
-the faithful from the eternal fire, placing them in another region, he
-shall send them by his own angels into another life, which will be
-eternal to them that are immortal, in the Elysian fields," etc.
+## Sir John Floyer's Blunder.
+
+In line with Deane\'s strange contradictions may be mentioned another of
+the many curiosities of criticism. An English prose version of the
+Sibyl\'s Homeric hexameters was made in 1713 by Sir John Floyer.[^196]
+He denies that the \"Oracles\" teach universal salvation at all, but in
+order to sustain his position he omits to translate one word and
+mistranslates another! He renders the entire passage thus: \"The
+Almighty and incorruptible God shall grant this also to the righteous
+when they shall pray to him; that he will preserve them (literally save
+mankind, *anthropois sosai*) from the pernicious fire and everlasting
+gnashing of teeth; and this will he do when he gathers the faithful from
+the eternal fire, placing them in another region, he shall send them by
+his own angels into another life, which will be eternal to them that are
+immortal, in the Elysian fields," etc.
 
 It is only by rendering the words denoting \"save mankind,\" \"deliver
 them,\" that he makes his point. A correct rendering coincides with the
@@ -3170,7 +3176,7 @@ from Hades, they are committed to Gehenna, and then at the desire of the
 righteous, they are to be removed thence to \"a life eternal for
 immortals.\"[^197]
 
-**Augustine**[^198] cited the famous acrostic on the Savior\'s name as a
+Augustine[^198] cited the famous acrostic on the Savior\'s name as a
 proof that the Sibyl foretold the coming of Jesus. And it is curious to
 note that in his *City of God*, when stating that certain \"merciful
 doctors\" denied the eternity of punishment, he gives the same reasons
@@ -3179,20 +3185,20 @@ they assign for their belief that the Sibyl names. He quotes the
 disposition to forgive their enemies that they will not lay aside those
 traits at death, but will pity, forgive, and pray for the wicked. The
 redeemed will unite in this prayer and will not God feel pity, and
-answer the prayer in which all the saved unite? **Augustine** presents
-these unanswerable objections and devotes many pages to a very feeble
-reply to them.
+answer the prayer in which all the saved unite? Augustine presents these
+unanswerable objections and devotes many pages to a very feeble reply to
+them.
 
 So fully did the Christians of the First Century recognize the
 *Oracles*, and appeal to them, that they were frequently styled the
-Sibylists. Celsus applied the word to them, and **Origen**, though he
+Sibylists. Celsus applied the word to them, and Origen, though he
 accepted the Sibyl\'s teachings concerning destiny, objected that the
 term was not justly applied. This he does in *Against Celsius* V. 61.
 
-**Clement of Alexandria** not only calls the Sibyl a prophetess, but her
+Clement of Alexandria not only calls the Sibyl a prophetess, but her
 *Oracles* a saving hymn.
 
-**Lactantius** cited fifty passages from the Sibyl in his evidences of
+Lactantius cited fifty passages from the Sibyl in his evidences of
 Christianity.
 
 No book, not even the New Testament, exerted a wider influence on the
@@ -9375,27 +9381,27 @@ found below.
 
 [^190]: JW: Outlines of the History of Dogma, pp. 68-69.
 
-[^191]: See pg. 96 in original for Greek.
+[^191]: JW: Greek: ΣΙΒΥΛΛΙΑΚΟΙ ΧΡΗΣΜΟΙ.
 
-[^192]: B. VIII, ii, verses 195-340 Ed. Opsopoei, Paris 1667.
+[^192]: JW: B. VIII, ii, verses 195-340 Ed. Opsopoei, Paris 1667.
 
-[^193]: Historum Deorum Fatidicorum, Vatam Sibyllorum, etc., p. 184:
-    (1675) Dicit damnatos liberandos postquam poenas infernales per
-    aliquot secula erunt perpessi, qui Origenis fuit error.
+[^193]: JW: *Historum Deorum Fatidicorum, Vatam Sibyllorum*, etc., p.
+    184: (1675) *Dicit damnatos liberandos postquam poenas infernales
+    per aliquot secula erunt perpessi, qui Origenis fuit error*.
 
-[^194]: Notes (p. 27) to Bib. Orac (Paris: 1607). "Impil gehennae
+[^194]: JW: Notes (p. 27) to Bib. Orac (Paris: 1607). "*Impil gehennae
     supplicio addicti post certi temporis et peccatorum per Dolores
     expiationem, ex poenis liberenteur. Quae sententia fuit Origenis,
-    etc."
+    etc*."
 
-[^195]: William J. Deane, Pseudepigrapha, pg. 329.
+[^195]: JW: William J. Deane, Pseudepigrapha, pg. 329.
 
-[^196]: "The Sibylline Oracles, Translated from the Best Greek Copies
-    and Compared with the Sacred Prophecies."
+[^196]: JW: "The Sibylline Oracles, Translated from the Best Greek
+    Copies and Compared with the Sacred Prophecies."
 
-[^197]: B. II, vv: 211-250-340).
+[^197]: JW: B. II, vv: 211-250-340).
 
-[^198]: De Civ. Dei. B., XVIII.
+[^198]: JW: De Civ. Dei. B., XVIII.
 
 [^199]: JW: Robertson Hist. Ch., Vol. I, p. 90; Bingham, Vol. III, x, 5;
     Neander, Hist., Ch. Ii, 227; Mosheim Com. I, p. 263; Butler's Lives
