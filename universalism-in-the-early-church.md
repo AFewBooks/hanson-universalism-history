@@ -17,7 +17,7 @@ Copyright © 1899 Universalist Publishing House.
 
 Copyright © 2013, 2014, 2021, 2022 by David Mackey. All Rights Reserved.
 
-Version: 0.5.0 11/5/2022
+Version: 0.4.0 11/5/2022
 
 # Table of Contents
 
@@ -25,318 +25,717 @@ Version: 0.5.0 11/5/2022
 
 [Table of Contents [2](#table-of-contents)](#table-of-contents)
 
-[Dedication (1899) [7](#dedication-1899)](#dedication-1899)
+[Dedication (1899) [11](#dedication-1899)](#dedication-1899)
 
-[Dedication (2022) [8](#dedication-2022)](#dedication-2022)
+[Dedication (2022) [12](#dedication-2022)](#dedication-2022)
 
-[Foreword (2022) [9](#foreword-2022)](#foreword-2022)
+[Foreword (2022) [13](#foreword-2022)](#foreword-2022)
 
-[Beta Status [11](#beta-status)](#beta-status)
+[Beta Status [15](#beta-status)](#beta-status)
 
-[Foreword (1899) [12](#foreword-1899)](#foreword-1899)
+[Foreword (1899) [16](#foreword-1899)](#foreword-1899)
 
-[Introduction [13](#introduction)](#introduction)
+[Introduction [17](#introduction)](#introduction)
 
 [1. The Earliest Creeds.
-[16](#the-earliest-creeds.)](#the-earliest-creeds.)
+[20](#the-earliest-creeds.)](#the-earliest-creeds.)
 
 [Teaching of the Twelve Apostles.
-[16](#teaching-of-the-twelve-apostles.)](#teaching-of-the-twelve-apostles.)
+[20](#teaching-of-the-twelve-apostles.)](#teaching-of-the-twelve-apostles.)
 
-[The Apostles' Creed. [18](#the-apostles-creed.)](#the-apostles-creed.)
+[The Apostles' Creed. [22](#the-apostles-creed.)](#the-apostles-creed.)
 
-[Nicene Creed. [20](#the-nicene-creed.)](#the-nicene-creed.)
+[The Oldest Creedal Statement.
+[23](#the-oldest-creedal-statement.)](#the-oldest-creedal-statement.)
+
+[Tertullian's Belief. [23](#tertullians-belief.)](#tertullians-belief.)
+
+[The Nicene Creed. [24](#the-nicene-creed.)](#the-nicene-creed.)
+
+[General Sentiment in the Fourth Century.
+[24](#general-sentiment-in-the-fourth-century.)](#general-sentiment-in-the-fourth-century.)
+
+[The Niceo-Constantinopolitan Creed.
+[25](#the-niceo-constantinopolitan-creed.)](#the-niceo-constantinopolitan-creed.)
+
+[Statements of the Early Councils.
+[26](#statements-of-the-early-councils.)](#statements-of-the-early-councils.)
 
 [2. Early Christianity a Cheerful Religion.
-[23](#early-christianity-a-cheerful-religion.)](#early-christianity-a-cheerful-religion.)
+[28](#early-christianity-a-cheerful-religion.)](#early-christianity-a-cheerful-religion.)
+
+[Darkness at the Advent.
+[28](#darkness-at-the-advent.)](#darkness-at-the-advent.)
+
+["Sweetness and Light" [29](#sweetness-and-light)](#sweetness-and-light)
+
+[Oriental Asceticism.
+[29](#oriental-asceticism.)](#oriental-asceticism.)
+
+[Wonderful Progress of Christianity at First.
+[30](#wonderful-progress-of-christianity-at-first.)](#wonderful-progress-of-christianity-at-first.)
+
+[God's Fatherhood. [31](#gods-fatherhood.)](#gods-fatherhood.)
+
+[Christianity a Greek Religion.
+[32](#christianity-a-greek-religion.)](#christianity-a-greek-religion.)
 
 [An Impressive Thought.
-[27](#an-impressive-thought.)](#an-impressive-thought.)
+[33](#an-impressive-thought.)](#an-impressive-thought.)
 
 [Testimony of the Catacombs.
-[28](#testimony-of-the-catacombs.)](#testimony-of-the-catacombs.)
+[34](#testimony-of-the-catacombs.)](#testimony-of-the-catacombs.)
+
+[Early Funeral Emblems.
+[35](#early-funeral-emblems.)](#early-funeral-emblems.)
+
+[Cheerful Faith of the First Christians.
+[37](#cheerful-faith-of-the-first-christians.)](#cheerful-faith-of-the-first-christians.)
+
+[Dean Stanley's Testimony.
+[38](#dean-stanleys-testimony.)](#dean-stanleys-testimony.)
 
 [3. Origin of Endless Punishment.
-[33](#origin-of-endless-punishment.)](#origin-of-endless-punishment.)
+[39](#origin-of-endless-punishment.)](#origin-of-endless-punishment.)
 
 [Meaning of Scriptural Terms.
-[33](#meaning-of-scriptural-terms.)](#meaning-of-scriptural-terms.)
+[39](#meaning-of-scriptural-terms.)](#meaning-of-scriptural-terms.)
+
+[Philo's Use of the Words.
+[39](#philos-use-of-the-words.)](#philos-use-of-the-words.)
+
+[Use of Gehenna. [41](#use-of-gehenna.)](#use-of-gehenna.)
 
 [Whence Came the Doctrine?
-[36](#whence-came-the-doctrine)](#whence-came-the-doctrine)
+[42](#whence-came-the-doctrine)](#whence-came-the-doctrine)
+
+[Of Heathen Origin. [42](#of-heathen-origin.)](#of-heathen-origin.)
+
+[The Apocryphal Book of Enoch.
+[43](#the-apocryphal-book-of-enoch.)](#the-apocryphal-book-of-enoch.)
+
+[Catholic Hell Copied from Heathen Sources.
+[44](#catholic-hell-copied-from-heathen-sources.)](#catholic-hell-copied-from-heathen-sources.)
+
+[Early Christianity Adulterated.
+[45](#early-christianity-adulterated.)](#early-christianity-adulterated.)
+
+[Original Greek New Testament.
+[46](#original-greek-new-testament.)](#original-greek-new-testament.)
 
 [4. Doctrines of "Mitigation" and of "Reserve."
-[42](#doctrines-of-mitigation-and-of-reserve.)](#doctrines-of-mitigation-and-of-reserve.)
+[48](#doctrines-of-mitigation-and-of-reserve.)](#doctrines-of-mitigation-and-of-reserve.)
 
-[Mitigation [42](#mitigation-explained.)](#mitigation-explained.)
+[Mitigation Explained.
+[48](#mitigation-explained.)](#mitigation-explained.)
 
-[Reserve [43](#the-doctrine-of-reserve.)](#the-doctrine-of-reserve.)
+[The Doctrine of Reserve.
+[49](#the-doctrine-of-reserve.)](#the-doctrine-of-reserve.)
+
+[What Was Held as to Doctrine.
+[50](#what-was-held-as-to-doctrine.)](#what-was-held-as-to-doctrine.)
+
+[Modern Theologians Equivocal.
+[51](#modern-theologians-equivocal.)](#modern-theologians-equivocal.)
+
+[Even Lying Defended.
+[51](#even-lying-defended.)](#even-lying-defended.)
 
 [5. Two Kindred Topics.
-[46](#two-kindred-topics.)](#two-kindred-topics.)
+[52](#two-kindred-topics.)](#two-kindred-topics.)
+
+[Gospel Preached to the Dead.
+[52](#gospel-preached-to-the-dead.)](#gospel-preached-to-the-dead.)
+
+[The Gospel of Nicodemus.
+[53](#the-gospel-of-nicodemus.)](#the-gospel-of-nicodemus.)
 
 [Prayers for the Dead.
-[48](#prayers-for-the-dead.)](#prayers-for-the-dead.)
+[54](#prayers-for-the-dead.)](#prayers-for-the-dead.)
 
-[Important Thoughts. [50](#important-thoughts.)](#important-thoughts.)
+[Condition of the Dead not Final.
+[55](#condition-of-the-dead-not-final.)](#condition-of-the-dead-not-final.)
+
+[Important Thoughts. [56](#important-thoughts.)](#important-thoughts.)
+
+[Note. [56](#note.)](#note.)
 
 [6. The Apostles' Immediate Successors.
-[52](#the-apostles-immediate-successors.)](#the-apostles-immediate-successors.)
+[58](#the-apostles-immediate-successors.)](#the-apostles-immediate-successors.)
 
-[Clement of Rome.
-[52](#views-of-clement-of-rome.)](#views-of-clement-of-rome.)
+[The First Christians not Explicit in Eschatological Matters.
+[58](#the-first-christians-not-explicit-in-eschatological-matters.)](#the-first-christians-not-explicit-in-eschatological-matters.)
 
-[Polycarp.
-[53](#polycarp-a-destructionist.)](#polycarp-a-destructionist.)
+[Views of Clement of Rome.
+[58](#views-of-clement-of-rome.)](#views-of-clement-of-rome.)
 
-[Tatian. [54](#tatian.)](#tatian.)
+[Polycarp a Destructionist.
+[59](#polycarp-a-destructionist.)](#polycarp-a-destructionist.)
 
-[Epistle of Barnabas. [54](#_Toc118540332)](#_Toc118540332)
+[The Martyria. [59](#the-martyria.)](#the-martyria.)
 
-[Shepherd of Hermas.
-[55](#the-shepherd-or-pastor-of-hermas.)](#the-shepherd-or-pastor-of-hermas.)
+[Tatian. [60](#tatian.)](#tatian.)
 
-[Ignatius.
-[55](#ignatius-probably-a-destructionist.)](#ignatius-probably-a-destructionist.)
+[Barnabas's "Way of Death."
+[60](#barnabass-way-of-death.)](#barnabass-way-of-death.)
 
-[Justin Martyr. [56](#justin-martyrs-views.)](#justin-martyrs-views.)
+[The Shepherd or Pastor of Hermas.
+[61](#the-shepherd-or-pastor-of-hermas.)](#the-shepherd-or-pastor-of-hermas.)
 
-[The Epistle to Diognetus.
-[58](#punishment-not-endless-the-epistle-to-diognetus.)](#punishment-not-endless-the-epistle-to-diognetus.)
+[Ignatius Probably a Destructionist.
+[61](#ignatius-probably-a-destructionist.)](#ignatius-probably-a-destructionist.)
 
-[Irenaeus. [58](#irenaeus.)](#irenaeus.)
+[Justin Martyr's Views.
+[62](#justin-martyrs-views.)](#justin-martyrs-views.)
 
-[Quadratus. [60](#quadratus.)](#quadratus.)
+[Punishment Not Endless: The Epistle to Diognetus.
+[64](#punishment-not-endless-the-epistle-to-diognetus.)](#punishment-not-endless-the-epistle-to-diognetus.)
+
+[Irenaeus. [64](#irenaeus.)](#irenaeus.)
+
+[Interesting Exposition of Irenaeus.
+[64](#interesting-exposition-of-irenaeus.)](#interesting-exposition-of-irenaeus.)
+
+[The Creed of Irenaeus.
+[65](#the-creed-of-irenaeus.)](#the-creed-of-irenaeus.)
+
+[Probably a Universalist.
+[65](#probably-a-universalist.)](#probably-a-universalist.)
+
+[Bunsen's View. [66](#bunsens-view.)](#bunsens-view.)
+
+[Quadratus. [66](#quadratus.)](#quadratus.)
 
 [Pseudo-Clementine Homilies.
-[60](#pseudo-clementine-homilies.)](#pseudo-clementine-homilies.)
+[66](#pseudo-clementine-homilies.)](#pseudo-clementine-homilies.)
 
-[Athenagoras. [61](#athenagoras.)](#athenagoras.)
+[Athenagoras. [67](#athenagoras.)](#athenagoras.)
 
-[Theophilus. [61](#theophilus.)](#theophilus.)
+[Theophilus. [67](#theophilus.)](#theophilus.)
 
-[Conclusion. [61](#conclusion.)](#conclusion.)
+[Conclusion. [67](#conclusion.)](#conclusion.)
 
 [7. Three Gnostic Sects.
-[62](#three-gnostic-sects.)](#three-gnostic-sects.)
+[69](#three-gnostic-sects.)](#three-gnostic-sects.)
 
-[Basilidians. [62](#the-basilidians.)](#the-basilidians.)
+[The Basilidians. [69](#the-basilidians.)](#the-basilidians.)
 
-[Carpocratians. [62](#the-carpocratians.)](#the-carpocratians.)
+[The Carpocratians. [69](#the-carpocratians.)](#the-carpocratians.)
 
-[Valentinians. [63](#the-valentinians.)](#the-valentinians.)
+[The Valentinians. [70](#the-valentinians.)](#the-valentinians.)
 
-[Conclusions. [63](#conclusions.)](#conclusions.)
+[Conclusions. [70](#conclusions.)](#conclusions.)
+
+[Phases of Gnosticism.
+[70](#phases-of-gnosticism.)](#phases-of-gnosticism.)
+
+[Noteworthy Facts. [71](#noteworthy-facts.)](#noteworthy-facts.)
 
 [8. The Sibylline Oracles.
-[65](#the-sibylline-oracles.)](#the-sibylline-oracles.)
+[72](#the-sibylline-oracles.)](#the-sibylline-oracles.)
+
+[The Righteous Pray for the Wicked.
+[72](#the-righteous-pray-for-the-wicked.)](#the-righteous-pray-for-the-wicked.)
+
+[The Oracles are Early Christian Classics.
+[73](#the-oracles-are-early-christian-classics.)](#the-oracles-are-early-christian-classics.)
+
+[Sir John Floyer's Blunder.
+[74](#sir-john-floyers-blunder.)](#sir-john-floyers-blunder.)
 
 [9. Pantaenus and Clement.
-[69](#pantaenus-and-clement.)](#pantaenus-and-clement.)
+[76](#pantaenus-and-clement.)](#pantaenus-and-clement.)
 
-[Pantaenus.
-[69](#pantaenus-the-sicilian-bee.)](#pantaenus-the-sicilian-bee.)
+[Pantaenus, the "Sicilian Bee."
+[76](#pantaenus-the-sicilian-bee.)](#pantaenus-the-sicilian-bee.)
 
-[The Alexandrine School.
-[69](#the-famous-alexandrine-school.)](#the-famous-alexandrine-school.)
+[The Famous Alexandrine School.
+[76](#the-famous-alexandrine-school.)](#the-famous-alexandrine-school.)
+
+[Alexandria the Christian Metropolis.
+[78](#alexandria-the-christian-metropolis.)](#alexandria-the-christian-metropolis.)
+
+[The Alexandrine Teachers.
+[79](#the-alexandrine-teachers.)](#the-alexandrine-teachers.)
+
+[Max Muller's Words. [79](#max-mullers-words.)](#max-mullers-words.)
 
 [Clement of Alexandria.
-[72](#clement-of-alexandria.)](#clement-of-alexandria.)
+[79](#clement-of-alexandria.)](#clement-of-alexandria.)
 
-[10. Origen. [82](#origen.)](#origen.)
+[Clement's Philosophy.
+[80](#clements-philosophy.)](#clements-philosophy.)
+
+[A Transition Period.
+[81](#a-transition-period.)](#a-transition-period.)
+
+[Clement's Language. [82](#clements-language.)](#clements-language.)
+
+[Further Words of Clement.
+[84](#further-words-of-clement.)](#further-words-of-clement.)
+
+[Allen's Statement. [85](#allens-statement.)](#allens-statement.)
+
+[Bigg on Clement. [86](#bigg-on-clement.)](#bigg-on-clement.)
+
+[Frederick Denison Maurice's Eulogy.
+[86](#frederick-denison-maurices-eulogy.)](#frederick-denison-maurices-eulogy.)
+
+[10. Origen. [89](#origen.)](#origen.)
+
+[Early Opposition to Origen.
+[89](#early-opposition-to-origen.)](#early-opposition-to-origen.)
+
+[Schaff on Origen. [90](#schaff-on-origen.)](#schaff-on-origen.)
+
+[Gehenna Denotes a Purifying Fire.
+[91](#gehenna-denotes-a-purifying-fire.)](#gehenna-denotes-a-purifying-fire.)
+
+[His Critics are his Eulogists.
+[92](#his-critics-are-his-eulogists.)](#his-critics-are-his-eulogists.)
+
+[The Death of Origen.
+[93](#the-death-of-origen.)](#the-death-of-origen.)
+
+[A Christian Philosopher.
+[93](#a-christian-philosopher.)](#a-christian-philosopher.)
+
+[A Bible Universalist.
+[94](#a-bible-universalist.)](#a-bible-universalist.)
+
+[The Works of Origen.
+[94](#the-works-of-origen.)](#the-works-of-origen.)
+
+[The Final Answer to Skepticism.
+[96](#the-final-answer-to-skepticism.)](#the-final-answer-to-skepticism.)
+
+[The First of Christian Theologians.
+[96](#the-first-of-christian-theologians.)](#the-first-of-christian-theologians.)
 
 [Quotation of Origen\'s Language.
-[90](#quotation-of-origens-language.)](#quotation-of-origens-language.)
+[97](#quotation-of-origens-language.)](#quotation-of-origens-language.)
 
 [Origen on the Purifying Fire.
-[92](#origen-on-the-purifying-fire.)](#origen-on-the-purifying-fire.)
+[99](#origen-on-the-purifying-fire.)](#origen-on-the-purifying-fire.)
+
+[Origen on Gehenna. [100](#origen-on-gehenna.)](#origen-on-gehenna.)
+
+[Views of "Foolish Christians" on Fire.
+[101](#views-of-foolish-christians-on-fire.)](#views-of-foolish-christians-on-fire.)
+
+[Mosheim and Robertson.
+[102](#mosheim-and-robertson.)](#mosheim-and-robertson.)
+
+[The *Dictionary of Christian Biography*.
+[103](#the-dictionary-of-christian-biography.)](#the-dictionary-of-christian-biography.)
 
 [Translation of Origen\'s Language on Universal Restoration.
-[96](#translation-of-origens-language-on-universal-restoration.)](#translation-of-origens-language-on-universal-restoration.)
+[103](#translation-of-origens-language-on-universal-restoration.)](#translation-of-origens-language-on-universal-restoration.)
 
-[11. Origen (Continued). [100](#origen-continued.)](#origen-continued.)
+[Mercy and Justice Harmonious.
+[105](#mercy-and-justice-harmonious.)](#mercy-and-justice-harmonious.)
+
+[Origen's Grand Statement.
+[106](#origens-grand-statement.)](#origens-grand-statement.)
+
+[Note. [106](#note.-1)](#note.-1)
+
+[11. Origen (Continued). [107](#origen-continued.)](#origen-continued.)
+
+[Blunt on Origen. [107](#blunt-on-origen.)](#blunt-on-origen.)
+
+[Dr. Bigg on Origen. [107](#dr.-bigg-on-origen.)](#dr.-bigg-on-origen.)
+
+[Schaff on Origen. [107](#schaff-on-origen.-1)](#schaff-on-origen.-1)
+
+[Bunsen on Origen. [108](#bunsen-on-origen.)](#bunsen-on-origen.)
+
+[Origen Cruelly Treated.
+[108](#origen-cruelly-treated.)](#origen-cruelly-treated.)
 
 [Origen\'s Theology Generally Accepted.
-[101](#origens-theology-generally-accepted.)](#origens-theology-generally-accepted.)
+[109](#origens-theology-generally-accepted.)](#origens-theology-generally-accepted.)
+
+[His Universalism Never Condemned.
+[109](#his-universalism-never-condemned.)](#his-universalism-never-condemned.)
+
+[Origen's Contemporaries.
+[110](#origens-contemporaries.)](#origens-contemporaries.)
 
 [Ancient Universalist Schools.
-[103](#ancient-universalist-schools.)](#ancient-universalist-schools.)
+[111](#ancient-universalist-schools.)](#ancient-universalist-schools.)
+
+[Dr. Beecher's Testimony.
+[111](#dr.-beechers-testimony.)](#dr.-beechers-testimony.)
+
+[Origen Misrepresented.
+[112](#origen-misrepresented.)](#origen-misrepresented.)
+
+[Dr. Pond's Misrepresentation of Origen.
+[113](#dr.-ponds-misrepresentation-of-origen.)](#dr.-ponds-misrepresentation-of-origen.)
+
+[Universalism in Good Repute in the Fifth Century.
+[113](#universalism-in-good-repute-in-the-fifth-century.)](#universalism-in-good-repute-in-the-fifth-century.)
+
+[Different Opinions on Human Destiny.
+[114](#different-opinions-on-human-destiny.)](#different-opinions-on-human-destiny.)
 
 [12. The Eulogists of Origen.
-[108](#the-eulogists-of-origen.)](#the-eulogists-of-origen.)
+[115](#the-eulogists-of-origen.)](#the-eulogists-of-origen.)
+
+[The Tribute of Scholars.
+[115](#the-tribute-of-scholars.)](#the-tribute-of-scholars.)
+
+[A Catholic Eulogy. [116](#a-catholic-eulogy.)](#a-catholic-eulogy.)
+
+[Note. [117](#note.-2)](#note.-2)
 
 [13. A Third Century Group.
-[112](#a-third-century-group.)](#a-third-century-group.)
+[119](#a-third-century-group.)](#a-third-century-group.)
 
-[Hippolytus. [112](#hippolytus.)](#hippolytus.)
+[Hippolytus. [119](#hippolytus.)](#hippolytus.)
 
-[Theophilus. [113](#theophilus.-1)](#theophilus.-1)
+[Dean Wordsworth's Error.
+[119](#dean-wordsworths-error.)](#dean-wordsworths-error.)
 
-[Tertullian. [113](#tertullian.)](#tertullian.)
+[Theophilus. [120](#theophilus.-1)](#theophilus.-1)
+
+[Tertullian. [120](#tertullian.)](#tertullian.)
+
+[Advocates Endless Torment.
+[121](#advocates-endless-torment.)](#advocates-endless-torment.)
 
 [Ambrose of Alexandria.
-[115](#ambrose-of-alexandria.)](#ambrose-of-alexandria.)
+[122](#ambrose-of-alexandria.)](#ambrose-of-alexandria.)
 
-[The Manichaeans. [115](#the-manichaeans.)](#the-manichaeans.)
+[The Manichaeans. [122](#the-manichaeans.)](#the-manichaeans.)
 
-[14. Minor Authorities. [118](#minor-authorities.)](#minor-authorities.)
+[Manichean Doctrines.
+[123](#manichean-doctrines.)](#manichean-doctrines.)
 
-[Firmilian. [118](#firmilian.)](#firmilian.)
+[Prof. Shedd's Historical Inaccuracy.
+[123](#prof.-shedds-historical-inaccuracy.)](#prof.-shedds-historical-inaccuracy.)
 
-[Dionysius. [118](#dionysius.)](#dionysius.)
+[14. Minor Authorities. [125](#minor-authorities.)](#minor-authorities.)
+
+[Several Fathers. [125](#several-fathers.)](#several-fathers.)
+
+[Firmilian. [125](#firmilian.)](#firmilian.)
+
+[Dionysius. [125](#dionysius.)](#dionysius.)
 
 [Theognostus and Pierius.
-[118](#theognostus-and-pierius.)](#theognostus-and-pierius.)
+[125](#theognostus-and-pierius.)](#theognostus-and-pierius.)
 
 [Gregory Thaumaturgus.
-[118](#gregory-thaumaturgus.)](#gregory-thaumaturgus.)
+[125](#gregory-thaumaturgus.)](#gregory-thaumaturgus.)
 
-[Pamphilus. [119](#pamphilus.)](#pamphilus.)
+[Pamphilus. [126](#pamphilus.)](#pamphilus.)
 
-[Eusebius. [119](#eusebius.)](#eusebius.)
+[Eusebius. [126](#eusebius.)](#eusebius.)
 
-[Athanasius. [120](#athanasius.)](#athanasius.)
+[Athanasius. [127](#athanasius.)](#athanasius.)
 
-[Didymus. [121](#didymus.)](#didymus.)
+[Didymus. [128](#didymus.)](#didymus.)
 
-[Epiphanius. [122](#epiphanius.)](#epiphanius.)
+[Epiphanius. [129](#epiphanius.)](#epiphanius.)
 
-[Methodius [123](#methodius)](#methodius)
+[Methodius [130](#methodius)](#methodius)
 
-[15. Gregory Nazianzen. [124](#gregory-nazianzen.)](#gregory-nazianzen.)
+[15. Gregory Nazianzen. [131](#gregory-nazianzen.)](#gregory-nazianzen.)
+
+[Bishop of Constantinople.
+[131](#bishop-of-constantinople.)](#bishop-of-constantinople.)
+
+[The Penalties of Sin.
+[131](#the-penalties-of-sin.)](#the-penalties-of-sin.)
+
+[Gregory's Spirit. [132](#gregorys-spirit.)](#gregorys-spirit.)
 
 [16. Theodore of Mopsuestia and the Nestorians.
-[127](#theodore-of-mopsuestia-and-the-nestorians.)](#theodore-of-mopsuestia-and-the-nestorians.)
+[134](#theodore-of-mopsuestia-and-the-nestorians.)](#theodore-of-mopsuestia-and-the-nestorians.)
 
-[The Nestorians. [129](#the-nestorians.)](#the-nestorians.)
+[Views Defined by Great Scholars.
+[134](#views-defined-by-great-scholars.)](#views-defined-by-great-scholars.)
 
-[Instructive Facts. [130](#instructive-facts.)](#instructive-facts.)
+[Author of Nestorian Declarations.
+[135](#author-of-nestorian-declarations.)](#author-of-nestorian-declarations.)
 
-[17. A Notable Family. [132](#a-notable-family.)](#a-notable-family.)
+[Dorner on Theodore. [135](#dorner-on-theodore.)](#dorner-on-theodore.)
+
+[Unity in Diversity. [135](#unity-in-diversity.)](#unity-in-diversity.)
+
+[The Nestorians. [136](#the-nestorians.)](#the-nestorians.)
+
+[The Nestorian Liturgies.
+[137](#the-nestorian-liturgies.)](#the-nestorian-liturgies.)
+
+[Dr. Beecher on Theodore.
+[137](#dr.-beecher-on-theodore.)](#dr.-beecher-on-theodore.)
+
+[Instructive Facts. [137](#instructive-facts.)](#instructive-facts.)
+
+[Character of Early Universalists.
+[138](#character-of-early-universalists.)](#character-of-early-universalists.)
+
+[Note. [138](#note.-3)](#note.-3)
+
+[17. A Notable Family. [140](#a-notable-family.)](#a-notable-family.)
 
 [\"Macrina the Blessed.\"
-[132](#macrina-the-blessed.)](#macrina-the-blessed.)
+[140](#macrina-the-blessed.)](#macrina-the-blessed.)
 
-[Basil the Great. [134](#basil-the-great.)](#basil-the-great.)
+[A Saintly Woman. [140](#a-saintly-woman.)](#a-saintly-woman.)
 
-[Gregory Nyssen. [136](#gregory-nyssen.)](#gregory-nyssen.)
+[Macrina's Religious Sentiments.
+[141](#macrinas-religious-sentiments.)](#macrinas-religious-sentiments.)
+
+[Her Last Days. [142](#her-last-days.)](#her-last-days.)
+
+[Macrina a Representative Universalist.
+[142](#macrina-a-representative-universalist.)](#macrina-a-representative-universalist.)
+
+[Basil the Great. [143](#basil-the-great.)](#basil-the-great.)
+
+[Basil's Language. [143](#basils-language.)](#basils-language.)
+
+[Cave's Error. [143](#caves-error.)](#caves-error.)
+
+[Eulogies of Basil. [144](#eulogies-of-basil.)](#eulogies-of-basil.)
+
+[The Mass of Christians Universalists.
+[144](#the-mass-of-christians-universalists.)](#the-mass-of-christians-universalists.)
+
+[Gregory Nyssen. [144](#gregory-nyssen.)](#gregory-nyssen.)
+
+[Gregory's Language. [145](#gregorys-language.)](#gregorys-language.)
+
+[Perversions of Historians.
+[146](#perversions-of-historians.)](#perversions-of-historians.)
+
+[Opinions in the Fourth Century.
+[148](#opinions-in-the-fourth-century.)](#opinions-in-the-fourth-century.)
 
 [18. Additional Authorities.
-[141](#additional-authorities.)](#additional-authorities.)
+[149](#additional-authorities.)](#additional-authorities.)
 
 [Marcellus of Ancyra.
-[141](#marcellus-of-ancyra.)](#marcellus-of-ancyra.)
+[149](#marcellus-of-ancyra.)](#marcellus-of-ancyra.)
 
-[Titus of Bostra. [141](#titus-of-bostra.)](#titus-of-bostra.)
+[Titus of Bostra. [149](#titus-of-bostra.)](#titus-of-bostra.)
 
-[Ambrose of Milan. [141](#ambrose-of-milan.)](#ambrose-of-milan.)
+[Ambrose of Milan. [149](#ambrose-of-milan.)](#ambrose-of-milan.)
 
-[Serapion. [143](#serapion.)](#serapion.)
+[Serapion. [151](#serapion.)](#serapion.)
 
-[Macarius Magnes. [143](#macarius-magnes.)](#macarius-magnes.)
+[Macarius Magnes. [151](#macarius-magnes.)](#macarius-magnes.)
 
-[Marius Victorinus. [143](#marius-victorinus.)](#marius-victorinus.)
+[Marius Victorinus. [151](#marius-victorinus.)](#marius-victorinus.)
 
 [Hilary, Bishop of Poictiers.
-[143](#hilary-bishop-of-poictiers.)](#hilary-bishop-of-poictiers.)
+[152](#hilary-bishop-of-poictiers.)](#hilary-bishop-of-poictiers.)
 
-[John Cassian. [144](#john-cassian.)](#john-cassian.)
+[John Cassian. [152](#john-cassian.)](#john-cassian.)
 
 [Theodoret, the Blessed.
-[145](#theodoret-the-blessed.)](#theodoret-the-blessed.)
+[153](#theodoret-the-blessed.)](#theodoret-the-blessed.)
 
-[Evagrius Ponticus. [146](#evagrius-ponticus.)](#evagrius-ponticus.)
+[Works of Theodoret. [154](#works-of-theodoret.)](#works-of-theodoret.)
+
+[Evagrius Ponticus. [154](#evagrius-ponticus.)](#evagrius-ponticus.)
 
 [Cyril of Alexandria.
-[146](#cyril-of-alexandria.)](#cyril-of-alexandria.)
+[154](#cyril-of-alexandria.)](#cyril-of-alexandria.)
 
-[Rufinus. [146](#rufinus.)](#rufinus.)
+[Rufinus. [154](#rufinus.)](#rufinus.)
 
 [Domitian, Bishop of Galatia.
-[146](#domitian-bishop-of-galatia.)](#domitian-bishop-of-galatia.)
+[154](#domitian-bishop-of-galatia.)](#domitian-bishop-of-galatia.)
 
 [Diodore, Bishop of Tarsus.
-[146](#diodore-bishop-of-tarsus.)](#diodore-bishop-of-tarsus.)
+[155](#diodore-bishop-of-tarsus.)](#diodore-bishop-of-tarsus.)
 
 [Later Additional Authorities.
-[147](#later-additional-authorities.)](#later-additional-authorities.)
+[156](#later-additional-authorities.)](#later-additional-authorities.)
 
-[Macarius. [148](#macarius.)](#macarius.)
+[Macarius. [156](#macarius.)](#macarius.)
 
-[Peter Chrysologus. [148](#peter-chrysologus.)](#peter-chrysologus.)
+[Peter Chrysologus. [156](#peter-chrysologus.)](#peter-chrysologus.)
 
 [Stephan Bar-Sudaili.
-[148](#stephan-bar-sudaili.)](#stephan-bar-sudaili.)
+[156](#stephan-bar-sudaili.)](#stephan-bar-sudaili.)
 
 [Maximus, the Confessor.
-[148](#maximus-the-confessor.)](#maximus-the-confessor.)
+[156](#maximus-the-confessor.)](#maximus-the-confessor.)
 
 [19. The Deterioration of Christian Thought.
-[149](#the-deterioration-of-christian-thought.)](#the-deterioration-of-christian-thought.)
+[158](#the-deterioration-of-christian-thought.)](#the-deterioration-of-christian-thought.)
 
-[Jerome. [150](#jerome.)](#jerome.)
+[Transition of Christianity.
+[158](#transition-of-christianity.)](#transition-of-christianity.)
 
-[John Chrysostom. [153](#john-chrysostom.)](#john-chrysostom.)
+[Jerome. [159](#jerome.)](#jerome.)
+
+[Jerome's Politic Course.
+[159](#jeromes-politic-course.)](#jeromes-politic-course.)
+
+[A Miserable Story. [161](#a-miserable-story.)](#a-miserable-story.)
+
+[John Chrysostom. [162](#john-chrysostom.)](#john-chrysostom.)
+
+[Chrysostom's Views. [162](#chrysostoms-views.)](#chrysostoms-views.)
+
+[Neander and Schaff. [163](#neander-and-schaff.)](#neander-and-schaff.)
 
 [20. Augustine (Deterioration Continues).
-[155](#augustine-deterioration-continues.)](#augustine-deterioration-continues.)
+[164](#augustine-deterioration-continues.)](#augustine-deterioration-continues.)
+
+[Augustine's Acknowledgment.
+[164](#augustines-acknowledgment.)](#augustines-acknowledgment.)
+
+[Augustine's Criticisms and Mistakes.
+[165](#augustines-criticisms-and-mistakes.)](#augustines-criticisms-and-mistakes.)
+
+[Milman on Augustinianism.
+[166](#milman-on-augustinianism.)](#milman-on-augustinianism.)
+
+[Augustine Less Severe Than Modern Orthodoxy.
+[166](#augustine-less-severe-than-modern-orthodoxy.)](#augustine-less-severe-than-modern-orthodoxy.)
+
+[Decadence and Deterioration.
+[167](#decadence-and-deterioration.)](#decadence-and-deterioration.)
+
+[Christianity Plagiarized.
+[168](#christianity-plagiarized.)](#christianity-plagiarized.)
+
+[Augustinianism Cruel.
+[168](#augustinianism-cruel.)](#augustinianism-cruel.)
 
 [21. Unsuccessful Attempts to Suppress Universalism.
-[161](#unsuccessful-attempts-to-suppress-universalism.)](#unsuccessful-attempts-to-suppress-universalism.)
+[170](#unsuccessful-attempts-to-suppress-universalism.)](#unsuccessful-attempts-to-suppress-universalism.)
+
+[Justinian's Views. [170](#justinians-views.)](#justinians-views.)
+
+[Home Synod Canons. [171](#home-synod-canons.)](#home-synod-canons.)
+
+[The Council Refused to Condemn Universalism.
+[171](#the-council-refused-to-condemn-universalism.)](#the-council-refused-to-condemn-universalism.)
+
+[Universalism Not Condemned for Five Centuries.
+[172](#universalism-not-condemned-for-five-centuries.)](#universalism-not-condemned-for-five-centuries.)
 
 [Significant Facts and Conclusions.
-[164](#significant-facts-and-conclusions.)](#significant-facts-and-conclusions.)
+[173](#significant-facts-and-conclusions.)](#significant-facts-and-conclusions.)
+
+[The Ancient Councils.
+[174](#the-ancient-councils.)](#the-ancient-councils.)
+
+[Justinian's Suppression of the Truth.
+[175](#justinians-suppression-of-the-truth.)](#justinians-suppression-of-the-truth.)
+
+[Justinian and His Age.
+[176](#justinian-and-his-age.)](#justinian-and-his-age.)
+
+[The Divine Light Eclipsed.
+[176](#the-divine-light-eclipsed.)](#the-divine-light-eclipsed.)
 
 [22. The Eclipse of Universalism.
-[168](#the-eclipse-of-universalism.)](#the-eclipse-of-universalism.)
+[178](#the-eclipse-of-universalism.)](#the-eclipse-of-universalism.)
+
+[Disappearance of the Truth.
+[178](#disappearance-of-the-truth.)](#disappearance-of-the-truth.)
+
+[Christianity's Eclipse.
+[179](#christianitys-eclipse.)](#christianitys-eclipse.)
+
+[The Caricatures of Dante and Angelo.
+[179](#the-caricatures-of-dante-and-angelo.)](#the-caricatures-of-dante-and-angelo.)
+
+[Re-birth of Universalism.
+[180](#re-birth-of-universalism.)](#re-birth-of-universalism.)
+
+[The Dawn of Truth. [180](#the-dawn-of-truth.)](#the-dawn-of-truth.)
 
 [23. Summary of Conclusions.
-[172](#summary-of-conclusions.)](#summary-of-conclusions.)
+[182](#summary-of-conclusions.)](#summary-of-conclusions.)
 
 [Appendix A. Biographies of Those Referenced in This Work
-[176](#appendix-a.-biographies-of-those-referenced-in-this-work)](#appendix-a.-biographies-of-those-referenced-in-this-work)
+[186](#appendix-a.-biographies-of-those-referenced-in-this-work)](#appendix-a.-biographies-of-those-referenced-in-this-work)
 
-[Augustine [176](#allin-thomas-rev.)](#allin-thomas-rev.)
+[Allin, Thomas (Rev.) [186](#allin-thomas-rev.)](#allin-thomas-rev.)
 
-[Ballou, Hosea [176](#arnold-matthew)](#arnold-matthew)
+[Arnold, Matthew [186](#arnold-matthew)](#arnold-matthew)
 
-[Beecher, Edward [176](#beecher-edward-dr.)](#beecher-edward-dr.)
+[Ballou, Hosea (Dr.) [186](#ballou-hosea-dr.)](#ballou-hosea-dr.)
 
-[Bryennios, Philotheos [176](#brown-francis)](#brown-francis)
+[Beecher, Edward (Dr.) [186](#beecher-edward-dr.)](#beecher-edward-dr.)
 
-[Cantwell, J.S. [176](#cantwell-j.s.)](#cantwell-j.s.)
+[Brown, Francis [186](#brown-francis)](#brown-francis)
 
-[Chambre, A. St. John [176](#cave-william)](#cave-william)
+[Bryennios, Philotheos
+[186](#bryennios-philotheos)](#bryennios-philotheos)
 
-[Chrysostom, John [177](#chrysostom-john)](#chrysostom-john)
+[Cantwell, J.S. [186](#cantwell-j.s.)](#cantwell-j.s.)
 
-[Farrar, Frederick W. [177](#de-rossi)](#de-rossi)
+[Cave, William [187](#cave-william)](#cave-william)
 
-[Hagenbach, Karl [177](#gibbon)](#gibbon)
+[Chambré, A. St. John (Rev., A.M.)
+[187](#chambré-a.-st.-john-rev.-a.m.)](#chambré-a.-st.-john-rev.-a.m.)
+
+[Chrysostom, John [187](#chrysostom-john)](#chrysostom-john)
+
+[De Rossi, [187](#de-rossi)](#de-rossi)
+
+[Farrar, Frederick W. (Canon)
+[187](#farrar-frederick-w.-canon)](#farrar-frederick-w.-canon)
+
+[Gibbon [187](#gibbon)](#gibbon)
+
+[Hagenbach, Karl [187](#hagenbach-karl)](#hagenbach-karl)
+
+[Haweis, Hugh Reginald
+[187](#haweis-hugh-reginald)](#haweis-hugh-reginald)
 
 [Hitchcock, Roswell D.
-[177](#haweis-hugh-reginald)](#haweis-hugh-reginald)
+[188](#hitchcock-roswell-d.)](#hitchcock-roswell-d.)
 
-[Von Mosheim, Lorenz [177](#milman)](#milman)
+[Milman, [188](#milman)](#milman)
 
-[Sawyer, Thomas Jefferson [177](#neander)](#neander)
+[Milner, Joseph [188](#milner-joseph)](#milner-joseph)
 
-[Thayer, Thomas Baldwin [178](#stanley-dean)](#stanley-dean)
+[Von Mosheim, Lorenz Johann
+[188](#von-mosheim-lorenz-johann)](#von-mosheim-lorenz-johann)
+
+[Neander [188](#neander)](#neander)
+
+[Pressensé, Edmond de [188](#pressensé-edmond-de)](#pressensé-edmond-de)
+
+[Robertson [188](#robertson)](#robertson)
+
+[Ruskin, [188](#ruskin)](#ruskin)
+
+[Sawyer, Thomas Jefferson
+[188](#sawyer-thomas-jefferson)](#sawyer-thomas-jefferson)
+
+[Stanley, (Dean) [188](#stanley-dean)](#stanley-dean)
+
+[Thayer, Thomas Baldwin
+[188](#thayer-thomas-baldwin)](#thayer-thomas-baldwin)
 
 [Appendix B. Individuals Referenced in This Work.
-[179](#appendix-b.-individuals-referenced-in-this-work.)](#appendix-b.-individuals-referenced-in-this-work.)
+[190](#appendix-b.-individuals-referenced-in-this-work.)](#appendix-b.-individuals-referenced-in-this-work.)
 
 [Appendix C. Works Referenced Herein.
-[181](#appendix-c.-works-referenced-herein.)](#appendix-c.-works-referenced-herein.)
+[192](#appendix-c.-works-referenced-herein.)](#appendix-c.-works-referenced-herein.)
 
-[Bibliography [182](#bibliography)](#bibliography)
+[Bibliography [193](#bibliography)](#bibliography)
 
-[What Has Changed? [183](#what-has-changed)](#what-has-changed)
+[What Has Changed? [194](#what-has-changed)](#what-has-changed)
 
-[Release Notes [184](#release-notes)](#release-notes)
+[Release Notes [195](#release-notes)](#release-notes)
 
 [Changing of Particular Words
-[185](#changing-of-particular-words)](#changing-of-particular-words)
+[196](#changing-of-particular-words)](#changing-of-particular-words)
 
 # Dedication (1899)
 
@@ -429,19 +828,15 @@ is an ebook there is no need for the major event of editions, rather the
 evolution can be incremental. This allows me to release more
 improvements to you quicker than is traditionally possible.
 
-I believe there is value in this approach and I hope you will experience
-this value as the work evolves over time. That said, it also means that
-you will encounter words that have been bolded inconsistently at times,
-some instances where a Greek phrase has yet to be brought over, etc.
-
-If you find something particularly needful, please let me know. I will
-endeavor to implement changes where readers desire at the highest
-priority. You can reach me via email at <dave@davemackey.net>.
+If you find something incorrect or in need of further fleshing out,
+please let me know. I will endeavor to implement changes where readers
+desire at the highest priority. You can reach me via email at
+<dave@davemackey.net>.
 
 Note: You can see the end of this volume for details on what has changed
 from the original version and various details of my methodology for
 choosing what to change and how. I have been obsessive in my attempt to
-respect the text while improving it's clarity.
+respect the text while improving its clarity.
 
 # Foreword (1899)
 
@@ -8926,12 +9321,13 @@ through the 19^th^ century.
 
 ## Release Notes
 
--   2022 -- 0.4.0
+-   11/2022 -- 0.4.0
 
-    -   Significant work on updating footnotes throughout the first
-        several chapters, bolding of individual names that will be
-        covered by biographical appendix, various improvements in
-        formatting and corrections of minor errors.
+    -   Footnotes have been reworked throughout to have JW where the
+        author of the footnote is John Wesley Hanson and DM where the
+        author of the footnote is Dave Mackey.
+
+    -   A number of improvements to formatting have been made.
 
     -   Splitting of lengthy paragraphs into shorter ones, especially
         where quotations of various authorities are present.
@@ -8940,9 +9336,10 @@ through the 19^th^ century.
 
     -   Move details of methodology to What Has Changed?
 
-    -   Rewrite Foreword and add Beta Status section.
+    -   Rewrote Foreword, added Beta Status and Dedication (2022).
 
-    -   Add Dedication (2022).
+    -   Added Greek or transliteration where missing, including German
+        via image.
 
 -   2021 -- Beta 3 - 0.3.2
 
