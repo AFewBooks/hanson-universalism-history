@@ -5983,9 +5983,11 @@ times.
 
 # 15. Gregory Nazianzen.
 
+## Bishop of Constantinople.
+
 Gregory of Nazianzus, born 330 AD, was one of the greatest orators of
-the ancient church. **Gibbon** sarcastically says: "The title of Saint
-has been added to his name, but the tenderness of his heart, and the
+the ancient church. Gibbon sarcastically says: "The title of Saint has
+been added to his name, but the tenderness of his heart, and the
 elegance of his genius, reflect a more pleasing luster on the memory of
 Gregory Nazianzen." The child of a Christian mother, Nonna, he was
 instructed in youth in the elements of religion. He enjoyed an early
@@ -6012,18 +6014,19 @@ Gregory says: "God brings the dead to life as partakers of fire or
 light. But whether even all shall hereafter partake of God, let it be
 elsewhere discussed."
 
-Again he says: "I know also of a fire not cleansing (Greek)[^312] but
-chastising (Greek),[^313] ... unless anyone chooses even in this case to
-regard it more humanely, and creditably to the Chastiser." This is a
-remarkable instance of the esoteric, and well may Petavius say: "It is
-manifest that in this place St. Gregory is speaking of the punishments
-of the damned, and doubted whether they would be eternal, or rather to
-be estimated in accordance with the goodness of God, so as at some time
-to be terminated." And Farrar well observes: "If this last sentence had
-not been added the passage would have been always quoted as a most
-decisive proof that this eminently great father and theologian held,
-without any modification, the severest form of the doctrine of endless
-torments."
+Again he says: "I know also of a fire not cleansing[^312] but chastising
+(Greek),[^313] ... unless anyone chooses even in this case to regard it
+more humanely, and creditably to the Chastiser." This is a remarkable
+instance of the esoteric, and well may Petavius say: "It is manifest
+that in this place St. Gregory is speaking of the punishments of the
+damned, and doubted whether they would be eternal, or rather to be
+estimated in accordance with the goodness of God, so as at some time to
+be terminated." And Farrar well observes: "If this last sentence had not
+been added the passage would have been always quoted as a most decisive
+proof that this eminently great father and theologian held, without any
+modification, the severest form of the doctrine of endless torments."
+
+## The Penalties of Sin.
 
 Gregory tells us: "When you read in Scripture of God\'s being angry, or
 threatening a sword against the wicked...understand this rightly, and
@@ -6068,6 +6071,8 @@ belief in the final restoration of all things, but even this belief lies
 involved in his remarks on the prophecy of St. Paul, concerning that day
 when 'God shall be all in all.'"
 
+## Gregory's Spirit.
+
 When Gregory and his congregation had been attacked in their church,
 while celebrating our Lord\'s baptism, by the Arian rabble of
 Constantinople, in consequence of the report that they were Tritheists,
@@ -6094,11 +6099,11 @@ to this doctrine, not by Origen but by their own thinkings and
 examination of the Scripture. They regarded the two-fold division of the
 development of the creature as a general law of the universe. This led
 to the final result of universal participation in the unchangeable
-divine life. Hence the (Greek)[^317] was taught by Diodorus of Tarsus,
-in his treatise on the Incarnation of God, and also by Theodorus. He
-applied Matt. 5:26, to prove a rule of proportion, and an end of
-punishment. God would not call the wicked to rise again if they must
-endure punishment without amendment."[^318]
+divine life. Hence the ἀποκατάστασις[^317] was taught by Diodorus of
+Tarsus, in his treatise on the Incarnation of God, and also by
+Theodorus. He applied Matt. 5:26, to prove a rule of proportion, and an
+end of punishment. God would not call the wicked to rise again if they
+must endure punishment without amendment."[^318]
 
 # 16. Theodore of Mopsuestia and the Nestorians. 
 
@@ -9787,20 +9792,20 @@ found below.
 
 [^311]: JW: De Resurr., VIII.
 
-[^312]: See pg. 212 in original.
+[^312]: JW: Greek: καθαρτήριον.
 
-[^313]: See pg. 212 in original.
+[^313]: JW: Greek: κολαστήριον.
 
-[^314]: Orat. xl, Carm. xlii.; Migne, Vols. XXXVI, XXI.
+[^314]: JW: Orat. xl, Carm. xlii.; Migne, Vols. XXXVI, XXI.
 
-[^315]: See Newman's Hist. Essays, Vol. III.
+[^315]: JW: See Newman's Hist. Essays, Vol. III.
 
-[^316]: Assemani Bibl. Orient. Tom. III, p. 323.
+[^316]: JW: Assemani Bibl. Orient. Tom. III, p. 323.
 
-[^317]: See pg. 215 in original.
+[^317]: JW: See pg. 215 in original.
 
-[^318]: Hist. Christ. Dogmas, Vol. II. Hagenbach testifies to the same.
-    Dogmas, Vol I.
+[^318]: JW: Hist. Christ. Dogmas, Vol. II. Hagenbach testifies to the
+    same. Dogmas, Vol I.
 
 [^319]: Assemani Bib. Orient. Tom. III.
 
