@@ -4817,11 +4817,15 @@ chastised on earth; the heavier remain to be visited hereafter. In every
 case the uttermost farthing must be paid, though final deliverance is
 promised.\"
 
+## Blunt on Origen.
+
 Blunt, in his excellent work, describes the heathen admixtures and
 corruptions in manner, custom, habit, conduct and life that began to
 prevail during the latter part of the Third Century, as the influence of
 the great Alexandrine fathers waned, and the Latinizing of the church
 began to assert itself.[^265]
+
+## Dr. Bigg on Origen.
 
 "There will come a time when man, completely subjected to Christ by the
 operation of the Holy Ghost," says Bigg, epitomizing Origen, \"shall in
@@ -4840,6 +4844,8 @@ against the Holy Ghost \"shall not be forgiven in this world (*aion*,
 age) nor in the world (*aion*, age) to come.\" According to Origen, it
 may be in \"some one of the countless aeons of the vast hereafter.\"
 
+## Schaff on Origen.
+
 The historian Schaff concedes that among those quickened and inspired to
 follow Origen were Pamphilus, Eusebius of Caesarea, Didymus of
 Alexandria, Athanasius, Basil the Great, Gregory of Nazianzum, and
@@ -4847,6 +4853,8 @@ Gregory of Nyssa; and among the Latin fathers, Hilary and Jerome. And he
 feels obliged to add: \"Gregory of Nyssa and perhaps also Didymus, even
 adhered to Origen\'s doctrine of the final salvation of all created
 intelligences.\"[^266]
+
+## Bunsen on Origen.
 
 Bunsen declares that Origen adduces in \"De Principiis,\" in favor of
 \"the universality of final salvation,\" the arguments of \"nearly all
@@ -4870,6 +4878,8 @@ according to Christ\'s own teaching.\" Of the grand faith in universal
 redemption, Prof. Plumptre says: \"It has been, and is, the creed of the
 great poets whom we accept as the spokesmen of a nation\'s
 thoughts.\"[^267]
+
+## Origen Cruelly Treated.
 
 The treatment experienced by Origen is one of the anomalies of history.
 The first hostility to him, followed by his deposition and
@@ -4928,6 +4938,8 @@ the Old Testament. Hippolytus is spoken of as \"a disciple of Origen and
 Dionysius of Alexandria, \'the Origen of the West\'\"... attracted to
 Origen \"by all the affinities of heart and mind.\"
 
+## His Universalism Never Condemned.
+
 The state of opinion on the subject of universal salvation is shown by
 the fact that though Ignatius, Irenaeus, Hippolytus and others wrote
 against the prevalent heresies of their times, Universalism is never
@@ -4971,6 +4983,8 @@ who condemn the restorationism of Origen \"anathematize all those saints
 who preceded and followed him,\" implying the general prevalence of
 Universalism before and after the days of Origen.
 
+## Origen's Contemporaries.
+
 Among the celebrated contemporaries and immediate successors of Origen
 whose writings on the question of man\'s final destiny do not survive,
 but who, from the relations they sustained to this greatest of the
@@ -5001,6 +5015,8 @@ during Origen\'s times and for some time after was universalistic is
 thus made apparent.[^270]
 
 ## Ancient Universalist Schools. 
+
+### Dr. Beecher's Testimony.
 
 Dr. Beecher says: \"Two great facts stand out on the page of
 ecclesiastical history. One, that the first system of Christian theology
@@ -5074,6 +5090,8 @@ Alexandria. And this school was the type, or model, according to which
 the mind of the Alexandrine church was cast; the philosophy of Pantaenus
 descended to Clemens, --- and from him it was caught by Origen.\"[^272]
 
+## Origen Misrepresented.
+
 From these facts it is easily seen that the heresies of which Origen was
 accused did not touch the doctrine of universal restoration. They were
 for teaching inequality between the persons of the Trinity, the
@@ -5099,6 +5117,8 @@ died. But his followers pursued the same work in his spirit, until
 Origen was condemned again by Justinian;\" this time for his
 Universalism, but, as will be seen hereafter, the church did not sustain
 Justinian\'s attack.[^273]
+
+### Dr. Pond's Misrepresentation of Origen.
 
 The reprehensible practices to which the *odium theologicum* has
 impelled good men, is illustrated by Dr. Enoch Pond, professor in Bangor
@@ -5126,6 +5146,8 @@ Emperor Constantius at the council of Milan, AD 355, commanded the
 bishops to subscribe against Athanasius and they replied that there was
 no ecclesiastical canon to that effect, the Emperor said, \"Whatever I
 will, let that be esteemed a canon.\"
+
+## Universalism in Good Repute in the Fifth Century.
 
 AD 402, when Epiphanius came from Cyprus to Constantinople with a
 synodical decree condemning Origen\'s books without excommunicatmg
@@ -5157,6 +5179,8 @@ thus believing are described by Doederlein, \"The more highly
 distinguished in Christian antiquity any one was for learning, so much
 the more did he cherish and defend the hope of future torments sometime
 ending.\"
+
+## Different Opinions on Human Destiny.
 
 Previous to AD 200 three different opinions were held among Christians
 --- endless punishment, annihilation, and universal salvation; but, so
@@ -9625,46 +9649,46 @@ found below.
 
 [^264]: JW: De Prin. II, v:1-4.
 
-[^265]: Copious references have already been made on this point.
+[^265]: JW: Copious references have already been made on this point.
 
-[^266]: "The theology of Christendom and its character for the first
+[^266]: JW: "The theology of Christendom and its character for the first
     three centuries was shaped by three men. Ignatius, Irenaeus and
     Cyprian gave its organization; Clement and Origen its form of
     religious thought." British Quarterly Review, 1879.
 
-[^267]: Spirits in Prison, pg. 13. Dr. Ballou in his Ancient History of
-    Universalism (p. 95, note) gives at length references to the
+[^267]: JW: Spirits in Prison, pg. 13. Dr. Ballou in his Ancient History
+    of Universalism (p. 95, note) gives at length references to the
     passages in Delarue's edition of Origen in which the doctrine of
     universal salvation is expressed in Origen's own words.
 
-[^268]: De Pressense charges the acrimony of Demetrius to Origen's
+[^268]: JW: De Pressense charges the acrimony of Demetrius to Origen's
     opposition to the encroachments of the Episcopate and to his
     disapproval of the ambition of the hierarchy. *Martyrs and
     Apologists*, p. 332.
 
-[^269]: Routh, Reliquiae Sacrae, iii, p. 498.
+[^269]: JW: Routh, Reliquiae Sacrae, iii, p. 498.
 
-[^270]: "At the close of the Second Century the church in Alexandria was
-    wealthy and numerous. Demetrius, the bishop, gave the finishing
+[^270]: JW: "At the close of the Second Century the church in Alexandria
+    was wealthy and numerous. Demetrius, the bishop, gave the finishing
     stroke to the congregationalism of the church by censuring Origen
     and by appointing suffragan bishops whom he persuaded to pass a
     sentence upon Origin which the presbyters had refused to sanction."
     Redepenning, as quoted by Bigg.
 
-[^271]: Hist. Doct. Fut. Ret.
+[^271]: JW: Hist. Doct. Fut. Ret.
 
-[^272]: Holy Eastern Church, p. 37.
+[^272]: JW: Holy Eastern Church, p. 37.
 
-[^273]: Socrates, the ecclesiastical historian, defends Origen from the
-    attacks of his enemies, and finding him sound on the co-eternity of
-    Christ with God, will not hear of any heresy in him. Eccl. Hist., b.
-    vi, ch. Xiii.
+[^273]: JW: Socrates, the ecclesiastical historian, defends Origen from
+    the attacks of his enemies, and finding him sound on the co-eternity
+    of Christ with God, will not hear of any heresy in him. Eccl. Hist.,
+    b. vi, ch. Xiii.
 
-[^274]: Enchirid. Ch. 112.
+[^274]: JW: Enchirid. Ch. 112.
 
-[^275]: According to Reuss "The doctrine of a general restoration of all
-    rational creatures has been recommended by very many of the greatest
-    thinkers of the ancient church and of modern times."
+[^275]: JW: According to Reuss "The doctrine of a general restoration of
+    all rational creatures has been recommended by very many of the
+    greatest thinkers of the ancient church and of modern times."
 
 [^276]: Mosheim, Hist. Com. In Christ, before Constantine, ii, p. 149.
 
