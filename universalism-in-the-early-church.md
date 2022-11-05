@@ -6396,6 +6396,8 @@ God, and confident of a reunion hereafter, refused to listen to offers
 of marriage, saying that her betrothed was living in a distant realm,
 and that the resurrection would reunite them.[^331]
 
+### A Saintly Woman.
+
 AD 349, when she was twenty-two, her father died, and thenceforth she
 devoted herself to the care of her widowed mother and the family of nine
 children, and large estates which were scattered through three
@@ -6431,6 +6433,9 @@ experienced, whereupon she chided and reminded him that he ought rather
 to thank his parents who had qualified him to be worthy of such
 experiences. Gregory relates that she controlled all evidences of
 suffering, and that her countenance continually wore a seraphic smile.
+
+### Macrina's Religious Sentiments.
+
 He probably gives us her exact sentiments in his own language on
 universal restoration, in which she rises into a grand description of
 the purifying effects of all future punishment, and the separation
@@ -6462,6 +6467,8 @@ She said: "The process of healing shall be proportioned to the measure
 of evil in each of us, and when the evil is purged and blotted out,
 there shall come in each place to each immortality and life and honor."
 
+### Her Last Days.
+
 Seeing the weariness of her brother she bade him rest. Revisiting her at
 the close of the day she reviewed thankfully her past life and rejoiced
 that she had never in her life refused any one who had asked a charity
@@ -6476,6 +6483,8 @@ writings are full.[^336]
 
 She was buried by her brother in the grave of her parents, in the Chapel
 of the \"Forty Martyrs.\"
+
+### Macrina a Representative Universalist.
 
 We have here a most suggestive picture to contemplate. Macrina at the
 head of a sisterhood, consisting of several hundred women of all grades,
@@ -6527,6 +6536,8 @@ stands in the highest group of pulpit orators, theologians, pastors, and
 rulers, and most eminent writers and noble men of the church\'s first
 five hundred years.
 
+### Basil's Language.
+
 Basil says: \"The Lord\'s peace is co-extensive with all time. For all
 things shall be subject to him, and all things shall acknowledge his
 empire; and when God shall be all in all, those who now excite discord
@@ -6548,6 +6559,8 @@ theologian was infected with the wretched idea prevalent in his day,
 that the wise could accept truths not to be taught to the multitude. But
 the brother of, and co-laborer with, Gregory of Nyssa, and the \"Blessed
 Macrina,\" he could but have sympathized with their sublime faith.
+
+### Cave's Error.
 
 Cave scarcely alludes to Basil\'s views of destmy, but faintly intimates
 the truth when he says: "For though his enemies, to serve their own ends
@@ -6572,6 +6585,8 @@ the worm punishing deathlessly, and the dark and horrible abyss of hell,
 and the bitter groans, and the vehement wailing, and the weeping and
 gnashing of teeth, where the evils have no end.\"[^339]
 
+### Eulogies of Basil.
+
 He is said to have had learning the most ample, eloquence of the highest
 order, forensic powers unsurpassed, literary ability unequaled, \"a
 style of writing admirable, almost inimitable, proper, perspicuous,
@@ -6594,6 +6609,8 @@ banished for he could find a home anywhere, as the earth was God\'s, and
 himself everywhere a stranger; his frail body could endure but little
 torture, and death would be a favor, as it would only conduct him to
 God, his eternal home.
+
+### The Mass of Christians Universalists.
 
 Basil says in one place, in a work attributed to him, \"The mass of men
 (Christians) say that there is to be an end of punishment to those who
@@ -6642,7 +6659,9 @@ expiatory sufferings, those who have gone even to this extremity of
 wickedness.\" Thus \"everlasting\" punishment will end in salvation,
 according to one of the greatest of the fathers of the Fourth Century.
 
-In his \"Sermo Catecheticus Magnus,\" a work of forty chapters, for the
+### Gregory's Language.
+
+In his *Sermo Catecheticus Magnus*, a work of forty chapters, for the
 teaching of theological learners, written to show the harmony of
 Christianity with the instincts of the human heart, he asserts \"the
 annihilation of evil, the restitution of all things, and the final
@@ -6661,12 +6680,11 @@ and the corruptible to the incorruptible, the inferior is done away with
 and reduced to non-existence, and the thing purged is benefited, just as
 the dross is purged from gold by fire....In the same way in the long
 circuits of time, when the evil of nature which is now mingled and
-implanted in them has been taken away, whensoever the restoration
-(Greek)[^344] to their old condition of the things that now lie in
-wickedness takes place, there will be a unanimous thanksgiving from the
-whole creation, both of those who have been punished (Greek)[^345] in
-the purification (Greek)[^346] and of those who have not at all needed
-purification, (Greek).[^347]
+implanted in them has been taken away, whensoever the restoration[^344]
+to their old condition of the things that now lie in wickedness takes
+place, there will be a unanimous thanksgiving from the whole creation,
+both of those who have been punished[^345] in the purification[^346] and
+of those who have not at all needed purification.[^347]
 
 \"I believe that punishment will be administered in proportion to each
 one\'s corruptness.... Therefore to whom there is much corruption
@@ -6679,6 +6697,8 @@ so that it shall no more exist. For such being the nature of sin that it
 cannot exist without a corrupt motive, it must of course be perfectly
 dissolved, and wholly destroyed, so that nothing can remain a receptacle
 of it, when all motive and influence shall spring from God alone,\" etc.
+
+### Perversions of Historians.
 
 The manner in which historians and biographers have been guilty of
 *suppressio veri* by their prejudices or obtuseness to fact, is
@@ -6762,6 +6782,8 @@ the faintest reminder that he was deviating from the strictest paths of
 Catholic opinion.\" Professor Plumptre truthfully says: \"His
 Universalism is as wide and unlimited as that of Bishop Newton of
 Bristol.\"
+
+### Opinions in the Fourth Century.
 
 The Council of Constantinople, AD 381, which perfected the Nicene Creed,
 was participated in by the two Gregorys; Gregory Nazianzen presided and
@@ -9864,7 +9886,7 @@ found below.
     Schriften des Neuen Testaments zunächst für Prediger und
     Studirende*. Volume 2. A.W. Unzer, 1837.
 
-[^330]: The materials of this sketch and of the article on Gregory
+[^330]: JW: The materials of this sketch and of the article on Gregory
     Nyssen were chiefly procured from "Our Holy Father Gregory, Bishop
     of Nyssa's Thoughts concerning the Life of the Blessed Macrina, his
     Sister, to the Monk Olympius;" and "Dialogue Concerning Life and
@@ -9876,58 +9898,59 @@ found below.
     in the next life. How did Macrina understand Scripture in this way?
     It is a topic deserving further study.
 
-[^332]: Dict. Christ. Biog. III, p. 780.
+[^332]: JW: Dict. Christ. Biog. III, p. 780.
 
-[^333]: See pg. 229 in original for Greek ("all things in all men.")
+[^333]: JW: Greek: Πάντα ἐν \'πᾶσιν ("all things in all men.")
 
-[^334]: P. 154. Oehler's ed. Life and Resurrection.
+[^334]: JW. p. 154. Oehler's ed. Life and Resurrection.
 
-[^335]: Life and Resurrection, pg. 68. In this passage Macrina employs
-    the word aionion in its proper sense of ages. The German version
-    translate it centuries (jahrhunderte).
+[^335]: JW: Life and Resurrection, pg. 68. In this passage Macrina
+    employs the word aionion in its proper sense of ages. The German
+    version translate it centuries (jahrhunderte).
 
-[^336]: Butler, "Lives of the Saints," Vol. VII, pp. 260-261. This
+[^336]: JW: Butler, "Lives of the Saints," Vol. VII, pp. 260-261. This
     Catholic work does not make the faintest allusion to Macrina's
     Universalism. And even our Dr. Ballou, in his valuable Ancient
     History, while he mentions the grandmother, overlooks the far more
     eminent granddaughter.
 
-[^337]: History of the Church, pg. 176.
+[^337]: JW: History of the Church, pg. 176.
 
-[^338]: Lives of the Fathers, II, p. 451.
+[^338]: JW: Lives of the Fathers, II, p. 451.
 
-[^339]: Ep. XLVI, Classis I, ad virginem.
+[^339]: JW: Ep. XLVI, Classis I, ad virginem.
 
-[^340]: Cave, Lives of the Fathers, II, 397.
+[^340]: JW: Cave, Lives of the Fathers, II, 397.
 
-[^341]: De Ascetics.
+[^341]: JW: De Ascetics.
 
-[^342]: Life and Resurrection and Letter to the Monk Olympius.
+[^342]: JW: Life and Resurrection and Letter to the Monk Olympius.
 
-[^343]: Cat. Orat. Ch. 26, Migne, Tract, Filius subjicietur,\--on I Cor.
-    15:28---pasa he anthropine phusis, "The whole of humanity."
+[^343]: JW: Cat. Orat. Ch. 26, Migne, Tract, Filius subjicietur,\--on I
+    Cor. 15:28---pasa he anthropine phusis, "The whole of humanity."
 
-[^344]: See original pg. 237.
+[^344]: JW: Greek: ἀποκατάστασις.
 
-[^345]: See pg. 238 in original.
+[^345]: JW: Greek: κεκολασμένων.
 
-[^346]: See pg. 238 in original.
+[^346]: JW: Greek: καθάρσει.
 
-[^347]: See pg. 238 in original.
+[^347]: JW: Greek: καθάρσεως.
 
-[^348]: Photius, Cod., pg. 233.
+[^348]: JW: Photius, Cod., pg. 233.
 
-[^349]: De Usu Patrum, lib. II, cap. 4.
+[^349]: JW: De Usu Patrum, lib. II, cap. 4.
 
-[^350]: Lecky's Rationalism in Europe, I, pg. 316.
+[^350]: JW: Lecky's Rationalism in Europe, I, pg. 316.
 
-[^351]: On the Psalms.
+[^351]: JW: On the Psalms.
 
-[^352]: See original pg. 241. Orat. Catech.
+[^352]: JW: Orat. Catech. Greek: Εἰ δὲ ἀθεράπευτος μένει ἐν τῷ μετὰ
+    ταῦτα βιῳ ταμιεύεται ἡ θεραπεία.
 
-[^353]: Allin, Universalism Asserted, pg. 189.
+[^353]: JW: Allin, Universalism Asserted, pg. 189.
 
-[^354]: Essays on Church and State.
+[^354]: JW: Essays on Church and State.
 
 [^355]: Tillemont, pg. 671. Quoted by Lardner, Vol. III, pg. 273.
 
