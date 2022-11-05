@@ -5686,6 +5686,8 @@ Antioch."[^300]
 
 # 14. Minor Authorities.
 
+## Several Fathers.
+
 Among the celebrated fathers who have left no record of their views of
 human destiny, but who, from their positions, and the relations they
 sustained, must, beyond all rational doubt, have been Universalists, may
@@ -5749,8 +5751,8 @@ of which I was proud. I had but one passion, one philosophy, and the
 god-like man who directed me in the pursuit of it." He became bishop of
 Caesarea and was regarded as the incarnation of the orthodoxy of his
 times. Almost nothing of his writings has survived, but Rufinus, the
-apologist and defender of Origen, gives a passage, says **Allin**,
-showing that he taught the divine truth he learned from his master.
+apologist and defender of Origen, gives a passage, says Allin, showing
+that he taught the divine truth he learned from his master.
 
 ## Pamphilus.
 
@@ -5788,10 +5790,9 @@ Origen\'s manuscripts, with his own hands.
 Eusebius was probably born in Caesarea. He was a friend of Origen, and
 fellow-teacher with him in the Caesarean school, and published with
 Pamphilus a glowing defense of Origen in six books, of which five are
-lost. He also copied and edited many of his works. Dr. **Beecher**, in
-his *History of Future Retribution*, asserts the Universalism of
-Eusebius, though Dr. **Ballou**, in his *Ancient History* does not quote
-him.
+lost. He also copied and edited many of his works. Dr. Beecher, in his
+*History of Future Retribution*, asserts the Universalism of Eusebius,
+though Dr. Ballou, in his *Ancient History* does not quote him.
 
 On 1 Corinthians 15:28, Eusebius says: "If the subjection of the Son to
 the Father means union with him, then the subjection of all to the Son
@@ -5896,7 +5897,7 @@ their willful sins, are made subject to him, on the completion of the
 dispensation ordered for the salvation of all. God desires to destroy
 evil, therefore evil is (one) of those things liable to destruction. Now
 that which is of those things liable to destruction will be destroyed."
-He is said by **Basnage** to have held to universal salvation.
+He is said by Basnage to have held to universal salvation.
 
 These are samples of a large number of extracts that might be made from
 the most celebrated of the Alexandrine school, representing the type of
@@ -9760,31 +9761,31 @@ found below.
 
 [^300]: JW: Vol. II, pg. 676.
 
-[^301]: Eusebius, VI:26.
+[^301]: JW: Eusebius, VI:26.
 
-[^302]: Holy Eastern Church, I:84. Eusebius repeatedly speaks of him in
-    loftiest terms.
+[^302]: JW: Holy Eastern Church, I:84. Eusebius repeatedly speaks of him
+    in loftiest terms.
 
-[^303]: Routh, Rel. Sac., III, p. 498. Oxford ed., 1846.
+[^303]: JW: Routh, Rel. Sac., III, p. 498. Oxford ed., 1846.
 
-[^304]: De Eccl. Theol., Migne, Vol. XXIV, pp. 1030-33.
+[^304]: JW: De Eccl. Theol., Migne, Vol. XXIV, pp. 1030-33.
 
-[^305]: Sermon Major de fide. Migne, vol. XXVI, pp. 1263-1294.
+[^305]: JW: Sermon Major de fide. Migne, vol. XXVI, pp. 1263-1294.
 
 [^306]: De Spir. Sanct., Ch. 44.
 
 [^307]: See sketch of Jerome.
 
-[^308]: Neander, Hist. Christ. Dogmas, I, p. 265 (London, 1866), who
+[^308]: JW: Neander, Hist. Christ. Dogmas, I, p. 265 (London, 1866), who
     cites Nieder (Kirchengeschichte), for full description of the
     different theological schools.
 
-[^309]: Dictionary of Christian Biography, II, p. 150.
+[^309]: JW: Dictionary of Christian Biography, II, p. 150.
 
-[^310]: Epiph. Epist. ad Johan. Inter Hieron. Opp. IV, part. ii, in
+[^310]: JW: Epiph. Epist. ad Johan. Inter Hieron. Opp. IV, part. ii, in
     Ballou's Anc. Hist., p. 194.
 
-[^311]: De Resurr., VIII.
+[^311]: JW: De Resurr., VIII.
 
 [^312]: See pg. 212 in original.
 
