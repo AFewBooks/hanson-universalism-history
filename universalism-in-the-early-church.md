@@ -17,7 +17,7 @@ Copyright © 1899 Universalist Publishing House.
 
 Copyright © 2013, 2014, 2021, 2022 by David Mackey. All Rights Reserved.
 
-Version: 0.4.0 11/5/2022
+Version: 0.5.0 11/5/2022
 
 # Table of Contents
 
