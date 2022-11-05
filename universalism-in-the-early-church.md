@@ -7480,7 +7480,7 @@ Century. Even so learned and accurate a writer as our own Dr. Ballou,
 has fallen into this error, though his editor, the Rev. A. St. John
 Chambre, D. D., subsequently corrected the mistake in a brief note.
 
-AD 399 a council in Jerusalem condemned the Origenists, and all who held
+In 399 a council in Jerusalem condemned the Origenists, and all who held
 with them, that the Son was in any way subordinate to the Father. In 401
 a council in Alexandria anathematized the writings of Origen, presumably
 for the same reason as above. Certainly his views of human destiny were
@@ -7497,17 +7497,17 @@ and devils will at length be discharged from their torments, and
 re-established in their original state."[^399] He wrote to Mennas
 requiring him to frame a canon in these words:
 
-\'\'Whoever says or thinks that the torments of the demons and of
-impious men are temporal, so that they will at length come to an end, or
-whoever holds to a restoration either of the demons or of the impious,
-let him be anathema.\"
+"\'Whoever says or thinks that the torments of the demons and of impious
+men are temporal, so that they will at length come to an end, or whoever
+holds to a restoration either of the demons or of the impious, let him
+be anathema."
 
 It is conceded that the half-heathen emperor held to the idea of endless
 misery, for he proceeds not only to defend, but to define the
 doctrine.[^400] He does not merely say, "We believe in *aionion
 kolasin*;" for that was just what Origen himself taught. Nor does he say
-\"the word *aionion* has been misunderstood; it denotes endless
-duration,\" as he would have said, had there been such a disagreement.
+"the word *aionion* has been misunderstood; it denotes endless
+duration," as he would have said, had there been such a disagreement.
 But, writing in Greek, with all the words of that copious language from
 which to choose, he says: "The holy church of Christ teaches an endless
 *aeonian* (*ateleutetos aionios*) life to the righteous, and endless
@@ -7518,15 +7518,15 @@ late as the sixth century the former word did not signify endless
 duration.
 
 Justinian need only to have consulted his contemporary, Olympiodorus,
-who wrote on this very- subject, to vindicate his language. In his
-commentary on the Meteorologica of Aristotle,[^401] he says: \"Do not
+who wrote on this very subject, to vindicate his language. In his
+commentary on the *Meteorologica of Aristotle*,[^401] he says: "Do not
 suppose that the soul is punished for endless ages (Greek)[^402] in
 Tartarus. Very properly the soul is not punished to gratify the revenge
 of the divinity, but for the sake of healing. But we say that the soul
 is punished for an *aeonian* period, calling its life, and its allotted
-period of punishment, its *aeon*.\" It will be noticed that he not only
-denies endless punishment, and denies that the doctrine can be expressed
-by *aionios*, but declares that punishment is temporary and results in
+period of punishment, its *aeon*." It will be noticed that he not only
+denies endless punishment and denies that the doctrine can be expressed
+by *aionios* but declares that punishment is temporary and results in
 the sinner\'s improvement. Justinian not only concedes that *aionios*
 requires a word denoting endlessness to give it the sense of limitless
 duration, but he insists that the council shall frame a canon containing
@@ -7539,18 +7539,17 @@ appears in the canons enacted by the synodical council.
 The synod voted fifteen canons, not one of which condemns universal
 restoration.
 
-The first canon reads thus: \"If anyone asserts the fabulous
+The first canon reads thus: "If anyone asserts the fabulous
 pre-existence of souls, and the monstrous restitution which follows from
-it, let him be anathema.\" This condemnation, it will be readily seen,
-is not of universal salvation, but of a \'\'monstrous\" restitution
-based on the soul\'s pre-existence. That this view is correct appears
-from the fourteenth anathema: \"If anyone says that there will be a
-single unity of all rational beings, their substances and
-individualities being taken away together with their bodies, and also
-that there will be an identity of cognition as also of persons, and that
-in the fabulous restitution they will only be naked even as they had
-existed in that prae-existence which they insanely introduced, let him
-be anathema.\"
+it, let him be anathema." This condemnation, it will be readily seen, is
+not of universal salvation, but of a "monstrous" restitution based on
+the soul\'s pre-existence. That this view is correct appears from the
+fourteenth anathema: "If anyone says that there will be a single unity
+of all rational beings, their substances and individualities being taken
+away together with their bodies, and also that there will be an identity
+of cognition as also of persons, and that in the fabulous restitution
+they will only be naked even as they had existed in that prae-existence
+which they insanely introduced, let him be anathema."
 
 The reader will at once perceive that these canons do not describe any
 genuine form of our faith, but only a distorted caricature which no
@@ -7564,17 +7563,17 @@ favored. The theory here condemned is not that of universal salvation,
 but the "fabulous pre-existence of souls, and the monstrous restitution
 that results from it."
 
-The bishops, says Landon, declared that they adhered to the doctrines of
-Athanasius, Basil and the Gregories. The doctrine of Theodore on the
-Sonship of Christ was condemned, also the teachings of Theodoret.
-\"Origen was not condemned.\"[^403]
+The bishops, says **Landon**, declared that they adhered to the
+doctrines of Athanasius, Basil and the Gregories. The doctrine of
+Theodore on the Sonship of Christ was condemned, also the teachings of
+Theodoret. "Origen was not condemned."[^403]
 
 Even the influence of Justinian and his obsequious bishop, and his
 disreputable queen, failed to force the measure through. The action of
 this local Synod has been incorrectly ascribed to the Fifth Ecumenical
 Council, nine years later, which has also been inaccurately supposed to
 have condemned Universalism, when it merely reprehended some of the
-vagaries of \"Origenism \" --- doctrines that even Origen himself never
+vagaries of "Origenism" --- doctrines that even Origen himself never
 accepted, but that were falsely ascribed to him by ignorant or malicious
 opponents; doctrines that no more resemble universal restoration, as
 taught by the Alexandrine fathers, than they resemble Theosophy or
@@ -7585,7 +7584,7 @@ canons, it refused to obey the Emperor, and did not say one word against
 the doctrine the Emperor wished to anathematize. The local council came
 to no decision. Justinian had just arbitrarily condemned the writings of
 Theodore of Mopsuestia, and Theodoret, and a terrible controversy and
-division ensued, and Theodorus, of Cesaraea, declared that both himself
+division ensued, and Theodorus, of Caesarea, declared that both himself
 and Pelagius, who had sought the condemnation of Origen, ought to be
 burnt alive for their conduct.[^404]
 
@@ -7595,21 +7594,21 @@ insertion of his name is a forgery.
 
 Whether so or not, there is not a word referring to his views of human
 destiny. His name only appears among the names of the heretics, such as
-\" Arius, Eunomius, Macedonius, Apollinaris, Eutyches, Origen and other
+"Arius, Eunomius, Macedonius, Apollinaris, Eutyches, Origen and other
 impious men, and all other heretics who are condemned and anathematized
-by the Catholic and Apostolical Church, etc.\"[^405] The Fifth
-Ecumenical Council, which was held nine years later than the local,
-neither condemned Origen by name, nor anathematized his Universalism.
-The object of this council was to condemn certain Nestorian doctrines;
-and as Gregory of Nyssa, the most explicit of Universalists, is referred
-to with honor by the council, and as the denial of endless punishment by
+by the Catholic and Apostolical Church, etc."[^405] The Fifth Ecumenical
+Council, which was held nine years later than the local, neither
+condemned Origen by name, nor anathematized his Universalism. The object
+of this council was to condemn certain Nestorian doctrines; and as
+Gregory of Nyssa, the most explicit of Universalists, is referred to
+with honor by the council, and as the denial of endless punishment by
 Origen, and his advocacy of Universalism are not named, we cannot avoid
 the conviction that the council was controlled by those who held, or at
 least did not repudiate Universalism.
 
 Great confusion exists among the authorities on this subject. The local
-council has been confounded with the general. Hefele has disentangled
-the perplexities.
+council has been confounded with the general. **Hefele** has
+disentangled the perplexities.
 
 It was not even at that late day --- three centuries after his death ---
 the Universalism of Origen that caused the hatred of his opponents, but
@@ -7621,34 +7620,34 @@ Now, let the reader remember that for more than five hundred years,
 during which Universalism had prevailed, not a single treatise against
 it is known to have been written. And with the exception of Augustine,
 no opposition appears to have been aroused against it on the part of any
-eminent Christian writer. And not only so, but AD 381, at the first
+eminent Christian writer. And not only so, but in 381 AD, at the first
 great Ecumenical Council of Constantinople, the intellectual leader was
 Gregory of Nyssa, who was only second to Origen as an advocate of
 universal restoration. Thus his followers, not only, but his opponents
 on other points, accepted the great truth of the Gospel. As Dr. Beecher
-pointedly observes: \"It is also a striking fact that while Origen lies
+pointedly observes: "It is also a striking fact that while Origen lies
 under a load of odium as a heretic, Gregory of Nyssa, who taught the
 doctrine of the restoration of all things more fully even than Origen,
 has been canonized, and stands high on the roll of eminent saints, even
-in the orthodox Roman Catholic Church.\" Beecher\'s conclusion is,
-\"That the modern orthodox views as to the doctrine of eternal
-punishment, as opposed to final restoration, were not fully developed
-and established till the middle of the Sixth Century, and that then they
-were not established by thorough argument, but by imperial authority.\"
-But the fact is that they were not even then matured and established.
+in the orthodox Roman Catholic Church." Beecher\'s conclusion is, "That
+the modern orthodox views as to the doctrine of eternal punishment, as
+opposed to final restoration, were not fully developed and established
+till the middle of the Sixth Century, and that then they were not
+established by thorough argument, but by imperial authority." But the
+fact is that they were not even then matured and established.
 
-The learned Professor Plumptre says in the \"Dictionary of Christian
-Biography\": \"We have no evidence that the belief in the (Greek),[^407]
+The learned Professor Plumptre says in the *Dictionary of Christian
+Biography*: "We have no evidence that the belief in the (Greek),[^407]
 which prevailed in the fourth and fifth centuries was ever definitely
 condemned by any council of the Church, and so far as Origen was named
 as coming under the church\'s censure it was rather as if involved in
 the general sentence passed upon the leaders of Nestorianism, than
 singled out for special and characteristic errors. So the council of
-Constantinople, the so-called Fifth General Council, AD 553, condemns
+Constantinople, the so-called Fifth General Council, in 553, condemns
 Arius, Eunomius, Macedonius, Apollinarius, Nestorius, Eutyches and
 Origen in a lump, but does not specify the errors of the last-named, as
 though they differed in kind from theirs, and it is not till in the
-council of Constantinople, known as in Trullo (AD 696) that we find an
+council of Constantinople, known as in Trullo (696) that we find an
 anathema which specifies somewhat cloudily the guilt of Theodore of
 Mopsuestia, and Origen, and Didymus, and Evagrius, as consists in their
 'inventing a mythology after the manner of the Greeks, and inventing
@@ -7657,66 +7656,79 @@ drunken ravings as to the future life of the dead.' It deserves to be
 noted that this ambiguous anathema pronounced by a council of no
 authority, under the weak and vicious Emperor Justinian II, is the only
 approach to a condemnation of the eschatology of Origen which the annals
-of the church councils present.\"[^408]
+of the church councils present."[^408]
 
 ## Significant Facts and Conclusions. 
 
-Now let the reader recapitulate: (1) Origen during his lifetime was
-never opposed for his Universalism; (2) after his death Methodius, about
-AD 300, attacked his views of the resurrection, creation and
-pre-existence, but said not a word against his Universalism; (3) ten
-years later Pamphilus and Eusebius (AD 310) defended him against nine
-charges that had been brought against his views, but his Universalism
-was not among them; (4) in 330 Marcellus of Ancyra, a Universalist,
-opposed him for his views of the Trinity, and (5) Eustathius for his
-teachings concerning the Witch of Endor, but limited their arraignment
-to those items; (6) in 376 Epiphanius assailed his heresies, but he did
-not name Universalism as among them, and in 394 he condemned Origen\'s
-doctrine of the salvation of the Devil, but not of all mankind; (7) in
-399 and 401, his views of Christ\'s death to save the Devil were
-attacked by Epiphanius, Jerome and Theophilus, and his advocacy of the
-subordination of Christ to God was condemned, but not his teachings of
-man\'s universal salvation; and (8) it was not till 544 and again in 553
-that his enemies formulated attacks on that doctrine, and made a
-cat\'s-paw of a half-heathen Emperor, and even then, though the latter
-framed a canon for the synod, it was never adopted, and the council
-adjourned --- owing, it must have been, to the Universalistic sentiment
-in it --- without a word of condemnation of Origen\'s Universalism. With
-the exception of Augustine, the doctrine which had been constantly
-advocated, often by the most eminent, did not evoke a frown of
-opposition from any eminent scholar or saint.
+Now let the reader recapitulate:
+
+\(1\) Origen during his lifetime was never opposed for his Universalism;
+
+\(2\) after his death Methodius (about 300) attacked his views of the
+resurrection, creation and pre-existence, but said not a word against
+his Universalism;
+
+\(3\) ten years later Pamphilus and Eusebius (310) defended him against
+nine charges that had been brought against his views, but his
+Universalism was not among them;
+
+\(4\) in 330 Marcellus of Ancyra, a Universalist, opposed him for his
+views of the Trinity, and
+
+\(5\) Eustathius for his teachings concerning the Witch of Endor, but
+limited their arraignment to those items;
+
+\(6\) in 376 Epiphanius assailed his heresies, but he did not name
+Universalism as among them, and in 394 he condemned Origen\'s doctrine
+of the salvation of the Devil, but not of all mankind;
+
+\(7\) in 399 and 401, his views of Christ\'s death to save the Devil
+were attacked by Epiphanius, Jerome and Theophilus, and his advocacy of
+the subordination of Christ to God was condemned, but not his teachings
+of man\'s universal salvation; and
+
+\(8\) it was not till 544 and again in 553 that his enemies formulated
+attacks on that doctrine, and made a cat\'s-paw of a half-heathen
+Emperor, and even then, though the latter framed a canon for the synod,
+it was never adopted, and the council adjourned --- owing, it must have
+been, to the Universalistic sentiment in it --- without a word of
+condemnation of Origen\'s Universalism. With the exception of Augustine,
+the doctrine which had been constantly advocated, often by the most
+eminent, did not evoke a frown of opposition from any eminent scholar or
+saint.
 
 The character of these ancient synods and councils is well described by
-Gregory Nazianzen, AD 382, in a letter to Procopius: \"I am determined
-to avoid every assembly of bishops. I have never seen a single instance
-in which a synod did any good. Strife and ambition dominate them to an
-incredible degree. \* \* \* From councils and synods I will keep myself
-at a distance, for I have experienced that most of them, to speak with
-moderation, are not worth much. \* \* \* I will not sit in the seat of
-synods, while geese and cranes confused wrangle. Discord is there, and
-shameful things, hidden before, are gathered into one meeting place of
-rivals.\" Milman tells us: \"Nowhere is Christianity less attractive,
-and if we look to the ordinary tone and character of the proceedings,
-less authoritative than in the Councils of the Church. It is in general
-a fierce collision of rival factions, neither of which will yield, each
-of which is solemnly pledged against conviction. Intrigue, injustice,
+Gregory Nazianzen (382) in a letter to Procopius: "I am determined to
+avoid every assembly of bishops. I have never seen a single instance in
+which a synod did any good. Strife and ambition dominate them to an
+incredible degree.... From councils and synods I will keep myself at a
+distance, for I have experienced that most of them, to speak with
+moderation, are not worth much.... I will not sit in the seat of synods,
+while geese and cranes confused wrangle. Discord is there, and shameful
+things, hidden before, are gathered into one meeting place of rivals."
+
+Milman tells us: "Nowhere is Christianity less attractive, and if we
+look to the ordinary tone and character of the proceedings, less
+authoritative than in the Councils of the Church. It is in general a
+fierce collision of rival factions, neither of which will yield, each of
+which is solemnly pledged against conviction. Intrigue, injustice,
 violence, decisions on authority alone, and that the authority of a
 turbulent majority, decisions by wild acclamation rather than after
 sober enquiry, detract from the reverence, and impugn the judgments, at
 least of the later councils. The close is almost invariably a terrible
 anathema, in which it is impossible not to discern the tones of human
 hatred, of arrogant triumph, of rejoicing at the damnation imprecated
-against the humiliated adversary.\"[^409] Scenes of strife and even
+against the humiliated adversary."[^409] Scenes of strife and even
 murder in connection with ancient ecclesiastical councils were not
 uncommon.
 
 There is no evidence whatever to show that it was not entirely allowable
 for five hundred years after Christ, to entertain the belief in
-universal salvation. Besides, the Council of Nice, AD 325, had, as an
+universal salvation. Besides, the Council of Nice (325) had, as an
 active member, Eusebius, Origen\'s apologist, a pronounced Universalist;
-the Council of Constantinople, AD 381, had as active members the two
+the Council of Constantinople (381) had as active members the two
 Gregories, Nazianzus and Nyssa, the latter as outspoken a Universalist
-as Origen himself; the Council of Ephesus, AD 431, declared that Gregory
+as Origen himself; the Council of Ephesus (431) declared that Gregory
 Nyssen\'s writings were the great bulwark against heresy. The fact that
 the doctrine was and had been for centuries prevalent, if not the
 prevailing sentiment, demonstrates that it must have been regarded as a
@@ -7735,42 +7747,42 @@ tyrannical Emperor, who expressly demanded its condemnation.
 2.  But if the condemnation was actually adopted it was of "Origenism,"
     which was synonymous with other opinions.
 
-3.  \"Origenism\" could not have meant Universalism, for several of the
+3.  "Origenism" could not have meant Universalism, for several of the
     leaders of the council that condemned Origenism held to universal
     restitution.
 
 4.  Besides, the council eulogistically referred to the Gregories
     (Nazianzen and Nyssen) who were Universalists as explicit as was
     Origen. Manifestly, if the Council had meant Universalism by
-    \"Origenism,\" it would not have condemned as a deadly heresy in
+    "Origenism," it would not have condemned as a deadly heresy in
     Origen what Gregory of Nyssa advocated, and anathematized the one,
     and glorified the other.
 
 Justinian not only commanded the council to suppress Universalism, but
 he arbitrarily closed the schools in Athens, Alexandria and Antioch, and
 drove out of the great church centers that theological science that had
-been its glory. He had \"brought the whole empire under his sway and he
+been its glory. He had "brought the whole empire under his sway and he
 wished in like manner to settle finally the law and the dogmatics of the
-empire.\" To accomplish this evil work he found an aid in Rome, in a
-\"characterless Pope (*Vigilius*) who, in gratifying the emperor covered
-himself with disgrace, and jeopardized his position in the Occident.\"
+empire." To accomplish this evil work he found an aid in Rome, in a
+"characterless Pope (*Vigilius*) who, in gratifying the emperor covered
+himself with disgrace, and jeopardized his position in the Occident."
 But he succeeded in inaugurating measures that extinguished the broad
-faith of the greatest fathers of the church. \"Henceforth,\" says
-Harnack, \"there was no longer a theological science going back to first
-principles.\"[^410]
+faith of the greatest fathers of the church. "Henceforth," says Harnack,
+"there was no longer a theological science going back to first
+principles."[^410]
 
 The historians inform us that Justinian the great opponent of
 Universalism was positive, irritable, apt to change his views, and
 accessible to the flatteries and influences of those who surrounded him,
 yet withal, very opinionated in insisting upon any view he happened at
 the time to hold, and prepared to enforce compliance by the free
-employment of his despotic power,\" a \"temporal pope.\"[^411] The
-corrupt Bishop Theophilus, the vile Eudoxia and the equally
-disreputable, though beautiful, crafty and unscrupulous Theodora,
-exercised a malign influence on Justinian, the Emperor, and, thus was
-dictated the action of the council described above.
+employment of his despotic power, a "temporal pope."[^411] The corrupt
+Bishop Theophilus, the vile Eudoxia and the equally disreputable, though
+beautiful, crafty and unscrupulous Theodora, exercised a malign
+influence on Justinian, the Emperor, and, thus was dictated the action
+of the council described above.
 
-Milman declares: \"The Emperor Justinian unites in himself the most
+Milman declares: "The Emperor Justinian unites in himself the most
 opposite vices, --- insatiable rapacity and lavish prodigality, intense
 pride and contemptible weakness, unmeasured ambition and dastardly
 cowardice. He is the uxorious slave of his Empress, whom, after she had
@@ -7781,27 +7793,26 @@ he had made the partner of his throne. In the Christian Emperor seemed
 to meet the crimes of those who won or secured their empire by the
 assassination of all whom they feared, the passion for public diversions
 without the accomplishments of Nero, the brute strength of Commodus, or
-the dotage of Claudius.\" And he was the champion of endless punishment
+the dotage of Claudius." And he was the champion of endless punishment
 in the Sixth Century!
 
 Justinian is described as an ascetic, a scholastic, and a pedant,
-\"neither beloved in his life, nor regretted at his death.\"
+"neither beloved in his life, nor regretted at his death."
 
-The age of Justinian, says Lecky, that condemned Origen, is conceded to
-have been the vilest of the Christian centuries. The doctrine of a hell
-of literal fire and endless duration had begun to be an engine of
+The age of Justinian, says **Lecky**, that condemned Origen, is conceded
+to have been the vilest of the Christian centuries. The doctrine of a
+hell of literal fire and endless duration had begun to be an engine of
 tyranny in the hands of an unscrupulous priesthood, and a tyrannical
 emperor, and moral degradation had kept pace with the theological
-declination. \"The universal verdict of history is that it constitutes,
+declination. "The universal verdict of history is that it constitutes,
 without a single exception, the most thoroughly base and despicable form
-that civilization has yet assumed.\" Contrasted with the age of Origen
-it was as night to day. And the persons who were most active and
-prominent in the condemnation of the great Alexandrian were fit
-implements for the task. On this point the language of Farrar in *Mercy
-and Judgment* is accurate: "Every fresh study of the original
-authorities only leaves on my mind a deeper impression that even in the
-Fifth Century Universalism as regards mankind was regarded as a
-perfectly tenable opinion."
+that civilization has yet assumed." Contrasted with the age of Origen it
+was as night to day. And the persons who were most active and prominent
+in the condemnation of the great Alexandrian were fit implements for the
+task. On this point the language of Farrar in *Mercy and Judgment* is
+accurate: "Every fresh study of the original authorities only leaves on
+my mind a deeper impression that even in the Fifth Century Universalism
+as regards mankind was regarded as a perfectly tenable opinion."
 
 Thus the record of the times shows, and the testimony of the scholars
 who have made the subject a careful study concedes, that though there
@@ -7811,7 +7822,7 @@ of a single council upon it; even to the middle of the Sixth Century. So
 far as history shows the sublime fact which the great Alexandrians made
 prominent--- the
 
-> \"One divine event to which the whole creation moves,\"[^412]
+> "One divine event to which the whole creation moves,"[^412]
 
 had never been stigmatized by any considerable portion of the Christian
 church for at least its first half a millennium of years.
