@@ -6845,18 +6845,20 @@ champion of the truth.\" Tillemont unwillingly ad-mits that \"he seems
 to have followed the dangerous error ascribed to Origen, that the pains
 of the damned, and even those of the demons themselves, will not be
 eternal.\"[^355] Certainly Titus\'s own language justifies this
-excellent suspicion. He says: \"Thus the mystery was completed by the
-Savior in order that, perfection being completed through all things, and
-in all things, by Christ, all universally shall be made one through
-Christ and in Christ.\" He says again: "The very abyss of torment is
-indeed the place of chastisement, but it is not eternal (*aionion*) nor
-did it exist in the original constitution of nature. It was afterwards,
-as a remedy for sinners, that it might cure them. And the punishments
-are holy, as they are remedial and salutary in their effect on
-transgressors; for they are inflicted, not to preserve them in their
-wickedness, but to make them cease from their wickedness. The anguish of
-their suffering compels them to break off their vices.... If death were
-an evil, blame would rightfully fall on him who appointed it."[^356]
+excellent suspicion.
+
+He says: \"Thus the mystery was completed by the Savior in order that,
+perfection being completed through all things, and in all things, by
+Christ, all universally shall be made one through Christ and in
+Christ.\" He says again: "The very abyss of torment is indeed the place
+of chastisement, but it is not eternal (*aionion*) nor did it exist in
+the original constitution of nature. It was afterwards, as a remedy for
+sinners, that it might cure them. And the punishments are holy, as they
+are remedial and salutary in their effect on transgressors; for they are
+inflicted, not to preserve them in their wickedness, but to make them
+cease from their wickedness. The anguish of their suffering compels them
+to break off their vices.... If death were an evil, blame would
+rightfully fall on him who appointed it."[^356]
 
 ## Ambrose of Milan. 
 
@@ -6949,7 +6951,7 @@ Marius Victorinus, AD 360, was born in Africa, and was a famous
 rhetorician, whose writings abound with expressions of the faith of
 Universalism. On I Cor. 15:28, he says: \"All things shall be rendered
 spiritual at the consummation of the world. At the consummation all
-things shall be one.[^368]... Therefore all things converted to him
+things shall be one....[^368] Therefore all things converted to him
 shall become one, i. e., spiritual; through the Son all things shall be
 made one, for all things are by him, for all things that exist are one,
 though they be different. For the body of the entire universe is not
@@ -7076,6 +7078,8 @@ and sin has no longer any place, God will be all in all.[^371] For the
 Lord, who loves man, punishes medicinally, that he may check the course
 of impiety.\"
 
+### Works of Theodoret.
+
 Gregory the Great says that the Roman church refused to acknowledge
 Theodoret\'s History because he praised Theodore of Mopsuestia, and
 insisted that he was a great doctor in the church. Theodoret says that
@@ -7160,7 +7164,7 @@ works have perished, and we have only a few quotations from them,
 contained in the works of others. But we have enough to qualify him to
 occupy an honorable place among the Universalists of the Fourth Century.
 
-Even Dr. **Pusey** is compelled to admit the Universalism of Diodore of
+Even Dr. Pusey is compelled to admit the Universalism of Diodore of
 Tarsus, and Theodore of Mopsuestia. He says, quoting from Salomo of
 Bassora, 1222, some eight hundred years after their death: "The two
 writers use different arguments and have different theories. Theodorus
@@ -9952,62 +9956,62 @@ found below.
 
 [^354]: JW: Essays on Church and State.
 
-[^355]: Tillemont, pg. 671. Quoted by Lardner, Vol. III, pg. 273.
+[^355]: JW: Tillemont, pg. 671. Quoted by Lardner, Vol. III, pg. 273.
 
-[^356]: Migne, Vol. XVIII, pg. 1118. Observe here that aionios is used
-    in the sense of endless; also that the word rendered "abyss" is the
-    world translated "bottomless pit" in Revelation.
+[^356]: JW: Migne, Vol. XVIII, pg. 1118. Observe here that aionios is
+    used in the sense of endless; also that the word rendered "abyss" is
+    the world translated "bottomless pit" in Revelation.
 
-[^357]: On Psalm 37.
+[^357]: JW: On Psalm 37.
 
-[^358]: Epis. Lib. 1.
+[^358]: JW: Epis. Lib. 1.
 
-[^359]: De Fide.
+[^359]: JW: De Fide.
 
-[^360]: On Psalm 62.
+[^360]: JW: On Psalm 62.
 
-[^361]: On Luke 15:3.
+[^361]: JW: On Luke 15:3.
 
-[^362]: Blessing of Death, Chapter 7.
+[^362]: JW: Blessing of Death, Chapter 7.
 
-[^363]: Conf. vi, 3, Ep. xivii, 1.
+[^363]: JW: Conf. vi, 3, Ep. xivii, 1.
 
-[^364]: Farrar: Lives of the Fathers, II, p. 144. DM: It may be
+[^364]: JW: Farrar: Lives of the Fathers, II, p. 144. DM: It may be
     worthwhile investigating if Ambrose included in this or any of his
     writings a consideration of suicide, as it would seem that he is
     indicating it would be better to kill oneself than to live in a life
     of sin?
 
-[^365]: Ideo Dives ille in Evangelio, licet peccator, poenalibus
+[^365]: JW: Ideo Dives ille in Evangelio, licet peccator, poenalibus
     torquetur aerumnis, ut citicus possit evader.
 
-[^366]: Adv. Man., Ch. iv.
+[^366]: JW: Adv. Man., Ch. iv.
 
-[^367]: Not. et Frag., xix.
+[^367]: JW: Not. et Frag., xix.
 
-[^368]: Adv. Arium, lib. I:25, Migne, viii, p. 1059.
+[^368]: JW: Adv. Arium, lib. I:25, Migne, viii, p. 1059.
 
-[^369]: De Trin. lib. IX.
+[^369]: JW: De Trin. lib. IX.
 
-[^370]: Hist. Christ Ch., ii:628. Hist. Christ. Dogmas, ii:877.
+[^370]: JW: Hist. Christ Ch., ii:628. Hist. Christ. Dogmas, ii:877.
 
-[^371]: Migne, lxxxii, pg. 360.
+[^371]: JW: Migne, lxxxii, pg. 360.
 
-[^372]: Homilia. Pasch. xx. Migne, lxxvii.
+[^372]: JW: Homilia. Pasch. xx. Migne, lxxvii.
 
-[^373]: Glaph. in Ex., lib. II.
+[^373]: JW: Glaph. in Ex., lib. II.
 
-[^374]: Origen. II, p. 160.
+[^374]: JW: Origen. II, p. 160.
 
-[^375]: Anc. Hist. Univ., pg. 265.
+[^375]: JW: Anc. Hist. Univ., pg. 265.
 
-[^376]: Assemani Bib. Orientalis, III, pg. 324.
+[^376]: JW: Assemani Bib. Orientalis, III, pg. 324.
 
-[^377]: Robertson's Hist. Christ. Ch. I, pg. 455.
+[^377]: JW: Robertson's Hist. Christ. Ch. I, pg. 455.
 
-[^378]: What is of Faith, pg. 231.
+[^378]: JW: What is of Faith, pg. 231.
 
-[^379]: Assemani Bibl. Orient., II, pg. 291.
+[^379]: JW: Assemani Bibl. Orient., II, pg. 291.
 
 [^380]: Hipp. and His Age.
 
