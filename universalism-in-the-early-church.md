@@ -178,7 +178,27 @@ Copyright © 2013, 2014, 2021 by David Mackey. All Rights Reserved.
 
 [14. Minor Authorities. [116](#minor-authorities.)](#minor-authorities.)
 
+[Firmilian. [116](#firmilian.)](#firmilian.)
+
+[Dionysius. [116](#dionysius.)](#dionysius.)
+
+[Theognostus and Pierius.
+[116](#theognostus-and-pierius.)](#theognostus-and-pierius.)
+
+[Gregory Thaumaturgus.
+[116](#gregory-thaumaturgus.)](#gregory-thaumaturgus.)
+
+[Pamphilus. [117](#pamphilus.)](#pamphilus.)
+
+[Eusebius. [117](#eusebius.)](#eusebius.)
+
+[Athanasius. [118](#athanasius.)](#athanasius.)
+
+[Didymus. [119](#didymus.)](#didymus.)
+
 [Epiphanius. [120](#epiphanius.)](#epiphanius.)
+
+[Methodius [121](#methodius)](#methodius)
 
 [15. Gregory Nazianzen. [122](#gregory-nazianzen.)](#gregory-nazianzen.)
 
@@ -238,7 +258,7 @@ Copyright © 2013, 2014, 2021 by David Mackey. All Rights Reserved.
 [Later Additional Authorities.
 [145](#later-additional-authorities.)](#later-additional-authorities.)
 
-[Macarius. [145](#macarius.)](#macarius.)
+[Macarius. [146](#macarius.)](#macarius.)
 
 [Peter Chrysologus. [146](#peter-chrysologus.)](#peter-chrysologus.)
 
@@ -253,65 +273,65 @@ Copyright © 2013, 2014, 2021 by David Mackey. All Rights Reserved.
 
 [Jerome. [148](#jerome.)](#jerome.)
 
-[John Chrysostom. [150](#john-chrysostom.)](#john-chrysostom.)
+[John Chrysostom. [151](#john-chrysostom.)](#john-chrysostom.)
 
 [20. Augustine (Deterioration Continues).
 [153](#augustine-deterioration-continues.)](#augustine-deterioration-continues.)
 
 [21. Unsuccessful Attempts to Suppress Universalism.
-[158](#unsuccessful-attempts-to-suppress-universalism.)](#unsuccessful-attempts-to-suppress-universalism.)
+[159](#unsuccessful-attempts-to-suppress-universalism.)](#unsuccessful-attempts-to-suppress-universalism.)
 
 [Significant Facts and Conclusions.
-[161](#significant-facts-and-conclusions.)](#significant-facts-and-conclusions.)
+[162](#significant-facts-and-conclusions.)](#significant-facts-and-conclusions.)
 
 [22. The Eclipse of Universalism.
-[165](#the-eclipse-of-universalism.)](#the-eclipse-of-universalism.)
+[166](#the-eclipse-of-universalism.)](#the-eclipse-of-universalism.)
 
 [23. Summary of Conclusions.
-[169](#summary-of-conclusions.)](#summary-of-conclusions.)
+[170](#summary-of-conclusions.)](#summary-of-conclusions.)
 
 [Appendix A. Biographies of Those Referenced in This Work
-[173](#appendix-a.-biographies-of-those-referenced-in-this-work)](#appendix-a.-biographies-of-those-referenced-in-this-work)
+[174](#appendix-a.-biographies-of-those-referenced-in-this-work)](#appendix-a.-biographies-of-those-referenced-in-this-work)
 
-[Augustine [173](#augustine)](#augustine)
+[Augustine [174](#augustine)](#augustine)
 
-[Ballou, Hosea [173](#ballou-hosea)](#ballou-hosea)
+[Ballou, Hosea [174](#ballou-hosea)](#ballou-hosea)
 
-[Beecher, Edward [173](#beecher-edward)](#beecher-edward)
+[Beecher, Edward [174](#beecher-edward)](#beecher-edward)
 
 [Bryennios, Philotheos
-[173](#bryennios-philotheos)](#bryennios-philotheos)
+[174](#bryennios-philotheos)](#bryennios-philotheos)
 
-[Cantwell, J.S. [173](#cantwell-j.s.)](#cantwell-j.s.)
+[Cantwell, J.S. [174](#cantwell-j.s.)](#cantwell-j.s.)
 
-[Chambre, A. St. John [173](#chambre-a.-st.-john)](#chambre-a.-st.-john)
+[Chambre, A. St. John [174](#chambre-a.-st.-john)](#chambre-a.-st.-john)
 
-[Chrysostom, John [174](#chrysostom-john)](#chrysostom-john)
+[Chrysostom, John [175](#chrysostom-john)](#chrysostom-john)
 
-[Farrar, Frederick W. [174](#farrar-frederick-w.)](#farrar-frederick-w.)
+[Farrar, Frederick W. [175](#farrar-frederick-w.)](#farrar-frederick-w.)
 
-[Hagenbach, Karl [174](#hagenbach-karl)](#hagenbach-karl)
+[Hagenbach, Karl [175](#hagenbach-karl)](#hagenbach-karl)
 
 [Hitchcock, Roswell D.
-[174](#hitchcock-roswell-d.)](#hitchcock-roswell-d.)
+[175](#hitchcock-roswell-d.)](#hitchcock-roswell-d.)
 
-[Von Mosheim, Lorenz [174](#von-mosheim-lorenz)](#von-mosheim-lorenz)
+[Von Mosheim, Lorenz [175](#von-mosheim-lorenz)](#von-mosheim-lorenz)
 
 [Sawyer, Thomas Jefferson
-[174](#sawyer-thomas-jefferson)](#sawyer-thomas-jefferson)
+[175](#sawyer-thomas-jefferson)](#sawyer-thomas-jefferson)
 
 [Thayer, Thomas Baldwin
-[175](#thayer-thomas-baldwin)](#thayer-thomas-baldwin)
+[176](#thayer-thomas-baldwin)](#thayer-thomas-baldwin)
 
 [Appendix B. Individuals Referenced in This Work.
-[176](#appendix-b.-individuals-referenced-in-this-work.)](#appendix-b.-individuals-referenced-in-this-work.)
+[177](#appendix-b.-individuals-referenced-in-this-work.)](#appendix-b.-individuals-referenced-in-this-work.)
 
 [Appendix C. Works Referenced Herein.
-[178](#appendix-c.-works-referenced-herein.)](#appendix-c.-works-referenced-herein.)
+[179](#appendix-c.-works-referenced-herein.)](#appendix-c.-works-referenced-herein.)
 
-[Bibliography [179](#bibliography)](#bibliography)
+[Bibliography [180](#bibliography)](#bibliography)
 
-[What Has Changed? [180](#what-has-changed)](#what-has-changed)
+[What Has Changed? [181](#what-has-changed)](#what-has-changed)
 
 # Dedication.
 
@@ -786,11 +806,11 @@ This last clause was not in the original Nicene Creed but was added in
 the Constantinopolitan. The literal rendering of the Greek is "the life
 of the age about to come."[^37]
 
-The first Christians, it will be seen, said in their creeds, \"I believe
-in the *aeonian* life;\" later, they modified the phrase \"*aeonian*
-life,\" to \"the life of the coming *aeon*,\" showing that the phrases
-are equivalent. But not a word of endless punishment. \"The life of the
-age to come\" was the first Christian creed, and later, Origen himself
+The first Christians, it will be seen, said in their creeds, "I believe
+in the *aeonian* life;" later, they modified the phrase "*aeonian*
+life," to "the life of the coming *aeon*," showing that the phrases are
+equivalent. But not a word of endless punishment. \"The life of the age
+to come\" was the first Christian creed, and later, Origen himself
 declares his belief in *aeonian* punishment, and in *aeonian* life
 beyond. How, then, could *aeonian* punishment have been regarded as
 endless?
@@ -1179,13 +1199,24 @@ up to the beginning of the seventeenth century, a horrible place. The
 first Christians regarded the grave as the doorway into a better world
 and expressed only hope and trust in their emblems and inscriptions.
 
-Following are additional specimen epitaphs: \"Irene in Pace.\" \"Here
-lies Marcia put to rest in a dream of peace.\" \"Victoria sleeps;\"[^84]
-\"Zoticus laid here to sleep;\"[^85] \"Snatched home eternally.\"[^86]
-\"In Christ; Alexander is not dead but lives beyond the stars, and his
-body rests in this tomb.\" Contrast these with the tone of heathen
-funeral inscriptions. In general the pagan epitaphs were like that which
-Sophocles expresses in the *Oedipis*, at Colomus:
+Following are additional specimen epitaphs:
+
+"Irene in Pace."
+
+"Here lies Marcia put to rest in a dream of peace."
+
+"Victoria sleeps;"[^84]
+
+"Zoticus laid here to sleep;"[^85]
+
+"Snatched home eternally."[^86]
+
+"In Christ; Alexander is not dead but lives beyond the stars, and his
+body rests in this tomb."
+
+Contrast these with the tone of heathen funeral inscriptions. In general
+the pagan epitaphs were like that which Sophocles expresses in the
+*Oedipis*, at Colomus:
 
 > \"Happiest beyond compare\
 > Never to taste of life;\
@@ -1220,7 +1251,7 @@ taste.... In all the pictures and scriptures of our Lord\'s history no
 reference is ever found to his sufferings or death. No gloomy subjects
 occur in the cycle of Christian art.\"[^89]
 
-**Chrysostom** says: \"For this cause, too, the place itself is called a
+Chrysostom says: \"For this cause, too, the place itself is called a
 cemetery; that you may know that the dead laid there are not dead, but
 at rest and asleep. For before the coming of Christ death used to be
 called death, and not only so, but Hades, but after his coming and dying
@@ -1260,8 +1291,8 @@ death\'s heads of the eighteenth. Instead of these the symbols of
 beauty, hope and peace.\"[^93]
 
 From 70 AD, the date of the fall of Jerusalem, to about 150 AD, there is
-very little Christian literature. It is only with **Justin Martyr**, who
-was executed in 166 AD, that there is any considerable literature of the
+very little Christian literature. It is only with Justin Martyr, who was
+executed in 166 AD, that there is any considerable literature of the
 church. The fathers before Justin are \"shadows, formless phantoms,
 whose writings are uncertain and only partly genuine." Speaking of the
 scarcity of literature pertaining to those times and the changes
@@ -2141,7 +2172,7 @@ growing belief in purgatory.[^152]
 
 ## Important Thoughts. 
 
-Let the reader reflect
+Let the reader reflect:
 
 \(1\) that the Primitive Christians so distrusted the effect of the
 truth on the popular mind that they withheld it, and only cherished it
@@ -8016,7 +8047,7 @@ its blessings to the world. Possibly the question of destiny was an open
 one, till Paganism and Judaism introduced erroneous ideas, when the New
 Testament doctrine of the *apokatastasis* was asserted, and universal
 restoration became the accepted belief, as stated later by Clement and
-Origen, AD 180-230.
+Origen (180-230).
 
 \(2\) The Catacombs give us the views of the unlearned, as Clement and
 Origen state the doctrine of scholars and teachers. Not a syllable is
@@ -8024,10 +8055,10 @@ found hinting at the horrors of Augustinianism, but the inscription on
 every monument harmonizes with the Universalism of the early fathers.
 
 \(3\) Clement declares that all punishment, however severe, is
-purificatory; that even the \"torments of the damned\" are curative.
+purificatory; that even the "torments of the damned" are curative.
 Origen explains even Gehenna as signifying limited and curative
 punishment, and both, as all the other ancient Universalists, declare
-that \"everlasting\" (*aionion*) punishment, is consonant with universal
+that "everlasting" (*aionion*) punishment, is consonant with universal
 salvation. So that it is no proof that other primitive Christians who
 are less explicit as to the final result, taught endless punishment when
 they employ the same terms.
@@ -8055,11 +8086,11 @@ that many who seem to teach endless punishment, really held the broader
 views, as we know most did, and preached terrors pedagogically.
 
 \(8\) The first comparatively complete systematic statement of Christian
-doctrine ever given to the world was by Clement of Alexandria, AD 180,
-and universal salvation was one of the tenets.
+doctrine ever given to the world was by Clement of Alexandria (180) and
+universal salvation was one of the tenets.
 
 \(9\) The first complete presentation of Christianity as a system was by
-Origen (AD 220) and universal salvation was explicitly contained in it.
+Origen (220) and universal salvation was explicitly contained in it.
 
 \(10\) Universal salvation was the prevailing doctrine in Christendom as
 long as Greek, the language of the New Testament, was the language of
@@ -8081,8 +8112,8 @@ the greatest of the fathers.
 \(14\) Not a single creed for five hundred years expresses any idea
 contrary to universal restoration, or in favor of endless punishment.
 
-\(15\) With the exception of the arguments of Augustine (AD 420), there
-is not an argument known to have been framed against Universalism for at
+\(15\) With the exception of the arguments of Augustine (420), there is
+not an argument known to have been framed against Universalism for at
 least four hundred years after Christ, by any of the ancient fathers.
 
 \(16\) While the councils that assembled in various parts of
@@ -8091,8 +8122,8 @@ heretical, no ecumenical council, for more than five hundred years,
 condemned Universalism, though it had been advocated in every century by
 the principal scholars and most revered saints.
 
-\(17\) As late as AD 400, Jerome says \"most people\" (*plerique*) and
-Augustine \"very many\" (*quam plurimi*), believed in Universalism,
+\(17\) As late as 400, Jerome says "most people" (*plerique*) and
+Augustine "very many" (*quam plurimi*), believed in Universalism,
 notwithstanding that the tremendous influence of Augustine, and the
 mighty power of the semi-pagan secular arm were arrayed against it.
 
@@ -8117,7 +8148,7 @@ the Latins?
 
 \(22\) The Greek Fathers announced the great truth of universal
 restoration in an age of darkness, sin, and corruption. There was
-nothing to suggest it to them in the world\'s literature or religion. It
+nothing to suggest it to them in the world's literature or religion. It
 was wholly contrary to everything around them. Where else could they
 have found it, but where they say they did, in the Gospel?[^420]
 
@@ -8126,30 +8157,29 @@ scholars agree to the prevalence of Universalism in the earlier
 centuries.
 
 \(24\) From the days of Clement of Alexandria to those of Gregory of
-Nyssa and Theodore of Mopsuestia (AD 180-428), the great theologians and
+Nyssa and Theodore of Mopsuestia (180-428), the great theologians and
 teachers, almost without exception, were Universalists. No equal number
 in the same centuries were comparable to them for learning and goodness.
 
 \(25\) The first theological school in Christendom, that in Alexandria,
 taught Universalism for more than two hundred years.
 
-\(26\) In all Christendom, from AD 170 to 430, there were six Christian
+\(26\) In all Christendom, from 170 to 430, there were six Christian
 schools. Of these four, the only strictly theological schools, taught
 Universalism, and but one endless punishment.
 
 \(27\) The three earliest Gnostic sects, the Basilidians, the
-Carpocratians and the Valentinians (AD 117-132) are condemned by
-Christian writers, and their heresies pointed out, but though they
-taught Universalism, that doctrine is never condemned by those who
-oppose them. Irenaeus condemned the errors of the Carpocratians, but
-does not reprehend their Universalism, though he ascribes the doctrine
-to them.
+Carpocratians and the Valentinians (117-132) are condemned by Christian
+writers, and their heresies pointed out, but though they taught
+Universalism, that doctrine is never condemned by those who oppose them.
+Irenaeus condemned the errors of the Carpocratians, but does not
+reprehend their Universalism, though he ascribes the doctrine to them.
 
-\(28\) The first defense of Christianity against Infidelity (Origen
-against Celsus) puts the defense on Universalistic grounds. Celsus
-charged the Christians\' God with cruelty because he punished with fire.
-Origen replied that God\'s fire is curative; that he is a \"Consuming
-Fire,\" because he consumes sin and not the sinner.
+\(28\) The first defense of Christianity against Infidelity (Origen's
+*Against Celsus*) puts the defense on Universalistic grounds. Celsus
+charged the Christians' God with cruelty because he punished with fire.
+Origen replied that God's fire is curative; that he is a "Consuming
+Fire," because he consumes sin and not the sinner.
 
 \(29\) Origen, the chief representative of Universalism in the ancient
 centuries, was bitterly opposed and condemned for various heresies by
@@ -8160,19 +8190,19 @@ Gregory of Nyssa, who was as explicitly a Universalist as was Origen.
 Lists of his errors are given by Methodius, Pamphilus and Eusebius,
 Marcellus, Eustathius and Jerome, but Universalism is not named by one
 of his opponents. Fancy a list of Ballou\'s errors and his Universalism
-omitted; Hippolytus (AD 320) names thirty-two known heresies, but
-Universalism is not mentioned as among them. Epiphanius, \"the hammer of
-heretics,\" describes eighty heresies, but he does not mention universal
+omitted; Hippolytus (320) names thirty-two known heresies, but
+Universalism is not mentioned as among them. Epiphanius, "the hammer of
+heretics," describes eighty heresies, but he does not mention universal
 salvation, though Gregory of Nyssa, an outspoken Universalist, was, at
-the time he wrote, the most conspicuous figure in Christendom
+the time he wrote, the most conspicuous figure in Christendom.
 
 \(30\) Justinian, a half-pagan emperor, who attempted to have
 Universalism officially condemned, lived in the most corrupt epoch of
 the Christian centuries. He closed the theological schools and demanded
 the condemnation of Universalism by law; but the doctrine was so
 prevalent in the church that the council refused to obey his edict to
-suppress it. Lecky says the age of Justinian was \"the worst form
-civilization has assumed.\"
+suppress it. Lecky says the age of Justinian was "the worst form
+civilization has assumed."
 
 \(31\) The first clear and definite statement of human destiny by any
 Christian writer after the days of the Apostles, includes universal
@@ -8988,7 +9018,7 @@ work. For Hanson's references see Appendix C above.
 [^138]: Dean Mansell's Gnostic Heresies of the First and Second
     Centuries. Introduction, p. 10.
 
-[^139]: Neoplatonism, by C. Bigg, D.D., London: 1895, p. 339.
+[^139]: C. Bigg, D.D. Neoplatonism. London: 1895, p. 339.
 
 [^140]: An excellent resume of the opinions of the fathers on Christ's
     descent into Hades, and preaching the gospel to the dead, is
@@ -9237,8 +9267,8 @@ work. For Hanson's references see Appendix C above.
 
 [^232]: Uhlhorn (B. II, c. ii) says that in Celsus's attack "Every
     argument is to be found which has been brought against Christianity
-    up to the present day." "The True Word of Celsus \* \* \* is to be
-    found almost entire in the treatise which Origen wrote in reply."
+    up to the present day." "The True Word of Celsus ... is to be found
+    almost entire in the treatise which Origen wrote in reply."
     Neoplatonism, by C. Bigg D. D.
 
 [^233]: See original pg. 142 for Greek.
