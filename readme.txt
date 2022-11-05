@@ -1,3 +1,5 @@
+- 11/5/22 - Major review throughout. Some unpublished changes.
+	- Stopped at chp 3.
 - 10/23/22 - Review Apostle's Creed
 - 2/12/20 - Review Twelve Apostle
 	- Add pandoc config
