@@ -1411,8 +1411,8 @@ punishment, from the terms afterward used by those who taught universal
 salvation and annihilation, and so gave to the terms in question the
 sense of unlimited duration.
 
-For example, the Pharisees, according to **Josephus**, regarded the
-penalty of sin as torment without end, and they stated the doctrine in
+For example, the Pharisees, according to Josephus, regarded the penalty
+of sin as torment without end, and they stated the doctrine in
 unambiguous terms. They called it *eirgmos aidios* (eternal
 imprisonment) and *timorion adialeipton* (endless torment), while our
 Lord called the punishment of sin *aionion kolasin* (age-long
@@ -1420,19 +1420,19 @@ chastisement).
 
 ## Meaning of Scriptural Terms. 
 
-The language of **Josephus** is used by the profane Greeks but is never
-found in the New Testament connected with punishment. **Josephus**,
-writing in Greek to Jews, frequently employs the word that our Lord used
-to define the duration of punishment (*aionios*), but he applies it to
+The language of Josephus is used by the profane Greeks but is never
+found in the New Testament connected with punishment. Josephus, writing
+in Greek to Jews, frequently employs the word that our Lord used to
+define the duration of punishment (*aionios*), but he applies it to
 things that had ended or that will end.[^103] Can it be doubted that our
 Lord placed his ban on the doctrine that the Jews had derived from the
 heathen by never using their terms describing it, and that he taught a
 limited punishment by employing words to define it that only meant
-limited duration in contemporaneous literature? **Josephus** used the
-word *aionios* with its current meaning of limited duration. He applies
-it to the imprisonment of John the Tyrant; to Herod\'s reputation; to
-the glory acquired by soldiers; to the fame of an army as a \"happy life
-and *aionian* glory.\" He used the words as do the Scriptures to denote
+limited duration in contemporaneous literature? Josephus used the word
+*aionios* with its current meaning of limited duration. He applies it to
+the imprisonment of John the Tyrant; to Herod\'s reputation; to the
+glory acquired by soldiers; to the fame of an army as a \"happy life and
+*aionian* glory.\" He used the words as do the Scriptures to denote
 limited duration, but when he would describe endless duration he uses
 different terms. Of the doctrine of the Pharisees he says:
 
@@ -1446,7 +1446,9 @@ adialeipton*), where they suffer a deathless torment\" (*athanaton
 timorion*). *Aidion* and *Athanaton* are his favorite terms for
 duration, and *timoria* (torment) for punishment.
 
-**Philo**, who was contemporary with Christ, generally used *aidion* to
+## Philo's Use of the Words.
+
+Philo, who was contemporary with Christ, generally used *aidion* to
 denote endless, and *aionion* temporary duration. He uses the exact
 phraseology of Matthew 25:46, precisely as Christ used it: \"It is
 better not to promise than not to give prompt assistance, for no blame
@@ -1454,30 +1456,29 @@ follows in the former case, but in the latter there is dissatisfaction
 from the weaker class, and a deep hatred and *aeonian* punishment
 (chastisement) from such as are more powerful.\" Here we have the
 precise terms employed by our Lord, which show that *aionion* did not
-mean endless but did mean limited duration in the time of Christ.
-**Philo** adopts *athanaton*, *ateleuteton* or *aidion* to denote
-endless, and *aionion* temporary duration. In one place occurs this
-sentence concerning the wicked: \"to live always dying, and to undergo,
-as it were, an immortal and interminable death.\"[^104] **Stephens**, in
-his valuable \"Thesaurus,\" quotes from a Jewish work: \"These they
-called *aionios*, hearing that they had performed the sacred rites for
-three entire generations.\"[^105] This shows conclusively that the
-expression \"three generations\" was then one full equivalent of
-*aionion*. Now, these eminent scholars were Jews who wrote in Greek, and
-who certainly knew the meaning of the words they employed, and they give
-to the *aeonian* words the sense of indefinite duration, to be
-determined in any case by the scope of the subject. Had our Lord
-intended to inculcate the doctrine of the Pharisees, he would have used
-the terms by which they described it. But his word defining the duration
-of punishment was *aionion*, while their words are *aidion*,
-*adialeipton*, and *athanaton.* Instead of saying with **Philo** and
-**Josephus**, *thanaton athanaton*, deathless or immortal death;
-*eirgmon aidion*, eternal imprisonment; *aidion timorion*, eternal
-torment; and *thanaton ateleuteton*, interminable death, he used
-*aionion kolasin*, an adjective in universal use for limited duration,
-and a noun denoting suffering issuing in amendment. The word by which
-our Lord describes punishment is the word *kolasin*, which is thus
-defined:
+mean endless but did mean limited duration in the time of Christ. Philo
+adopts *athanaton*, *ateleuteton* or *aidion* to denote endless, and
+*aionion* temporary duration. In one place occurs this sentence
+concerning the wicked: \"to live always dying, and to undergo, as it
+were, an immortal and interminable death.\"[^104] Stephens, in his
+valuable \"Thesaurus,\" quotes from a Jewish work: \"These they called
+*aionios*, hearing that they had performed the sacred rites for three
+entire generations.\"[^105] This shows conclusively that the expression
+\"three generations\" was then one full equivalent of *aionion*. Now,
+these eminent scholars were Jews who wrote in Greek, and who certainly
+knew the meaning of the words they employed, and they give to the
+*aeonian* words the sense of indefinite duration, to be determined in
+any case by the scope of the subject. Had our Lord intended to inculcate
+the doctrine of the Pharisees, he would have used the terms by which
+they described it. But his word defining the duration of punishment was
+*aionion*, while their words are *aidion*, *adialeipton*, and
+*athanaton.* Instead of saying with Philo and Josephus, *thanaton
+athanaton*, deathless or immortal death; *eirgmon aidion*, eternal
+imprisonment; *aidion timorion*, eternal torment; and *thanaton
+ateleuteton*, interminable death, he used *aionion kolasin*, an
+adjective in universal use for limited duration, and a noun denoting
+suffering issuing in amendment. The word by which our Lord describes
+punishment is the word *kolasin*, which is thus defined:
 
 "Chastisement, punishment.\"
 
@@ -1497,30 +1498,34 @@ the word for punishment? The Latin *poena* or *punio*, to punish, the
 root *pu* in Sanskrit, which means to cleanse, to purify, tells us that
 the Latin derivation was originally formed, not to express mere striking
 or torture, but cleansing, correcting, delivering from the stain of
-sin.\"[^106] That it had this meaning in Greek usage, see Plato: \"For
-the natural or accidental evils of others no one gets angry, or
-admonishes, or teaches, or punishes (*kolazei*) them, but we pity those
-afflicted with such misfortune...for if, O Socrates, if you will
-consider what is the design of punishing (*kolazein*) the wicked, this
-of itself will show you that men think virtue something that may be
-acquired; for no one punishes (*kolazei*) the wicked, looking to the
-past only simply for the wrong he has done --- that is, no one does this
-thing who does not act like a wild beast; desiring only revenge, without
-thought. Hence, he who seeks to punish (*kolazein*) with reason does not
-punish for the sake of the past wrong deed...but for the sake of the
-future, that neither the man himself who is punished may do wrong again,
-nor any other who has seen him chastised. And he who entertains this
-thought must believe that virtue may be taught, and he punishes
-(*kolazei*) for the purpose of deterring from wickedness?\"[^107]
+sin.\"[^106]
+
+That it had this meaning in Greek usage, see Plato: \"For the natural or
+accidental evils of others no one gets angry, or admonishes, or teaches,
+or punishes (*kolazei*) them, but we pity those afflicted with such
+misfortune...for if, O Socrates, if you will consider what is the design
+of punishing (*kolazein*) the wicked, this of itself will show you that
+men think virtue something that may be acquired; for no one punishes
+(*kolazei*) the wicked, looking to the past only simply for the wrong he
+has done --- that is, no one does this thing who does not act like a
+wild beast; desiring only revenge, without thought. Hence, he who seeks
+to punish (*kolazein*) with reason does not punish for the sake of the
+past wrong deed...but for the sake of the future, that neither the man
+himself who is punished may do wrong again, nor any other who has seen
+him chastised. And he who entertains this thought must believe that
+virtue may be taught, and he punishes (*kolazei*) for the purpose of
+deterring from wickedness?\"[^107]
+
+## Use of Gehenna.
 
 So of the place of punishment (*Gehenna*) the Jews at the time of Christ
 never understood it to denote endless punishment. The reader of
-**Farrar**\'s *Mercy and Judgment*, *and Eternal Hope*, and
-**Windet**\'s *De Vita functorum statu*, will find any number of
-statements from the Talmudic and other Jewish authorities, affirming in
-the most explicit language that *Gehenna* was understood by the people
-to whom our Lord addressed the word as a place or condition of temporary
-duration. They employed such terms as these:
+Farrar\'s *Mercy and Judgment*, *and Eternal Hope*, and Windet\'s *De
+Vita functorum statu*, will find any number of statements from the
+Talmudic and other Jewish authorities, affirming in the most explicit
+language that *Gehenna* was understood by the people to whom our Lord
+addressed the word as a place or condition of temporary duration. They
+employed such terms as these:
 
 \"The wicked shall be judged in *Gehenna* until the righteous say
 concerning them, \'We have seen enough.\'\"[^108]
@@ -1533,21 +1538,21 @@ concerning them, \'We have seen enough.\'\"[^108]
 
 These quotations might be multiplied indefinitely to demonstrate that
 the Jews to whom our Lord spoke regarded *Gehenna* as of limited
-duration, as did the Christian Fathers. **Origen** in his reply to
-Celsus (VI, xxv) gives an exposition of *Gehenna,* explaining its usage
-in his day. He says it is an analogue of the well-known valley of the
-Son of Hinnom, and signifies the fire of purification. Now observe:
-Christ carefully avoided the words in which his auditors expressed
-endless punishment (*aidios, timoria* and *adialeiptos*), and used terms
-they did not use with that meaning (*aionios kolasis*), and employed the
-term which by universal consent among the Jews has no such meaning
+duration, as did the Christian Fathers. Origen in his reply to Celsus
+(VI, xxv) gives an exposition of *Gehenna,* explaining its usage in his
+day. He says it is an analogue of the well-known valley of the Son of
+Hinnom, and signifies the fire of purification. Now observe: Christ
+carefully avoided the words in which his auditors expressed endless
+punishment (*aidios, timoria* and *adialeiptos*), and used terms they
+did not use with that meaning (*aionios kolasis*), and employed the term
+which by universal consent among the Jews has no such meaning
 (*Gehenna*); and as his immediate followers and the earliest of the
 Fathers pursued exactly the same course, is it not demonstrated that
 they intended to be understood as he was understood?[^110]
 
-Professor **Plumptre** in a letter concerning Canon **Farrar**\'s
-sermons, says: \"There were two words which the Evangelists might have
-used --- *kolasis, timoria*. Of these, the first carries with it, by the
+Professor Plumptre in a letter concerning Canon Farrar\'s sermons, says:
+\"There were two words which the Evangelists might have used ---
+*kolasis, timoria*. Of these, the first carries with it, by the
 definition of the greatest of Greek ethical writers, the idea of a
 reformatory process, (Aristotle, Rhet. I, X, 10-17). It is inflicted
 \'for the sake of him who suffers it.\' The second, on the other hand,
@@ -1562,7 +1567,7 @@ authors, and that those outside of the Bible who taught unending torment
 always employed other words than those used by our Lord and his
 disciples.
 
-Professor **Allen** concedes that the great prominence given to
+Professor Allen concedes that the great prominence given to
 \"hell-fire\" in Christian preaching is a modern innovation. He says:
 \"There is more \'blood-theology\' and \'hell-fire,\' that is, the vivid
 setting forth of everlasting torment to terrify the soul, in one sermon
@@ -1573,6 +1578,8 @@ position of this period (middle ages) is surprisingly merciful and
 mild.\"[^111]
 
 ## Whence Came the Doctrine? 
+
+## Of Heathen Origin.
 
 When we ask the question: Where did those in the primitive Christian
 church who taught endless punishment find it, if not in the Bible? ---
@@ -1586,7 +1593,7 @@ we are met by these facts: ---
 3.  The Pagan and Jewish religions, the latter corrupted by heathen
     accretions, taught it.[^112]
 
-**Westcott** tells us: \"The written Gospel of the first period of the
+Westcott tells us: \"The written Gospel of the first period of the
 apostolic age was the Old Testament, interpreted by the vivid
 recollection of the Savior\'s ministry.... The knowledge of the
 teachings of Christ...to the close of the Second Century, were generally
@@ -1629,6 +1636,8 @@ sufficient, but that each system possessed a portion of the perfect
 truth. \"The prevailing tone of mind was eclectic,\" and Christianity
 did not escape the influence.
 
+## The Apocryphal Book of Enoch.
+
 More than a century before the birth of Christ[^118] appeared the
 apocryphal *Book of Enoch*, which contains, so far as is known, the
 earliest statement extant of the doctrine of endless punishment in any
@@ -1641,9 +1650,9 @@ others. Jude quotes from it in verses 14 and 15, and refers to it in
 verse 6, on which account some of the fathers considered Jude
 apocryphal; but it is probable that Jude quotes Enoch as Paul quotes the
 heathen poets, not to endorse its doctrine, but to illustrate a point,
-as writers nowadays quote fables and legends. **Cave**, in the *Lives of
-the Fathers*, attributes the prevalence of the doctrine of fallen angels
-to a perversion of the account (Gen. 6:1-4) of \"the sons of God and the
+as writers nowadays quote fables and legends. Cave, in the *Lives of the
+Fathers*, attributes the prevalence of the doctrine of fallen angels to
+a perversion of the account (Gen. 6:1-4) of \"the sons of God and the
 daughters of men.\" He refers the prevalence of the doctrine to \"the
 authority of the \'Book of Enoch,\' (highly valued by many in those
 days) wherein this story is related, as appears from the fragments of it
@@ -1657,7 +1666,7 @@ the subject, that the corrupt traditions of the Pharisees, of which our
 Lord warned his disciples to beware,[^119] \"were obtained in part from
 these books, or from the Egyptian and Pagan sources whence they were
 derived. At any rate, though the Old Testament does not contain the
-doctrine,[^120] **Josephus**, as has been seen, assures us that the
+doctrine,[^120] Josephus, as has been seen, assures us that the
 Pharisees of his time accepted and taught it. Of course they must have
 obtained the doctrine from uninspired sources. As these and possibly
 other similar books had already corrupted the faith of the Jews, they
@@ -1666,8 +1675,10 @@ early Christians. Nothing is better established in history than that the
 doctrine of endless punishment, as held by the Christian church in
 mediaeval times, was of Egyptian origin,[^121] and that for purposes of
 state it and its accessories were adopted by the Greeks and Romans.
-**Montesquieu** states that "Romulus, Tatius and Numa enslaved the gods
-to politics,\" and made religion for the state.
+Montesquieu states that "Romulus, Tatius and Numa enslaved the gods to
+politics,\" and made religion for the state.
+
+## Catholic Hell Copied from Heathen Sources.
 
 Classic scholars know that the heathen hell was early copied by the
 Catholic Church, and that almost its entire details afterwards entered
@@ -1677,32 +1688,32 @@ writers on the opinions of the ancients. And not only this, but the
 heathen writers declare that the doctrine was invented to awe and
 control the multitude.
 
-**Polybius** writes: "Since the multitude is ever fickle...there is no
-other way to keep them in order but by fear of the invisible world; on
-which account our ancestors seem to me to have acted judiciously when
-they contrived to bring into the popular belief these notions of the
-gods and of the infernal regions.\"
+Polybius writes: "Since the multitude is ever fickle...there is no other
+way to keep them in order but by fear of the invisible world; on which
+account our ancestors seem to me to have acted judiciously when they
+contrived to bring into the popular belief these notions of the gods and
+of the infernal regions.\"
 
-**Seneca** says: \"Those things which make the infernal regions
-terrible, the darkness, the prison, the river of flaming fire, the
-judgment seat, etc., are all a fable.\"
+Seneca says: \"Those things which make the infernal regions terrible,
+the darkness, the prison, the river of flaming fire, the judgment seat,
+etc., are all a fable.\"
 
-**Livy** declares that Numa invented the doctrine, "a most efficacious
-means of governing an ignorant and barbarous populace."
+Livy declares that Numa invented the doctrine, "a most efficacious means
+of governing an ignorant and barbarous populace."
 
-**Strabo** writes: "The multitude are restrained from vice by the
+Strabo writes: "The multitude are restrained from vice by the
 punishments the gods are said to inflict upon offenders...for it is
 impossible to govern the crowd of women and all the common rabble by
 philosophical reasoning: these things the legislators used as
-scare-crows to terrify the childish multitude.\"
+scare-crows to terrify the childish multitude."
 
 Similar language is found in Dionysius Halicarnassus, Plato, and other
 writers. History records nothing more distinctly than that the Greek and
 Roman Pagans borrowed of the Egyptians, and that some of the early
 Christians unconsciously absorbed, or studiously appropriated, the
 doctrines of the Egyptians, Greeks and Romans concerning post-mortem
-punishment, and gradually corrupted the \"simplicity that is in
-Christ\"[^123] by the inventions of antiquity, as from the same sources
+punishment, and gradually corrupted the "simplicity that is in
+Christ"[^123] by the inventions of antiquity, as from the same sources
 the Jews at the time of Christ had already corrupted their
 religion.[^124] What more natural than that the small reservoir of
 Christian truth should be contaminated by the opinions that converts
@@ -1710,8 +1721,8 @@ from all these sources brought with them into their new religion at
 first, and later that the Roman Catholic priests and Pagan legislators
 should seize them as engines of power by which to control the world?
 
-**Coquerel** describes the effect of the irruption of Pagans into the
-early Christian church: \"The, at first, gradual entrance and soon rapid
+Coquerel describes the effect of the irruption of Pagans into the early
+Christian church: \"The, at first, gradual entrance and soon rapid
 irruption of an idolatrous multitude into the bosom of Christianity was
 not effected without detriment to the truth. The Christianity of Jesus
 was too lofty, too pure, for this multitude escaped from the degrading
@@ -1719,32 +1730,34 @@ cults of Olympus. The Pagans were not able to enter *en masse* into the
 church without bringing to it their habits, their tastes, and some of
 their ideas.\"[^125]
 
-**Milman** and **Neander** think[^126] that old Jewish prejudices could
-not be extirpated in the proselytes of the infant church, and that
-latent Judaism lurked in it and was continued into the darker ages.
+Milman and Neander think[^126] that old Jewish prejudices could not be
+extirpated in the proselytes of the infant church, and that latent
+Judaism lurked in it and was continued into the darker ages.
 
-**Chrysostom** complains that the Christians of his time (the Fourth
+Chrysostom complains that the Christians of his time (the Fourth
 Century) were \"half Jews.\"
 
-**Enfield**[^127] declares that converts from the schools of Pagan
+Enfield[^127] declares that converts from the schools of Pagan
 philosophy interwove their old errors with the simple truths of
 Christianity until "heathen and Christian doctrines were still more
 intimately blended...and both were almost entirely lost in the thick
-clouds of ignorance and barbarism which covered the earth....The fathers
-of the church departed from the simplicity of the apostolic church and
-corrupted the purity of the Christian faith.\"
+clouds of ignorance and barbarism which covered the earth.... The
+fathers of the church departed from the simplicity of the apostolic
+church and corrupted the purity of the Christian faith.\"
 
-**Hagenbach** reminds us that[^128] \"There were two errors which the
+Hagenbach reminds us that[^128] \"There were two errors which the
 newborn Christianity had to guard against if it was not to lose its
-peculiar religious features, and disappear in one of the already
-existing religions: against a relapse into Judaism on the one side, and
-against a mixture with Paganism and speculations borrowed from it, and a
+peculiar religious features and disappear in one of the already existing
+religions: against a relapse into Judaism on the one side, and against a
+mixture with Paganism and speculations borrowed from it, and a
 mythologizing tendency on the other.\"
 
-*The Sibylline Oracles*, advocating universal restoration; **Philo**,
-who taught annihilation, and *Enoch* and *Ezra*, who taught endless
+*The Sibylline Oracles*, advocating universal restoration; Philo, who
+taught annihilation, and *Enoch* and *Ezra*, who taught endless
 punishment, were all read by the early Christians, and no doubt exerted
 an influence in forming early opinions.
+
+## Early Christianity Adulterated.
 
 The Edinburgh Review concedes that \"upon a full inspection it will be
 seen that the corruption of Christianity was itself the effect of that
@@ -1753,29 +1766,29 @@ were the great and primary cause.\" \"That the Christian religion
 suffered much from the influence of the Gentile philosophy is
 unquestionable.\"[^129]
 
-Dr. **Middleton**, in a famous \"Letter from Rome,\" shows that from the
+Dr. Middleton, in a famous \"Letter from Rome,\" shows that from the
 pantheon down heathen temples, shrines and altars were taken by the
 early church, and so used that Pagans could employ them as well as
 Christians and retain their old superstitions and errors while
 professing Christianity. In other words, that much of Paganism, after
 the First Century or two, remained in and corrupted Christianity.
 
-**Mosheim** writes that \"no one objected (in the Fifth Century) to
-Christians retaining the opinions of their Pagan ancestors;\" and
-**Tytler** describes the confusion that resulted from the mixture of
-Pagan philosophy with the plain and simple doctrines of the Christian
+Mosheim writes that \"no one objected (in the Fifth Century) to
+Christians retaining the opinions of their Pagan ancestors;\" and Tytler
+describes the confusion that resulted from the mixture of Pagan
+philosophy with the plain and simple doctrines of the Christian
 religion, from which the church in its infant state \"suffered in a most
 essential manner.\"
 
-**T. B. Thayer**,[^130] thinks that the faith of the early Christian
-church "of the orthodox party was one-half Christian, one-quarter
-Jewish, and one-quarter Pagan; while that of the gnostic party was about
-one-quarter Christian and three-quarters philosophical Paganism.\" The
-purpose of many of the fathers seems to have been to bridge the abyss
-between Paganism and Christianity, and, for the sake of proselytes, to
-tolerate Pagan doctrine.
+T. B. Thayer,[^130] thinks that the faith of the early Christian church
+"of the orthodox party was one-half Christian, one-quarter Jewish, and
+one-quarter Pagan; while that of the gnostic party was about one-quarter
+Christian and three-quarters philosophical Paganism.\" The purpose of
+many of the fathers seems to have been to bridge the abyss between
+Paganism and Christianity, and, for the sake of proselytes, to tolerate
+Pagan doctrine.
 
-Says **Merivale**: In the Fifth Century, \"Paganism was assimilated, not
+Says Merivale: In the Fifth Century, \"Paganism was assimilated, not
 extirpated, and Christendom has suffered from it more or less ever
 since....The church...was content to make terms with what survived of
 Paganism, content to lose even more than it gained in an unholy alliance
@@ -1786,7 +1799,7 @@ own baptized members of the highest and purest of their spiritual
 acquisitions.\"[^131]
 
 It is difficult to learn just how much surrounding influences affected
-ancient or modem Christians, for, as **Schaff** says:[^132] \"The
+ancient or modem Christians, for, as Schaff says:[^132] \"The
 theological views of the Greek Fathers were modified to a considerable
 extent by Platonism; those of the mediaeval schoolmen, by the logic and
 dialectics of Aristotle; those of the later times by the system of
@@ -1795,6 +1808,8 @@ Schelling, and Hegel. Few scientific divines can absolutely emancipate
 themselves from the influence of the philosophy and public opinion of
 their age, and when they do they have commonly their own philosophy,
 etc.\"
+
+## Original Greek New Testament.
 
 That the Old Testament does not teach even post-mortem punishment is
 universally conceded by scholars, as has been seen; and that the
@@ -9111,30 +9126,31 @@ found below.
     upon the representation of Christ crucified. The crucifix dates only
     from the end of the Seventh Century." -- Athanase Coquerel.
 
-[^103]: JW: See my "Aion-Aionios," pp. 109-14; also Josephus, *Antiq.*
+[^103]: JW: See my *Aion-Aionios*, pp. 109-14; also Josephus, *Antiq.*
     and *Jewish Wars.*
 
-[^104]: See pg. 38 for original Greek. "De Praemiis" and "Poenis" Tom.
-    II, pp. 19-20. Mangey's edition. Dollinger quoted by Beecher. Philo
-    was learned in Greek philosophy, and especially reverence Plato. His
-    use of Greek is of the highest authority.
+[^104]: JW: ζῆν ἀποθνἡσκοντα ἀεὶ καὶ τρότον τινα θάνατον αθάνατον
+    ὡπομείνων καὶ ὰτελεὺτητον *De Praemiis* and *Poenis* Tom. II, pp.
+    19-20. Mangey's edition. Dollinger quoted by Beecher. Philo was
+    learned in Greek philosophy, and especially reverence Plato. His use
+    of Greek is of the highest authority.
 
-[^105]: "Solom. Parab."
+[^105]: JW: "Solom. Parab."
 
-[^106]: Donnegan, Grotius, Liddell, Max Muller, Beecher, Hist. Doc. Fut.
-    Ret. Pp. 73-75.
+[^106]: JW: Donnegan, Grotius, Liddell, Max Muller, Beecher, Hist. Doc.
+    Fut. Ret. Pp. 73-75.
 
 [^107]: JW: This important passage may be found more fully quoted in
     "Aion-Aionios."
 
-[^108]: JW: Targum of Jonathan on Isaiah 16:24. See also "Aion-Aionios"
-    and "Bible Hell."
+[^108]: JW: Targum of Jonathan on Isaiah 16:24. See also *Aion-Aionios*
+    and *Bible Hell*.
 
 [^109]: JW: Ibid.
 
 [^110]: JW: Farrar's *Mercy and Judgment*, pp. 380-381, where quotations
     are given from the Fourth Century, asserting that punishment must be
-    limited because an aionion correction (*aionion kolasin*), as in
+    limited because an *aionion* correction (*aionion kolasin*), as in
     Matt. 25:46, must be terminable.
 
 [^111]: JW: *Christian Hist. in its Three Great Periods*, pp. 257-8.
@@ -9150,54 +9166,55 @@ found below.
     that many of them, the Pharisees especially, no longer held the
     simple doctrines of Moses.
 
-[^115]: 2 Corinthians 5:19.
+[^115]: DM: 2 Corinthians 5:19.
 
-[^116]: Third Century, "Neoplatonism," C. Bigg, D.D., London: 1895, p.
-    160.
+[^116]: JW: Third Century, "Neoplatonism," C. Bigg, D.D., London: 1895,
+    p. 160.
 
-[^117]: Robertson's History of the Christian Church, vol. 1, pp. 38-39.
+[^117]: JW: Robertson's History of the Christian Church, vol. 1, pp.
+    38-39.
 
-[^118]: The Book of Enoch, translated from the Ethiopian, with
+[^118]: JW: The Book of Enoch, translated from the Ethiopian, with
     Introduction and Notes. By Rev. George H. Schodde.
 
-[^119]: Mark 7:13; Matthew 16:6, 12; Luke 12:1; Mark 8:15.
+[^119]: JW: Mark 7:13; Matthew 16:6, 12; Luke 12:1; Mark 8:15.
 
-[^120]: Milman Hist. Jews; Warburton's Divine Legation; Jahn,
+[^120]: JW: Milman Hist. Jews; Warburton's Divine Legation; Jahn,
     Archaeology.
 
-[^121]: Warburton. Leland's Necessity of Divine Revelation.
+[^121]: JW: Warburton. Leland's Necessity of Divine Revelation.
 
-[^122]: Virgil's Aeneid. Apollodorus, Hesiod, Herodotus, Plutarch,
+[^122]: JW: Virgil's Aeneid. Apollodorus, Hesiod, Herodotus, Plutarch,
     Diodorus, Siculus, etc.
 
-[^123]: 2 Corinthians 11:3.
+[^123]: JW: 2 Corinthians 11:3.
 
-[^124]: Milman's Gibbon, Murdock's Mosheim, Enfield's Hist. Philos.,
+[^124]: JW: Milman's Gibbon, Murdock's Mosheim, Enfield's Hist. Philos.,
     Universalist Expositor, 1853.
 
-[^125]: Coquerel's First Historical Transformations of Christianity.
+[^125]: JW: Coquerel's First Historical Transformations of Christianity.
 
-[^126]: See Conybeare's *Paul*, Vol I, Chapters 14, 15.
+[^126]: JW: See Conybeare's *Paul*, Vol I, Chapters 14, 15.
 
-[^127]: See also Priestley's *Corruptions of Christianity*.
+[^127]: JW: See also Priestley's *Corruptions of Christianity*.
 
-[^128]: Hist. Doct. I Sec. 22.
+[^128]: JW: Hist. Doct. I Sec. 22.
 
-[^129]: Vaughan's *Causes of the Corruption of Christianity*; also
+[^129]: JW: Vaughan's *Causes of the Corruption of Christianity*; also
     Casaubon and Blunt's *Vestiges*.
 
-[^130]: Hist. Doct. Endless Punishment, pp. 192-193.
+[^130]: JW: Hist. Doct. Endless Punishment, pp. 192-193.
 
-[^131]: Early Church History, pp. 159-160.
+[^131]: JW: Early Church History, pp. 159-160.
 
 [^132]: Hist. Apos. Ch. p. 23.
 
-[^133]: This probably refers to the Love Feast, a common meal at which
-    communion was taken.
+[^133]: DM: This probably refers to the Love Feast, a common meal at
+    which communion was taken.
 
-[^134]: Int. p. xxxi.
+[^134]: JW: Int. p. xxxi.
 
-[^135]: Universalist Quarterly, January, 1883.
+[^135]: DM: Universalist Quarterly, January, 1883.
 
 [^136]: Christian History in Three Great Periods, pp. 257, 58.
 
