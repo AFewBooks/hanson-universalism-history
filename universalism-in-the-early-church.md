@@ -5221,6 +5221,8 @@ great man in the church who did not love him a little.\"[^277]
 Bunsen remarks: \"Origen\'s death is the real end of free Christianity,
 and in particular, of free intellectual theology.\"[^278]
 
+## The Tribute of Scholars.
+
 The learned author of \"The Martyrs and Apologists\" truthfully
 observes: \"Origen never swerved from this Christian magnanimity, and he
 remains the model of the theologian persecuted by haughty bigotry.
@@ -5277,6 +5279,8 @@ but unapproachable by all the centuries --- I, for one, will never
 mention the name of Origen without the love, and the admiration, and the
 reverence due to one of the greatest and one of the best of the saints
 of God.\"
+
+## A Catholic Eulogy.
 
 Even modern Catholics --- in spite of the ban of pope and council ---
 join the great army of Origen\'s eulogists. Says the *Catholic World*:
@@ -5351,23 +5355,25 @@ If any man since the death of Paul should rank as the patron saint of
 the Universalist church, it is the greatest and best of all the ancient
 fathers, Origen Adamantius.
 
-Note. --- It has been asserted that Origen did not actually teach the
-ultimate salvation of all souls, because he insisted that the human will
-is eternally free, and therefore it is argued that he must have held
-that souls may repent and be saved, and sin and fall forever. But this
-is not true, for Origen taught that at some period in the future, love
-and holiness will be so absorbed by all souls that, though,
-theoretically, they will be free, they will so will that lapse will be
-impossible. Jerome, Justinian, Dr. **Pond**, and others are explicitly
-confuted by the great scholar and saint. In his comments on Romans 6:9,
-10, he says: \"The apostle decides, by an absolute decision, that now
-Christ dies no more, in order that those who live together with him may
-be secure of the endlessness of their life.... Free-will indeed remains,
-but the power of the cross suffices for all orders, and all ages, past
-and to come. And that free-will will not lead to sin, is plain, because
-love never fails, and when God is loved with all the heart, and soul,
-and mind, and strength, and our neighbor as ourselves, where is the
-place for sin?\"
+## Note.
+
+It has been asserted that Origen did not actually teach the ultimate
+salvation of all souls, because he insisted that the human will is
+eternally free, and therefore it is argued that he must have held that
+souls may repent and be saved, and sin and fall forever. But this is not
+true, for Origen taught that at some period in the future, love and
+holiness will be so absorbed by all souls that, though, theoretically,
+they will be free, they will so will that lapse will be impossible.
+Jerome, Justinian, Dr. **Pond**, and others are explicitly confuted by
+the great scholar and saint. In his comments on Romans 6:9, 10, he says:
+\"The apostle decides, by an absolute decision, that now Christ dies no
+more, in order that those who live together with him may be secure of
+the endlessness of their life.... Free-will indeed remains, but the
+power of the cross suffices for all orders, and all ages, past and to
+come. And that free-will will not lead to sin, is plain, because love
+never fails, and when God is loved with all the heart, and soul, and
+mind, and strength, and our neighbor as ourselves, where is the place
+for sin?\"
 
 In his great work *De Principiis*, he declares: \"The nature of this
 body of ours will be changed into the glory of a spiritual body, in
@@ -9690,21 +9696,22 @@ found below.
     all rational creatures has been recommended by very many of the
     greatest thinkers of the ancient church and of modern times."
 
-[^276]: Mosheim, Hist. Com. In Christ, before Constantine, ii, p. 149.
+[^276]: JW: Mosheim, Hist. Com. In Christ, before Constantine, ii, p.
+    149.
 
-[^277]: Christ. Plat. Of Alex., p. 308.
+[^277]: JW: Christ. Plat. Of Alex., p. 308.
 
-[^278]: Hipp. and his Age, pp. 285, 286.
+[^278]: JW: Hipp. and his Age, pp. 285, 286.
 
-[^279]: Bunsen, pp. 326-327.
+[^279]: JW: Bunsen, pp. 326-327.
 
-[^280]: Essays, pp. 236-252.
+[^280]: JW: Essays, pp. 236-252.
 
-[^281]: Cred. Gos. Hist., Vol. II, pg. 488.
+[^281]: JW: Cred. Gos. Hist., Vol. II, pg. 488.
 
-[^282]: April, 1874.
+[^282]: JW: April, 1874.
 
-[^283]: Theos. Or Psych. Rel. Lect. XIII.
+[^283]: JW: Theos. Or Psych. Rel. Lect. XIII.
 
 [^284]: Wordsworth's St. Hippolytus and the Church of Rome, pg. 144.
 
