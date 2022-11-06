@@ -649,7 +649,7 @@ Version: 0.4.0 11/5/2022
 [179](#christianitys-eclipse.)](#christianitys-eclipse.)
 
 [The Caricatures of Dante and Angelo.
-[179](#the-caricatures-of-dante-and-angelo.)](#the-caricatures-of-dante-and-angelo.)
+[179](#the-caricatures-of-dante-and-michelangelo.)](#the-caricatures-of-dante-and-michelangelo.)
 
 [Re-birth of Universalism.
 [180](#re-birth-of-universalism.)](#re-birth-of-universalism.)
@@ -8588,28 +8588,29 @@ they became dogmatists ... they lost the knowledge of God, of
 righteousness, and love, and peace. That Divine Logos, and theology as a
 whole receded farther and farther aloft into abysmal heights, as it
 became a mere dreary system of dead scientific terms, having no
-practical bearing on their hearts and lives." In a word, their
-abandonment of the principles of Clement and his school, left the field
-open to the more practical, direct and methodical, though degraded and
-corrupt theories of Augustine and his associates. This process continued
-till toward the middle of the Seventh Century, when, as Kingsley
-observes: "In the year 640, the Alexandrians who were tearing each other
-in pieces about some Jacobite and Melchite controversy, to me
-incomprehensible \... in the midst of these Jacobite and Melchite
-controversies and riots, appeared before the city the armies of certain
-wild and unlettered Arab tribes. A short and fruitless struggle
-followed; and strange to say, a few months swept away from the face of
-the earth, not only the wealth, the commerce, the castles, and the
-liberty, but the philosophy and the Christianity of Alexandria; crushed
-to powder, by one fearful blow, all that had been built up by Alexander
-and the Ptolemies, by Clement and the philosophers, and made void, to
-all appearance, nine hundred years of human toil. The people, having no
-real hold on their hereditary creed, accepted, by tens of thousands,
-that of the Mussulman invaders. The Christian remnant became
+practical bearing on their hearts and lives."
+
+In a word, their abandonment of the principles of Clement and his
+school, left the field open to the more practical, direct and
+methodical, though degraded and corrupt theories of Augustine and his
+associates. This process continued till toward the middle of the Seventh
+Century, when, as Kingsley observes: "In the year 640, the Alexandrians
+who were tearing each other in pieces about some Jacobite and Melchite
+controversy, to me incomprehensible \... in the midst of these Jacobite
+and Melchite controversies and riots, appeared before the city the
+armies of certain wild and unlettered Arab tribes. A short and fruitless
+struggle followed; and strange to say, a few months swept away from the
+face of the earth, not only the wealth, the commerce, the castles, and
+the liberty, but the philosophy and the Christianity of Alexandria;
+crushed to powder, by one fearful blow, all that had been built up by
+Alexander and the Ptolemies, by Clement and the philosophers, and made
+void, to all appearance, nine hundred years of human toil. The people,
+having no real hold on their hereditary creed, accepted, by tens of
+thousands, that of the Mussulman invaders. The Christian remnant became
 tributaries, and Alexandria dwindled from that time forth into a petty
 seaport town.\"[^421]
 
-The *Universalist Quarterly*, January, 1878, attributes the decline and
+The *Universalist Quarterly* (January, 1878) attributes the decline and
 disappearance of Universalism to an entire absence of polemic on the
 part of its advocates; and to regarding the doctrine as esoteric,
 instead of for all; in other words, the undemocratic methods of those
@@ -8632,66 +8633,71 @@ heaven and of hell. Perhaps the darkest hour of the night of ages was
 just before the dawn of the Reformation. The prevalent Christian thought
 was represented in literature and art, and its best exponents of the
 sentiment of a thousand years are the works of the great artist,
-**Michael Angelo**, and of the equally great poet, **Dante**. They agree
-in spirit, and black and white, darkness and light, truth and falsehood
-are not more antipodal than is the theology of Dante and Angelo
+Michelangelo,[^423] and of the equally great poet, Dante. They agree in
+spirit, and black and white, darkness and light, truth and falsehood are
+not more antipodal than is the theology of Dante and Michelangelo[^424]
 contrasted with the cheerful simplicity, the divine purity of the
-primitive Christian faith. "That was a dark night that fell upon
-Christianity when its thought became Latinized. When Christianity came
-to be interpreted by the prosaic, unspiritual legal mind of Rome, the
-Gospel went into a fearful eclipse. When the Greek thought of Christ
-gave way to the Latin a night came upon the Christian world that has
-extended to the present day. Then were born all those half-views,
-distorted views, and false views of Christian doctrine and Christian
-life that have perverted the Gospel, puzzled the human intellect and
-grieved the human heart through all the long centuries from that day to
-this."[^423]
+primitive Christian faith.
 
-## The Caricatures of Dante and Angelo.
+"That was a dark night that fell upon Christianity when its thought
+became Latinized. When Christianity came to be interpreted by the
+prosaic, unspiritual legal mind of Rome, the Gospel went into a fearful
+eclipse. When the Greek thought of Christ gave way to the Latin a night
+came upon the Christian world that has extended to the present day. Then
+were born all those half-views, distorted views, and false views of
+Christian doctrine and Christian life that have perverted the Gospel,
+puzzled the human intellect and grieved the human heart through all the
+long centuries from that day to this."[^425]
+
+## The Caricatures of Dante and Michelangelo.[^426]
 
 Two great men of genius of the first order, the marvelous artist,
-Michael Angelo, and the equally great poet, Dante, on canvas and in
+Michelangelo,[^427] and the equally great poet, Dante, on canvas and in
 verse, gathered at its culmination the nightmare of unbelief that had
-darkened the preceding centuries. In Dante are "Christian heroes
-appearing in heathenish aspect, and heathenish poets and thinkers
-half-warmed by the light of Christianity," a happy characterization of
-the hybrid product of truth and error that Dante describes, and that
-passed for Christianity during the Sixteenth Century, and with
-modifications, has since prevailed. The *Last Judgment* of Michael
-Angelo harmonizes with the thought of the great poet. It is a Pagan
-reminiscence --- a hideous heathen dream. The meek and lowly Man of
-Nazareth who would not break the bruised reed wad travestied by a
-monstrous caricature. "An unclothed, broad-shouldered hero, with arms
-upraised that could strike down a Hercules, distributing blessings and
-curses, his hair fluttering like flames which the storm blows back, and
-his angry countenance looking down on the condemned with frightful eyes,
-as if he wished to hasten forward the destruction in which his word has
-plunged them ... the whole figure recalls the words of Dante, in which
-he calls Christ *'Sommo Giove*,' --- the most-high Jupiter. This he is
-here; not the suffering Son of Man, gentle as the moon, silent rather
-than speaking, with the foreboding of his fate written in his sad eyes.
-Yet, if a Last Judgment were to be painted, with everlasting
-condemnation, and Christ as the judge who pronounces it, how could he
-appear otherwise than in such terribleness? ... Such is Michael
-Angelo\'s Last Judgment. While we cherish a feeling that at that day,
-whenever it occurs, the love of God will remit all sins as earthly
-error, the Roman sees alone anger and revenge, as proceeding from the
-Supreme Being, when he comes in contact with humanity for the last time.
-For the sinner is forever from henceforth to be condemned. It is an echo
-of the old idea, often enough recurring in the Old Testament, that the
-Divine Being is an angry and fearful power, which must be appeased,
-instead of the Source of good alone, abolishing at last all evil as an
-influence that has beguiled mankind.... As we look, however, at the Last
-Judgment on the wall of the Sistine Chapel, it is no longer a similitude
-to us, but a monument of the imaginative spirit of a past age and of a
-strange people, whose ideas are no longer ours. Dante created a new
-world for the Romanic nations by remodeling the forms of heathen
-antiquity for his Christian mythology."[^424]
+darkened the preceding centuries.
+
+In Dante are "Christian heroes appearing in heathenish aspect, and
+heathenish poets and thinkers half-warmed by the light of Christianity,"
+a happy characterization of the hybrid product of truth and error that
+Dante describes, and that passed for Christianity during the Sixteenth
+Century, and with modifications, has since prevailed.
+
+The *Last Judgment* of Michelangelo[^428] harmonizes with the thought of
+the great poet. It is a Pagan reminiscence --- a hideous heathen dream.
+The meek and lowly Man of Nazareth who would not break the bruised reed
+was travestied by a monstrous caricature.
+
+"An unclothed, broad-shouldered hero, with arms upraised that could
+strike down a Hercules, distributing blessings and curses, his hair
+fluttering like flames which the storm blows back, and his angry
+countenance looking down on the condemned with frightful eyes, as if he
+wished to hasten forward the destruction in which his word has plunged
+them ... the whole figure recalls the words of Dante, in which he calls
+Christ *'Sommo Giove*,' --- the most-high Jupiter. This he is here; not
+the suffering Son of Man, gentle as the moon, silent rather than
+speaking, with the foreboding of his fate written in his sad eyes. Yet,
+if a Last Judgment were to be painted, with everlasting condemnation,
+and Christ as the judge who pronounces it, how could he appear otherwise
+than in such terribleness? ... Such is Michelangelo\'s[^429] *Last
+Judgment*. While we cherish a feeling that at that day, whenever it
+occurs, the love of God will remit all sins as earthly error, the Roman
+sees alone anger and revenge, as proceeding from the Supreme Being, when
+he comes in contact with humanity for the last time. For the sinner is
+forever from henceforth to be condemned. It is an echo of the old idea,
+often enough recurring in the Old Testament, that the Divine Being is an
+angry and fearful power, which must be appeased, instead of the Source
+of good alone, abolishing at last all evil as an influence that has
+beguiled mankind.... As we look, however, at the Last Judgment on the
+wall of the Sistine Chapel, it is no longer a similitude to us, but a
+monument of the imaginative spirit of a past age and of a strange
+people, whose ideas are no longer ours. Dante created a new world for
+the Romanic nations by remodeling the forms of heathen antiquity for his
+Christian mythology."[^430]
 
 Materialistic, gross, was the Christianity that ruled and oppressed
 mankind for nearly a thousand years, and it is reflected in the pages of
-Dante, and on the canvas of Angelo, and it reverberates with ever
-decreasing echoes --- thank God! --- in the subsequent creeds of
+Dante, and on the canvas of Michelangelo,[^431] and it reverberates with
+ever decreasing echoes --- thank God! --- in the subsequent creeds of
 Christendom. Almost the only gleam of light that relieved while it
 intensified the blackness of the darkness of Christendom during those
 dreadful centuries was the worship of Mary.
@@ -8715,7 +8721,7 @@ regenerated Christendom.
 ## The Dawn of Truth.
 
 With the invention of printing, the dawn of light in the
-Reformation,[^425] and the increase of intelligence, our distinctive
+Reformation,[^432] and the increase of intelligence, our distinctive
 form of faith has not only grown and extended, but its leavening power
 has modified the creeds of Christendom, softening all harsh theories,
 and unfolding a "rose of dawn" in all Christian lands. Though, like its
@@ -8734,7 +8740,7 @@ seventeen hundred years ago. It is a rebirth, a restoration of
 Christianity to its primitive purity. As Max Muller has recently
 written: "If we want to be true and honest Christians, we must go back
 to those earliest ante-Nicene authorities, the true fathers of the
-church."[^426] This is being done by Christians in all branches of the
+church."[^433] This is being done by Christians in all branches of the
 church. The Bible, which the hands of ignorance has overwritten into a
 hideous palimpsest, is being read with something of its divine meaning,
 and as increasing light pours upon the sacred page, more and more men
@@ -8780,7 +8786,7 @@ discipline, chastisement, of indefinite, limited duration.
 
 \(5\) The early Christians taught that Christ preached the Gospel to the
 dead, and for that purpose descended into Hades. Many held that he
-released all who were held there.[^427] This shows that repentance
+released all who were held there.[^434] This shows that repentance
 beyond the grave, perpetual probation, was then accepted, which
 precludes the modern error that the soul\'s destiny is decided at death.
 
@@ -8858,7 +8864,7 @@ the Latins?
 restoration in an age of darkness, sin, and corruption. There was
 nothing to suggest it to them in the world's literature or religion. It
 was wholly contrary to everything around them. Where else could they
-have found it, but where they say they did, in the Gospel?[^428]
+have found it, but where they say they did, in the Gospel?[^435]
 
 \(23\) All ecclesiastical historians and the best Biblical critics and
 scholars agree to the prevalence of Universalism in the earlier
@@ -10579,20 +10585,34 @@ found below.
 
 [^422]: JW: Rev. S. S. Hebberd.
 
-[^423]: JW: Rev. S. Crane, D.D., in The Universalist.
+[^423]: DM: Original: "Michael Angelo."
 
-[^424]: JW: Grimm's Michael Angelo.
+[^424]: DM: Original: "Angelo."
 
-[^425]: JW: "In Germany alone, in six years from the promulgation of the
+[^425]: JW: Rev. S. Crane, D.D., in The Universalist.
+
+[^426]: DM: Original: "Angelo."
+
+[^427]: DM: Original: "Michael Angelo."
+
+[^428]: DM: Original: "Michael Angelo."
+
+[^429]: DM: Original: "Michael Angelo."
+
+[^430]: JW: Grimm's Michael Angelo.
+
+[^431]: DM: Original: "Angelo."
+
+[^432]: JW: "In Germany alone, in six years from the promulgation of the
     ninety-five theses at Wittenberg, the number of annual publications
-    increased twelvefold." Rev. W. W. Ramsay, Methodism and Literature,
-    pg. 232.
+    increased twelvefold." Rev. W. W. Ramsay, *Methodism and
+    Literature*, pg. 232.
 
-[^426]: JW: Paper read at the World's Parliament of Religions, Chicago,
+[^433]: JW: Paper read at the World's Parliament of Religions, Chicago,
     September, 1893.
 
-[^427]: DM: Original: "in ward."
+[^434]: DM: Original: "in ward."
 
-[^428]: DM: At some juncture Hanson seemed to imply that perhaps Greek
+[^435]: DM: At some juncture Hanson seemed to imply that perhaps Greek
     philosophy also taught universal reconciliation...need to look into
     this further.
