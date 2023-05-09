@@ -9537,7 +9537,7 @@ first fruits and give them to the prophets. 7 Indeed, of money, clothes,
 and of all your possessions, take such first fruits as you think right,
 and give in accordance with the precept.
 
-# Chapter 14 {#chapter-14 .unnumbered}
+## Chapter 14 {#chapter-14 .unnumbered}
 
 1 On every Lord\'s Day---his special day[^493]---come together and break
 bread and give thanks, first confessing your sins so that your sacrifice
@@ -9583,6 +9583,25 @@ blast,\"[^503] and thirdly the resurrection of the dead, though not of
 all the dead, 7 but as it has been said: \"The Lord will come and all
 his saints with him. Then the world will see the Lord coming on the
 clouds of the sky.\"[^504]
+
+# Appendix E. The Nicene Creed. {#appendix-e.-the-nicene-creed. .unnumbered}
+
+The Nicene Creed is here provided as found in Philip Schaff's Creeds of
+Christendom Volume I.[^505]
+
+We believe in one God, the Father Almighty, Maker of all things visible
+and invisible.
+
+And in one Lord Jesus Christ, the Son of God, begotten of the Father
+\[the only-begotten; that is, of the essence of the Father, God of
+God\], Light of Light, very God of very God, begotten, not made, being
+of one substance (homoousion) with the Father; by whom all things were
+made \[both in heaven and on earth\]; who for us men, and for our
+salvation, came down and was incarnate and was made man; he suffered,
+and the third day he rose again, ascended into heaven; from thence he
+shall come to judge the quick and the dead.
+
+And in the Holy Ghost.
 
 # Appendix Y. What Has Changed? {#appendix-y.-what-has-changed .unnumbered}
 
@@ -9635,6 +9654,10 @@ through the 19^th^ century.
 
     -   Addition of The Teaching of the Twelve Apostles in full as an
         appendix.
+
+    -   Addition of the Nicene Creed in full as an appendix.
+
+    -   Reformatting to use Arial instead of Bookman for font.
 
     -   Minor additional notes to Apostle's Creed, update bibliography.
 
@@ -11133,3 +11156,9 @@ found below.
 [^503]: CR: Matthew 24:31.
 
 [^504]: CR: Zechariah 14:5; 1 Thessalonians 3:13; Matthew 24:30.
+
+[^505]: DM: Multiple versions of the text are given by Schaff, in this
+    case we are utilizing the earlier 325 AD text, although the latter
+    380 AD does not differ regarding the future fate of unbelievers from
+    that of the 325 AD text. One can find the full text of Schaff's work
+    on the CCEL: https://ccel.org/ccel/schaff/creeds1/creeds1
