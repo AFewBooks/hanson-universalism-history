@@ -18,7 +18,7 @@ Copyright © 1899 Universalist Publishing House.
 Copyright © 2013, 2014, 2021, 2022, 2023 by David Mackey. All Rights
 Reserved.
 
-Version: 0.4.2 5/22/2023
+Version: 0.4.3 5/25/2023
 
 # Table of Contents {#table-of-contents .unnumbered}
 
@@ -9702,6 +9702,10 @@ survey of Christianity's struggle over universalism in early history
 through the 19^th^ century.
 
 ## Release Notes {#release-notes .unnumbered}
+
+-   5/2023 -- 0.4.3
+
+    -   Generate a PDF version of book.
 
 -   5/2023 -- 0.4.2
 
