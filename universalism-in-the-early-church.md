@@ -3,7 +3,7 @@ FIRST FIVE HUNDRED YEARS
 
 With Authorities and Extracts
 
-By J. W. HANSON, D. D.[^1]
+By John Wesley Hanson, D. D.[^1]
 
 Edited and Expanded by David Mackey.
 
